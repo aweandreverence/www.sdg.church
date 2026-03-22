@@ -1,0 +1,176 @@
+{
+  "testimonies": [
+    {
+      "id": "testimony-1",
+      "videoId": "yzqTFNfeDnE",
+      "title": "From Atheism to Faith in Christ",
+      "description": "A powerful testimony of how God drew a committed atheist to saving faith through the preaching of the gospel.",
+      "tags": ["conversion", "atheism", "grace"]
+    },
+    {
+      "id": "testimony-2",
+      "videoId": "6LsWRJbJn1o",
+      "title": "Rescued from the Darkness",
+      "description": "How the light of the gospel broke through years of addiction and despair, leading to new life in Jesus Christ.",
+      "tags": ["deliverance", "addiction", "new-life"]
+    },
+    {
+      "id": "testimony-3",
+      "videoId": "hFpJnSFJKfQ",
+      "title": "A Muslim's Journey to Christ",
+      "description": "A former Muslim shares how studying the Bible and encountering Jesus transformed everything.",
+      "tags": ["conversion", "islam", "scripture"]
+    },
+    {
+      "id": "testimony-4",
+      "videoId": "Ofg_SMYnEkI",
+      "title": "Finding Hope in the Midst of Suffering",
+      "description": "Through unimaginable suffering, God revealed His sovereign love and the hope of the gospel.",
+      "tags": ["suffering", "hope", "sovereignty"]
+    }
+  ],
+  "scripture": [
+    {
+      "reference": "Romans 3:23",
+      "text": "For all have sinned and fall short of the glory of God.",
+      "theme": "sin",
+      "order": 1
+    },
+    {
+      "reference": "Romans 6:23",
+      "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+      "theme": "sin",
+      "order": 2
+    },
+    {
+      "reference": "Romans 5:8",
+      "text": "But God shows his love for us in that while we were still sinners, Christ died for us.",
+      "theme": "grace",
+      "order": 3
+    },
+    {
+      "reference": "John 3:16",
+      "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+      "theme": "gospel",
+      "order": 4
+    },
+    {
+      "reference": "Ephesians 2:8-9",
+      "text": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.",
+      "theme": "grace",
+      "order": 5
+    },
+    {
+      "reference": "Acts 3:19",
+      "text": "Repent therefore, and turn back, that your sins may be blotted out.",
+      "theme": "repentance",
+      "order": 6
+    },
+    {
+      "reference": "2 Corinthians 5:17",
+      "text": "Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.",
+      "theme": "new-life",
+      "order": 7
+    },
+    {
+      "reference": "Romans 10:9",
+      "text": "Because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.",
+      "theme": "salvation",
+      "order": 8
+    },
+    {
+      "reference": "Isaiah 53:5",
+      "text": "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.",
+      "theme": "gospel",
+      "order": 9
+    },
+    {
+      "reference": "John 14:6",
+      "text": "Jesus said to him, \"I am the way, and the truth, and the life. No one comes to the Father except through me.\"",
+      "theme": "salvation",
+      "order": 10
+    },
+    {
+      "reference": "Romans 8:1",
+      "text": "There is therefore now no condemnation for those who are in Christ Jesus.",
+      "theme": "grace",
+      "order": 11
+    },
+    {
+      "reference": "Luke 13:3",
+      "text": "No, I tell you; but unless you repent, you will all likewise perish.",
+      "theme": "repentance",
+      "order": 12
+    },
+    {
+      "reference": "1 John 1:9",
+      "text": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+      "theme": "repentance",
+      "order": 13
+    },
+    {
+      "reference": "Titus 3:5",
+      "text": "He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit.",
+      "theme": "grace",
+      "order": 14
+    }
+  ],
+  "gospel": {
+    "sections": [
+      {
+        "title": "God Is Holy",
+        "content": "The God who made the universe is perfectly holy, righteous, and just. He created us to know Him and to glorify Him forever. \"Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory!\" (Isaiah 6:3)",
+        "icon": "crown"
+      },
+      {
+        "title": "We Are Sinful",
+        "content": "Every human being has rebelled against God. We have broken His commands in thought, word, and deed. Our sin separates us from a holy God and earns us His righteous judgment. \"For all have sinned and fall short of the glory of God.\" (Romans 3:23)",
+        "icon": "heart-crack"
+      },
+      {
+        "title": "Christ Is the Savior",
+        "content": "God, in His great love, sent His only Son Jesus Christ to live the perfect life we couldn't live and to die the death we deserved. On the cross, Jesus bore the full wrath of God for sinners. Three days later, He rose from the dead, conquering sin and death forever. \"But God shows his love for us in that while we were still sinners, Christ died for us.\" (Romans 5:8)",
+        "icon": "cross"
+      },
+      {
+        "title": "Repent and Believe",
+        "content": "God commands everyone everywhere to repent — to turn from sin and turn to Him. Salvation is received by grace alone, through faith alone, in Christ alone. It is not earned by good works but freely given to all who trust in Jesus. \"Repent and believe in the gospel.\" (Mark 1:15)",
+        "icon": "rotate-left"
+      }
+    ]
+  },
+  "videos": [
+    {
+      "id": "testimony-1",
+      "videoId": "yzqTFNfeDnE",
+      "title": "From Atheism to Faith in Christ",
+      "description": "A powerful testimony of how God drew a committed atheist to saving faith through the preaching of the gospel.",
+      "tags": ["conversion", "atheism", "grace"],
+      "type": "testimony"
+    },
+    {
+      "id": "testimony-2",
+      "videoId": "6LsWRJbJn1o",
+      "title": "Rescued from the Darkness",
+      "description": "How the light of the gospel broke through years of addiction and despair, leading to new life in Jesus Christ.",
+      "tags": ["deliverance", "addiction", "new-life"],
+      "type": "testimony"
+    },
+    {
+      "id": "testimony-3",
+      "videoId": "hFpJnSFJKfQ",
+      "title": "A Muslim's Journey to Christ",
+      "description": "A former Muslim shares how studying the Bible and encountering Jesus transformed everything.",
+      "tags": ["conversion", "islam", "scripture"],
+      "type": "testimony"
+    },
+    {
+      "id": "testimony-4",
+      "videoId": "Ofg_SMYnEkI",
+      "title": "Finding Hope in the Midst of Suffering",
+      "description": "Through unimaginable suffering, God revealed His sovereign love and the hope of the gospel.",
+      "tags": ["suffering", "hope", "sovereignty"],
+      "type": "testimony"
+    }
+  ]
+}

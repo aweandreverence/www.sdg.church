@@ -1,0 +1,36 @@
+$gold: #c9a84c;
+$gold-light: #e8d48b;
+$dark-bg: #1a1a2e;
+$dark-surface: #16213e;
+$dark-card: #0f3460;
+$text-light: #e8e8e8;
+$text-muted: #a0a0a0;
+
+body {
+  background-color: $dark-bg;
+  color: $text-light;
+  font-family: 'Inter', sans-serif;
+}
+
+a {
+  color: $gold;
+  text-decoration: none;
+
+  &:hover {
+    color: $gold-light;
+  }
+}
+
+.navbar-dark {
+  background-color: rgba(0, 0, 0, 0.85) !important;
+}
+
+.bg-dark {
+  background-color: $dark-surface !important;
+}
+
+.badge.bg-secondary {
+  background-color: $dark-card !important;
+  color: $gold-light;
+  font-weight: 400;
+}
