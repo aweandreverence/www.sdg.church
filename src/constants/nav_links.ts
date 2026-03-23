@@ -2,4 +2,5 @@ export const NAV_LINKS = [
   { name: 'The Gospel', url: '/gospel' },
   { name: 'Testimonies', url: '/testimonies' },
   { name: 'Scripture', url: '/scripture' },
+  { name: 'A Call to Repentance', url: '/repentance' },
 ];
