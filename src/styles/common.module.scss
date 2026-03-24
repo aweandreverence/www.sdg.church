@@ -4,9 +4,13 @@ $dark-bg: #1a1a2e;
 $dark-surface: #16213e;
 $dark-card: #0f3460;
 
+/* ───────────────────────────────────────────
+   Hero — The Overture
+   ─────────────────────────────────────────── */
+
 .hero {
   position: relative;
-  height: 70vh;
+  min-height: 90vh;
   background-image: url('https://images.unsplash.com/photo-1507692049790-de58290a4334?q=80&w=1770&auto=format&fit=crop');
   background-size: cover;
   background-position: center;
@@ -16,25 +20,7 @@ $dark-card: #0f3460;
   align-items: center;
   color: white;
   text-align: center;
-
-  h1 {
-    font-size: 4rem;
-    font-weight: 200;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    z-index: 2;
-    color: #fff;
-    font-family: 'Inter', sans-serif;
-  }
-
-  p {
-    font-size: 1.3rem;
-    font-weight: 300;
-    z-index: 2;
-    color: rgba(255, 255, 255, 0.9);
-    max-width: 600px;
-    margin-top: 1rem;
-  }
+  padding: 2rem;
 }
 
 .hero::before {
@@ -44,19 +30,131 @@ $dark-card: #0f3460;
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.7) 0%,
+    rgba(26, 26, 46, 0.85) 100%
+  );
   z-index: 1;
 }
+
+.hero > * {
+  position: relative;
+  z-index: 2;
+}
+
+.heroTitle {
+  font-size: 4.5rem;
+  font-weight: 300;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #fff;
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  margin-bottom: 0.25rem;
+
+  @media (max-width: 768px) {
+    font-size: 2.5rem;
+    letter-spacing: 0.1em;
+  }
+}
+
+.heroSubtitle {
+  font-size: 1.4rem;
+  font-weight: 300;
+  color: $gold-light;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 2.5rem;
+  font-family: 'Inter', sans-serif;
+
+  @media (max-width: 768px) {
+    font-size: 1rem;
+  }
+}
+
+.heroVerse {
+  max-width: 700px;
+  margin: 0 auto;
+  border-top: 1px solid rgba(201, 168, 76, 0.3);
+  border-bottom: 1px solid rgba(201, 168, 76, 0.3);
+  padding: 2rem 1rem;
+
+  p {
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    font-size: 1.2rem;
+    font-style: italic;
+    line-height: 1.9;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 0.75rem;
+  }
+}
+
+.heroRef {
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.6);
+  font-style: normal;
+}
+
+.heroRefLink {
+  color: $gold-light !important;
+
+  &:hover {
+    color: #fff !important;
+  }
+}
+
+/* ───────────────────────────────────────────
+   Movement Labels
+   ─────────────────────────────────────────── */
+
+.movementLabel {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: $gold;
+  margin-bottom: 0.5rem;
+}
+
+.movementSection {
+  margin-bottom: 4rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.15);
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+}
+
+.movementTitle {
+  color: $gold;
+  font-weight: 300;
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+
+  .movementLabel {
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+}
+
+/* ───────────────────────────────────────────
+   Page Header
+   ─────────────────────────────────────────── */
 
 .pageHeader {
   text-align: center;
   padding: 3rem 0 2rem;
 
-  h1 {
+  h1,
+  h2 {
     font-size: 2.5rem;
-    font-weight: 200;
-    letter-spacing: 0.1em;
+    font-weight: 300;
+    letter-spacing: 0.05em;
     color: $gold;
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
   }
 
   p {
@@ -66,6 +164,23 @@ $dark-card: #0f3460;
     margin: 1rem auto 0;
   }
 }
+
+.headerSubtitle {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-style: italic;
+  font-size: 1.15rem !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+  line-height: 1.8;
+}
+
+.refLink {
+  color: $gold-light !important;
+  font-style: normal;
+}
+
+/* ───────────────────────────────────────────
+   Video Grid
+   ─────────────────────────────────────────── */
 
 .videoGrid {
   display: grid;
@@ -100,6 +215,10 @@ $dark-card: #0f3460;
   }
 }
 
+/* ───────────────────────────────────────────
+   Scripture
+   ─────────────────────────────────────────── */
+
 .scriptureCard {
   background-color: $dark-surface;
   border: 1px solid rgba(201, 168, 76, 0.2);
@@ -112,11 +231,60 @@ $dark-card: #0f3460;
 }
 
 .scriptureText {
-  font-size: 1.2rem;
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.25rem;
   font-style: italic;
   color: rgba(255, 255, 255, 0.9);
   line-height: 1.8;
 }
+
+.scriptureQuote {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.25rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.9;
+  border-left: 3px solid $gold;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+/* ───────────────────────────────────────────
+   Passage blocks (Repentance page)
+   ─────────────────────────────────────────── */
+
+.passageBlock {
+  margin-bottom: 2.5rem;
+
+  h3 {
+    color: $gold-light;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
+  }
+}
+
+.passageRef {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-style: normal;
+  margin-bottom: 1rem;
+
+  a {
+    color: $gold !important;
+  }
+}
+
+.commentary {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+/* ───────────────────────────────────────────
+   Gospel Page
+   ─────────────────────────────────────────── */
 
 .gospelSection {
   background-color: $dark-surface;
@@ -128,9 +296,10 @@ $dark-card: #0f3460;
 
   h3 {
     color: $gold;
-    font-weight: 300;
-    letter-spacing: 0.05em;
+    font-weight: 400;
+    letter-spacing: 0.03em;
     margin-bottom: 1rem;
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
   }
 
   p {
@@ -148,15 +317,20 @@ $dark-card: #0f3460;
   margin-bottom: 1rem;
 }
 
+/* ───────────────────────────────────────────
+   CTA
+   ─────────────────────────────────────────── */
+
 .ctaSection {
   text-align: center;
   padding: 4rem 0;
 
   h2 {
     color: $gold;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 2rem;
     margin-bottom: 1rem;
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
   }
 
   p {
@@ -176,12 +350,17 @@ $dark-card: #0f3460;
   font-weight: 500;
   text-decoration: none;
   transition: background-color 0.2s ease;
+  font-family: 'Inter', sans-serif;
 
   &:hover {
     background-color: $gold-light;
     color: $dark-bg;
   }
 }
+
+/* ───────────────────────────────────────────
+   Video Detail
+   ─────────────────────────────────────────── */
 
 .videoEmbed {
   position: relative;
@@ -207,6 +386,7 @@ $dark-card: #0f3460;
     color: $gold;
     font-weight: 300;
     margin-bottom: 1rem;
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
   }
 
   p {
@@ -216,6 +396,10 @@ $dark-card: #0f3460;
   }
 }
 
+/* ───────────────────────────────────────────
+   Home Intro
+   ─────────────────────────────────────────── */
+
 .homeIntro {
   text-align: center;
   padding: 4rem 2rem;
@@ -224,9 +408,10 @@ $dark-card: #0f3460;
 
   h2 {
     color: $gold;
-    font-weight: 200;
-    font-size: 2rem;
+    font-weight: 300;
+    font-size: 2.2rem;
     margin-bottom: 1.5rem;
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
   }
 
   p {
@@ -234,4 +419,42 @@ $dark-card: #0f3460;
     font-size: 1.15rem;
     line-height: 1.8;
   }
+}
+
+.sdgExplanation {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* ───────────────────────────────────────────
+   Urgency Banner (homepage)
+   ─────────────────────────────────────────── */
+
+.urgencyBanner {
+  background-color: $dark-surface;
+  border-top: 1px solid rgba(201, 168, 76, 0.15);
+  border-bottom: 1px solid rgba(201, 168, 76, 0.15);
+  padding: 4rem 0;
+
+  h2 {
+    color: $gold;
+    font-weight: 300;
+    font-size: 2rem;
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.bannerQuote {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.3rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.8;
+  max-width: 600px;
+  margin: 0 auto 0.75rem;
+}
+
+.urgencyText {
+  color: rgba(255, 255, 255, 0.7) !important;
+  margin-bottom: 2rem !important;
 }
