@@ -84,15 +84,33 @@ $dark-card: #0f3460;
     font-size: 1.2rem;
     font-style: italic;
     line-height: 1.9;
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 0.95);
     margin-bottom: 0.75rem;
   }
 }
 
 .heroRef {
   font-size: 0.95rem;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.5);
   font-style: normal;
+}
+
+.heroCta {
+  display: inline-block;
+  margin-top: 2rem;
+  background-color: #c9a84c;
+  color: #1a1a2e;
+  padding: 0.75rem 2rem;
+  border-radius: 4px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: #b8963e;
+    color: #1a1a2e;
+  }
 }
 
 .heroRefLink {
@@ -169,7 +187,7 @@ $dark-card: #0f3460;
   font-family: 'Cormorant Garamond', 'Georgia', serif;
   font-style: italic;
   font-size: 1.15rem !important;
-  color: rgba(255, 255, 255, 0.8) !important;
+  color: rgba(255, 255, 255, 0.7) !important;
   line-height: 1.8;
 }
 
@@ -234,7 +252,7 @@ $dark-card: #0f3460;
   font-family: 'Cormorant Garamond', 'Georgia', serif;
   font-size: 1.25rem;
   font-style: italic;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
   line-height: 1.8;
 }
 
@@ -242,7 +260,7 @@ $dark-card: #0f3460;
   font-family: 'Cormorant Garamond', 'Georgia', serif;
   font-size: 1.25rem;
   font-style: italic;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
   line-height: 1.9;
   border-left: 3px solid $gold;
   padding-left: 1.5rem;
@@ -277,7 +295,7 @@ $dark-card: #0f3460;
 }
 
 .commentary {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.7);
   font-size: 1.05rem;
   line-height: 1.8;
 }
@@ -303,7 +321,7 @@ $dark-card: #0f3460;
   }
 
   p {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.7);
     font-size: 1.05rem;
     line-height: 1.8;
     max-width: 700px;
@@ -415,7 +433,7 @@ $dark-card: #0f3460;
   }
 
   p {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.7);
     font-size: 1.15rem;
     line-height: 1.8;
   }
@@ -448,7 +466,7 @@ $dark-card: #0f3460;
   font-family: 'Cormorant Garamond', 'Georgia', serif;
   font-size: 1.3rem;
   font-style: italic;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
   line-height: 1.8;
   max-width: 600px;
   margin: 0 auto 0.75rem;
@@ -516,7 +534,7 @@ $dark-card: #0f3460;
 }
 
 .personTitle {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.7);
   font-size: 1rem;
   font-weight: 500;
   margin-bottom: 0;
@@ -528,7 +546,7 @@ $dark-card: #0f3460;
 
 .personBio {
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
 }
 
 .faithSection {
@@ -549,7 +567,7 @@ $dark-card: #0f3460;
 }
 
 .faithDescription {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
   font-style: italic;
   margin-bottom: 0;
   line-height: 1.7;
@@ -591,11 +609,11 @@ $dark-card: #0f3460;
 }
 
 .sourceTitle {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .sourceNote {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.5);
   font-style: italic;
 }
 
@@ -665,13 +683,13 @@ $dark-card: #0f3460;
   font-family: 'Cormorant Garamond', 'Georgia', serif;
   font-size: 1.15rem;
   font-weight: 600;
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
   margin: 0 0 0.25rem;
 }
 
 .legendCategoryDesc {
   font-size: 0.8rem;
-  color: rgba(255, 255, 255, 0.45);
+  color: rgba(255, 255, 255, 0.5);
   margin: 0 0 0.75rem;
   line-height: 1.4;
 }
@@ -708,7 +726,7 @@ $dark-card: #0f3460;
 
 .legendChipName {
   font-size: 0.8rem;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.7);
   white-space: nowrap;
 }
 
@@ -801,7 +819,7 @@ $dark-card: #0f3460;
 }
 
 .bioCardTagline {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.7);
   font-size: 0.95rem;
   line-height: 1.5;
   margin-bottom: 0;
@@ -898,14 +916,14 @@ $dark-card: #0f3460;
 }
 
 .bioDetailYears {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.5);
   font-size: 1.1rem;
   font-style: italic;
   margin-bottom: 0.25rem;
 }
 
 .bioDetailTitle {
-  color: rgba(255, 255, 255, 0.85);
+  color: rgba(255, 255, 255, 0.95);
   font-size: 1.15rem;
   font-weight: 500;
   margin-bottom: 0.75rem;
@@ -938,7 +956,7 @@ $dark-card: #0f3460;
 }
 
 .bioDetailText {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.95);
   font-size: 1.1rem;
   line-height: 1.8;
 }

@@ -45,6 +45,7 @@ export default function RootLayout({
         />
       </head>
       <body>
+        <a href="#main-content" className="skip-link">Skip to content</a>
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_ANALYTICS_TRACKING_ID}`}
           strategy="afterInteractive"
@@ -59,7 +60,7 @@ export default function RootLayout({
         </Script>
         <div className="vh-100 d-flex flex-column">
           <Header />
-          <main className="flex-grow-1">{children}</main>
+          <main id="main-content" className="flex-grow-1">{children}</main>
           <Footer />
           <BootstrapClient />
           <Script src="https://awesome.bible/manna.js" strategy="afterInteractive" />
