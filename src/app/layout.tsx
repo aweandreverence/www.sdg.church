@@ -62,6 +62,7 @@ export default function RootLayout({
           <main className="flex-grow-1">{children}</main>
           <Footer />
           <BootstrapClient />
+          <Script src="https://awesome.bible/manna.js" strategy="afterInteractive" />
         </div>
       </body>
     </html>

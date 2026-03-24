@@ -458,3 +458,153 @@ $dark-card: #0f3460;
   color: rgba(255, 255, 255, 0.7) !important;
   margin-bottom: 2rem !important;
 }
+
+/* ───────────────────────────────────────────
+   Biographies
+   ─────────────────────────────────────────── */
+
+.subcategorySection {
+  margin-bottom: 3rem;
+}
+
+.subcategoryTitle {
+  color: $gold;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid $gold;
+  padding-bottom: 0.5rem;
+}
+
+.peopleGrid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+}
+
+.personCard {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(201, 168, 76, 0.2);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    border-color: rgba(201, 168, 76, 0.4);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.personHeader {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.2);
+}
+
+.personName {
+  color: $gold;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.personYears {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+  font-style: italic;
+}
+
+.personTitle {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.personContent {
+  line-height: 1.6;
+}
+
+.personBio {
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.faithSection {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: rgba(201, 168, 76, 0.1);
+  border-left: 3px solid $gold;
+  border-radius: 4px;
+}
+
+.faithTitle {
+  color: $gold;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+.faithDescription {
+  color: rgba(255, 255, 255, 0.9);
+  font-style: italic;
+  margin-bottom: 0;
+  line-height: 1.7;
+}
+
+.sourcesSection {
+  margin-top: 1rem;
+}
+
+.sourcesTitle {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.5rem;
+}
+
+.sourcesList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sourceItem {
+  margin-bottom: 0.25rem;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.sourceLink {
+  color: $gold-light;
+  text-decoration: none;
+  
+  &:hover {
+    color: $gold;
+    text-decoration: underline;
+  }
+}
+
+.sourceTitle {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.sourceNote {
+  color: rgba(255, 255, 255, 0.6);
+  font-style: italic;
+}
+
+@media (max-width: 576px) {
+  .peopleGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .personCard {
+    padding: 1rem;
+  }
+}

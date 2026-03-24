@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import { BibleRef } from '@/components/BibleRef';
 import { buildTitle } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
 
@@ -18,7 +17,7 @@ export default function RepentancePage() {
           &ldquo;Behold, now is the acceptable time; behold, now is the day of
           salvation.&rdquo;
           <br />
-          <BibleRef reference="2 Corinthians 6:2" className={styles.refLink} />
+          2 Corinthians 6:2
         </p>
       </div>
 
@@ -38,7 +37,7 @@ export default function RepentancePage() {
                 is day; night is coming when no one can work.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="John 9:4" />
+                — John 9:4
               </p>
               <p className={styles.commentary}>
                 Jesus spoke with urgency. The window of opportunity is open
@@ -55,7 +54,7 @@ export default function RepentancePage() {
                 down and thrown into the fire.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Matthew 3:10" />
+                — Matthew 3:10
               </p>
               <p className={styles.commentary}>
                 John the Baptist proclaimed this warning to prepare the way for
@@ -67,8 +66,7 @@ export default function RepentancePage() {
             <div className={styles.passageBlock}>
               <h3>The Rich Man and Lazarus</h3>
               <p className={styles.commentary}>
-                In{' '}
-                <BibleRef reference="Luke 16:19-31" />,
+                In Luke 16:19-31,
                 Jesus tells of a rich man who lived in luxury while a beggar
                 named Lazarus lay at his gate. Both died. Lazarus was carried to
                 Abraham&apos;s side; the rich man found himself in torment. From
@@ -85,7 +83,7 @@ export default function RepentancePage() {
                 even if someone rises from the dead.&rsquo;&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Luke 16:29-31" />
+                — Luke 16:29-31
               </p>
               <p className={styles.commentary}>
                 There are no second chances after death. There is no crossing
@@ -110,7 +108,7 @@ export default function RepentancePage() {
                 works, so that no one may boast.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Ephesians 2:8-9" />
+                — Ephesians 2:8-9
               </p>
             </div>
 
@@ -120,7 +118,7 @@ export default function RepentancePage() {
                 is eternal life in Christ Jesus our Lord.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Romans 6:23" />
+                — Romans 6:23
               </p>
             </div>
 
@@ -129,9 +127,7 @@ export default function RepentancePage() {
               righteous — it is a rescue for the helpless. God offers
               forgiveness freely to all who will receive it by faith. This is
               the stunning generosity of the gospel: while we were still
-              sinners, Christ died for us (
-              <BibleRef reference="Romans 5:8" />
-              ).
+              sinners, Christ died for us (Romans 5:8).
             </p>
           </section>
 
@@ -156,7 +152,7 @@ export default function RepentancePage() {
                 save it.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Mark 8:35" />
+                — Mark 8:35
               </p>
             </div>
 
@@ -166,7 +162,7 @@ export default function RepentancePage() {
                 give up all his own possessions.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Luke 14:33" />
+                — Luke 14:33
               </p>
             </div>
 
@@ -177,7 +173,7 @@ export default function RepentancePage() {
                 does the will of My Father who is in heaven will enter.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Matthew 7:21" />
+                — Matthew 7:21
               </p>
             </div>
           </section>
@@ -202,7 +198,7 @@ export default function RepentancePage() {
                 will be saved.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="Romans 10:9" />
+                — Romans 10:9
               </p>
             </div>
 
@@ -212,7 +208,7 @@ export default function RepentancePage() {
                 itself.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="James 2:17" />
+                — James 2:17
               </p>
             </div>
 
@@ -222,7 +218,7 @@ export default function RepentancePage() {
                 commandments.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="John 14:15" />
+                — John 14:15
               </p>
             </div>
 
@@ -232,7 +228,7 @@ export default function RepentancePage() {
               grace and holiness by the power of the Holy Spirit. The God who
               saves you is the God who keeps you, transforms you, and will
               one day present you blameless before His throne with great joy
-              (<BibleRef reference="Jude 1:24" />).
+              (Jude 1:24).
             </p>
           </section>
 
@@ -246,7 +242,7 @@ export default function RepentancePage() {
               souls.&rdquo;
             </blockquote>
             <p className={styles.passageRef}>
-              — <BibleRef reference="Matthew 11:28-29" />
+              — Matthew 11:28-29
             </p>
             <p>
               If you hear His voice today, do not harden your heart. Turn
