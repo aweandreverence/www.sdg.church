@@ -751,7 +751,7 @@ $dark-card: #0f3460;
 
 .bioCardImageWrap {
   width: 100%;
-  height: 220px;
+  aspect-ratio: 3 / 4;
   overflow: hidden;
   background: $dark-surface;
 }
@@ -760,7 +760,7 @@ $dark-card: #0f3460;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: top center;
+  object-position: center 20%;
 }
 
 .bioCardPlaceholder {

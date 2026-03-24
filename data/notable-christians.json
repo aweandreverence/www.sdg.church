@@ -1330,6 +1330,94 @@
               "image": ""
             },
             {
+              "name": "Nate Saint",
+              "slug": "nate-saint",
+              "years": "August 30, 1923 – January 8, 1956",
+              "title": "Missionary Pilot & Martyr",
+              "tagline": "Missionary pilot martyred alongside Jim Elliot — his son Steve later befriended the very tribe that killed his father",
+              "bio": "Nate Saint was an American missionary pilot who served with Mission Aviation Fellowship (MAF) in Ecuador. A gifted inventor, he developed the 'bucket drop' technique to safely deliver gifts to unreached tribes from the air. He was part of Operation Auca, the effort to make contact with the isolated Waorani (Auca) people. On January 8, 1956, he and four companions — Jim Elliot, Ed McCully, Pete Fleming, and Roger Youderian — were killed by Waorani warriors on a sandbar along the Curaray River. His son Steve later lived among the Waorani and was baptized by the very men who had killed his father.",
+              "faith": "Saint's faith drove him to risk his life bringing the gospel to unreached peoples. His inventive use of aviation technology in missionary service demonstrated a practical, resourceful faith. The remarkable sequel to his martyrdom — his son Steve's reconciliation with the Waorani and the eventual conversion of many in the tribe — stands as one of the most powerful testimonies of forgiveness and redemption in modern missions history.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Jungle Pilot",
+                  "url": "",
+                  "note": "By Russell Hitt. Biography of Nate Saint's missionary aviation work"
+                },
+                {
+                  "type": "book",
+                  "title": "End of the Spear",
+                  "url": "",
+                  "note": "By Steve Saint. His son's account of reconciliation with the Waorani"
+                }
+              ]
+            },
+            {
+              "name": "Ed McCully",
+              "slug": "ed-mccully",
+              "years": "1927 – January 8, 1956",
+              "title": "Missionary & Martyr",
+              "tagline": "Gave up a promising legal career to bring the gospel to Ecuador — martyred at age 28",
+              "bio": "Ed McCully was an American missionary who gave up a promising career as an attorney and orator to serve in Ecuador with the Plymouth Brethren. A former college football star and championship orator at Wheaton College, McCully felt called to missions after hearing Jim Elliot speak. He and his wife Marilou served the Quichua people before joining Operation Auca. He was among the five missionaries killed by Waorani warriors on January 8, 1956.",
+              "faith": "McCully's conversion from worldly ambition to missionary service exemplifies the radical call of the gospel. He wrote to Jim Elliot: 'I have one desire now — to live a life of reckless abandon for the Lord, putting all my energy and strength into it.' His willingness to leave behind comfort, career, and ultimately his life for the sake of unreached peoples reflects the costly discipleship Jesus described.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Through Gates of Splendor",
+                  "url": "",
+                  "note": "By Elisabeth Elliot. The definitive account of Operation Auca"
+                }
+              ]
+            },
+            {
+              "name": "Pete Fleming",
+              "slug": "pete-fleming",
+              "years": "1928 – January 8, 1956",
+              "title": "Missionary Linguist & Martyr",
+              "tagline": "Linguist and scholar who chose the mission field over academia — martyred bringing the gospel to the Waorani",
+              "bio": "Pete Fleming was an American missionary and linguist who served in Ecuador. A graduate of the University of Washington with a master's degree in literature, Fleming had a gift for languages and was instrumental in early attempts to learn the Waorani language. He married Olive Ainslie in Ecuador, and together they served among the Quichua people. His linguistic skills were vital to Operation Auca's efforts to communicate with the isolated Waorani. He was killed alongside his four companions on January 8, 1956.",
+              "faith": "Fleming wrestled deeply with God's call on his life, recording his spiritual journey in detailed journals. He wrote: 'I am not afraid of death. I am afraid of not living.' His decision to pursue missions over an academic career reflected a conviction that the gospel of Jesus Christ was the most important message the world could hear. His careful, scholarly approach to missionary work modeled the integration of intellectual gifts and gospel passion.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Through Gates of Splendor",
+                  "url": "",
+                  "note": "By Elisabeth Elliot. Includes Pete Fleming's story"
+                }
+              ]
+            },
+            {
+              "name": "Roger Youderian",
+              "slug": "roger-youderian",
+              "years": "June 3, 1924 – January 8, 1956",
+              "title": "Missionary & Martyr",
+              "tagline": "WWII paratrooper and Purple Heart recipient who gave his life as a missionary to the Waorani",
+              "bio": "Roger Youderian was an American missionary and decorated World War II veteran who served with the Jívaro (Shuar) people in Ecuador. A paratrooper who fought in the Battle of the Bulge and received the Purple Heart, Youderian brought the same courage and discipline to the mission field. He struggled with discouragement in his work among the Jívaro before being invited to join Operation Auca. He initially hesitated, feeling unworthy, but ultimately joined the team. He was killed with his four companions on January 8, 1956.",
+              "faith": "Youderian's faith was forged in the fires of combat and refined through seasons of missionary discouragement. His journal entries reveal a man who honestly wrestled with feelings of failure and inadequacy, yet continually returned to trust in God's sovereignty. His decision to join Operation Auca came after a spiritual breakthrough. He wrote in his journal the night before the fatal contact: 'I am called and I must go.' His story reminds us that God uses broken, doubting people for His greatest purposes.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Through Gates of Splendor",
+                  "url": "",
+                  "note": "By Elisabeth Elliot. Includes Roger Youderian's story"
+                },
+                {
+                  "type": "website",
+                  "title": "Roger Youderian — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Roger_Youderian",
+                  "note": "Biography of the missionary and WWII veteran"
+                }
+              ]
+            },
+            {
               "name": "Hudson Taylor",
               "years": "May 21, 1832 – June 3, 1905",
               "title": "Missionary to China",
@@ -2648,6 +2736,199 @@
               "slug": "for-king-and-country",
               "tagline": "Brothers making anthems of hope that point to the King",
               "image": ""
+            },
+            {
+              "name": "Keith & Kristyn Getty",
+              "slug": "keith-and-kristyn-getty",
+              "years": "Keith: December 16, 1974 – present; Kristyn: January 11, 1980 – present",
+              "title": "Hymn Writers",
+              "tagline": "Leading the modern hymn renaissance with timeless songs of faith",
+              "bio": "Northern Irish husband-and-wife hymn writers who have become the foremost voices in modern hymn writing. Best known for co-writing 'In Christ Alone' (with Stuart Townend), as well as 'The Power of the Cross' and 'Speak O Lord.' They host the annual Sing! conference and have led a global movement to restore congregational hymn singing.",
+              "faith": "The Gettys write hymns rooted in rich theological truth, aiming to teach doctrine through song in the tradition of Isaac Watts and Charles Wesley. Their mission is to equip the global church with songs that are biblically faithful, musically accessible, and enduring. Keith has said their goal is to help people 'sing the story of the gospel with depth and passion.'",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Keith & Kristyn Getty — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Keith_and_Kristyn_Getty",
+                  "note": "Biography of the hymn-writing duo"
+                },
+                {
+                  "type": "website",
+                  "title": "Getty Music",
+                  "url": "https://www.gettymusic.com/",
+                  "note": "Official ministry website"
+                }
+              ]
+            },
+            {
+              "name": "Stuart Townend",
+              "slug": "stuart-townend",
+              "years": "January 13, 1963 – present",
+              "title": "Hymn Writer & Worship Leader",
+              "tagline": "Penned some of the most beloved modern hymns in the English-speaking church",
+              "bio": "English Christian hymn writer and worship leader whose compositions are sung in churches worldwide. He co-wrote 'In Christ Alone' with Keith Getty, and is also known for 'How Deep the Father's Love for Us' and 'The Power of the Cross.' His hymns blend poetic craftsmanship with deep theological content.",
+              "faith": "Townend's hymns are marked by their doctrinal richness and scriptural fidelity, drawing deeply from the Reformed tradition. He has spoken of his desire to write songs that help congregations grasp the truths of Scripture in a way that moves both mind and heart. His work has helped bridge contemporary worship and traditional hymnody across denominations.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Stuart Townend — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Stuart_Townend",
+                  "note": "Biography of the English hymn writer"
+                },
+                {
+                  "type": "website",
+                  "title": "Stuart Townend Official Site",
+                  "url": "https://www.stuarttownend.co.uk/",
+                  "note": "Official website with songs and resources"
+                }
+              ]
+            },
+            {
+              "name": "Shane & Shane",
+              "slug": "shane-and-shane",
+              "years": "Shane Barnard: December 11, 1975 – present; Shane Everett: 1978 – present",
+              "title": "Worship Duo",
+              "tagline": "Scripture-saturated worship that draws believers deeper into God's Word",
+              "bio": "Christian worship duo consisting of Shane Barnard and Shane Everett, known for their scripture-based worship music. They lead worship at The Porch at Watermark Community Church in Dallas, Texas, and have released numerous albums emphasizing the Psalms and other biblical texts set to music.",
+              "faith": "Shane & Shane are committed to creating worship music rooted directly in Scripture, often setting entire Psalm passages to melody. Their ministry reflects a deep conviction that God's Word should be central in corporate worship and personal devotion. They have discipled a generation of young believers through their ministry at The Porch and their extensive catalog of scripture songs.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Shane & Shane — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Shane_%26_Shane",
+                  "note": "Biography of the Christian worship duo"
+                },
+                {
+                  "type": "website",
+                  "title": "Shane & Shane Official Site",
+                  "url": "https://www.shaneandshane.com/",
+                  "note": "Official website and music"
+                }
+              ]
+            },
+            {
+              "name": "Bob Kauflin",
+              "slug": "bob-kauflin",
+              "years": "1955 – present",
+              "title": "Worship Leader & Author",
+              "tagline": "Teaching the church to worship with both spirit and truth",
+              "bio": "Director of worship development for Sovereign Grace Churches and a former member of the Christian band Glad. He is the author of 'Worship Matters' and 'True Worshipers,' influential books on biblical worship philosophy and practice. Kauflin has shaped worship theology and practice across the Reformed evangelical world.",
+              "faith": "Kauflin's ministry is driven by the conviction that worship must be grounded in sound theology and empowered by the Holy Spirit. He has spent decades training worship leaders to prioritize God's glory over musical performance. His writing and teaching emphasize that true worship flows from a heart captivated by the gospel of Jesus Christ.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Bob Kauflin — Sovereign Grace Music",
+                  "url": "https://sovereigngracemusic.com/",
+                  "note": "Sovereign Grace Music ministry"
+                },
+                {
+                  "type": "book",
+                  "title": "Worship Matters",
+                  "note": "By Bob Kauflin. A foundational book on leading worship to the glory of God"
+                }
+              ]
+            },
+            {
+              "name": "Mark Altrogge",
+              "slug": "mark-altrogge",
+              "years": "c. 1955 – present",
+              "title": "Pastor & Songwriter",
+              "tagline": "Sovereign Grace songwriter whose hymns have blessed churches for decades",
+              "bio": "Pastor and prolific songwriter associated with Sovereign Grace Churches. He is best known for writing 'I Stand in Awe,' a worship song that has been sung across denominations worldwide. Altrogge has authored hundreds of worship songs combining Reformed theology with heartfelt devotion.",
+              "faith": "Altrogge's songs reflect deep Reformed conviction and a pastor's heart for helping congregations see the greatness of God. His hymn 'I Stand in Awe' captures the wonder of God's holiness and grace in a way that has resonated with believers for decades. He continues to serve as a pastor while writing songs that exalt Christ and edify the church.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "The Blazing Center — Mark Altrogge's Blog",
+                  "url": "https://theblazingcenter.com/",
+                  "note": "Mark Altrogge's personal blog on faith and worship"
+                },
+                {
+                  "type": "website",
+                  "title": "Sovereign Grace Music",
+                  "url": "https://sovereigngracemusic.com/",
+                  "note": "Publisher of many of Altrogge's worship songs"
+                }
+              ]
+            },
+            {
+              "name": "Pat Sczebel",
+              "slug": "pat-sczebel",
+              "years": "Unknown – present",
+              "title": "Worship Leader & Songwriter",
+              "tagline": "Wrote 'Jesus, Thank You' — a beloved communion hymn in Reformed churches",
+              "bio": "Sovereign Grace worship leader and songwriter known for penning 'Jesus, Thank You,' one of the most widely sung communion hymns in Reformed and evangelical churches. His songs are marked by a clear proclamation of the gospel and the finished work of Christ on the cross.",
+              "faith": "Sczebel's songwriting reflects a deep gratitude for the substitutionary atonement of Christ, beautifully expressed in 'Jesus, Thank You' with its vivid portrayal of what Christ accomplished at Calvary. His work within Sovereign Grace Churches has contributed to a rich body of theologically grounded worship music. His songs help congregations respond to the gospel with wonder and thanksgiving.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Sovereign Grace Music",
+                  "url": "https://sovereigngracemusic.com/",
+                  "note": "Publisher of Pat Sczebel's worship songs"
+                }
+              ]
+            },
+            {
+              "name": "Matt Papa",
+              "slug": "matt-papa",
+              "years": "1983 – present",
+              "title": "Worship Leader, Songwriter & Author",
+              "tagline": "Co-writer of 'His Mercy Is More' — modern hymnwriter fueling the Christ-centered worship movement",
+              "bio": "Matt Papa is a worship leader, songwriter, and author based in Nashville who has become one of the leading voices in the modern hymn movement. He co-wrote 'His Mercy Is More' with Matt Boswell, which has become one of the most beloved hymns in contemporary Reformed worship. Papa frequently leads worship at Together for the Gospel (T4G) and Getty Music conferences, and has released multiple albums of theologically rich worship music. He is also the author of 'Look and Live: Behold the Soul-Thrilling, Sin-Destroying Glory of Christ.'",
+              "faith": "Papa's music and writing are saturated with a vision of God's glory as the ultimate satisfaction of the human soul. His song 'His Mercy Is More' captures the boundless, persevering mercy of God toward sinners — a theme drawn from Lamentations 3. He is passionate about worship that exalts Christ above all and has spoken extensively about the danger of idolatry and the supremacy of God's beauty over all earthly treasures.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Matt Papa Official Website",
+                  "url": "https://mattpapa.com/",
+                  "note": "Music, books, and ministry information"
+                },
+                {
+                  "type": "website",
+                  "title": "Getty Music",
+                  "url": "https://www.gettymusic.com/",
+                  "note": "Regular worship leader at Getty conferences"
+                }
+              ]
+            },
+            {
+              "name": "Matt Boswell",
+              "slug": "matt-boswell",
+              "years": "1981 – present",
+              "title": "Pastor, Hymnwriter & Worship Leader",
+              "tagline": "Co-writer of 'His Mercy Is More' and 'Come Behold the Wondrous Mystery' — pastor-hymnwriter shaping modern congregational worship",
+              "bio": "Matt Boswell is a pastor, hymnwriter, and worship leader who serves as Pastor of Worship and Arts at The Village Church in the Dallas-Fort Worth area. He is one of the most prolific modern hymnwriters in the Reformed tradition, co-writing 'His Mercy Is More' and 'Come Behold the Wondrous Mystery' with Matt Papa. Boswell is the founder of the Doxology & Theology conference and the editor of 'Treasuring Christ When Your Hands Are Full.' He frequently collaborates with Keith & Kristyn Getty and leads worship at major Reformed conferences.",
+              "faith": "Boswell is deeply committed to the local church as the primary context for worship and has written extensively on the theology of congregational singing. His hymns are marked by rich Trinitarian theology, vivid portrayals of Christ's work, and accessible melodies that serve the gathered church. 'Come Behold the Wondrous Mystery' walks through the entire arc of redemption from incarnation to resurrection, while 'His Mercy Is More' proclaims the inexhaustible grace of God.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Matt Boswell Official Website",
+                  "url": "https://mattboswell.com/",
+                  "note": "Hymns, writing, and ministry"
+                },
+                {
+                  "type": "website",
+                  "title": "The Village Church",
+                  "url": "https://thevillagechurch.net/",
+                  "note": "Where Boswell serves as Pastor of Worship and Arts"
+                }
+              ]
             }
           ]
         },
@@ -2724,35 +3005,6 @@
               "image": "/images/bios/chris-pratt.jpg",
               "imageAttribution": {
                 "source": "https://en.wikipedia.org/wiki/Chris_Pratt",
-                "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-              }
-            },
-            {
-              "name": "Mark Wahlberg",
-              "years": "June 5, 1971 – present",
-              "title": "Actor & Producer",
-              "bio": "American actor, producer, and businessman. Known for films like 'The Fighter,' 'The Departed,' and 'Father Stu.' Formerly known as rapper Marky Mark.",
-              "faith": "A devout Catholic who attends Mass daily and wakes at 2:30 AM to pray. He produced and starred in 'Father Stu,' a film about a boxer who becomes a priest. He has said, 'I just try to stay prayed up and keep God first.'",
-              "videos": [],
-              "sources": [
-                {
-                  "type": "wikipedia",
-                  "title": "Mark Wahlberg — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
-                  "note": "Biography of the actor and devout Catholic"
-                },
-                {
-                  "type": "youtube",
-                  "title": "Mark Wahlberg — Faith, Prayer, and Father Stu",
-                  "url": "https://www.youtube.com/results?search_query=mark+wahlberg+faith+prayer+father+stu+catholic",
-                  "note": "Interviews about his daily faith practice and the film Father Stu"
-                }
-              ],
-              "slug": "mark-wahlberg",
-              "tagline": "Transformed from troubled youth to devout daily communicant",
-              "image": "/images/bios/mark-wahlberg.jpg",
-              "imageAttribution": {
-                "source": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
                 "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
               }
             },
@@ -3374,6 +3626,102 @@
               "imageAttribution": {
                 "source": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
                 "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "computer-scientists",
+          "name": "Computer Scientists",
+          "people": [
+            {
+              "name": "Donald Knuth",
+              "years": "January 10, 1938 – present",
+              "title": "Computer Scientist & Professor Emeritus at Stanford",
+              "bio": "American computer scientist, Professor Emeritus at Stanford University, and Turing Award winner (1974). Author of the monumental multi-volume work The Art of Computer Programming, creator of TeX and METAFONT. Widely regarded as the father of the analysis of algorithms.",
+              "faith": "A devout Lutheran who has been outspoken about his faith throughout his career. Knuth authored 3:16 Bible Texts Illuminated, a book analyzing the '3:16' verse from every book of the Bible with calligraphic art. He delivered a series of lectures at MIT titled 'Things a Computer Scientist Rarely Talks About,' exploring the relationship between faith and computer science. He has said, 'God is real, unless declared integer.'",
+              "videos": [
+                {
+                  "title": "Donald Knuth — Things a Computer Scientist Rarely Talks About",
+                  "url": "https://www.youtube.com/results?search_query=donald+knuth+things+computer+scientist+rarely+talks+about",
+                  "platform": "youtube",
+                  "note": "Lectures on the intersection of faith and computer science"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Donald Knuth — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Donald_Knuth",
+                  "note": "Biography of the Stanford CS professor"
+                },
+                {
+                  "type": "book",
+                  "title": "3:16 Bible Texts Illuminated",
+                  "url": "https://www-cs-faculty.stanford.edu/~uno/316.html",
+                  "note": "Knuth's book analyzing the 3:16 verse from every book of the Bible"
+                },
+                {
+                  "type": "book",
+                  "title": "Things a Computer Scientist Rarely Talks About",
+                  "url": "https://www-cs-faculty.stanford.edu/~uno/things.html",
+                  "note": "Published lectures on God and computer science"
+                }
+              ],
+              "slug": "donald-knuth",
+              "tagline": "The father of algorithms who wrote a book on every 3:16 in the Bible",
+              "image": "/images/bios/donald-knuth.jpg",
+              "imageAttribution": {
+                "source": "https://en.wikipedia.org/wiki/Donald_Knuth",
+                "license": "CC BY-SA (Wikimedia Commons)"
+              }
+            },
+            {
+              "name": "John Vlissides",
+              "years": "August 2, 1961 – November 24, 2005",
+              "title": "Software Engineer & Design Patterns Co-Author",
+              "bio": "American software engineer and one of the 'Gang of Four' who co-authored Design Patterns: Elements of Reusable Object-Oriented Software, one of the most influential books in computer science. He worked at IBM's T.J. Watson Research Center and held a PhD from Stanford. He passed away on Thanksgiving 2005 at age 44 from a brain tumor.",
+              "faith": "A bold, outspoken Christian who dedicated his portion of the Design Patterns book with 'Joshua 24:15b — J.V.' ('As for me and my house, we will serve the LORD'). When asked about his faith by colleague Ken Auer, Vlissides replied: 'Yes, I am a Christian. The fundamentalist, politically incorrect kind that believes the Bible is the inerrant word of God and that we are all sinners that are going to burn in hell unless we put our faith completely in Jesus Christ who is the only way to heaven. You know, the kind that the media thinks is the most dangerous kind.' He served as an elder at his church and later as chairman of Christian Education. During his battle with cancer, he told visitors 'God is good all the time' and drew strength from Isaiah 43:1–5. His wife Dru Ann wrote: 'John trusted those words, He lived those words. He knew God's character and he had peace in the midst of his circumstances. He IS in a better place.'",
+              "videos": [
+                {
+                  "title": "John Vlissides — Memorial and Legacy",
+                  "url": "https://www.youtube.com/results?search_query=john+vlissides+gang+of+four+design+patterns+memorial",
+                  "platform": "youtube",
+                  "note": "Remembrances of Vlissides and his contributions"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Vlissides — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Vlissides",
+                  "note": "Biography of the GoF co-author"
+                },
+                {
+                  "type": "blog",
+                  "title": "John Vlissides — jontsai on Xanga (archived)",
+                  "url": "https://web.archive.org/web/20100930062913/http://jontsai.xanga.com:80/732047758/john-vlissides/",
+                  "note": "Jonathan Tsai's post compiling testimonies of Vlissides' faith from colleagues and family"
+                },
+                {
+                  "type": "wiki",
+                  "title": "John Vlissides — C2 Wiki Memorial",
+                  "url": "https://wiki.c2.com/?JohnVlissides",
+                  "note": "Colleague remembrances including faith testimonies from Ken Auer, Heinz Kabutz, and his wife Dru Ann"
+                },
+                {
+                  "type": "news",
+                  "title": "John Vlissides Obituary — Washington Post",
+                  "url": "https://www.washingtonpost.com/wp-dyn/content/article/2005/12/09/AR2005120902004.html",
+                  "note": "Obituary of the IBM researcher and GoF co-author"
+                }
+              ],
+              "slug": "john-vlissides",
+              "tagline": "A Gang of Four co-author who dedicated Design Patterns to Joshua 24:15",
+              "image": "/images/bios/john-vlissides.jpg",
+              "imageAttribution": {
+                "source": "https://en.wikipedia.org/wiki/John_Vlissides",
+                "license": "Fair Use"
               }
             }
           ]
