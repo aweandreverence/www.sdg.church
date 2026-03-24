@@ -1,0 +1,23 @@
+{
+  "name": "Augustin-Louis Cauchy",
+  "years": "August 21, 1789 – May 23, 1857",
+  "title": "Mathematician",
+  "bio": "French mathematician who was a pioneer of mathematical analysis. One of the most prolific mathematicians in history, he published nearly 800 research papers and made foundational contributions to calculus, group theory, and complex analysis.",
+  "faith": "Cauchy was a deeply devout Catholic who publicly defended the faith at the French Academy of Sciences. He organized charitable work for the poor in Paris and supported Catholic missions in Ireland. He said: 'I am a Christian — that is to say, I believe in the divinity of Jesus Christ, with Tycho Brahe, Copernicus, Descartes, Newton, Leibniz, and Pascal.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Cauchy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy",
+      "note": "Prolific mathematician and devout Catholic"
+    }
+  ],
+  "slug": "augustin-louis-cauchy",
+  "tagline": "I am a Christian, with Copernicus, Descartes, Newton, and Pascal",
+  "image": "/images/bios/augustin-louis-cauchy.jpg",
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public domain"
+  }
+}

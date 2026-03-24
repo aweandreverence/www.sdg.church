@@ -1,0 +1,42 @@
+{
+  "name": "James Tour",
+  "years": "June 18, 1959 – present",
+  "title": "Chemist & Nanotechnologist",
+  "bio": "American chemist and nanotechnologist at Rice University, one of the world's leading synthetic chemists. Named among 'The 50 Most Influential Scientists in the World Today.'",
+  "faith": "A Messianic Jewish believer in Jesus who is outspoken about his faith. Tour has given numerous talks on the intersection of science and faith, has challenged abiogenesis claims, and has shared his testimony widely. He has said, 'I stand in awe of God because of what He has done through His creation.'",
+  "videos": [
+    {
+      "title": "James Tour Testimony & Science and Faith",
+      "url": "https://www.youtube.com/results?search_query=james+tour+testimony+christian+faith+science",
+      "platform": "youtube",
+      "note": "Tour has extensive YouTube content on science and faith"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "James Tour — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Tour",
+      "note": "Biography of the Rice University chemist"
+    },
+    {
+      "type": "youtube",
+      "title": "James Tour — The Origin of Life Has Not Been Explained",
+      "url": "https://www.youtube.com/results?search_query=james+tour+origin+of+life+abiogenesis",
+      "note": "Tour's scientific critiques of abiogenesis"
+    },
+    {
+      "type": "youtube",
+      "title": "James Tour — Personal Testimony",
+      "url": "https://www.youtube.com/results?search_query=james+tour+personal+testimony+messianic+jewish",
+      "note": "His testimony as a Messianic Jewish believer"
+    }
+  ],
+  "slug": "james-tour",
+  "tagline": "A world-leading nanotechnologist who boldly defends creation",
+  "image": "/images/bios/james-tour.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/James_Tour",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

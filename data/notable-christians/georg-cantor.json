@@ -1,0 +1,23 @@
+{
+  "name": "Georg Cantor",
+  "years": "March 3, 1845 – January 6, 1918",
+  "title": "Mathematician",
+  "bio": "German mathematician who created set theory and established the importance of one-to-one correspondence between sets, defining infinite and well-ordered sets.",
+  "faith": "A devout Lutheran who believed his theory of transfinite numbers was communicated to him by God. He saw the absolute infinite as an expression of the nature of God.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Georg Cantor — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Georg_Cantor",
+      "note": "Biography including his belief that God communicated set theory to him"
+    }
+  ],
+  "slug": "georg-cantor",
+  "tagline": "Explored the infinite in mathematics as a reflection of God's infinity",
+  "image": "/images/bios/georg-cantor.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Georg_Cantor2.jpg/440px-Georg_Cantor2.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

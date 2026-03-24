@@ -1,0 +1,23 @@
+{
+  "name": "Thomas Aquinas",
+  "years": "January 28, 1225 – March 7, 1274",
+  "title": "Theologian & Philosopher",
+  "bio": "Italian Dominican friar and the most influential medieval theologian. His Summa Theologica remains one of the greatest works of systematic theology ever written, synthesizing Aristotelian philosophy with Christian doctrine.",
+  "faith": "Aquinas devoted his entire life to understanding and articulating the Christian faith through reason and revelation. Near the end of his life, after a mystical experience during Mass, he stopped writing, saying: 'All that I have written seems like straw compared to what has been revealed to me.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Aquinas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+      "note": "Greatest medieval theologian"
+    }
+  ],
+  "slug": "thomas-aquinas",
+  "tagline": "All I have written seems like straw compared to what has been revealed",
+  "image": "/images/bios/thomas-aquinas.jpg",
+  "imageAttribution": {
+    "source": "Historical painting",
+    "license": "Public domain"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Kirk Cameron",
+  "years": "October 12, 1970 – present",
+  "title": "Actor & Evangelist",
+  "bio": "American actor best known for his role as Mike Seaver on 'Growing Pains.' After his conversion to Christianity at age 17, he became a prominent evangelist, co-founding The Way of the Master ministry with Ray Comfort and starring in the 'Fireproof' and 'Left Behind' films.",
+  "faith": "Kirk Cameron's conversion at 17 transformed his life and career. He has said, 'I was doing all the things that Hollywood says you should do to be happy... and I wasn't.' He became a bold evangelist, co-founding The Way of the Master with Ray Comfort and producing faith-based films like 'Fireproof,' which grossed $33 million on a $500,000 budget. He has been an outspoken advocate for biblical marriage, homeschooling, and the authority of Scripture.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Kirk Cameron — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kirk_Cameron",
+      "note": "Biography of the actor and evangelist"
+    },
+    {
+      "type": "web",
+      "title": "The Way of the Master",
+      "url": "https://www.livingwaters.com/",
+      "note": "Kirk Cameron and Ray Comfort's evangelism ministry"
+    }
+  ],
+  "slug": "kirk-cameron",
+  "tagline": "From Growing Pains teen idol to bold evangelist for Christ",
+  "image": "/images/bios/kirk-cameron.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Kirk_Cameron",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

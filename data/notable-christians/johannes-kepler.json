@@ -1,0 +1,23 @@
+{
+  "name": "Johannes Kepler",
+  "years": "December 27, 1571 – November 15, 1630",
+  "title": "Astronomer & Mathematician",
+  "bio": "German astronomer, mathematician, and astrologer who discovered the three laws of planetary motion, foundational to Isaac Newton's theory of universal gravitation.",
+  "faith": "A devout Lutheran who saw his scientific work as a form of worship. He wrote, 'I was merely thinking God's thoughts after Him. Since we astronomers are priests of the highest God in regard to the book of nature, it benefits us to be thoughtful.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Johannes Kepler — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+      "note": "Biography including his Lutheran faith and view of science as worship"
+    }
+  ],
+  "slug": "johannes-kepler",
+  "tagline": "Thinking God's thoughts after Him through planetary motion",
+  "image": "/images/bios/johannes-kepler.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

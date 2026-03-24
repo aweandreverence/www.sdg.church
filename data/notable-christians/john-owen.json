@@ -1,0 +1,23 @@
+{
+  "name": "John Owen",
+  "years": "January 1616 – August 24, 1683",
+  "title": "Puritan Theologian",
+  "bio": "English Nonconformist theologian, Vice-Chancellor of Oxford University, and chaplain to Oliver Cromwell. Often called 'the prince of Puritan theologians' for the depth and precision of his doctrinal works.",
+  "faith": "Owen's works on the Holy Spirit, communion with God, and the mortification of sin remain unsurpassed in depth. He wrote: 'Be killing sin or it will be killing you.' His treatise The Death of Death in the Death of Christ is a definitive defense of particular redemption.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Owen — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Owen_(theologian)",
+      "note": "Prince of Puritan theologians"
+    }
+  ],
+  "slug": "john-owen",
+  "tagline": "Be killing sin or it will be killing you",
+  "image": "/images/bios/john-owen.jpg",
+  "imageAttribution": {
+    "source": "Painting by John Greenhill",
+    "license": "Public domain"
+  }
+}

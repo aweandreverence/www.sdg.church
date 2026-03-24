@@ -1,0 +1,41 @@
+{
+  "name": "R.C. Sproul",
+  "years": "February 13, 1939 – December 14, 2017",
+  "title": "Theologian & Pastor",
+  "bio": "American Reformed theologian, pastor, and founder of Ligonier Ministries. He authored over 100 books and was known for making complex theology accessible to ordinary Christians. He served as co-pastor at Saint Andrew's Chapel in Sanford, Florida.",
+  "faith": "Sproul dedicated his life to teaching the holiness of God and Reformed theology. His book 'The Holiness of God' is considered a modern classic. He was instrumental in drafting the Chicago Statement on Biblical Inerrancy (1978).",
+  "videos": [
+    {
+      "title": "R.C. Sproul — Ligonier Teaching Series",
+      "url": "https://www.youtube.com/results?search_query=rc+sproul+holiness+of+god+teaching",
+      "platform": "youtube",
+      "note": "Sproul's extensive teaching library is available through Ligonier"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "R. C. Sproul — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/R._C._Sproul",
+      "note": "Biography of the Reformed theologian and Ligonier founder"
+    },
+    {
+      "type": "website",
+      "title": "Ligonier Ministries",
+      "url": "https://www.ligonier.org/",
+      "note": "The teaching ministry Sproul founded"
+    },
+    {
+      "type": "book",
+      "title": "The Holiness of God",
+      "note": "By R.C. Sproul. His most influential work on God's transcendent holiness"
+    }
+  ],
+  "slug": "rc-sproul",
+  "tagline": "Made the holiness of God accessible to a generation of believers",
+  "image": "/images/bios/rc-sproul.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/R._C._Sproul",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

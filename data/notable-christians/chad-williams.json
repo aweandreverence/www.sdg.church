@@ -1,0 +1,35 @@
+{
+  "name": "Chad Williams",
+  "years": "October 1986 – present",
+  "title": "Former Navy SEAL & Evangelist",
+  "bio": "American former Navy SEAL who served in Iraq. After leaving the military, he became a full-time evangelist and author of 'SEAL of God.'",
+  "faith": "Williams went from a rebellious youth to the Navy SEALs and then to Christ. He was profoundly impacted by the death of his SEAL mentor Scott Helvenston in the Fallujah ambush. He now travels the world sharing the gospel as an evangelist.",
+  "videos": [
+    {
+      "title": "Chad Williams - SEAL of God Testimony",
+      "url": "https://www.youtube.com/results?search_query=chad+williams+navy+seal+testimony+seal+of+god",
+      "platform": "youtube",
+      "note": "Williams has widely shared his testimony from SEAL to evangelist"
+    }
+  ],
+  "sources": [
+    {
+      "type": "book",
+      "title": "SEAL of God",
+      "note": "By Chad Williams. His journey from Navy SEAL to evangelist"
+    },
+    {
+      "type": "youtube",
+      "title": "Chad Williams — From Navy SEAL to Evangelist",
+      "url": "https://www.youtube.com/results?search_query=chad+williams+navy+seal+of+god+testimony",
+      "note": "His powerful conversion testimony"
+    }
+  ],
+  "slug": "chad-williams",
+  "tagline": "Former Navy SEAL who found his ultimate mission in Christ",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

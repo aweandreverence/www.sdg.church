@@ -1,0 +1,42 @@
+{
+  "name": "Donald Knuth",
+  "years": "January 10, 1938 – present",
+  "title": "Computer Scientist & Professor Emeritus at Stanford",
+  "bio": "American computer scientist, Professor Emeritus at Stanford University, and Turing Award winner (1974). Author of the monumental multi-volume work The Art of Computer Programming, creator of TeX and METAFONT. Widely regarded as the father of the analysis of algorithms.",
+  "faith": "A devout Lutheran who has been outspoken about his faith throughout his career. Knuth authored 3:16 Bible Texts Illuminated, a book analyzing the '3:16' verse from every book of the Bible with calligraphic art. He delivered a series of lectures at MIT titled 'Things a Computer Scientist Rarely Talks About,' exploring the relationship between faith and computer science. He has said, 'God is real, unless declared integer.'",
+  "videos": [
+    {
+      "title": "Donald Knuth — Things a Computer Scientist Rarely Talks About",
+      "url": "https://www.youtube.com/results?search_query=donald+knuth+things+computer+scientist+rarely+talks+about",
+      "platform": "youtube",
+      "note": "Lectures on the intersection of faith and computer science"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Donald Knuth — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donald_Knuth",
+      "note": "Biography of the Stanford CS professor"
+    },
+    {
+      "type": "book",
+      "title": "3:16 Bible Texts Illuminated",
+      "url": "https://www-cs-faculty.stanford.edu/~uno/316.html",
+      "note": "Knuth's book analyzing the 3:16 verse from every book of the Bible"
+    },
+    {
+      "type": "book",
+      "title": "Things a Computer Scientist Rarely Talks About",
+      "url": "https://www-cs-faculty.stanford.edu/~uno/things.html",
+      "note": "Published lectures on God and computer science"
+    }
+  ],
+  "slug": "donald-knuth",
+  "tagline": "The father of algorithms who wrote a book on every 3:16 in the Bible",
+  "image": "/images/bios/donald-knuth.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Donald_Knuth",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  }
+}

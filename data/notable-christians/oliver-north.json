@@ -1,0 +1,23 @@
+{
+  "name": "Oliver North",
+  "years": "October 7, 1943 – present",
+  "title": "Marine Corps Lieutenant Colonel (Ret.) & Author",
+  "bio": "American political commentator, television host, military historian, and former Marine Corps Lieutenant Colonel. Former president of the NRA.",
+  "faith": "North has been vocal about his Christian faith throughout his public life. He has spoken at churches and faith-based events about how his relationship with God has guided his decisions in military service and public life.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Oliver North — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oliver_North",
+      "note": "Biography of the Marine and political figure"
+    }
+  ],
+  "slug": "oliver-north",
+  "tagline": "Decorated Marine and bestselling author anchored by faith",
+  "image": "/images/bios/oliver-north.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Oliver_North",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

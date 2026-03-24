@@ -1,0 +1,35 @@
+{
+  "name": "Abraham Lincoln",
+  "years": "February 12, 1809 – April 15, 1865",
+  "title": "16th President of the United States",
+  "bio": "American statesman and lawyer who served as the 16th President of the United States. Led the nation through the Civil War and abolished slavery with the Emancipation Proclamation and 13th Amendment.",
+  "faith": "While Lincoln's faith journey was complex, he became increasingly devout during the Civil War. His Second Inaugural Address is one of the most theologically profound presidential speeches in American history, reflecting deeply on God's purposes in the war and quoting Scripture.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Abraham Lincoln — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+      "note": "Comprehensive biography of the 16th President"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Religious views of Abraham Lincoln — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Religious_views_of_Abraham_Lincoln",
+      "note": "Detailed analysis of Lincoln's evolving faith"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Abraham Lincoln's second inaugural address — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_second_inaugural_address",
+      "note": "His theologically profound address about God's purposes in the Civil War"
+    }
+  ],
+  "slug": "abraham-lincoln",
+  "tagline": "Led a nation through its darkest hour with humble reliance on Providence",
+  "image": "/images/bios/abraham-lincoln.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

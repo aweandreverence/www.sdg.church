@@ -1,0 +1,35 @@
+{
+  "name": "Blaise Pascal",
+  "years": "June 19, 1623 – August 19, 1662",
+  "title": "Mathematician, Physicist & Philosopher",
+  "bio": "French mathematician, physicist, inventor, and philosopher. Made foundational contributions to probability theory, projective geometry, and the development of the mechanical calculator.",
+  "faith": "After a mystical experience on November 23, 1654 (his 'Night of Fire'), Pascal devoted his life to defending Christianity. His 'Pensées' remains one of the most eloquent defenses of the Christian faith ever written. He is the author of 'Pascal's Wager.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Blaise Pascal — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+      "note": "Biography including his 'Night of Fire' conversion experience"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Pensées — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pens%C3%A9es",
+      "note": "His famous unfinished defense of the Christian faith"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Pascal's Wager — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pascal%27s_wager",
+      "note": "His famous philosophical argument for belief in God"
+    }
+  ],
+  "slug": "blaise-pascal",
+  "tagline": "Devoted his genius to defending the faith after his Night of Fire",
+  "image": "/images/bios/blaise-pascal.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/440px-Blaise_Pascal_Versailles.JPG",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

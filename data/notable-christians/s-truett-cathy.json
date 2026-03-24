@@ -1,0 +1,34 @@
+{
+  "name": "S. Truett Cathy",
+  "years": "March 14, 1921 – September 8, 2014",
+  "title": "Founder of Chick-fil-A",
+  "bio": "American businessman and philanthropist who founded Chick-fil-A in 1967. Built it into one of the largest quick-service restaurant chains in the United States.",
+  "faith": "A devout Southern Baptist whose faith shaped every aspect of his business. Chick-fil-A has been closed on Sundays since its founding so employees can attend church. Cathy taught Sunday school for over 50 years and established the WinShape Foundation for foster care and scholarships.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "S. Truett Cathy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/S._Truett_Cathy",
+      "note": "Biography of the Chick-fil-A founder"
+    },
+    {
+      "type": "book",
+      "title": "Eat Mor Chikin: Inspire More People",
+      "note": "By S. Truett Cathy. His story of building Chick-fil-A on Christian principles"
+    },
+    {
+      "type": "website",
+      "title": "WinShape Foundation",
+      "url": "https://www.winshape.org/",
+      "note": "The charitable foundation Cathy established"
+    }
+  ],
+  "slug": "s-truett-cathy",
+  "tagline": "Founded Chick-fil-A on the principle of honoring the Lord's Day",
+  "image": "/images/bios/s-truett-cathy.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/S._Truett_Cathy",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

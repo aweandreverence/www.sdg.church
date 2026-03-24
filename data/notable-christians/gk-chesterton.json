@@ -1,0 +1,33 @@
+{
+  "name": "G.K. Chesterton",
+  "years": "May 29, 1874 – June 14, 1936",
+  "title": "Author & Apologist",
+  "bio": "English writer, philosopher, and Christian apologist. Author of the Father Brown mysteries, 'Orthodoxy,' 'The Everlasting Man,' and over 80 books.",
+  "faith": "Initially an agnostic, Chesterton converted first to Anglicanism and then to Roman Catholicism. His book 'Orthodoxy' describes his intellectual journey to faith. C.S. Lewis credited 'The Everlasting Man' as key to his own conversion.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "G. K. Chesterton — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/G._K._Chesterton",
+      "note": "Comprehensive biography including his conversion journey"
+    },
+    {
+      "type": "book",
+      "title": "Orthodoxy",
+      "note": "By G.K. Chesterton. His autobiographical account of arriving at Christian faith through reason"
+    },
+    {
+      "type": "book",
+      "title": "The Everlasting Man",
+      "note": "By G.K. Chesterton. The book C.S. Lewis credited with helping him toward Christianity"
+    }
+  ],
+  "slug": "gk-chesterton",
+  "tagline": "Found orthodoxy at the end of every road of reason",
+  "image": "/images/bios/gk-chesterton.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gilbert_Chesterton.jpg/440px-Gilbert_Chesterton.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,748 @@
+{
+  "lastUpdated": "2026-03-24",
+  "categories": [
+    {
+      "id": "martyrs-witnesses",
+      "name": "Martyrs & Witnesses",
+      "description": "Those who gave their lives for the faith — from the early church through the Reformation.",
+      "subcategories": [
+        {
+          "id": "early-church-martyrs",
+          "name": "Early Church Martyrs",
+          "people": [
+            {
+              "$ref": "vibia-perpetua.json"
+            },
+            {
+              "$ref": "felicity-of-carthage.json"
+            },
+            {
+              "$ref": "polycarp-of-smyrna.json"
+            },
+            {
+              "$ref": "ignatius-of-antioch.json"
+            }
+          ]
+        },
+        {
+          "id": "reformation-martyrs",
+          "name": "Reformation Martyrs",
+          "people": [
+            {
+              "$ref": "jan-hus.json"
+            },
+            {
+              "$ref": "william-tyndale.json"
+            },
+            {
+              "$ref": "hugh-latimer.json"
+            },
+            {
+              "$ref": "nicholas-ridley.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-biographies",
+      "name": "Historical Biographies",
+      "description": "Christians throughout history who glorified God through extraordinary works",
+      "subcategories": [
+        {
+          "id": "composers",
+          "name": "Composers & Musicians",
+          "people": [
+            {
+              "$ref": "johann-sebastian-bach.json"
+            },
+            {
+              "$ref": "george-frideric-handel.json"
+            },
+            {
+              "$ref": "felix-mendelssohn.json"
+            },
+            {
+              "$ref": "fanny-crosby.json"
+            }
+          ]
+        },
+        {
+          "id": "authors-poets",
+          "name": "Authors & Poets",
+          "people": [
+            {
+              "$ref": "cs-lewis.json"
+            },
+            {
+              "$ref": "jrr-tolkien.json"
+            },
+            {
+              "$ref": "john-milton.json"
+            },
+            {
+              "$ref": "fyodor-dostoevsky.json"
+            },
+            {
+              "$ref": "gk-chesterton.json"
+            },
+            {
+              "$ref": "john-bunyan.json"
+            },
+            {
+              "$ref": "augustine-of-hippo.json"
+            },
+            {
+              "$ref": "leo-tolstoy.json"
+            },
+            {
+              "$ref": "george-macdonald.json"
+            }
+          ]
+        },
+        {
+          "id": "scientists",
+          "name": "Scientists",
+          "people": [
+            {
+              "$ref": "isaac-newton.json"
+            },
+            {
+              "$ref": "blaise-pascal.json"
+            },
+            {
+              "$ref": "michael-faraday.json"
+            },
+            {
+              "$ref": "gregor-mendel.json"
+            },
+            {
+              "$ref": "george-washington-carver.json"
+            },
+            {
+              "$ref": "louis-pasteur.json"
+            },
+            {
+              "$ref": "johannes-kepler.json"
+            },
+            {
+              "$ref": "robert-boyle.json"
+            },
+            {
+              "$ref": "james-clerk-maxwell.json"
+            },
+            {
+              "$ref": "francis-collins.json"
+            }
+          ]
+        },
+        {
+          "id": "mathematicians",
+          "name": "Mathematicians",
+          "people": [
+            {
+              "$ref": "leonhard-euler.json"
+            },
+            {
+              "$ref": "bernhard-riemann.json"
+            },
+            {
+              "$ref": "georg-cantor.json"
+            },
+            {
+              "$ref": "augustin-louis-cauchy.json"
+            }
+          ]
+        },
+        {
+          "id": "artists-architects",
+          "name": "Artists & Architects",
+          "people": [
+            {
+              "$ref": "michelangelo-buonarroti.json"
+            },
+            {
+              "$ref": "rembrandt-van-rijn.json"
+            },
+            {
+              "$ref": "albrecht-drer.json"
+            },
+            {
+              "$ref": "antoni-gaud.json"
+            }
+          ]
+        },
+        {
+          "id": "reformers-theologians",
+          "name": "Reformers & Theologians",
+          "people": [
+            {
+              "$ref": "martin-luther.json"
+            },
+            {
+              "$ref": "john-calvin.json"
+            },
+            {
+              "$ref": "jonathan-edwards.json"
+            },
+            {
+              "$ref": "charles-haddon-spurgeon.json"
+            },
+            {
+              "$ref": "john-wesley.json"
+            },
+            {
+              "$ref": "george-whitefield.json"
+            },
+            {
+              "$ref": "william-wilberforce.json"
+            },
+            {
+              "$ref": "dietrich-bonhoeffer.json"
+            },
+            {
+              "$ref": "john-wycliffe.json"
+            },
+            {
+              "$ref": "thomas-aquinas.json"
+            },
+            {
+              "$ref": "athanasius-of-alexandria.json"
+            },
+            {
+              "$ref": "john-knox.json"
+            },
+            {
+              "$ref": "abraham-kuyper.json"
+            },
+            {
+              "$ref": "martyn-lloyd-jones.json"
+            },
+            {
+              "$ref": "ji-packer.json"
+            },
+            {
+              "$ref": "herman-bavinck.json"
+            },
+            {
+              "$ref": "bb-warfield.json"
+            },
+            {
+              "$ref": "al-mohler.json"
+            }
+          ]
+        },
+        {
+          "id": "pastors-missionaries",
+          "name": "Pastors & Missionaries",
+          "people": [
+            {
+              "$ref": "billy-graham.json"
+            },
+            {
+              "$ref": "jim-elliot.json"
+            },
+            {
+              "$ref": "nate-saint.json"
+            },
+            {
+              "$ref": "ed-mccully.json"
+            },
+            {
+              "$ref": "pete-fleming.json"
+            },
+            {
+              "$ref": "roger-youderian.json"
+            },
+            {
+              "$ref": "hudson-taylor.json"
+            },
+            {
+              "$ref": "eric-liddell.json"
+            },
+            {
+              "$ref": "william-carey.json"
+            },
+            {
+              "$ref": "adoniram-judson.json"
+            },
+            {
+              "$ref": "david-livingstone.json"
+            },
+            {
+              "$ref": "george-mller.json"
+            },
+            {
+              "$ref": "corrie-ten-boom.json"
+            },
+            {
+              "$ref": "john-macarthur.json"
+            },
+            {
+              "$ref": "rc-sproul.json"
+            },
+            {
+              "$ref": "dl-moody.json"
+            },
+            {
+              "$ref": "amy-carmichael.json"
+            },
+            {
+              "$ref": "jim-cymbala.json"
+            },
+            {
+              "$ref": "francis-schaeffer.json"
+            },
+            {
+              "$ref": "john-piper.json"
+            },
+            {
+              "$ref": "aw-tozer.json"
+            },
+            {
+              "$ref": "lottie-moon.json"
+            },
+            {
+              "$ref": "watchman-nee.json"
+            },
+            {
+              "$ref": "charles-finney.json"
+            },
+            {
+              "$ref": "william-booth.json"
+            },
+            {
+              "$ref": "gladys-aylward.json"
+            },
+            {
+              "$ref": "tim-keller.json"
+            }
+          ]
+        },
+        {
+          "id": "puritans",
+          "name": "Puritans",
+          "people": [
+            {
+              "$ref": "john-owen.json"
+            },
+            {
+              "$ref": "richard-baxter.json"
+            },
+            {
+              "$ref": "john-flavel.json"
+            },
+            {
+              "$ref": "thomas-watson.json"
+            },
+            {
+              "$ref": "matthew-henry.json"
+            }
+          ]
+        },
+        {
+          "id": "chinese-christians",
+          "name": "Chinese Christians",
+          "people": [
+            {
+              "$ref": "charlie-soong.json"
+            },
+            {
+              "$ref": "sun-yat-sen.json"
+            },
+            {
+              "$ref": "chiang-kai-shek.json"
+            },
+            {
+              "$ref": "soong-mei-ling.json"
+            }
+          ]
+        },
+        {
+          "id": "converts-from-other-faiths",
+          "name": "Converts from Other Faiths",
+          "people": [
+            {
+              "$ref": "pandita-ramabai.json"
+            },
+            {
+              "$ref": "sadhu-sundar-singh.json"
+            }
+          ]
+        },
+        {
+          "id": "inventors-engineers",
+          "name": "Inventors & Engineers",
+          "people": [
+            {
+              "$ref": "samuel-morse.json"
+            },
+            {
+              "$ref": "cyrus-mccormick.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living-testimonies",
+      "name": "Living Testimonies",
+      "description": "Athletes, musicians, actors, and celebrities who publicly profess faith in Jesus Christ",
+      "subcategories": [
+        {
+          "id": "athletes",
+          "name": "Athletes",
+          "people": [
+            {
+              "$ref": "tim-tebow.json"
+            },
+            {
+              "$ref": "stephen-curry.json"
+            },
+            {
+              "$ref": "jeremy-lin.json"
+            },
+            {
+              "$ref": "allyson-felix.json"
+            },
+            {
+              "$ref": "russell-wilson.json"
+            },
+            {
+              "$ref": "kirk-cousins.json"
+            },
+            {
+              "$ref": "manny-pacquiao.json"
+            },
+            {
+              "$ref": "david-robinson.json"
+            },
+            {
+              "$ref": "simone-biles.json"
+            },
+            {
+              "$ref": "sadie-robertson-huff.json"
+            },
+            {
+              "$ref": "gabby-douglas.json"
+            },
+            {
+              "$ref": "coco-gauff.json"
+            },
+            {
+              "$ref": "dak-prescott.json"
+            },
+            {
+              "$ref": "drew-brees.json"
+            },
+            {
+              "$ref": "katie-ledecky.json"
+            },
+            {
+              "$ref": "sydney-mclaughlin-levrone.json"
+            },
+            {
+              "$ref": "missy-franklin.json"
+            },
+            {
+              "$ref": "tamika-catchings.json"
+            }
+          ]
+        },
+        {
+          "id": "musicians-entertainers",
+          "name": "Musicians & Entertainers",
+          "people": [
+            {
+              "$ref": "lecrae.json"
+            },
+            {
+              "$ref": "lauren-daigle.json"
+            },
+            {
+              "$ref": "tobymac.json"
+            },
+            {
+              "$ref": "carrie-underwood.json"
+            },
+            {
+              "$ref": "chance-the-rapper.json"
+            },
+            {
+              "$ref": "switchfoot.json"
+            },
+            {
+              "$ref": "for-king-and-country.json"
+            },
+            {
+              "$ref": "keith-and-kristyn-getty.json"
+            },
+            {
+              "$ref": "stuart-townend.json"
+            },
+            {
+              "$ref": "shane-and-shane.json"
+            },
+            {
+              "$ref": "bob-kauflin.json"
+            },
+            {
+              "$ref": "mark-altrogge.json"
+            },
+            {
+              "$ref": "pat-sczebel.json"
+            },
+            {
+              "$ref": "matt-papa.json"
+            },
+            {
+              "$ref": "matt-boswell.json"
+            }
+          ]
+        },
+        {
+          "id": "actors",
+          "name": "Actors & Entertainers",
+          "people": [
+            {
+              "$ref": "denzel-washington.json"
+            },
+            {
+              "$ref": "chris-pratt.json"
+            },
+            {
+              "$ref": "candace-cameron-bure.json"
+            },
+            {
+              "$ref": "jim-caviezel.json"
+            },
+            {
+              "$ref": "chuck-norris.json"
+            },
+            {
+              "$ref": "kirk-cameron.json"
+            }
+          ]
+        },
+        {
+          "id": "apologists",
+          "name": "Apologists",
+          "people": [
+            {
+              "$ref": "nabeel-qureshi.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entrepreneurs-scientists",
+      "name": "Entrepreneurs, CEOs & Scientists",
+      "description": "Business leaders, entrepreneurs, and scientists who profess faith in Jesus Christ",
+      "subcategories": [
+        {
+          "id": "tech-business",
+          "name": "Technology & Business Leaders",
+          "people": [
+            {
+              "$ref": "patrick-bet-david.json"
+            },
+            {
+              "$ref": "pat-gelsinger.json"
+            },
+            {
+              "$ref": "david-green.json"
+            },
+            {
+              "$ref": "s-truett-cathy.json"
+            },
+            {
+              "$ref": "dan-cathy.json"
+            },
+            {
+              "$ref": "henry-kaestner.json"
+            },
+            {
+              "$ref": "john-d-beckett.json"
+            },
+            {
+              "$ref": "norm-miller.json"
+            },
+            {
+              "$ref": "horst-schulze.json"
+            },
+            {
+              "$ref": "cheryl-bachelder.json"
+            },
+            {
+              "$ref": "fred-smith.json"
+            },
+            {
+              "$ref": "alan-barnhart.json"
+            }
+          ]
+        },
+        {
+          "id": "scientists-living",
+          "name": "Scientists & Academics",
+          "people": [
+            {
+              "$ref": "james-tour.json"
+            },
+            {
+              "$ref": "john-lennox.json"
+            },
+            {
+              "$ref": "rosalind-picard.json"
+            },
+            {
+              "$ref": "william-d-phillips.json"
+            }
+          ]
+        },
+        {
+          "id": "computer-scientists",
+          "name": "Computer Scientists",
+          "people": [
+            {
+              "$ref": "donald-knuth.json"
+            },
+            {
+              "$ref": "john-vlissides.json"
+            }
+          ]
+        },
+        {
+          "id": "philanthropists",
+          "name": "Philanthropists",
+          "people": [
+            {
+              "$ref": "rg-letourneau.json"
+            },
+            {
+              "$ref": "john-wanamaker.json"
+            },
+            {
+              "$ref": "henry-parsons-crowell.json"
+            },
+            {
+              "$ref": "jc-penney.json"
+            },
+            {
+              "$ref": "asa-griggs-candler.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "military-political",
+      "name": "Military Leaders & Politicians",
+      "description": "Military operators, veterans, and political leaders who publicly profess their Christian faith",
+      "subcategories": [
+        {
+          "id": "military",
+          "name": "Military Leaders",
+          "people": [
+            {
+              "$ref": "pete-hegseth.json"
+            },
+            {
+              "$ref": "chad-williams.json"
+            },
+            {
+              "$ref": "jeff-struecker.json"
+            },
+            {
+              "$ref": "oliver-north.json"
+            },
+            {
+              "$ref": "desmond-doss.json"
+            },
+            {
+              "$ref": "alvin-york.json"
+            },
+            {
+              "$ref": "jason-redman.json"
+            },
+            {
+              "$ref": "marcus-luttrell.json"
+            }
+          ]
+        },
+        {
+          "id": "politicians",
+          "name": "Politicians & Public Servants",
+          "people": [
+            {
+              "$ref": "mike-pence.json"
+            },
+            {
+              "$ref": "ben-carson.json"
+            },
+            {
+              "$ref": "tim-scott.json"
+            },
+            {
+              "$ref": "mike-pompeo.json"
+            },
+            {
+              "$ref": "william-wilberforce-politicians.json"
+            },
+            {
+              "$ref": "abraham-lincoln.json"
+            },
+            {
+              "$ref": "george-washington.json"
+            },
+            {
+              "$ref": "marco-rubio.json"
+            },
+            {
+              "$ref": "charlie-kirk.json"
+            },
+            {
+              "$ref": "jimmy-carter.json"
+            },
+            {
+              "$ref": "mike-huckabee.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoResources": {
+    "description": "Curated video resources for evangelism and testimony",
+    "collections": [
+      {
+        "name": "I Am Second",
+        "description": "Personal testimony videos from athletes, musicians, and celebrities who put Jesus first",
+        "url": "https://www.iamsecond.com/",
+        "platform": "web",
+        "note": "Features testimonies from many notable Christians"
+      },
+      {
+        "name": "Living Waters - Are You a Good Person?",
+        "description": "Street evangelism videos by Ray Comfort using the law to bring knowledge of sin",
+        "url": "https://www.youtube.com/results?search_query=living+waters+ray+comfort+are+you+a+good+person",
+        "platform": "youtube",
+        "note": "Excellent evangelism tool showing people their need for a Savior"
+      },
+      {
+        "name": "I'll Be Honest - Testimonies",
+        "description": "Collection of honest, raw testimony videos from believers",
+        "url": "https://www.youtube.com/results?search_query=ill+be+honest+testimony",
+        "platform": "youtube",
+        "note": "Powerful short-form testimony videos"
+      },
+      {
+        "name": "Desiring God Testimonies",
+        "description": "Testimonies and teaching from John Piper and Desiring God ministry",
+        "url": "https://www.youtube.com/results?search_query=desiring+god+testimony+john+piper",
+        "platform": "youtube",
+        "note": "Reformed theology perspective on Christian living"
+      }
+    ]
+  }
+}

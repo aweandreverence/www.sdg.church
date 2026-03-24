@@ -1,0 +1,29 @@
+{
+  "name": "David Robinson",
+  "years": "August 6, 1965 – present",
+  "title": "Former NBA Center",
+  "bio": "American former professional basketball player who spent his entire career with the San Antonio Spurs. Two-time NBA champion, NBA MVP, and Naval Academy graduate known as 'The Admiral.'",
+  "faith": "Robinson became a born-again Christian during his NBA career and has devoted his post-basketball life to ministry and philanthropy. He founded the Carver Academy, a private Christian school in San Antonio, and is active in various faith-based organizations.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "David Robinson (basketball) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Robinson_(basketball)",
+      "note": "Biography including his Christian faith and philanthropy"
+    },
+    {
+      "type": "youtube",
+      "title": "David Robinson — I Am Second",
+      "url": "https://www.youtube.com/results?search_query=david+robinson+i+am+second+christian+testimony",
+      "note": "Robinson's I Am Second testimony"
+    }
+  ],
+  "slug": "david-robinson",
+  "tagline": "The Admiral — NBA MVP who built schools and served God after basketball",
+  "image": "/images/bios/david-robinson.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/David_Robinson_(basketball)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

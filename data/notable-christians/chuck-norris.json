@@ -1,0 +1,28 @@
+{
+  "name": "Chuck Norris",
+  "years": "March 10, 1940 – March 19, 2026",
+  "title": "Actor & Martial Artist",
+  "bio": "American martial artist, actor, and author. Known for 'Walker, Texas Ranger' and numerous action films. Held black belts in karate, taekwondo, Tang Soo Do, Brazilian jiu-jitsu, and judo. After serving in the U.S. Air Force, he won numerous martial arts championships and founded his own discipline, Chun Kuk Do. Passed away at age 86 in Kauaʻi, Hawaii.",
+  "faith": "A born-again Christian who has written about his faith in multiple books. He has said, 'My Christian faith has been the most important thing in my life.' He regularly writes columns discussing his faith and conservative Christian values.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Chuck Norris — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chuck_Norris",
+      "note": "Biography of the martial artist and actor"
+    },
+    {
+      "type": "book",
+      "title": "Against All Odds: My Story",
+      "note": "By Chuck Norris. His autobiography including his faith journey"
+    }
+  ],
+  "slug": "chuck-norris",
+  "tagline": "A martial arts legend and lifelong advocate for Christian values",
+  "image": "/images/bios/chuck-norris.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/440px-Chuck_Norris_May_2015.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

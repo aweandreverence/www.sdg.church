@@ -1,0 +1,28 @@
+{
+  "name": "Gladys Aylward",
+  "years": "February 24, 1902 – January 3, 1970",
+  "title": "Missionary to China",
+  "bio": "English missionary to China who served from 1930 onward. During the Japanese invasion, she led over 100 orphan children on a harrowing journey across the mountains to safety. Her story was told in the film 'The Inn of the Sixth Happiness.'",
+  "faith": "Rejected by the China Inland Mission for lacking education, Aylward saved her own money to travel to China by the Trans-Siberian Railway. She adopted Chinese citizenship, ran an inn for muleteers where she told Bible stories, and became known as 'Ai-weh-deh' (the Virtuous One).",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Gladys Aylward — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gladys_Aylward",
+      "note": "Biography of the determined missionary to China"
+    },
+    {
+      "type": "book",
+      "title": "The Small Woman",
+      "note": "By Alan Burgess. Biography adapted into 'The Inn of the Sixth Happiness' film"
+    }
+  ],
+  "slug": "gladys-aylward",
+  "tagline": "A parlor maid who became a legendary missionary to China",
+  "image": "/images/bios/gladys-aylward.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Gladys_Aylward",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

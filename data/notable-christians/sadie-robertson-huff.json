@@ -1,0 +1,29 @@
+{
+  "name": "Sadie Robertson Huff",
+  "years": "June 11, 1997 – present",
+  "title": "Author, Speaker & Media Personality",
+  "bio": "American author, speaker, and media personality best known for the reality TV show 'Duck Dynasty.' Founder of Live Original, a faith-based organization for young people.",
+  "faith": "Robertson is one of the most prominent young Christian voices in America. She hosts the 'Whoa That's Good' podcast, speaks at conferences, and has authored multiple bestselling books about faith. She openly shares about following Jesus in every area of life.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Sadie Robertson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sadie_Robertson",
+      "note": "Biography including her faith-based media and speaking career"
+    },
+    {
+      "type": "website",
+      "title": "Live Original",
+      "url": "https://www.liveoriginal.com/",
+      "note": "Robertson's faith-based organization for young people"
+    }
+  ],
+  "slug": "sadie-robertson-huff",
+  "tagline": "Turned reality TV fame into a platform for the gospel",
+  "image": "/images/bios/sadie-robertson-huff.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "CC BY-SA"
+  }
+}

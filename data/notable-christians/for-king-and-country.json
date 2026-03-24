@@ -1,0 +1,29 @@
+{
+  "name": "For King & Country",
+  "years": "2007 – present",
+  "title": "Christian Pop Duo",
+  "bio": "Australian Christian pop duo consisting of brothers Joel and Luke Smallbone. Multiple Grammy Award winners known for 'God Only Knows,' 'joy.,' and 'Burn the Ships.'",
+  "faith": "The Smallbone brothers grew up in a Christian family that moved from Australia to America with nothing. They have shared their family's testimony of God's provision and faithfulness extensively in interviews and their music.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "For King & Country — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/For_King_%26_Country_(band)",
+      "note": "Biography of the Christian pop duo"
+    },
+    {
+      "type": "youtube",
+      "title": "For King & Country — Family Testimony",
+      "url": "https://www.youtube.com/results?search_query=for+king+and+country+smallbone+family+testimony",
+      "note": "The Smallbone brothers sharing their family's story of faith"
+    }
+  ],
+  "slug": "for-king-and-country",
+  "tagline": "Brothers making anthems of hope that point to the King",
+  "image": "/images/bios/for-king-and-country.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "CC BY-SA"
+  }
+}

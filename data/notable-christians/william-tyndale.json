@@ -1,0 +1,23 @@
+{
+  "name": "William Tyndale",
+  "years": "c. 1494 – October 6, 1536",
+  "title": "Bible Translator & Martyr",
+  "bio": "English scholar who first translated the Bible into English from the original Hebrew and Greek. Strangled and burned at the stake in Belgium for heresy.",
+  "faith": "Tyndale's dying prayer was 'Lord, open the King of England's eyes.' Within four years, Henry VIII authorized an English Bible based largely on Tyndale's translation. About 84% of his New Testament survives in the King James Version.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Tyndale — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Tyndale",
+      "note": "Father of the English Bible"
+    }
+  ],
+  "slug": "william-tyndale",
+  "tagline": "Lord, open the King of England's eyes",
+  "image": "/images/bios/william-tyndale.jpg",
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public domain"
+  }
+}

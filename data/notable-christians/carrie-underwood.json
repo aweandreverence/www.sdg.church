@@ -1,0 +1,40 @@
+{
+  "name": "Carrie Underwood",
+  "years": "March 10, 1983 – present",
+  "title": "Country Music Singer",
+  "bio": "American singer and songwriter who rose to fame as the winner of Season 4 of American Idol. She has sold over 85 million records worldwide and won multiple Grammy Awards.",
+  "faith": "Underwood has been open about her Christian faith throughout her career. She recorded the gospel album 'My Savior' and has said, 'For me, it just feels natural and organic. It's just who I am. It's part of who I am.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Carrie Underwood — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carrie_Underwood",
+      "note": "Biography of the country music star"
+    },
+    {
+      "type": "wikipedia",
+      "title": "My Savior (album) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/My_Savior",
+      "note": "Her 2021 gospel hymns album"
+    },
+    {
+      "type": "book",
+      "title": "Find Your Path: Honor Your Body, Fuel Your Soul, and Get Strong with the Fit52 Life",
+      "note": "By Carrie Underwood (Dey Street Books, 2020). Discusses her faith as foundation for her life and wellness philosophy"
+    },
+    {
+      "type": "article",
+      "title": "Carrie Underwood on Recording 'My Savior' Gospel Album",
+      "url": "https://tasteofcountry.com/carrie-underwood-my-savior-gospel-album-interview/",
+      "note": "Interview about recording traditional hymns and the role of faith in her life and career"
+    }
+  ],
+  "slug": "carrie-underwood",
+  "tagline": "Country music's biggest voice who credits everything to Jesus",
+  "image": "/images/bios/carrie-underwood.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Carrie_Underwood",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

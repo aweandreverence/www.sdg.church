@@ -1,0 +1,28 @@
+{
+  "name": "Charles Finney",
+  "years": "August 29, 1792 – August 16, 1875",
+  "title": "Evangelist & Revivalist",
+  "bio": "American Presbyterian minister, revivalist leader, and president of Oberlin College. He was a central figure in the Second Great Awakening and is estimated to have led over 500,000 people to Christ.",
+  "faith": "Finney's dramatic conversion experience in 1821 transformed him from a lawyer to a fiery evangelist. His revival meetings featured new methods including the 'anxious bench' and extended meetings. He was also a strong advocate for abolition and women's education.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Charles Grandison Finney — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Grandison_Finney",
+      "note": "Biography of the Second Great Awakening revivalist"
+    },
+    {
+      "type": "book",
+      "title": "The Autobiography of Charles G. Finney",
+      "note": "Finney's own account of his conversion and revival ministry"
+    }
+  ],
+  "slug": "charles-finney",
+  "tagline": "The father of modern revivalism who transformed American Christianity",
+  "image": "/images/bios/charles-finney.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Charles_Grandison_Finney",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

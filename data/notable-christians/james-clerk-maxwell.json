@@ -1,0 +1,23 @@
+{
+  "name": "James Clerk Maxwell",
+  "years": "June 13, 1831 – November 5, 1879",
+  "title": "Physicist & Mathematician",
+  "bio": "Scottish physicist responsible for the classical theory of electromagnetic radiation, unifying electricity, magnetism, and light. Einstein called Maxwell's work 'the most profound and the most fruitful that physics has experienced since the time of Newton.'",
+  "faith": "A deeply committed evangelical Presbyterian who prayed regularly and saw his physics as revealing God's glory. He wrote, 'I think that the results which each man arrives at in his attempts to harmonize his science with his Christianity ought not to be regarded as having any significance except to the man himself.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "James Clerk Maxwell — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+      "note": "Biography including his evangelical Presbyterian faith"
+    }
+  ],
+  "slug": "james-clerk-maxwell",
+  "tagline": "United electricity, magnetism, and light — all to God's glory",
+  "image": "/images/bios/james-clerk-maxwell.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

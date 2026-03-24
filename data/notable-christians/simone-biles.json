@@ -1,0 +1,34 @@
+{
+  "name": "Simone Biles",
+  "years": "March 14, 1997 – present",
+  "title": "Olympic Gymnast",
+  "bio": "American artistic gymnast with 37 Olympic and World Championship medals combined, the most decorated gymnast in history.",
+  "faith": "Biles has shared her Christian faith on social media and in interviews. She has posted scripture on social media and has said her faith helps her through difficult times, including her courageous decision to prioritize mental health at the 2020 Olympics.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Simone Biles — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simone_Biles",
+      "note": "Biography of the most decorated gymnast in history"
+    },
+    {
+      "type": "book",
+      "title": "Courage to Soar: A Body in Motion, A Life in Balance",
+      "note": "By Simone Biles (Zondervan, 2016). Her autobiography discusses her Catholic faith and how prayer and trust in God sustain her through competition and adversity"
+    },
+    {
+      "type": "article",
+      "title": "How Simone Biles' Faith Guides Her",
+      "url": "https://www.today.com/parents/celebrity/simone-biles-faith-rcna163019",
+      "note": "Biles has shared publicly that her faith helped her through the Larry Nassar abuse scandal and her mental health struggles at the 2020 Olympics"
+    }
+  ],
+  "slug": "simone-biles",
+  "tagline": "The greatest gymnast ever, anchored by her faith through every trial",
+  "image": "/images/bios/simone-biles.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Simone_Biles",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

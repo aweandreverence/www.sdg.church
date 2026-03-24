@@ -1,0 +1,47 @@
+{
+  "name": "Johann Sebastian Bach",
+  "years": "March 31, 1685 – July 28, 1750",
+  "title": "Composer",
+  "bio": "German composer and musician of the Baroque period, widely regarded as one of the greatest composers of all time. His works include the Brandenburg Concertos, the Mass in B minor, and hundreds of cantatas.",
+  "faith": "A devout Lutheran who inscribed 'Soli Deo Gloria' (To God Alone Be the Glory) on his manuscripts. He composed extensively for the church and viewed his musical gifts as given by God for His glory.",
+  "videos": [
+    {
+      "title": "Bach and the Bible - The Faith Behind the Music",
+      "url": "https://www.youtube.com/results?search_query=johann+sebastian+bach+christian+faith+soli+deo+gloria",
+      "platform": "youtube",
+      "note": "Search for documentaries on Bach's faith"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Johann Sebastian Bach — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "note": "Comprehensive biography including his devout Lutheran faith"
+    },
+    {
+      "type": "book",
+      "title": "Bach: Music in the Castle of Heaven",
+      "note": "By John Eliot Gardiner. Explores Bach's faith and its influence on his compositions"
+    },
+    {
+      "type": "youtube",
+      "title": "Bach and the Soli Deo Gloria Tradition",
+      "url": "https://www.youtube.com/results?search_query=bach+soli+deo+gloria+christian+faith+documentary",
+      "note": "Documentaries exploring Bach's practice of inscribing SDG on his manuscripts"
+    },
+    {
+      "type": "website",
+      "title": "Bach-Archiv Leipzig",
+      "url": "https://www.bach-leipzig.de/en",
+      "note": "Official Bach archive with primary source materials"
+    }
+  ],
+  "slug": "johann-sebastian-bach",
+  "tagline": "Inscribed Soli Deo Gloria on every composition",
+  "image": "/images/bios/johann-sebastian-bach.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/440px-Johann_Sebastian_Bach.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Charlie Soong",
+  "years": "1863 – May 3, 1918",
+  "title": "Industrialist, Publisher & Methodist Leader",
+  "bio": "Chinese-American industrialist and Methodist missionary who became one of the wealthiest men in China. Born Han Jiaozhun, he studied at Vanderbilt University and Duke, then returned to China where he printed and distributed Bibles.",
+  "faith": "Soong converted to Christianity as a young man in America and was baptized a Methodist. He devoted himself to printing Bibles and Christian literature for China, becoming the foremost Bible publisher in the country. His faith shaped his entire family — his children became some of the most influential figures in modern China, and his daughter Mei-ling led Chiang Kai-shek to Christ.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Charlie Soong — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Soong",
+      "note": "Patriarch of the Soong dynasty"
+    }
+  ],
+  "slug": "charlie-soong",
+  "tagline": "The Bible publisher whose family shaped modern China",
+  "image": "/images/bios/charlie-soong.jpg",
+  "imageAttribution": {
+    "source": "Historical photograph",
+    "license": "Public domain"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Augustine of Hippo",
+  "years": "November 13, 354 – August 28, 430",
+  "title": "Theologian & Author",
+  "bio": "Early Christian theologian and philosopher from North Africa. Bishop of Hippo Regius and author of 'Confessions' and 'The City of God,' among the most influential works in Western Christianity.",
+  "faith": "After years of dissolute living and exploring various philosophies, Augustine dramatically converted to Christianity, famously hearing a child's voice saying 'Take up and read.' His 'Confessions' is one of the first autobiographies in Western literature and a testament to God's grace.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Augustine of Hippo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+      "note": "Comprehensive article on the most influential Church Father"
+    },
+    {
+      "type": "book",
+      "title": "Confessions",
+      "note": "By Augustine. His autobiographical account of conversion, one of the most important works in Christian literature"
+    },
+    {
+      "type": "book",
+      "title": "The City of God",
+      "note": "By Augustine. His monumental work on Christian philosophy of history"
+    }
+  ],
+  "slug": "augustine-of-hippo",
+  "tagline": "Heard 'Take up and read' and transformed Western Christianity",
+  "image": "/images/bios/augustine-of-hippo.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/440px-Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

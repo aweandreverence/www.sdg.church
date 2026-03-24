@@ -1,0 +1,41 @@
+{
+  "name": "Lecrae",
+  "years": "October 9, 1979 – present",
+  "title": "Rapper & Author",
+  "bio": "American Christian hip-hop artist, songwriter, and record producer. His 2014 album 'Anomaly' debuted at No. 1 on the Billboard 200. Grammy Award winner and founder of Reach Records.",
+  "faith": "Lecrae converted to Christianity as a teenager and has made his faith central to his music and identity. He has been transparent about his struggles and growth as a Christian. His memoir 'Unashamed' details his journey from a troubled youth to faith in Christ.",
+  "videos": [
+    {
+      "title": "Lecrae - I Am Second",
+      "url": "https://www.youtube.com/results?search_query=lecrae+i+am+second+testimony",
+      "platform": "youtube",
+      "note": "Lecrae has shared his testimony in I Am Second and various conferences"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Lecrae — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lecrae",
+      "note": "Biography of the Christian hip-hop artist"
+    },
+    {
+      "type": "book",
+      "title": "Unashamed",
+      "note": "By Lecrae. His memoir about faith, identity, and redemption"
+    },
+    {
+      "type": "website",
+      "title": "Reach Records",
+      "url": "https://www.reachrecords.com/",
+      "note": "The Christian hip-hop label Lecrae founded"
+    }
+  ],
+  "slug": "lecrae",
+  "tagline": "Pioneered faith-driven hip-hop and brought the gospel to mainstream culture",
+  "image": "/images/bios/lecrae.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Lecrae",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

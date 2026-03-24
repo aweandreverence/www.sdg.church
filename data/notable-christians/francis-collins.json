@@ -1,0 +1,47 @@
+{
+  "name": "Francis Collins",
+  "years": "April 14, 1950 – present",
+  "title": "Geneticist",
+  "bio": "American physician-geneticist who led the Human Genome Project and served as director of the National Institutes of Health (NIH) from 2009 to 2021.",
+  "faith": "A former atheist who converted to Christianity after reading C.S. Lewis's 'Mere Christianity.' He wrote 'The Language of God: A Scientist Presents Evidence for Belief' and founded BioLogos to explore the harmony between science and faith.",
+  "videos": [
+    {
+      "title": "Francis Collins: Why I'm a Christian",
+      "url": "https://www.youtube.com/results?search_query=francis+collins+why+christian+faith+testimony",
+      "platform": "youtube",
+      "note": "Search for Collins's numerous faith interviews and talks"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Francis Collins — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Francis_Collins",
+      "note": "Biography including his conversion from atheism"
+    },
+    {
+      "type": "book",
+      "title": "The Language of God: A Scientist Presents Evidence for Belief",
+      "note": "By Francis Collins. His personal account of how science and faith coexist"
+    },
+    {
+      "type": "website",
+      "title": "BioLogos",
+      "url": "https://biologos.org/",
+      "note": "The organization Collins founded to explore faith and science"
+    },
+    {
+      "type": "youtube",
+      "title": "Francis Collins — From Atheism to Faith",
+      "url": "https://www.youtube.com/results?search_query=francis+collins+atheism+to+faith+testimony",
+      "note": "Talks about his conversion through reading C.S. Lewis"
+    }
+  ],
+  "slug": "francis-collins",
+  "tagline": "Led the Human Genome Project as a converted atheist",
+  "image": "/images/bios/francis-collins.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Francis_Collins",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

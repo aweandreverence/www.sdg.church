@@ -1,0 +1,29 @@
+{
+  "name": "Russell Wilson",
+  "years": "November 29, 1988 – present",
+  "title": "NFL Quarterback",
+  "bio": "American professional football quarterback. Super Bowl XLVIII champion with the Seattle Seahawks. Multiple Pro Bowl selection.",
+  "faith": "A vocal Christian who credits God for his success and has spoken about practicing abstinence before marriage with his wife Ciara as an act of faith. He has said, 'My relationship with Jesus Christ is the most important thing in my life.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Russell Wilson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russell_Wilson",
+      "note": "Biography including his Christian faith"
+    },
+    {
+      "type": "youtube",
+      "title": "Russell Wilson and Ciara — Faith and Abstinence Testimony",
+      "url": "https://www.youtube.com/results?search_query=russell+wilson+ciara+christian+faith+abstinence",
+      "note": "Wilson and Ciara's public testimony about their faith commitment"
+    }
+  ],
+  "slug": "russell-wilson",
+  "tagline": "Leads on and off the field with faith as his foundation",
+  "image": "/images/bios/russell-wilson.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Russell_Wilson",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

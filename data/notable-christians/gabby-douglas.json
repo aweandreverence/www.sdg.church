@@ -1,0 +1,28 @@
+{
+  "name": "Gabby Douglas",
+  "years": "December 31, 1995 – present",
+  "title": "Olympic Gymnast",
+  "bio": "American artistic gymnast who became the first African American to win the individual all-around gold medal at the 2012 Olympics. Also won team gold in 2012 and 2016.",
+  "faith": "A devout Christian who has openly credited God for her success. She wrote 'Grace, Gold, and Glory: My Leap of Faith,' sharing how her faith sustained her through challenges. She has said, 'My faith is everything to me.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Gabby Douglas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gabby_Douglas",
+      "note": "Biography of the Olympic champion gymnast"
+    },
+    {
+      "type": "book",
+      "title": "Grace, Gold, and Glory: My Leap of Faith",
+      "note": "By Gabrielle Douglas. Her autobiography about faith and gymnastics"
+    }
+  ],
+  "slug": "gabby-douglas",
+  "tagline": "Won Olympic gold and gave all the glory to God",
+  "image": "/images/bios/gabby-douglas.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Gabby_Douglas",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

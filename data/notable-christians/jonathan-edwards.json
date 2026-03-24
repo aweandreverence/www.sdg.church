@@ -1,0 +1,35 @@
+{
+  "name": "Jonathan Edwards",
+  "years": "October 5, 1703 – March 22, 1758",
+  "title": "Theologian & Preacher",
+  "bio": "American revivalist preacher, philosopher, and Congregationalist Protestant theologian. Key figure in the First Great Awakening and third president of Princeton University.",
+  "faith": "Edwards is widely regarded as America's greatest theologian. His sermon 'Sinners in the Hands of an Angry God' is one of the most famous sermons in American history. His theological works on the nature of true virtue and religious affections remain deeply influential.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Jonathan Edwards (theologian) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+      "note": "Biography of America's greatest theologian"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Sinners in the Hands of an Angry God — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sinners_in_the_Hands_of_an_Angry_God",
+      "note": "His most famous sermon from the First Great Awakening"
+    },
+    {
+      "type": "website",
+      "title": "The Jonathan Edwards Center at Yale University",
+      "url": "http://edwards.yale.edu/",
+      "note": "Academic center preserving Edwards's works and legacy"
+    }
+  ],
+  "slug": "jonathan-edwards",
+  "tagline": "Preached Sinners in the Hands of an Angry God and sparked revival",
+  "image": "/images/bios/jonathan-edwards.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

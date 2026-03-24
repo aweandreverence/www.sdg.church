@@ -1,0 +1,23 @@
+{
+  "name": "Matthew Henry",
+  "years": "October 18, 1662 – June 22, 1714",
+  "title": "Bible Commentator & Pastor",
+  "bio": "Welsh-born Nonconformist minister whose Commentary on the Whole Bible remains one of the most widely used Bible commentaries ever written — over 300 years after its publication.",
+  "faith": "Henry's commentary is treasured for its devotional warmth and practical wisdom. Spurgeon said every minister should read it through at least once. Henry wrote: 'The joy of the Lord will arm us against the assaults of our spiritual enemies and put our mouths out of taste for those pleasures with which the tempter baits his hooks.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Henry — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Matthew_Henry",
+      "note": "Author of the beloved Bible commentary"
+    }
+  ],
+  "slug": "matthew-henry",
+  "tagline": "His Bible commentary has been read for over 300 years",
+  "image": "/images/bios/matthew-henry.jpg",
+  "imageAttribution": {
+    "source": "Historical portrait",
+    "license": "Public domain"
+  }
+}

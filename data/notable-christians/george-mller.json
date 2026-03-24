@@ -1,0 +1,34 @@
+{
+  "name": "George Müller",
+  "years": "September 27, 1805 – March 10, 1898",
+  "title": "Evangelist & Orphanage Director",
+  "bio": "Prussian-born evangelist and director of the Ashley Down orphanage in Bristol, England. He cared for over 10,000 orphans during his lifetime and established 117 schools offering Christian education to over 120,000 children.",
+  "faith": "Müller is renowned for his radical faith in God's provision. He never asked for money or went into debt, instead relying entirely on prayer. He recorded over 50,000 specific answers to prayer in his journals. He also distributed over 2 million Bibles and tracts.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "George Müller — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_M%C3%BCller",
+      "note": "Biography of the man of faith who cared for 10,000 orphans"
+    },
+    {
+      "type": "book",
+      "title": "The Autobiography of George Müller",
+      "note": "Müller's own account of his life of faith and answered prayer"
+    },
+    {
+      "type": "youtube",
+      "title": "George Müller: Delighted in God",
+      "url": "https://www.youtube.com/results?search_query=george+muller+documentary+faith+orphanage",
+      "note": "Documentaries about Müller's extraordinary prayer life"
+    }
+  ],
+  "slug": "george-mller",
+  "tagline": "Fed 10,000 orphans by prayer alone, never asking anyone but God",
+  "image": "/images/bios/george-mller.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/George_Müller",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

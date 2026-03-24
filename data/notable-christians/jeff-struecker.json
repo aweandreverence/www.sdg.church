@@ -1,0 +1,35 @@
+{
+  "name": "Jeff Struecker",
+  "years": "1969 – present",
+  "title": "Former Army Ranger & Pastor",
+  "bio": "American former Army Ranger who served in the Battle of Mogadishu (depicted in 'Black Hawk Down'). Retired as a Chaplain (Major). Now serves as a pastor and seminary professor.",
+  "faith": "Struecker's faith was tested in combat during the Battle of Mogadishu, where he led convoys through enemy fire. He became an Army chaplain and now pastors a church in Georgia. He has spoken extensively about how faith sustained him in combat.",
+  "videos": [
+    {
+      "title": "Jeff Struecker - Black Hawk Down Faith Story",
+      "url": "https://www.youtube.com/results?search_query=jeff+struecker+black+hawk+down+testimony+faith",
+      "platform": "youtube",
+      "note": "Struecker has shared his combat faith testimony widely"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Jeff Struecker — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Struecker",
+      "note": "Biography of the Black Hawk Down veteran turned pastor"
+    },
+    {
+      "type": "book",
+      "title": "The Road to Unafraid",
+      "note": "By Jeff Struecker. His account of faith under fire in Mogadishu"
+    }
+  ],
+  "slug": "jeff-struecker",
+  "tagline": "Black Hawk Down hero who traded combat for the pulpit",
+  "image": "/images/bios/jeff-struecker.jpg",
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public domain"
+  }
+}

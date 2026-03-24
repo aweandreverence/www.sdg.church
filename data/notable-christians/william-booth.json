@@ -1,0 +1,29 @@
+{
+  "name": "William Booth",
+  "years": "April 10, 1829 – August 20, 1912",
+  "title": "Evangelist & Social Reformer",
+  "bio": "English Methodist preacher who co-founded The Salvation Army with his wife Catherine in 1865. The organization combined evangelism with social services for the poor and has grown into a worldwide movement operating in over 130 countries.",
+  "faith": "Booth's passion was bringing the gospel to the poorest and most neglected members of society. He famously said, 'While women weep, as they do now, I'll fight; while little children go hungry, as they do now, I'll fight.' The Salvation Army's model of practical Christianity has served millions.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "William Booth — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Booth",
+      "note": "Biography of the founder of The Salvation Army"
+    },
+    {
+      "type": "wikipedia",
+      "title": "The Salvation Army — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Salvation_Army",
+      "note": "The worldwide organization Booth founded"
+    }
+  ],
+  "slug": "william-booth",
+  "tagline": "Founded the Salvation Army to fight sin and save souls",
+  "image": "/images/bios/william-booth.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/William_Booth",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

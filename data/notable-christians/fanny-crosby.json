@@ -1,0 +1,34 @@
+{
+  "name": "Fanny Crosby",
+  "years": "March 24, 1820 – February 12, 1915",
+  "title": "Hymn Writer",
+  "bio": "American mission worker, poet, lyricist, and composer who wrote over 8,000 hymns and gospel songs. Blind from infancy, she became one of the most prolific hymnists in history.",
+  "faith": "Despite losing her sight as an infant, Crosby devoted her life to glorifying God through music. She wrote beloved hymns including 'Blessed Assurance,' 'To God Be the Glory,' and 'All the Way My Savior Leads Me.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Fanny Crosby — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fanny_Crosby",
+      "note": "Biography of the prolific blind hymn writer"
+    },
+    {
+      "type": "book",
+      "title": "Fanny Crosby: An Autobiography",
+      "note": "Crosby's own account of her life and faith journey"
+    },
+    {
+      "type": "youtube",
+      "title": "The Story of Fanny Crosby",
+      "url": "https://www.youtube.com/results?search_query=fanny+crosby+biography+documentary+hymn+writer",
+      "note": "Documentaries about her extraordinary life and 8,000+ hymns"
+    }
+  ],
+  "slug": "fanny-crosby",
+  "tagline": "Blind from infancy, she wrote over 8,000 hymns to God's glory",
+  "image": "/images/bios/fanny-crosby.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Fanny_Crosby",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Desmond Doss",
+  "years": "February 7, 1919 – March 23, 2006",
+  "title": "Army Medic & Medal of Honor Recipient",
+  "bio": "American Army corporal who served as a combat medic in World War II. He was the first conscientious objector to receive the Medal of Honor, saving 75 men at the Battle of Okinawa without carrying a weapon.",
+  "faith": "A devout Seventh-day Adventist whose Christian convictions led him to refuse to carry a weapon or work on Saturdays. Despite ridicule and persecution from fellow soldiers, his extraordinary bravery and faith under fire earned him the Medal of Honor. His story was told in the film 'Hacksaw Ridge.'",
+  "videos": [
+    {
+      "title": "Desmond Doss - The Real Hacksaw Ridge",
+      "url": "https://www.youtube.com/results?search_query=desmond+doss+hacksaw+ridge+real+story+testimony",
+      "platform": "youtube",
+      "note": "Multiple documentaries about Doss's faith and heroism exist"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Desmond Doss — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Desmond_Doss",
+      "note": "Biography of the conscientious objector Medal of Honor recipient"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Hacksaw Ridge — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hacksaw_Ridge",
+      "note": "The 2016 film based on Doss's story, directed by Mel Gibson"
+    },
+    {
+      "type": "book",
+      "title": "Desmond Doss: Conscientious Objector",
+      "note": "By Frances Doss. Biography by his first wife"
+    }
+  ],
+  "slug": "desmond-doss",
+  "tagline": "A conscientious objector who saved 75 lives without firing a shot",
+  "image": "/images/bios/desmond-doss.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Desmond_Doss",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

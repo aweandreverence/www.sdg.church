@@ -1,0 +1,34 @@
+{
+  "name": "Hudson Taylor",
+  "years": "May 21, 1832 – June 3, 1905",
+  "title": "Missionary to China",
+  "bio": "British Protestant Christian missionary to China and founder of the China Inland Mission (now OMF International). He spent 51 years in China and is regarded as one of the most important missionaries of all time.",
+  "faith": "Taylor pioneered a new approach to missions by adopting Chinese dress and customs, living by faith without soliciting funds, and opening inland China to the gospel. The CIM he founded became the largest mission agency in the world, eventually bringing over 800 missionaries to China.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Hudson Taylor — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hudson_Taylor",
+      "note": "Biography of the pioneering missionary to inland China"
+    },
+    {
+      "type": "book",
+      "title": "Hudson Taylor's Spiritual Secret",
+      "note": "By Dr. and Mrs. Howard Taylor. Classic biography of Taylor's faith-driven life"
+    },
+    {
+      "type": "website",
+      "title": "OMF International",
+      "url": "https://omf.org/",
+      "note": "The modern successor to the China Inland Mission Taylor founded"
+    }
+  ],
+  "slug": "hudson-taylor",
+  "tagline": "Trusted God alone to fund an entire mission to inland China",
+  "image": "/images/bios/hudson-taylor.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Hudson_Taylor",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

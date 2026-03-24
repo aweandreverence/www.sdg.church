@@ -1,0 +1,46 @@
+{
+  "name": "John Lennox",
+  "years": "November 7, 1943 – present",
+  "title": "Mathematician & Apologist",
+  "bio": "Northern Irish mathematician, bioethicist, and Christian apologist. Emeritus Professor of Mathematics at the University of Oxford. Known for debates with Richard Dawkins and Christopher Hitchens.",
+  "faith": "Lennox is one of the most prominent Christian apologists in the academic world. He has debated leading atheists and written numerous books defending the Christian faith, including 'God's Undertaker: Has Science Buried God?' and 'Can Science Explain Everything?'",
+  "videos": [
+    {
+      "title": "John Lennox vs Richard Dawkins Debate",
+      "url": "https://www.youtube.com/results?search_query=john+lennox+richard+dawkins+debate+god+delusion",
+      "platform": "youtube",
+      "note": "Lennox's debates with Dawkins and Hitchens are widely available"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John Lennox — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Lennox",
+      "note": "Biography of the Oxford mathematician and apologist"
+    },
+    {
+      "type": "book",
+      "title": "God's Undertaker: Has Science Buried God?",
+      "note": "By John Lennox. His case that science points to God"
+    },
+    {
+      "type": "book",
+      "title": "Can Science Explain Everything?",
+      "note": "By John Lennox. Accessible defense of faith and science"
+    },
+    {
+      "type": "youtube",
+      "title": "John Lennox vs Christopher Hitchens Debate",
+      "url": "https://www.youtube.com/results?search_query=john+lennox+christopher+hitchens+debate",
+      "note": "Lennox debating one of the 'New Atheists'"
+    }
+  ],
+  "slug": "john-lennox",
+  "tagline": "Oxford mathematician who debated Dawkins and Hitchens for the faith",
+  "image": "/images/bios/john-lennox.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/John_Lennox",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

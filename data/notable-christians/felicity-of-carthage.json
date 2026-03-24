@@ -1,0 +1,23 @@
+{
+  "name": "Felicity of Carthage",
+  "years": "died March 7, 203",
+  "title": "Early Church Martyr",
+  "bio": "A slave and companion of Perpetua, martyred together in the Carthage arena. She gave birth in prison just days before her execution and refused to deny Christ.",
+  "faith": "When mocked for crying out in labor pain, Felicity replied that in the arena, Christ would suffer in her. Her courage alongside Perpetua has inspired Christians for nearly two millennia.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Felicity — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Perpetua_and_Felicity",
+      "note": "Companion of Perpetua, martyred in Carthage"
+    }
+  ],
+  "slug": "felicity-of-carthage",
+  "tagline": "In the arena, another will be in me who will suffer for me",
+  "image": "/images/bios/felicity-of-carthage.jpg",
+  "imageAttribution": {
+    "source": "Medieval manuscript illustration",
+    "license": "Public domain"
+  }
+}

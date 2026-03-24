@@ -1,0 +1,46 @@
+{
+  "name": "Francis Schaeffer",
+  "years": "January 30, 1912 – May 15, 1984",
+  "title": "Philosopher, Theologian & Author",
+  "bio": "American evangelical theologian, philosopher, and Presbyterian pastor. He founded the L'Abri Fellowship community in Switzerland, which became a haven for seekers and intellectuals exploring Christian faith. He authored influential works including 'The God Who Is There' and 'How Should We Then Live?'",
+  "faith": "Schaeffer engaged the intellectual culture of the 20th century with a rigorous Christian worldview. He argued that Christianity provides the only adequate basis for human meaning, morality, and knowledge. His work influenced a generation of evangelical thinkers and leaders.",
+  "videos": [
+    {
+      "title": "How Should We Then Live? — Francis Schaeffer Documentary Series",
+      "url": "https://www.youtube.com/results?search_query=francis+schaeffer+how+should+we+then+live+documentary",
+      "platform": "youtube",
+      "note": "Schaeffer's landmark documentary series on Western civilization and Christianity"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Francis Schaeffer — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Francis_Schaeffer",
+      "note": "Biography of the philosopher-theologian"
+    },
+    {
+      "type": "website",
+      "title": "L'Abri Fellowship",
+      "url": "https://labri.org/",
+      "note": "The study community Schaeffer founded in Switzerland"
+    },
+    {
+      "type": "book",
+      "title": "The God Who Is There",
+      "note": "By Francis Schaeffer. His foundational work on Christian apologetics"
+    },
+    {
+      "type": "book",
+      "title": "How Should We Then Live? The Rise and Decline of Western Thought and Culture",
+      "note": "By Francis Schaeffer. Cultural analysis from a Christian worldview"
+    }
+  ],
+  "slug": "francis-schaeffer",
+  "tagline": "Showed that Christianity is true truth — answering every honest question",
+  "image": "/images/bios/francis-schaeffer.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Francis_Schaeffer",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

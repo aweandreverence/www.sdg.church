@@ -1,0 +1,34 @@
+{
+  "name": "George Frideric Handel",
+  "years": "February 23, 1685 – April 14, 1759",
+  "title": "Composer",
+  "bio": "German-born British Baroque composer famous for his operas, oratorios, and concertos. Best known for 'Messiah,' one of the most performed choral works in Western music.",
+  "faith": "A committed Christian whose masterwork 'Messiah' sets to music the life of Jesus Christ from prophecy through resurrection. Upon completing the 'Hallelujah Chorus,' he reportedly said, 'I did think I did see all Heaven before me, and the great God Himself.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "George Frideric Handel — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+      "note": "Biography including composition of Messiah"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Messiah (Handel) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Messiah_(Handel)",
+      "note": "Detailed history of the oratorio and its biblical text"
+    },
+    {
+      "type": "book",
+      "title": "Handel's Messiah: Comfort for God's People",
+      "note": "By Calvin Stapert. Explores the theological depth of Handel's masterwork"
+    }
+  ],
+  "slug": "george-frideric-handel",
+  "tagline": "Saw all Heaven before him while composing the Hallelujah Chorus",
+  "image": "/images/bios/george-frideric-handel.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/440px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Thomas Watson",
+  "years": "c. 1620 – 1686",
+  "title": "Puritan Preacher & Author",
+  "bio": "English Nonconformist Puritan preacher and author, known for his clear and practical expositions of doctrine. Ejected from his pulpit by the Great Ejection of 1662.",
+  "faith": "Watson's A Body of Divinity and The Doctrine of Repentance are prized for making deep theology vivid and memorable. He wrote: 'God's wounds cure, sin's kisses kill.' His gift was making the truths of the Westminster Shorter Catechism come alive for ordinary believers.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Watson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Watson_(Puritan)",
+      "note": "Puritan author of A Body of Divinity"
+    }
+  ],
+  "slug": "thomas-watson",
+  "tagline": "God's wounds cure — sin's kisses kill",
+  "image": "/images/bios/thomas-watson.jpg",
+  "imageAttribution": {
+    "source": "Historical portrait",
+    "license": "Public domain"
+  }
+}

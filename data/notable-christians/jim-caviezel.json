@@ -1,0 +1,36 @@
+{
+  "name": "Jim Caviezel",
+  "years": "September 26, 1968 – present",
+  "title": "Actor",
+  "bio": "American actor best known for portraying Jesus Christ in Mel Gibson's 'The Passion of the Christ' (2004) and its sequel. Also starred in 'Person of Interest' and 'Sound of Freedom.'",
+  "faith": "A devout Catholic who accepted the role of Jesus knowing it could end his Hollywood career. He has spoken at conferences about the cost of following Christ and how his faith guided his acting choices. Starring in 'Sound of Freedom' further demonstrated his commitment to faith-driven projects.",
+  "videos": [
+    {
+      "title": "Jim Caviezel Testimony - Faith and The Passion of the Christ",
+      "url": "https://www.youtube.com/results?search_query=jim+caviezel+testimony+faith+passion+of+christ",
+      "platform": "youtube",
+      "note": "Caviezel has shared powerful testimony about playing Jesus and his Catholic faith"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Jim Caviezel — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jim_Caviezel",
+      "note": "Biography of the actor who portrayed Jesus in The Passion of the Christ"
+    },
+    {
+      "type": "youtube",
+      "title": "Jim Caviezel — The Cost of Playing Jesus",
+      "url": "https://www.youtube.com/results?search_query=jim+caviezel+cost+playing+jesus+passion+career",
+      "note": "Caviezel on how the role of Jesus impacted his career and faith"
+    }
+  ],
+  "slug": "jim-caviezel",
+  "tagline": "Endured real suffering to portray Christ in The Passion",
+  "image": "/images/bios/jim-caviezel.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Jim_Caviezel",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

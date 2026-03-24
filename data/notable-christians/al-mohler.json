@@ -1,0 +1,23 @@
+{
+  "name": "Al Mohler",
+  "years": "October 19, 1959 –",
+  "title": "Theologian & Seminary President",
+  "bio": "President of The Southern Baptist Theological Seminary since 1993, the flagship seminary of the Southern Baptist Convention. A leading public intellectual and daily podcaster who addresses theology, culture, and current events.",
+  "faith": "Mohler led the conservative resurgence at Southern Seminary, returning it to its confessional roots. His daily podcast The Briefing and his prolific writing have made him one of the most influential Reformed voices in American Christianity. He champions biblical inerrancy, complementarianism, and the sufficiency of Scripture.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Al Mohler — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albert_Mohler",
+      "note": "President of Southern Baptist Theological Seminary"
+    }
+  ],
+  "slug": "al-mohler",
+  "tagline": "Leading the conservative resurgence in the SBC",
+  "image": "/images/bios/al-mohler.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "CC BY 2.0"
+  }
+}

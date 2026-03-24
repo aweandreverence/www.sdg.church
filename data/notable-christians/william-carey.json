@@ -1,0 +1,28 @@
+{
+  "name": "William Carey",
+  "years": "August 17, 1761 – June 9, 1834",
+  "title": "Missionary to India",
+  "bio": "English Baptist minister, missionary, and translator known as the 'Father of Modern Missions.' He founded the Serampore College and Serampore University (the first degree-granting university in India) and translated the Bible into numerous Indian languages.",
+  "faith": "Carey's famous motto was 'Expect great things from God; attempt great things for God.' He labored for decades in India, translating the Bible into Bengali, Sanskrit, and many other languages, establishing schools, and fighting social evils like sati (widow burning).",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "William Carey (missionary) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Carey_(missionary)",
+      "note": "Biography of the 'Father of Modern Missions'"
+    },
+    {
+      "type": "book",
+      "title": "An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens",
+      "note": "By William Carey. The pamphlet that launched the modern missions movement"
+    }
+  ],
+  "slug": "william-carey",
+  "tagline": "The father of modern missions who translated the Bible into dozens of languages",
+  "image": "/images/bios/william-carey.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/William_Carey_(missionary)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

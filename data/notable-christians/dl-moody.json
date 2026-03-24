@@ -1,0 +1,29 @@
+{
+  "name": "D.L. Moody",
+  "years": "February 5, 1837 – December 22, 1899",
+  "title": "Evangelist & Educator",
+  "bio": "American evangelist and publisher connected with Keswick and Higher Life movements. He founded the Moody Church, Northfield Schools, and the Moody Bible Institute in Chicago. He is estimated to have preached to over 100 million people.",
+  "faith": "Moody was converted at age 18 when his Sunday school teacher visited him at work. He became one of the greatest evangelists of the 19th century, working alongside hymn writer Ira Sankey. His plain-spoken gospel preaching drew massive crowds on both sides of the Atlantic.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Dwight L. Moody — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dwight_L._Moody",
+      "note": "Biography of the great 19th-century evangelist"
+    },
+    {
+      "type": "website",
+      "title": "Moody Bible Institute",
+      "url": "https://www.moody.edu/",
+      "note": "The Bible institute Moody founded in Chicago"
+    }
+  ],
+  "slug": "dl-moody",
+  "tagline": "A shoe salesman who became America's greatest 19th-century evangelist",
+  "image": "/images/bios/dl-moody.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Dwight_L._Moody",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

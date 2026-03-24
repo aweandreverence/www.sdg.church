@@ -1,0 +1,29 @@
+{
+  "name": "Rosalind Picard",
+  "years": "May 17, 1962 – present",
+  "title": "Computer Scientist & Engineer",
+  "bio": "American scholar and inventor who is founder and director of the Affective Computing Research Group at MIT Media Lab. Pioneer in affective computing and wearable technology.",
+  "faith": "Picard became a Christian as an adult after being challenged to read the Bible. She has spoken about how her scientific career and faith journey intertwine, and has given talks about being a Christian in the scientific academy.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Rosalind Picard — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rosalind_Picard",
+      "note": "Biography of the MIT affective computing pioneer"
+    },
+    {
+      "type": "youtube",
+      "title": "Rosalind Picard — From Atheism to Faith at MIT",
+      "url": "https://www.youtube.com/results?search_query=rosalind+picard+christian+faith+mit+testimony",
+      "note": "Picard's testimony about becoming a Christian as a scientist"
+    }
+  ],
+  "slug": "rosalind-picard",
+  "tagline": "Pioneered affective computing after her conversion to Christ",
+  "image": "/images/bios/rosalind-picard.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Rosalind_Picard",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

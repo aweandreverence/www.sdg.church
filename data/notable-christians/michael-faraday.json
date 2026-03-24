@@ -1,0 +1,29 @@
+{
+  "name": "Michael Faraday",
+  "years": "September 22, 1791 – August 25, 1867",
+  "title": "Physicist & Chemist",
+  "bio": "English scientist who contributed to the study of electromagnetism and electrochemistry. His discoveries include electromagnetic induction, diamagnetism, and electrolysis.",
+  "faith": "A devout member of the Sandemanian church (a small Christian sect), Faraday's faith was central to his life. He served as a deacon and elder and saw no conflict between science and his Christian beliefs, viewing the study of nature as the study of God's creation.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Michael Faraday — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+      "note": "Biography including his Sandemanian faith"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Glasite — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Glasite",
+      "note": "About the Sandemanian/Glasite church Faraday belonged to"
+    }
+  ],
+  "slug": "michael-faraday",
+  "tagline": "Discovered electromagnetism while serving as a church elder",
+  "image": "/images/bios/michael-faraday.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Michael_Faraday",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

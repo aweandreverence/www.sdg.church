@@ -1,0 +1,36 @@
+{
+  "name": "Manny Pacquiao",
+  "years": "December 17, 1978 – present",
+  "title": "Professional Boxer & Politician",
+  "bio": "Filipino professional boxer and politician, the only eight-division world champion in boxing history. He also served as a senator in the Philippines.",
+  "faith": "After years of gambling and womanizing, Pacquiao experienced a dramatic conversion to evangelical Christianity. He now preaches regularly at churches, studies the Bible daily, and has said his faith transformed every aspect of his life.",
+  "videos": [
+    {
+      "title": "Manny Pacquiao Christian Testimony",
+      "url": "https://www.youtube.com/results?search_query=manny+pacquiao+christian+testimony+conversion",
+      "platform": "youtube",
+      "note": "Pacquiao has shared his dramatic conversion story many times"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Manny Pacquiao — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manny_Pacquiao",
+      "note": "Biography including his conversion to Christianity"
+    },
+    {
+      "type": "youtube",
+      "title": "Manny Pacquiao — From Boxing Champion to Bible Preacher",
+      "url": "https://www.youtube.com/results?search_query=manny+pacquiao+bible+preacher+testimony+conversion",
+      "note": "His dramatic transformation from gambling to gospel preaching"
+    }
+  ],
+  "slug": "manny-pacquiao",
+  "tagline": "From world champion boxer to gospel preacher and senator",
+  "image": "/images/bios/manny-pacquiao.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Manny_Pacquiao",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Charles Haddon Spurgeon",
+  "years": "June 19, 1834 – January 31, 1892",
+  "title": "Preacher & Author",
+  "bio": "English Particular Baptist preacher known as the 'Prince of Preachers.' Pastor of the Metropolitan Tabernacle in London, he frequently preached to audiences of more than 10,000 people.",
+  "faith": "Spurgeon was converted at age 15 and began preaching immediately. He published thousands of sermons and authored numerous books. He founded a pastors' college, orphanages, and other charitable organizations, all flowing from his deep love for Christ.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Charles Spurgeon — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Spurgeon",
+      "note": "Biography of the 'Prince of Preachers'"
+    },
+    {
+      "type": "website",
+      "title": "Spurgeon's Sermons Archive",
+      "url": "https://www.spurgeon.org/",
+      "note": "Archive of Spurgeon's thousands of published sermons"
+    }
+  ],
+  "slug": "charles-haddon-spurgeon",
+  "tagline": "The Prince of Preachers who drew thousands to Christ weekly",
+  "image": "/images/bios/charles-haddon-spurgeon.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Charles_Spurgeon",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

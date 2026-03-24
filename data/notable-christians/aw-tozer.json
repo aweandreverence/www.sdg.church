@@ -1,0 +1,33 @@
+{
+  "name": "A.W. Tozer",
+  "years": "April 21, 1897 – May 12, 1963",
+  "title": "Pastor & Author",
+  "bio": "American Christian pastor, author, magazine editor, and spiritual mentor. He served as pastor for 44 years, primarily at Southside Alliance Church in Chicago. Despite having no formal education, he received honorary doctorates from Wheaton and Houghton colleges.",
+  "faith": "Tozer's devotional writings emphasize the pursuit of God's presence above all else. His books 'The Pursuit of God' and 'The Knowledge of the Holy' are considered spiritual classics. He was known as a 'prophet' who called the church to deeper intimacy with God.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "A. W. Tozer — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A._W._Tozer",
+      "note": "Biography of the self-taught pastor and mystic"
+    },
+    {
+      "type": "book",
+      "title": "The Pursuit of God",
+      "note": "By A.W. Tozer. His devotional classic on seeking God's presence"
+    },
+    {
+      "type": "book",
+      "title": "The Knowledge of the Holy",
+      "note": "By A.W. Tozer. Study of the attributes of God"
+    }
+  ],
+  "slug": "aw-tozer",
+  "tagline": "The 20th-century prophet who pursued the knowledge of the Holy",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

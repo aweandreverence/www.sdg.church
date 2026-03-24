@@ -1,0 +1,36 @@
+{
+  "name": "Denzel Washington",
+  "years": "December 28, 1954 – present",
+  "title": "Actor & Director",
+  "bio": "American actor, director, and producer. Two-time Academy Award winner and one of the most respected actors in Hollywood history.",
+  "faith": "Washington is a devout Christian who has spoken openly about his faith for decades. He once considered becoming a preacher and has said, 'Put God first in everything you do. Everything that I have is by the grace of God.' He reads the Bible daily and has been a regular churchgoer his entire life.",
+  "videos": [
+    {
+      "title": "Denzel Washington - Put God First",
+      "url": "https://www.youtube.com/results?search_query=denzel+washington+put+god+first+speech",
+      "platform": "youtube",
+      "note": "Denzel's commencement speeches about faith are widely viewed"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Denzel Washington — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Denzel_Washington",
+      "note": "Biography of the two-time Oscar winner"
+    },
+    {
+      "type": "youtube",
+      "title": "Denzel Washington — Put God First Commencement Speech",
+      "url": "https://www.youtube.com/results?search_query=denzel+washington+put+god+first+commencement+speech",
+      "note": "His viral speech about putting God first in everything"
+    }
+  ],
+  "slug": "denzel-washington",
+  "tagline": "Put God first in Hollywood and never wavered",
+  "image": "/images/bios/denzel-washington.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Denzel_Washington_2018.jpg/440px-Denzel_Washington_2018.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

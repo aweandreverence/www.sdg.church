@@ -1,0 +1,29 @@
+{
+  "name": "Nate Saint",
+  "slug": "nate-saint",
+  "years": "August 30, 1923 – January 8, 1956",
+  "title": "Missionary Pilot & Martyr",
+  "tagline": "Missionary pilot martyred alongside Jim Elliot — his son Steve later befriended the very tribe that killed his father",
+  "bio": "Nate Saint was an American missionary pilot who served with Mission Aviation Fellowship (MAF) in Ecuador. A gifted inventor, he developed the 'bucket drop' technique to safely deliver gifts to unreached tribes from the air. He was part of Operation Auca, the effort to make contact with the isolated Waorani (Auca) people. On January 8, 1956, he and four companions — Jim Elliot, Ed McCully, Pete Fleming, and Roger Youderian — were killed by Waorani warriors on a sandbar along the Curaray River. His son Steve later lived among the Waorani and was baptized by the very men who had killed his father.",
+  "faith": "Saint's faith drove him to risk his life bringing the gospel to unreached peoples. His inventive use of aviation technology in missionary service demonstrated a practical, resourceful faith. The remarkable sequel to his martyrdom — his son Steve's reconciliation with the Waorani and the eventual conversion of many in the tribe — stands as one of the most powerful testimonies of forgiveness and redemption in modern missions history.",
+  "image": "/images/placeholder-saint.svg",
+  "videos": [],
+  "sources": [
+    {
+      "type": "book",
+      "title": "Jungle Pilot",
+      "url": "",
+      "note": "By Russell Hitt. Biography of Nate Saint's missionary aviation work"
+    },
+    {
+      "type": "book",
+      "title": "End of the Spear",
+      "url": "",
+      "note": "By Steve Saint. His son's account of reconciliation with the Waorani"
+    }
+  ],
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

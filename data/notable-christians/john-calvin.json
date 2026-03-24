@@ -1,0 +1,29 @@
+{
+  "name": "John Calvin",
+  "years": "July 10, 1509 – May 27, 1564",
+  "title": "Reformer & Theologian",
+  "bio": "French theologian, pastor, and reformer who was a principal figure in the development of the system of Christian theology later called Calvinism. His 'Institutes of the Christian Religion' is a foundational work of Protestant theology.",
+  "faith": "Calvin's theology emphasized the sovereignty of God, the authority of Scripture, and salvation by grace alone through faith alone. His work in Geneva established a model for Reformed churches worldwide.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John Calvin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Calvin",
+      "note": "Comprehensive biography of the Reformed theologian"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Institutes of the Christian Religion — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Institutes_of_the_Christian_Religion",
+      "note": "His foundational work of Protestant theology"
+    }
+  ],
+  "slug": "john-calvin",
+  "tagline": "Offered his heart to God, promptly and sincerely",
+  "image": "/images/bios/john-calvin.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/John_Calvin",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

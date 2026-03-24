@@ -1,0 +1,34 @@
+{
+  "name": "Leo Tolstoy",
+  "years": "September 9, 1828 – November 20, 1910",
+  "title": "Novelist",
+  "bio": "Russian writer regarded as one of the greatest authors of all time. Best known for 'War and Peace' and 'Anna Karenina.'",
+  "faith": "After a spiritual crisis in midlife, Tolstoy underwent a profound Christian conversion. He devoted the latter part of his life to understanding and following the teachings of Jesus, writing 'A Confession' and 'The Kingdom of God Is Within You.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Leo Tolstoy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+      "note": "Biography including his spiritual crisis and Christian conversion"
+    },
+    {
+      "type": "wikipedia",
+      "title": "A Confession — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A_Confession",
+      "note": "Tolstoy's account of his spiritual crisis and turn to Christ"
+    },
+    {
+      "type": "book",
+      "title": "The Kingdom of God Is Within You",
+      "note": "By Tolstoy. His treatise on Christian nonviolence that influenced Gandhi"
+    }
+  ],
+  "slug": "leo-tolstoy",
+  "tagline": "Abandoned literary fame to follow the teachings of Jesus",
+  "image": "/images/bios/leo-tolstoy.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/440px-L.N.Tolstoy_Prokudin-Gorsky.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

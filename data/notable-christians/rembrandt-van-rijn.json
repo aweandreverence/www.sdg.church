@@ -1,0 +1,34 @@
+{
+  "name": "Rembrandt van Rijn",
+  "years": "July 15, 1606 – October 4, 1669",
+  "title": "Painter & Printmaker",
+  "bio": "Dutch Golden Age painter and printmaker, generally considered one of the greatest visual artists in history. Known for biblical paintings, self-portraits, and masterful use of light and shadow.",
+  "faith": "A deeply devout Protestant Christian, Rembrandt painted over 300 biblical scenes, more than any other major Western artist. His 'The Return of the Prodigal Son' is considered one of the most powerful visual depictions of God's grace.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Rembrandt — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rembrandt",
+      "note": "Biography of the artist who painted more biblical scenes than any other major Western artist"
+    },
+    {
+      "type": "wikipedia",
+      "title": "The Return of the Prodigal Son (Rembrandt) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Return_of_the_Prodigal_Son_(Rembrandt)",
+      "note": "His masterful depiction of the parable from Luke 15"
+    },
+    {
+      "type": "book",
+      "title": "The Return of the Prodigal Son: A Story of Homecoming",
+      "note": "By Henri Nouwen. A spiritual meditation on Rembrandt's painting"
+    }
+  ],
+  "slug": "rembrandt-van-rijn",
+  "tagline": "Illuminated biblical scenes with the light of divine grace",
+  "image": "/images/bios/rembrandt-van-rijn.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/440px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

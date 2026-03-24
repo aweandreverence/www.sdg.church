@@ -1,0 +1,36 @@
+{
+  "name": "Henry Kaestner",
+  "years": "c. 1970s – present",
+  "title": "Co-founder of Bandwidth.com & Sovereign's Capital",
+  "bio": "American entrepreneur, investor, and co-founder of Bandwidth.com (a publicly traded communications platform) and Sovereign's Capital, a faith-driven investing firm.",
+  "faith": "Kaestner is a vocal Christian who co-hosts the 'Faith Driven Entrepreneur' podcast and movement, which encourages Christians to view business as a calling. He has spoken extensively about integrating faith with entrepreneurship and investing.",
+  "videos": [
+    {
+      "title": "Henry Kaestner - Faith Driven Entrepreneur",
+      "url": "https://www.youtube.com/results?search_query=henry+kaestner+faith+driven+entrepreneur",
+      "platform": "youtube",
+      "note": "Kaestner's Faith Driven Entrepreneur content is widely available"
+    }
+  ],
+  "sources": [
+    {
+      "type": "website",
+      "title": "Faith Driven Entrepreneur",
+      "url": "https://www.faithdrivenentrepreneur.org/",
+      "note": "The movement Kaestner co-founded for Christian entrepreneurs"
+    },
+    {
+      "type": "youtube",
+      "title": "Henry Kaestner — Faith Driven Investing",
+      "url": "https://www.youtube.com/results?search_query=henry+kaestner+faith+driven+entrepreneur+podcast",
+      "note": "Podcast and talks about faith in business"
+    }
+  ],
+  "slug": "henry-kaestner",
+  "tagline": "Co-founded Bandwidth.com and invested billions for the Kingdom",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

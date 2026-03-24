@@ -1,0 +1,23 @@
+{
+  "name": "Ignatius of Antioch",
+  "years": "c. 35 – c. 108",
+  "title": "Bishop of Antioch & Martyr",
+  "bio": "Third bishop of Antioch and early church father. Condemned to die in Rome, he was fed to wild beasts in the Colosseum. Wrote seven profound letters to churches while en route to his execution.",
+  "faith": "Ignatius eagerly embraced martyrdom, writing: 'I am God's wheat, ground fine by the lion's teeth to be made purest bread for Christ.' His letters emphasize church unity, the Eucharist, and the reality of Christ's incarnation.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Ignatius — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch",
+      "note": "Early church father and martyr"
+    }
+  ],
+  "slug": "ignatius-of-antioch",
+  "tagline": "I am God's wheat, ground fine by the lion's teeth",
+  "image": "/images/bios/ignatius-of-antioch.jpg",
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "CC0"
+  }
+}

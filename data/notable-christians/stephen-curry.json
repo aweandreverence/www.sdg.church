@@ -1,0 +1,36 @@
+{
+  "name": "Stephen Curry",
+  "years": "March 14, 1988 – present",
+  "title": "NBA Point Guard",
+  "bio": "American professional basketball player for the Golden State Warriors. Four-time NBA champion, two-time NBA MVP, and widely regarded as the greatest shooter in NBA history.",
+  "faith": "Curry has repeatedly professed his faith in Jesus Christ in MVP acceptance speeches and interviews. He wears Philippians 4:13 on his shoes. In his 2015 MVP speech he said, 'First and foremost I have to thank my Lord and Savior Jesus Christ for blessing me with the talents to play this game.'",
+  "videos": [
+    {
+      "title": "Stephen Curry MVP Speech - Thanks Jesus Christ",
+      "url": "https://www.youtube.com/results?search_query=stephen+curry+mvp+speech+jesus+christ+lord+savior",
+      "platform": "youtube",
+      "note": "Curry's 2015 and 2016 MVP acceptance speeches prominently thank Christ"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Stephen Curry — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Curry",
+      "note": "Biography of the greatest shooter in NBA history"
+    },
+    {
+      "type": "youtube",
+      "title": "Stephen Curry 2015 MVP Speech — Thanking Jesus Christ",
+      "url": "https://www.youtube.com/results?search_query=stephen+curry+2015+mvp+speech+thank+god",
+      "note": "His viral MVP acceptance speech crediting God"
+    }
+  ],
+  "slug": "stephen-curry",
+  "tagline": "The greatest shooter in NBA history who plays for an audience of One",
+  "image": "/images/bios/stephen-curry.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Curry_dribbling_2016_%28cropped%29.jpg/440px-Stephen_Curry_dribbling_2016_%28cropped%29.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

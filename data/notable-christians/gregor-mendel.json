@@ -1,0 +1,23 @@
+{
+  "name": "Gregor Mendel",
+  "years": "July 20, 1822 – January 6, 1884",
+  "title": "Geneticist & Friar",
+  "bio": "Augustinian friar and scientist who discovered the fundamental laws of inheritance through his work with pea plants. Known as the 'Father of Genetics.'",
+  "faith": "An Augustinian friar who served as abbot of his monastery, Mendel's scientific work was conducted within the context of his religious life. He saw no contradiction between his faith and his scientific research.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Gregor Mendel — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+      "note": "Biography of the Augustinian friar who founded genetics"
+    }
+  ],
+  "slug": "gregor-mendel",
+  "tagline": "An Augustinian friar who became the Father of Genetics",
+  "image": "/images/bios/gregor-mendel.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/440px-Gregor_Mendel_2.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Fyodor Dostoevsky",
+  "years": "November 11, 1821 – February 9, 1881",
+  "title": "Novelist",
+  "bio": "Russian novelist, philosopher, and journalist. His major works include 'Crime and Punishment,' 'The Brothers Karamazov,' and 'The Idiot.'",
+  "faith": "After a period of doubt, Dostoevsky experienced a profound renewal of faith during his imprisonment in Siberia. His novels explore the depths of human sin and the transforming power of Christ's love. He wrote, 'If anyone proved to me that Christ was outside the truth... I would remain with Christ.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Fyodor Dostoevsky — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+      "note": "Biography including his faith renewal during Siberian imprisonment"
+    },
+    {
+      "type": "book",
+      "title": "The Brothers Karamazov",
+      "note": "By Dostoevsky. His final novel, deeply exploring Christian themes of faith, doubt, and redemption"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Religious views of Fyodor Dostoevsky",
+      "url": "https://en.wikipedia.org/wiki/Religious_views_of_Fyodor_Dostoevsky",
+      "note": "Detailed article on his Christian faith and its role in his works"
+    }
+  ],
+  "slug": "fyodor-dostoevsky",
+  "tagline": "Chose to remain with Christ even if Christ were outside the truth",
+  "image": "/images/bios/fyodor-dostoevsky.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dostoevsky_1872.jpg/440px-Dostoevsky_1872.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

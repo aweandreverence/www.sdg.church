@@ -1,0 +1,28 @@
+{
+  "name": "Horst Schulze",
+  "years": "December 16, 1939 – present",
+  "title": "Co-founder of The Ritz-Carlton Hotel Company",
+  "bio": "German-American hotelier and co-founder of The Ritz-Carlton Hotel Company. Later founded Capella Hotel Group. Known as a pioneer of luxury hospitality.",
+  "faith": "A committed Christian who has spoken about how his faith informs his approach to servant leadership. He has said that the Christian call to serve others is the foundation of true hospitality and excellence in business.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Horst Schulze — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Horst_Schulze_(hotelier)",
+      "note": "Biography of the Ritz-Carlton co-founder"
+    },
+    {
+      "type": "book",
+      "title": "Excellence Wins: A No-Nonsense Guide to Becoming the Best in a World of Compromise",
+      "note": "By Horst Schulze. His philosophy of servant leadership rooted in faith"
+    }
+  ],
+  "slug": "horst-schulze",
+  "tagline": "Built The Ritz-Carlton on servant leadership inspired by Christ",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "William D. Phillips",
+  "years": "November 5, 1948 – present",
+  "title": "Physicist & Nobel Laureate",
+  "bio": "American physicist who was awarded the Nobel Prize in Physics in 1997 for development of methods to cool and trap atoms with laser light.",
+  "faith": "A practicing Methodist who has spoken about the compatibility of science and faith. He has said, 'I believe in God. In fact, I believe in a personal God who acts in and interacts with the creation.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "William Daniel Phillips — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
+      "note": "Biography of the Nobel laureate physicist"
+    }
+  ],
+  "slug": "william-d-phillips",
+  "tagline": "Won the Nobel Prize in Physics and testifies to God's design",
+  "image": "/images/bios/william-d-phillips.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}
