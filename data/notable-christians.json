@@ -3629,6 +3629,102 @@
               }
             }
           ]
+        },
+        {
+          "id": "computer-scientists",
+          "name": "Computer Scientists",
+          "people": [
+            {
+              "name": "Donald Knuth",
+              "years": "January 10, 1938 – present",
+              "title": "Computer Scientist & Professor Emeritus at Stanford",
+              "bio": "American computer scientist, Professor Emeritus at Stanford University, and Turing Award winner (1974). Author of the monumental multi-volume work The Art of Computer Programming, creator of TeX and METAFONT. Widely regarded as the father of the analysis of algorithms.",
+              "faith": "A devout Lutheran who has been outspoken about his faith throughout his career. Knuth authored 3:16 Bible Texts Illuminated, a book analyzing the '3:16' verse from every book of the Bible with calligraphic art. He delivered a series of lectures at MIT titled 'Things a Computer Scientist Rarely Talks About,' exploring the relationship between faith and computer science. He has said, 'God is real, unless declared integer.'",
+              "videos": [
+                {
+                  "title": "Donald Knuth — Things a Computer Scientist Rarely Talks About",
+                  "url": "https://www.youtube.com/results?search_query=donald+knuth+things+computer+scientist+rarely+talks+about",
+                  "platform": "youtube",
+                  "note": "Lectures on the intersection of faith and computer science"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Donald Knuth — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Donald_Knuth",
+                  "note": "Biography of the Stanford CS professor"
+                },
+                {
+                  "type": "book",
+                  "title": "3:16 Bible Texts Illuminated",
+                  "url": "https://www-cs-faculty.stanford.edu/~uno/316.html",
+                  "note": "Knuth's book analyzing the 3:16 verse from every book of the Bible"
+                },
+                {
+                  "type": "book",
+                  "title": "Things a Computer Scientist Rarely Talks About",
+                  "url": "https://www-cs-faculty.stanford.edu/~uno/things.html",
+                  "note": "Published lectures on God and computer science"
+                }
+              ],
+              "slug": "donald-knuth",
+              "tagline": "The father of algorithms who wrote a book on every 3:16 in the Bible",
+              "image": "/images/bios/donald-knuth.jpg",
+              "imageAttribution": {
+                "source": "https://en.wikipedia.org/wiki/Donald_Knuth",
+                "license": "CC BY-SA (Wikimedia Commons)"
+              }
+            },
+            {
+              "name": "John Vlissides",
+              "years": "August 2, 1961 – November 24, 2005",
+              "title": "Software Engineer & Design Patterns Co-Author",
+              "bio": "American software engineer and one of the 'Gang of Four' who co-authored Design Patterns: Elements of Reusable Object-Oriented Software, one of the most influential books in computer science. He worked at IBM's T.J. Watson Research Center and held a PhD from Stanford. He passed away on Thanksgiving 2005 at age 44 from a brain tumor.",
+              "faith": "A bold, outspoken Christian who dedicated his portion of the Design Patterns book with 'Joshua 24:15b — J.V.' ('As for me and my house, we will serve the LORD'). When asked about his faith by colleague Ken Auer, Vlissides replied: 'Yes, I am a Christian. The fundamentalist, politically incorrect kind that believes the Bible is the inerrant word of God and that we are all sinners that are going to burn in hell unless we put our faith completely in Jesus Christ who is the only way to heaven. You know, the kind that the media thinks is the most dangerous kind.' He served as an elder at his church and later as chairman of Christian Education. During his battle with cancer, he told visitors 'God is good all the time' and drew strength from Isaiah 43:1–5. His wife Dru Ann wrote: 'John trusted those words, He lived those words. He knew God's character and he had peace in the midst of his circumstances. He IS in a better place.'",
+              "videos": [
+                {
+                  "title": "John Vlissides — Memorial and Legacy",
+                  "url": "https://www.youtube.com/results?search_query=john+vlissides+gang+of+four+design+patterns+memorial",
+                  "platform": "youtube",
+                  "note": "Remembrances of Vlissides and his contributions"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Vlissides — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Vlissides",
+                  "note": "Biography of the GoF co-author"
+                },
+                {
+                  "type": "blog",
+                  "title": "John Vlissides — jontsai on Xanga (archived)",
+                  "url": "https://web.archive.org/web/20100930062913/http://jontsai.xanga.com:80/732047758/john-vlissides/",
+                  "note": "Jonathan Tsai's post compiling testimonies of Vlissides' faith from colleagues and family"
+                },
+                {
+                  "type": "wiki",
+                  "title": "John Vlissides — C2 Wiki Memorial",
+                  "url": "https://wiki.c2.com/?JohnVlissides",
+                  "note": "Colleague remembrances including faith testimonies from Ken Auer, Heinz Kabutz, and his wife Dru Ann"
+                },
+                {
+                  "type": "news",
+                  "title": "John Vlissides Obituary — Washington Post",
+                  "url": "https://www.washingtonpost.com/wp-dyn/content/article/2005/12/09/AR2005120902004.html",
+                  "note": "Obituary of the IBM researcher and GoF co-author"
+                }
+              ],
+              "slug": "john-vlissides",
+              "tagline": "A Gang of Four co-author who dedicated Design Patterns to Joshua 24:15",
+              "image": "/images/bios/john-vlissides.jpg",
+              "imageAttribution": {
+                "source": "https://en.wikipedia.org/wiki/John_Vlissides",
+                "license": "Fair Use"
+              }
+            }
+          ]
         }
       ]
     },
