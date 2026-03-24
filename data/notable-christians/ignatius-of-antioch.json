@@ -1,41 +1,42 @@
 {
-    "name": "Ignatius of Antioch",
-    "years": "c. 35 – c. 108",
-    "title": "Bishop of Antioch & Martyr",
-    "bio": "Third bishop of Antioch and early church father. Condemned to die in Rome, he was fed to wild beasts in the Colosseum. Wrote seven profound letters to churches while en route to his execution.",
-    "faith": "Ignatius eagerly embraced martyrdom, writing: 'I am God's wheat, ground fine by the lion's teeth to be made purest bread for Christ.' His letters emphasize church unity, the Eucharist, and the reality of Christ's incarnation.",
-    "videos": [],
-    "sources": [
-        {
-            "type": "wikipedia",
-            "title": "Ignatius — Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch",
-            "note": "Early church father and martyr"
-        },
-        {
-            "type": "primary_text",
-            "title": "The Epistle of Ignatius to the Romans",
-            "url": "https://www.ccel.org/ccel/schaff/anf01.v.vii.html",
-            "note": "Ignatius's most personal letter, written en route to martyrdom, expressing his longing to be 'ground by the teeth of wild beasts' for Christ"
-        },
-        {
-            "type": "primary_text",
-            "title": "The Seven Epistles of Ignatius",
-            "url": "https://www.ccel.org/ccel/schaff/anf01.v.html",
-            "note": "All seven authentic letters of Ignatius, foundational documents of early Christian theology on church unity and the Eucharist"
-        },
-        {
-            "type": "website",
-            "title": "Early Church Texts: Ignatius of Antioch",
-            "url": "https://www.earlychurchtexts.com/main/ignatius/ignatius_of_antioch.shtml",
-            "note": "Translations and commentary on Ignatius's epistles with historical context"
-        }
-    ],
-    "slug": "ignatius-of-antioch",
-    "tagline": "I am God's wheat, ground fine by the lion's teeth",
-    "image": "/images/bios/ignatius-of-antioch.jpg",
-    "imageAttribution": {
-        "source": "Wikimedia Commons",
-        "license": "CC0"
+  "name": "Ignatius of Antioch",
+  "years": "c. 35 – c. 108",
+  "title": "Bishop of Antioch & Martyr",
+  "bio": "Third bishop of Antioch and early church father. Condemned to die in Rome, he was fed to wild beasts in the Colosseum. Wrote seven profound letters to churches while en route to his execution.",
+  "faith": "Ignatius eagerly embraced martyrdom, writing: 'I am God's wheat, ground fine by the lion's teeth to be made purest bread for Christ.' His letters emphasize church unity, the Eucharist, and the reality of Christ's incarnation.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Ignatius — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch",
+      "note": "Early church father and martyr"
+    },
+    {
+      "type": "primary_text",
+      "title": "The Epistle of Ignatius to the Romans",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.v.vii.html",
+      "note": "Ignatius's most personal letter, written en route to martyrdom, expressing his longing to be 'ground by the teeth of wild beasts' for Christ"
+    },
+    {
+      "type": "primary_text",
+      "title": "The Seven Epistles of Ignatius",
+      "url": "https://www.ccel.org/ccel/schaff/anf01.v.html",
+      "note": "All seven authentic letters of Ignatius, foundational documents of early Christian theology on church unity and the Eucharist"
+    },
+    {
+      "type": "website",
+      "title": "Early Church Texts: Ignatius of Antioch",
+      "url": "https://www.earlychurchtexts.com/main/ignatius/ignatius_of_antioch.shtml",
+      "note": "Translations and commentary on Ignatius's epistles with historical context"
     }
+  ],
+  "slug": "ignatius-of-antioch",
+  "tagline": "I am God's wheat, ground fine by the lion's teeth",
+  "image": "/images/bios/ignatius-of-antioch.jpg",
+  "imageAttribution": {
+    "source": "Wikimedia Commons — 17th century icon",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Ignatius_of_Antioch.jpg"
+  }
 }
