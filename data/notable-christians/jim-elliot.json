@@ -38,9 +38,10 @@
   ],
   "slug": "jim-elliot",
   "tagline": "He is no fool who gives what he cannot keep to gain what he cannot lose",
-  "image": "/images/placeholder-saint.svg",
+  "image": "/images/bios/jim-elliot.jpg",
   "imageAttribution": {
-    "source": "",
-    "license": ""
+    "source": "Wikimedia Commons",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Jim-Elliot-Sketch.jpg"
   }
 }

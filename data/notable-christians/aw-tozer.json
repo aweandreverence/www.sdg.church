@@ -25,9 +25,10 @@
   ],
   "slug": "aw-tozer",
   "tagline": "The 20th-century prophet who pursued the knowledge of the Holy",
-  "image": "/images/placeholder-saint.svg",
+  "image": "/images/bios/aw-tozer.jpg",
   "imageAttribution": {
-    "source": "",
-    "license": ""
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:AW_Tozer.svg"
   }
 }
