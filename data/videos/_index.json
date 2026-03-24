@@ -1,58 +1,58 @@
 {
   "videos": [
     {
-      "$ref": "testimony-1.json"
+      "$ref": "sm-lockridge-sermon.json"
     },
     {
-      "$ref": "testimony-2.json"
+      "$ref": "nabeel-qureshi-testimony.json"
     },
     {
-      "$ref": "testimony-3.json"
+      "$ref": "brian-head-welch-testimony.json"
     },
     {
-      "$ref": "testimony-4.json"
+      "$ref": "rosaria-butterfield-testimony.json"
     },
     {
-      "$ref": "testimony-5.json"
+      "$ref": "lee-strobel-testimony.json"
     },
     {
-      "$ref": "testimony-6.json"
+      "$ref": "james-tour-testimony.json"
     },
     {
-      "$ref": "testimony-7.json"
+      "$ref": "lecrae-testimony.json"
     },
     {
-      "$ref": "testimony-8.json"
+      "$ref": "paul-lim-testimony.json"
     },
     {
-      "$ref": "testimony-9.json"
+      "$ref": "denzel-washington-speech.json"
     },
     {
-      "$ref": "testimony-10.json"
+      "$ref": "chris-pratt-speech.json"
     },
     {
-      "$ref": "testimony-11.json"
+      "$ref": "bethany-hamilton-testimony.json"
     },
     {
-      "$ref": "testimony-12.json"
+      "$ref": "eric-metaxas-testimony.json"
     },
     {
-      "$ref": "testimony-13.json"
+      "$ref": "clayton-kershaw-testimony.json"
     },
     {
-      "$ref": "testimony-14.json"
+      "$ref": "alex-kendrick-testimony.json"
     },
     {
-      "$ref": "testimony-15.json"
+      "$ref": "atheist-scientist-testimony.json"
     },
     {
-      "$ref": "testimony-16.json"
+      "$ref": "rosaria-butterfield-set-free.json"
     },
     {
-      "$ref": "testimony-17.json"
+      "$ref": "anne-wilson-testimony.json"
     },
     {
-      "$ref": "testimony-18.json"
+      "$ref": "ryan-ries-testimony.json"
     }
   ]
 }
