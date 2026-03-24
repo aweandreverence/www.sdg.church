@@ -2502,31 +2502,6 @@
               "image": ""
             },
             {
-              "name": "Mel Gibson",
-              "years": "1956-present",
-              "title": "Actor & Director",
-              "bio": "American-Australian actor and filmmaker. Directed 'The Passion of the Christ,' 'Braveheart,' and 'Hacksaw Ridge.' Academy Award-winning director.",
-              "faith": "A traditional Catholic whose faith inspired him to direct 'The Passion of the Christ,' which became one of the highest-grossing R-rated films in history. He also directed 'Hacksaw Ridge,' the true story of Christian conscientious objector Desmond Doss.",
-              "videos": [],
-              "sources": [
-                {
-                  "type": "wikipedia",
-                  "title": "Mel Gibson — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/Mel_Gibson",
-                  "note": "Biography of the actor-director"
-                },
-                {
-                  "type": "wikipedia",
-                  "title": "The Passion of the Christ — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/The_Passion_of_the_Christ",
-                  "note": "The faith-driven film about Christ's crucifixion"
-                }
-              ],
-              "slug": "mel-gibson",
-              "tagline": "Directed The Passion of the Christ — the highest-grossing R-rated film ever",
-              "image": ""
-            },
-            {
               "name": "Chuck Norris",
               "years": "1940-present",
               "title": "Actor & Martial Artist",
@@ -2549,8 +2524,34 @@
               "slug": "chuck-norris",
               "tagline": "A martial arts legend and lifelong advocate for Christian values",
               "image": ""
+            },
+            {
+              "name": "Kirk Cameron",
+              "years": "1970-present",
+              "title": "Actor & Evangelist",
+              "bio": "American actor best known for his role as Mike Seaver on 'Growing Pains.' After his conversion to Christianity at age 17, he became a prominent evangelist, co-founding The Way of the Master ministry with Ray Comfort and starring in the 'Fireproof' and 'Left Behind' films.",
+              "faith": "Kirk Cameron's conversion at 17 transformed his life and career. He has said, 'I was doing all the things that Hollywood says you should do to be happy... and I wasn't.' He became a bold evangelist, co-founding The Way of the Master with Ray Comfort and producing faith-based films like 'Fireproof,' which grossed $33 million on a $500,000 budget. He has been an outspoken advocate for biblical marriage, homeschooling, and the authority of Scripture.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Kirk Cameron — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Kirk_Cameron",
+                  "note": "Biography of the actor and evangelist"
+                },
+                {
+                  "type": "web",
+                  "title": "The Way of the Master",
+                  "url": "https://www.livingwaters.com/",
+                  "note": "Kirk Cameron and Ray Comfort's evangelism ministry"
+                }
+              ],
+              "slug": "kirk-cameron",
+              "tagline": "From Growing Pains teen idol to bold evangelist for Christ",
+              "image": ""
             }
-          ]
+          ],
+          "count": 7
         }
       ]
     },
