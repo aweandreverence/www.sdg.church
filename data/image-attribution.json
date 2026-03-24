@@ -1,0 +1,814 @@
+[
+  {
+    "slug": "johann-sebastian-bach",
+    "name": "Johann Sebastian Bach",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/440px-Johann_Sebastian_Bach.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "slug": "george-frideric-handel",
+    "name": "George Frideric Handel",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/440px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "slug": "jrr-tolkien",
+    "name": "J.R.R. Tolkien",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/440px-J._R._R._Tolkien%2C_ca._1925.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "slug": "fyodor-dostoevsky",
+    "name": "Fyodor Dostoevsky",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dostoevsky_1872.jpg/440px-Dostoevsky_1872.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "slug": "gk-chesterton",
+    "name": "G.K. Chesterton",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gilbert_Chesterton.jpg/440px-Gilbert_Chesterton.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "slug": "augustine-of-hippo",
+    "name": "Augustine of Hippo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/440px-Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/augustine-of-hippo.jpg"
+  },
+  {
+    "slug": "leo-tolstoy",
+    "name": "Leo Tolstoy",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/440px-L.N.Tolstoy_Prokudin-Gorsky.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/leo-tolstoy.jpg"
+  },
+  {
+    "slug": "isaac-newton",
+    "name": "Isaac Newton",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/440px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/isaac-newton.jpg"
+  },
+  {
+    "slug": "blaise-pascal",
+    "name": "Blaise Pascal",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/440px-Blaise_Pascal_Versailles.JPG",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/blaise-pascal.jpg"
+  },
+  {
+    "slug": "gregor-mendel",
+    "name": "Gregor Mendel",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/440px-Gregor_Mendel_2.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/gregor-mendel.jpg"
+  },
+  {
+    "slug": "robert-boyle",
+    "name": "Robert Boyle",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/440px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/robert-boyle.jpg"
+  },
+  {
+    "slug": "leonhard-euler",
+    "name": "Leonhard Euler",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/440px-Leonhard_Euler_2.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/leonhard-euler.jpg"
+  },
+  {
+    "slug": "bernhard-riemann",
+    "name": "Bernhard Riemann",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/440px-Georg_Friedrich_Bernhard_Riemann.jpeg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/bernhard-riemann.jpg"
+  },
+  {
+    "slug": "georg-cantor",
+    "name": "Georg Cantor",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Georg_Cantor2.jpg/440px-Georg_Cantor2.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/georg-cantor.jpg"
+  },
+  {
+    "slug": "michelangelo-buonarroti",
+    "name": "Michelangelo Buonarroti",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/440px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/michelangelo-buonarroti.jpg"
+  },
+  {
+    "slug": "rembrandt-van-rijn",
+    "name": "Rembrandt van Rijn",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/440px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/rembrandt-van-rijn.jpg"
+  },
+  {
+    "slug": "stephen-curry",
+    "name": "Stephen Curry",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Curry_dribbling_2016_%28cropped%29.jpg/440px-Stephen_Curry_dribbling_2016_%28cropped%29.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/stephen-curry.jpg"
+  },
+  {
+    "slug": "denzel-washington",
+    "name": "Denzel Washington",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Denzel_Washington_2018.jpg/440px-Denzel_Washington_2018.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/denzel-washington.jpg"
+  },
+  {
+    "slug": "chuck-norris",
+    "name": "Chuck Norris",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/440px-Chuck_Norris_May_2015.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/chuck-norris.jpg"
+  },
+  {
+    "slug": "mike-pence",
+    "name": "Mike Pence",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mike_Pence_official_Vice_Presidential_portrait.jpg/440px-Mike_Pence_official_Vice_Presidential_portrait.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/mike-pence.jpg"
+  },
+  {
+    "slug": "abraham-lincoln",
+    "name": "Abraham Lincoln",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/abraham-lincoln.jpg"
+  },
+  {
+    "slug": "george-washington",
+    "name": "George Washington",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/440px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/george-washington.jpg"
+  },
+  {
+    "slug": "jimmy-carter",
+    "name": "Jimmy Carter",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/440px-JimmyCarterPortrait2.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/jimmy-carter.jpg"
+  },
+  {
+    "slug": "felix-mendelssohn",
+    "name": "Felix Mendelssohn",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Felix_Mendelssohn_Bartholdy_by_Eduard_Magnus_%281833%29.jpg/500px-Felix_Mendelssohn_Bartholdy_by_Eduard_Magnus_%281833%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/felix-mendelssohn.jpg"
+  },
+  {
+    "slug": "fanny-crosby",
+    "name": "Fanny Crosby",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Fanny_Crosby.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Fanny_Crosby",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/fanny-crosby.jpg"
+  },
+  {
+    "slug": "cs-lewis",
+    "name": "C.S. Lewis",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CS_Lewis_photo_on_dust_jacket.jpg/500px-CS_Lewis_photo_on_dust_jacket.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/C._S._Lewis",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/cs-lewis.jpg"
+  },
+  {
+    "slug": "john-milton",
+    "name": "John Milton",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/John_Milton_Christ%27s_College.jpg/500px-John_Milton_Christ%27s_College.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/John_Milton",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/john-milton.jpg"
+  },
+  {
+    "slug": "john-bunyan",
+    "name": "John Bunyan",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/John_Bunyan_by_Thomas_Sadler_1684.jpg/500px-John_Bunyan_by_Thomas_Sadler_1684.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/John_Bunyan",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/john-bunyan.jpg"
+  },
+  {
+    "slug": "george-macdonald",
+    "name": "George MacDonald",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/George_MacDonald_1860s.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/George_MacDonald",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/george-macdonald.jpg"
+  },
+  {
+    "slug": "michael-faraday",
+    "name": "Michael Faraday",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/500px-Michael_Faraday_sitting_crop.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Michael_Faraday",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/michael-faraday.jpg"
+  },
+  {
+    "slug": "george-washington-carver",
+    "name": "George Washington Carver",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/500px-George_Washington_Carver_c1910_-_Restoration.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/George_Washington_Carver",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/george-washington-carver.jpg"
+  },
+  {
+    "slug": "louis-pasteur",
+    "name": "Louis Pasteur",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/500px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/louis-pasteur.jpg"
+  },
+  {
+    "slug": "johannes-kepler",
+    "name": "Johannes Kepler",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/johannes-kepler.jpg"
+  },
+  {
+    "slug": "james-clerk-maxwell",
+    "name": "James Clerk Maxwell",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/500px-James-Clerk-Maxwell-1831-1879.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/james-clerk-maxwell.jpg"
+  },
+  {
+    "slug": "francis-collins",
+    "name": "Francis Collins",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Francis_Collins_official_photo.jpg/500px-Francis_Collins_official_photo.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Francis_Collins",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/francis-collins.jpg"
+  },
+  {
+    "slug": "albrecht-drer",
+    "name": "Albrecht Dürer",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/500px-D%C3%BCrer_Alte_Pinakothek.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Albrecht_Dürer",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/albrecht-drer.jpg"
+  },
+  {
+    "slug": "antoni-gaud",
+    "name": "Antoni Gaudí",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Antoni_Gaudi_1878.jpg/500px-Antoni_Gaudi_1878.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/antoni-gaud.jpg"
+  },
+  {
+    "slug": "martin-luther",
+    "name": "Martin Luther",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/500px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Martin_Luther",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/martin-luther.jpg"
+  },
+  {
+    "slug": "john-calvin",
+    "name": "John Calvin",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png/500px-John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/John_Calvin",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/john-calvin.jpg"
+  },
+  {
+    "slug": "jonathan-edwards",
+    "name": "Jonathan Edwards",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jonathan_Edwards_%28Princeton_Portrait%29.jpg/500px-Jonathan_Edwards_%28Princeton_Portrait%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/jonathan-edwards.jpg"
+  },
+  {
+    "slug": "charles-haddon-spurgeon",
+    "name": "Charles Haddon Spurgeon",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg/500px-Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Charles_Spurgeon",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/charles-haddon-spurgeon.jpg"
+  },
+  {
+    "slug": "john-wesley",
+    "name": "John Wesley",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/John_Wesley_by_George_Romney.jpg/500px-John_Wesley_by_George_Romney.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/John_Wesley",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/john-wesley.jpg"
+  },
+  {
+    "slug": "george-whitefield",
+    "name": "George Whitefield",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Robert_Hunter_%28c.1715-1720-c.1803%29_%28possibly%29_-_Reverend_George_Whitefield_%281714%E2%80%931770%29%2C_MA_-_72_-_Mansfield_College.jpg/500px-Robert_Hunter_%28c.1715-1720-c.1803%29_%28possibly%29_-_Reverend_George_Whitefield_%281714%E2%80%931770%29%2C_MA_-_72_-_Mansfield_College.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/George_Whitefield",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/george-whitefield.jpg"
+  },
+  {
+    "slug": "william-wilberforce",
+    "name": "William Wilberforce",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/William_wilberforce.jpg/500px-William_wilberforce.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/William_Wilberforce",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/william-wilberforce.jpg"
+  },
+  {
+    "slug": "dietrich-bonhoeffer",
+    "name": "Dietrich Bonhoeffer",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bundesarchiv_Bild_146-1987-074-16%2C_Dietrich_Bonhoeffer.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/dietrich-bonhoeffer.jpg"
+  },
+  {
+    "slug": "billy-graham",
+    "name": "Billy Graham",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Billy_Graham_at_Madison_Square_Garden_1969_%28cropped%29.jpg/500px-Billy_Graham_at_Madison_Square_Garden_1969_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Billy_Graham",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/billy-graham.jpg"
+  },
+  {
+    "slug": "hudson-taylor",
+    "name": "Hudson Taylor",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HudsonTaylorin1893.jpg/500px-HudsonTaylorin1893.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Hudson_Taylor",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/hudson-taylor.jpg"
+  },
+  {
+    "slug": "eric-liddell",
+    "name": "Eric Liddell",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eric_Liddell.jpg/500px-Eric_Liddell.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Eric_Liddell",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/eric-liddell.jpg"
+  },
+  {
+    "slug": "william-carey",
+    "name": "William Carey",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/William_Carey.jpg/500px-William_Carey.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/William_Carey_(missionary)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/william-carey.jpg"
+  },
+  {
+    "slug": "adoniram-judson",
+    "name": "Adoniram Judson",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Adoniram_Judson_1846.jpg/500px-Adoniram_Judson_1846.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Adoniram_Judson",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/adoniram-judson.jpg"
+  },
+  {
+    "slug": "david-livingstone",
+    "name": "David Livingstone",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/500px-David_Livingstone_by_Thomas_Annan.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/David_Livingstone",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/david-livingstone.jpg"
+  },
+  {
+    "slug": "george-mller",
+    "name": "George Müller",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/George_Muller.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/George_Müller",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/george-mller.jpg"
+  },
+  {
+    "slug": "corrie-ten-boom",
+    "name": "Corrie ten Boom",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/CorrieTenBoom.jpg/500px-CorrieTenBoom.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Corrie_ten_Boom",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/corrie-ten-boom.jpg"
+  },
+  {
+    "slug": "rc-sproul",
+    "name": "R.C. Sproul",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/R._C._Sproul_%28cropped%29.jpg/500px-R._C._Sproul_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/R._C._Sproul",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/rc-sproul.jpg"
+  },
+  {
+    "slug": "dl-moody",
+    "name": "D.L. Moody",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Dwight_Lyman_Moody_c.1900.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Dwight_L._Moody",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/dl-moody.jpg"
+  },
+  {
+    "slug": "amy-carmichael",
+    "name": "Amy Carmichael",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Amy_Carmichael_with_children2.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Amy_Carmichael",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/amy-carmichael.jpg"
+  },
+  {
+    "slug": "francis-schaeffer",
+    "name": "Francis Schaeffer",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Dr._Francis_Schaeffer%2C_L%27Abri_Conference%2C_Urbana%2C_1981_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Francis_Schaeffer",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/francis-schaeffer.jpg"
+  },
+  {
+    "slug": "john-piper",
+    "name": "John Piper",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Photo_of_John_Piper%2C_Oct_2010_%28cropped2%29.jpg/500px-Photo_of_John_Piper%2C_Oct_2010_%28cropped2%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/John_Piper_(theologian)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/john-piper.jpg"
+  },
+  {
+    "slug": "lottie-moon",
+    "name": "Lottie Moon",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lottie_Moon-1.jpg/500px-Lottie_Moon-1.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Lottie_Moon",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/lottie-moon.jpg"
+  },
+  {
+    "slug": "watchman-nee",
+    "name": "Watchman Nee",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/WatchmanNee.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Watchman_Nee",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/watchman-nee.jpg"
+  },
+  {
+    "slug": "charles-finney",
+    "name": "Charles Finney",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Charles_g_finney.jpg/500px-Charles_g_finney.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Charles_Grandison_Finney",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/charles-finney.jpg"
+  },
+  {
+    "slug": "william-booth",
+    "name": "William Booth",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/William_Booth.jpg/500px-William_Booth.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/William_Booth",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/william-booth.jpg"
+  },
+  {
+    "slug": "gladys-aylward",
+    "name": "Gladys Aylward",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gladys_Aylward.jpg/500px-Gladys_Aylward.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Gladys_Aylward",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/gladys-aylward.jpg"
+  },
+  {
+    "slug": "tim-tebow",
+    "name": "Tim Tebow",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tim_Tebow_Denver_Sports_Authority_Field_2012-01-01.jpg/500px-Tim_Tebow_Denver_Sports_Authority_Field_2012-01-01.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Tim_Tebow",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/tim-tebow.jpg"
+  },
+  {
+    "slug": "jeremy-lin",
+    "name": "Jeremy Lin",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jeremy_Lin_Adidas_%28cropped%29.jpg/500px-Jeremy_Lin_Adidas_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Jeremy_Lin",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/jeremy-lin.jpg"
+  },
+  {
+    "slug": "allyson-felix",
+    "name": "Allyson Felix",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AllysonFelixRio2016.jpg/500px-AllysonFelixRio2016.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Allyson_Felix",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/allyson-felix.jpg"
+  },
+  {
+    "slug": "russell-wilson",
+    "name": "Russell Wilson",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Russell_Wilson_Giants_080825.jpg/500px-Russell_Wilson_Giants_080825.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Russell_Wilson",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/russell-wilson.jpg"
+  },
+  {
+    "slug": "kirk-cousins",
+    "name": "Kirk Cousins",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cousins_2022.jpg/500px-Cousins_2022.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Kirk_Cousins",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/kirk-cousins.jpg"
+  },
+  {
+    "slug": "manny-pacquiao",
+    "name": "Manny Pacquiao",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pacquiao_and_Didal_%28cropped%29.jpg/500px-Pacquiao_and_Didal_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Manny_Pacquiao",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/manny-pacquiao.jpg"
+  },
+  {
+    "slug": "david-robinson",
+    "name": "David Robinson",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/David_Robinson_2017.jpg/500px-David_Robinson_2017.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/David_Robinson_(basketball)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/david-robinson.jpg"
+  },
+  {
+    "slug": "simone-biles",
+    "name": "Simone Biles",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Simone_Biles_National_Team_2024.jpg/500px-Simone_Biles_National_Team_2024.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Simone_Biles",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/simone-biles.jpg"
+  },
+  {
+    "slug": "gabby-douglas",
+    "name": "Gabby Douglas",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gabby_Douglas_2016_Summer_Olympics_Gold_Medal.jpg/500px-Gabby_Douglas_2016_Summer_Olympics_Gold_Medal.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Gabby_Douglas",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/gabby-douglas.jpg"
+  },
+  {
+    "slug": "coco-gauff",
+    "name": "Coco Gauff",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Coco_Gauff_2022_US_Open_001.jpg/500px-Coco_Gauff_2022_US_Open_001.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Coco_Gauff",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/coco-gauff.jpg"
+  },
+  {
+    "slug": "dak-prescott",
+    "name": "Dak Prescott",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dak_Prescott_by_Gage_Skidmore.jpg/500px-Dak_Prescott_by_Gage_Skidmore.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Dak_Prescott",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/dak-prescott.jpg"
+  },
+  {
+    "slug": "drew-brees",
+    "name": "Drew Brees",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/MedalCeremony_1_011520_%2861_of_69%29_%2849396271982%29_%28cropped%29.jpg/500px-MedalCeremony_1_011520_%2861_of_69%29_%2849396271982%29_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Drew_Brees",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/drew-brees.jpg"
+  },
+  {
+    "slug": "lecrae",
+    "name": "Lecrae",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lecrae_2.jpg/500px-Lecrae_2.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Lecrae",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/lecrae.jpg"
+  },
+  {
+    "slug": "lauren-daigle",
+    "name": "Lauren Daigle",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lauren_Daigle_%40_The_Novo_05_11_2023_%2853048053550%29.jpg/500px-Lauren_Daigle_%40_The_Novo_05_11_2023_%2853048053550%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Lauren_Daigle",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/lauren-daigle.jpg"
+  },
+  {
+    "slug": "tobymac",
+    "name": "TobyMac",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TobyMac_in_Concert.jpg/500px-TobyMac_in_Concert.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/TobyMac",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/tobymac.jpg"
+  },
+  {
+    "slug": "carrie-underwood",
+    "name": "Carrie Underwood",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/191125_Carrie_Underwood_at_the_2019_American_Music_Awards_%28cropped%29.png/500px-191125_Carrie_Underwood_at_the_2019_American_Music_Awards_%28cropped%29.png",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Carrie_Underwood",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/carrie-underwood.jpg"
+  },
+  {
+    "slug": "chance-the-rapper",
+    "name": "Chance the Rapper",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chance_the_Rapper_-_Raising_Canes_Bicyle_Giveaway_2024-12-22_photo_by_Adam_Bielawski_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Chance_the_Rapper",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/chance-the-rapper.jpg"
+  },
+  {
+    "slug": "switchfoot",
+    "name": "Switchfoot",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Switchfoot_%40_The_National%2C_Richmond%2C_VA_-_October_13%2C_2023_%2853272293132%29.jpg/500px-Switchfoot_%40_The_National%2C_Richmond%2C_VA_-_October_13%2C_2023_%2853272293132%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Switchfoot",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/switchfoot.jpg"
+  },
+  {
+    "slug": "chris-pratt",
+    "name": "Chris Pratt",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg/500px-Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Chris_Pratt",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/chris-pratt.jpg"
+  },
+  {
+    "slug": "mark-wahlberg",
+    "name": "Mark Wahlberg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mark_Wahlberg_2021.jpg/500px-Mark_Wahlberg_2021.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/mark-wahlberg.jpg"
+  },
+  {
+    "slug": "candace-cameron-bure",
+    "name": "Candace Cameron Bure",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Candace_Cameron_Bure_by_Gage_Skidmore.jpg/500px-Candace_Cameron_Bure_by_Gage_Skidmore.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Candace_Cameron_Bure",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/candace-cameron-bure.jpg"
+  },
+  {
+    "slug": "jim-caviezel",
+    "name": "Jim Caviezel",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jim_Caviezel_at_the_2013_SDCC.jpg/500px-Jim_Caviezel_at_the_2013_SDCC.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Jim_Caviezel",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/jim-caviezel.jpg"
+  },
+  {
+    "slug": "kirk-cameron",
+    "name": "Kirk Cameron",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kirk_Cameron_by_Gage_Skidmore.jpg/500px-Kirk_Cameron_by_Gage_Skidmore.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Kirk_Cameron",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/kirk-cameron.jpg"
+  },
+  {
+    "slug": "patrick-bet-david",
+    "name": "Patrick Bet-David",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Patrick_Bet-David_%2854234423976%29_%28cropped%29.jpg/500px-Patrick_Bet-David_%2854234423976%29_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Patrick_Bet-David",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/patrick-bet-david.jpg"
+  },
+  {
+    "slug": "pat-gelsinger",
+    "name": "Pat Gelsinger",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pat_Gelsinger_December_2025_%28cropped%29.jpg/500px-Pat_Gelsinger_December_2025_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Pat_Gelsinger",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/pat-gelsinger.jpg"
+  },
+  {
+    "slug": "s-truett-cathy",
+    "name": "S. Truett Cathy",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Truett_Cathy.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/S._Truett_Cathy",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/s-truett-cathy.jpg"
+  },
+  {
+    "slug": "fred-smith",
+    "name": "Fred Smith",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/DHS_Secretary_Kristi_Noem_Meets_with_FedEx_%2854427415512%29_%28cropped%29.jpg/500px-DHS_Secretary_Kristi_Noem_Meets_with_FedEx_%2854427415512%29_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Frederick_W._Smith",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/fred-smith.jpg"
+  },
+  {
+    "slug": "james-tour",
+    "name": "James Tour",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JamesTour.jpg/500px-JamesTour.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/James_Tour",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/james-tour.jpg"
+  },
+  {
+    "slug": "john-lennox",
+    "name": "John Lennox",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/John_Lennox_2015_%28cropped%29.jpg/500px-John_Lennox_2015_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/John_Lennox",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/john-lennox.jpg"
+  },
+  {
+    "slug": "rosalind-picard",
+    "name": "Rosalind Picard",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Panel_Discussion_Close-up%2C_Science%2C_Faith%2C_and_Technology_Cropped.jpg/500px-Panel_Discussion_Close-up%2C_Science%2C_Faith%2C_and_Technology_Cropped.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Rosalind_Picard",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/rosalind-picard.jpg"
+  },
+  {
+    "slug": "william-d-phillips",
+    "name": "William D. Phillips",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/William_D._Phillips.jpg/500px-William_D._Phillips.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/william-d-phillips.jpg"
+  },
+  {
+    "slug": "pete-hegseth",
+    "name": "Pete Hegseth",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pete_Hegseth_Official_Portrait.jpg/500px-Pete_Hegseth_Official_Portrait.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/pete-hegseth.jpg"
+  },
+  {
+    "slug": "oliver-north",
+    "name": "Oliver North",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LtCol_Oliver_North_and_MajGen_Paul_Brier_%28cropped%29.jpg/500px-LtCol_Oliver_North_and_MajGen_Paul_Brier_%28cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Oliver_North",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/oliver-north.jpg"
+  },
+  {
+    "slug": "desmond-doss",
+    "name": "Desmond Doss",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/DossDesmondT_USArmy.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Desmond_Doss",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/desmond-doss.jpg"
+  },
+  {
+    "slug": "alvin-york",
+    "name": "Alvin York",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Alvin_C._York_1919.jpg/500px-Alvin_C._York_1919.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Alvin_C._York",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/alvin-york.jpg"
+  },
+  {
+    "slug": "marcus-luttrell",
+    "name": "Marcus Luttrell",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Marcus_luttrell_2007.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Marcus_Luttrell",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/marcus-luttrell.jpg"
+  },
+  {
+    "slug": "ben-carson",
+    "name": "Ben Carson",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ben_Carson_USDA.jpg/500px-Ben_Carson_USDA.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Ben_Carson",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/ben-carson.jpg"
+  },
+  {
+    "slug": "tim-scott",
+    "name": "Tim Scott",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tim_Scott_official_portrait.jpg/500px-Tim_Scott_official_portrait.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Tim_Scott",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/tim-scott.jpg"
+  },
+  {
+    "slug": "mike-pompeo",
+    "name": "Mike Pompeo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mike_Pompeo_official_photo_%28cropped%29%282%29.jpg/500px-Mike_Pompeo_official_photo_%28cropped%29%282%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Mike_Pompeo",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/mike-pompeo.jpg"
+  },
+  {
+    "slug": "william-wilberforce-politicians",
+    "name": "William Wilberforce",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/William_wilberforce.jpg/500px-William_wilberforce.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/William_Wilberforce",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/william-wilberforce-politicians.jpg"
+  },
+  {
+    "slug": "marco-rubio",
+    "name": "Marco Rubio",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/500px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Marco_Rubio",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/marco-rubio.jpg"
+  },
+  {
+    "slug": "charlie-kirk",
+    "name": "Charlie Kirk",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg/500px-Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Charlie_Kirk_(activist)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
+    "local_path": "/images/bios/charlie-kirk.jpg"
+  }
+]
