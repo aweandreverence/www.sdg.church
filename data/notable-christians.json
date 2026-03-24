@@ -1330,6 +1330,94 @@
               "image": ""
             },
             {
+              "name": "Nate Saint",
+              "slug": "nate-saint",
+              "years": "August 30, 1923 – January 8, 1956",
+              "title": "Missionary Pilot & Martyr",
+              "tagline": "Missionary pilot martyred alongside Jim Elliot — his son Steve later befriended the very tribe that killed his father",
+              "bio": "Nate Saint was an American missionary pilot who served with Mission Aviation Fellowship (MAF) in Ecuador. A gifted inventor, he developed the 'bucket drop' technique to safely deliver gifts to unreached tribes from the air. He was part of Operation Auca, the effort to make contact with the isolated Waorani (Auca) people. On January 8, 1956, he and four companions — Jim Elliot, Ed McCully, Pete Fleming, and Roger Youderian — were killed by Waorani warriors on a sandbar along the Curaray River. His son Steve later lived among the Waorani and was baptized by the very men who had killed his father.",
+              "faith": "Saint's faith drove him to risk his life bringing the gospel to unreached peoples. His inventive use of aviation technology in missionary service demonstrated a practical, resourceful faith. The remarkable sequel to his martyrdom — his son Steve's reconciliation with the Waorani and the eventual conversion of many in the tribe — stands as one of the most powerful testimonies of forgiveness and redemption in modern missions history.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Jungle Pilot",
+                  "url": "",
+                  "note": "By Russell Hitt. Biography of Nate Saint's missionary aviation work"
+                },
+                {
+                  "type": "book",
+                  "title": "End of the Spear",
+                  "url": "",
+                  "note": "By Steve Saint. His son's account of reconciliation with the Waorani"
+                }
+              ]
+            },
+            {
+              "name": "Ed McCully",
+              "slug": "ed-mccully",
+              "years": "1927 – January 8, 1956",
+              "title": "Missionary & Martyr",
+              "tagline": "Gave up a promising legal career to bring the gospel to Ecuador — martyred at age 28",
+              "bio": "Ed McCully was an American missionary who gave up a promising career as an attorney and orator to serve in Ecuador with the Plymouth Brethren. A former college football star and championship orator at Wheaton College, McCully felt called to missions after hearing Jim Elliot speak. He and his wife Marilou served the Quichua people before joining Operation Auca. He was among the five missionaries killed by Waorani warriors on January 8, 1956.",
+              "faith": "McCully's conversion from worldly ambition to missionary service exemplifies the radical call of the gospel. He wrote to Jim Elliot: 'I have one desire now — to live a life of reckless abandon for the Lord, putting all my energy and strength into it.' His willingness to leave behind comfort, career, and ultimately his life for the sake of unreached peoples reflects the costly discipleship Jesus described.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Through Gates of Splendor",
+                  "url": "",
+                  "note": "By Elisabeth Elliot. The definitive account of Operation Auca"
+                }
+              ]
+            },
+            {
+              "name": "Pete Fleming",
+              "slug": "pete-fleming",
+              "years": "1928 – January 8, 1956",
+              "title": "Missionary Linguist & Martyr",
+              "tagline": "Linguist and scholar who chose the mission field over academia — martyred bringing the gospel to the Waorani",
+              "bio": "Pete Fleming was an American missionary and linguist who served in Ecuador. A graduate of the University of Washington with a master's degree in literature, Fleming had a gift for languages and was instrumental in early attempts to learn the Waorani language. He married Olive Ainslie in Ecuador, and together they served among the Quichua people. His linguistic skills were vital to Operation Auca's efforts to communicate with the isolated Waorani. He was killed alongside his four companions on January 8, 1956.",
+              "faith": "Fleming wrestled deeply with God's call on his life, recording his spiritual journey in detailed journals. He wrote: 'I am not afraid of death. I am afraid of not living.' His decision to pursue missions over an academic career reflected a conviction that the gospel of Jesus Christ was the most important message the world could hear. His careful, scholarly approach to missionary work modeled the integration of intellectual gifts and gospel passion.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Through Gates of Splendor",
+                  "url": "",
+                  "note": "By Elisabeth Elliot. Includes Pete Fleming's story"
+                }
+              ]
+            },
+            {
+              "name": "Roger Youderian",
+              "slug": "roger-youderian",
+              "years": "June 3, 1924 – January 8, 1956",
+              "title": "Missionary & Martyr",
+              "tagline": "WWII paratrooper and Purple Heart recipient who gave his life as a missionary to the Waorani",
+              "bio": "Roger Youderian was an American missionary and decorated World War II veteran who served with the Jívaro (Shuar) people in Ecuador. A paratrooper who fought in the Battle of the Bulge and received the Purple Heart, Youderian brought the same courage and discipline to the mission field. He struggled with discouragement in his work among the Jívaro before being invited to join Operation Auca. He initially hesitated, feeling unworthy, but ultimately joined the team. He was killed with his four companions on January 8, 1956.",
+              "faith": "Youderian's faith was forged in the fires of combat and refined through seasons of missionary discouragement. His journal entries reveal a man who honestly wrestled with feelings of failure and inadequacy, yet continually returned to trust in God's sovereignty. His decision to join Operation Auca came after a spiritual breakthrough. He wrote in his journal the night before the fatal contact: 'I am called and I must go.' His story reminds us that God uses broken, doubting people for His greatest purposes.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Through Gates of Splendor",
+                  "url": "",
+                  "note": "By Elisabeth Elliot. Includes Roger Youderian's story"
+                },
+                {
+                  "type": "website",
+                  "title": "Roger Youderian — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Roger_Youderian",
+                  "note": "Biography of the missionary and WWII veteran"
+                }
+              ]
+            },
+            {
               "name": "Hudson Taylor",
               "years": "May 21, 1832 – June 3, 1905",
               "title": "Missionary to China",
