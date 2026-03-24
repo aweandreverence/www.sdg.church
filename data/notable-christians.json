@@ -7,6 +7,157 @@
       "description": "Christians throughout history who glorified God through extraordinary works",
       "subcategories": [
         {
+          "id": "early-church-martyrs",
+          "name": "Early Church Martyrs",
+          "people": [
+            {
+              "name": "Vibia Perpetua",
+              "slug": "vibia-perpetua",
+              "years": "c. 182 AD – March 7, 203 AD",
+              "title": "Carthaginian Noblewoman & Martyr",
+              "tagline": "Declared 'I cannot be called by any other name than a Christian' and sealed it with her life",
+              "bio": "Carthaginian noblewoman martyred in 203 AD during the persecution of Emperor Septimius Severus. She was a young mother and catechumen whose prison diary, the Passion of Perpetua and Felicity, is one of the earliest known writings by a Christian woman.",
+              "faith": "When her father begged her to recant, Perpetua pointed to a water vessel and asked, 'Can you call a vase by any other name? Then I cannot be called by any other name than a Christian.' She was executed in the arena at Carthage alongside her companion Felicity, steadfast in her confession of Christ.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Vibia Perpetua — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Vibia_Perpetua",
+                  "note": "Biography of the Carthaginian martyr and her prison diary"
+                }
+              ]
+            },
+            {
+              "name": "Felicity",
+              "slug": "felicity-of-carthage",
+              "years": "Unknown – March 7, 203 AD",
+              "title": "Slave & Martyr",
+              "tagline": "A slave who found true freedom in Christ and died alongside Perpetua",
+              "bio": "A slave and fellow catechumen who was martyred alongside her mistress Vibia Perpetua in Carthage on March 7, 203 AD. She gave birth to a daughter in prison just days before her execution in the arena.",
+              "faith": "Felicity's faith was so firm that she chose death in the arena over renouncing Christ, even as a new mother. When a guard mocked her pain in childbirth, asking how she would endure the beasts, she replied, 'Now I suffer what I suffer; but then Another will be in me who will suffer for me.' Her story, intertwined with Perpetua's, testifies to the power of the gospel across social classes.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Felicity of Carthage — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Felicity_(saint)",
+                  "note": "Biography of Perpetua's companion in martyrdom"
+                }
+              ]
+            },
+            {
+              "name": "Polycarp of Smyrna",
+              "slug": "polycarp-of-smyrna",
+              "years": "c. 69 AD – c. 155 AD",
+              "title": "Bishop of Smyrna & Martyr",
+              "tagline": "Eighty-six years I have served Him, and He has done me no wrong",
+              "bio": "Bishop of Smyrna and a direct student of the Apostle John, making him a vital link between the apostolic era and the early church. He was martyred by burning at the stake around 155 AD at approximately 86 years of age.",
+              "faith": "When the Roman proconsul urged him to curse Christ and go free, Polycarp replied, 'Eighty-six years I have served Him, and He has done me no wrong. How can I blaspheme my King who saved me?' According to tradition, the flames formed an arch around him without burning him, and he was finally killed by a dagger. His martyrdom inspired generations of Christians to stand firm.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Polycarp — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Polycarp",
+                  "note": "Biography of the Bishop of Smyrna and student of the Apostle John"
+                }
+              ]
+            },
+            {
+              "name": "Ignatius of Antioch",
+              "slug": "ignatius-of-antioch",
+              "years": "c. 35 AD – c. 108 AD",
+              "title": "Bishop of Antioch & Martyr",
+              "tagline": "Wrote letters of fire on his journey to be fed to the lions in Rome",
+              "bio": "Early church father and Bishop of Antioch who was a student of the Apostle John. He was condemned to death and transported to Rome, where he was fed to lions in the Colosseum around 108 AD. During his journey, he wrote seven influential letters to churches.",
+              "faith": "On his journey to martyrdom, Ignatius wrote powerful letters to churches urging unity and faithfulness to Christ. He wrote to the Romans, 'I am God's wheat, and I am ground by the teeth of wild beasts that I may be found pure bread of Christ.' His letters remain some of the most important documents of early Christianity, affirming the real presence of Christ and the authority of bishops.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Ignatius of Antioch — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch",
+                  "note": "Biography of the early church father and martyr"
+                }
+              ]
+            },
+            {
+              "name": "John Huss (Jan Hus)",
+              "slug": "john-huss",
+              "years": "c. 1372 – July 6, 1415",
+              "title": "Bohemian Reformer & Martyr",
+              "tagline": "A pre-Reformation voice for truth who lit the flame that became the Reformation",
+              "bio": "Bohemian theologian, philosopher, and reformer who was a key predecessor to the Protestant Reformation. He spoke against the abuses of the Catholic Church, including the sale of indulgences, and was burned at the stake at the Council of Constance in 1415.",
+              "faith": "Hus championed the authority of Scripture and preaching in the common language. His teachings directly inspired Martin Luther a century later. When offered a final chance to recant at the stake, he reportedly said, 'God is my witness that I have never taught or preached that which false witnesses have testified against me. In the truth of the Gospel I have written, taught, and preached; today I will gladly die.'",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jan Hus — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jan_Hus",
+                  "note": "Biography of the Bohemian reformer and pre-Reformation martyr"
+                }
+              ]
+            },
+            {
+              "name": "William Tyndale",
+              "slug": "william-tyndale",
+              "years": "c. 1494 – October 6, 1536",
+              "title": "Bible Translator & Martyr",
+              "tagline": "Lord, open the King of England's eyes — his dying prayer that changed history",
+              "bio": "English scholar and translator who was the first to translate the Bible into English from the original Hebrew and Greek texts. His translation laid the foundation for the King James Version. He was strangled and burned at the stake near Brussels in 1536.",
+              "faith": "Tyndale dedicated his life to making God's Word accessible to every English-speaking person. He famously told a clergyman, 'If God spare my life, ere many years I will cause a boy that driveth the plough shall know more of the Scripture than thou doest.' His last words were, 'Lord, open the King of England's eyes.' Within four years, Henry VIII authorized an English Bible based largely on Tyndale's work.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "William Tyndale — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/William_Tyndale",
+                  "note": "Biography of the Bible translator and martyr"
+                }
+              ]
+            },
+            {
+              "name": "Hugh Latimer & Nicholas Ridley",
+              "slug": "hugh-latimer-and-nicholas-ridley",
+              "years": "Latimer: c. 1487 – October 16, 1555; Ridley: c. 1500 – October 16, 1555",
+              "title": "English Reformation Martyrs",
+              "tagline": "We shall this day light such a candle in England as shall never be put out",
+              "bio": "English bishops and Protestant reformers who were burned together at the stake in Oxford on October 16, 1555, during the Marian persecutions. Latimer had been Bishop of Worcester and Ridley was Bishop of London. They are remembered as two of the three 'Oxford Martyrs.'",
+              "faith": "As the flames were lit, Latimer spoke his immortal words to Ridley: 'Be of good comfort, Master Ridley, and play the man! We shall this day light such a candle, by God's grace, in England, as I trust shall never be put out.' Their courageous deaths for the Protestant faith galvanized the English Reformation and remain among the most powerful testimonies in Christian history.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Hugh Latimer — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Hugh_Latimer",
+                  "note": "Biography of Bishop Latimer"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Nicholas Ridley (martyr) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Nicholas_Ridley_(martyr)",
+                  "note": "Biography of Bishop Ridley"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Oxford Martyrs — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Oxford_Martyrs",
+                  "note": "The three Oxford Martyrs of the English Reformation"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "composers",
           "name": "Composers & Musicians",
           "people": [
@@ -987,6 +1138,25 @@
           "id": "reformers-theologians",
           "name": "Reformers & Theologians",
           "people": [
+            {
+              "name": "John Wycliffe",
+              "slug": "john-wycliffe",
+              "years": "c. 1330 – December 31, 1384",
+              "title": "Theologian & Bible Translator",
+              "tagline": "The Morning Star of the Reformation who first gave England the Bible in English",
+              "bio": "English theologian, philosopher, and seminary professor at Oxford who is known as the 'Morning Star of the Reformation.' He produced the first complete translation of the Bible into English from the Latin Vulgate and challenged the authority of the papacy decades before Luther.",
+              "faith": "Wycliffe believed that Scripture should be the sole authority for Christian faith and that every person should have access to God's Word in their own language. Though he died naturally in 1384, the Catholic Church's Council of Constance condemned him as a heretic in 1415 and ordered his bones exhumed and burned — a testament to the enduring power of his ideas. His followers, the Lollards, kept the flame of reform alive until the Protestant Reformation.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Wycliffe — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Wycliffe",
+                  "note": "Biography of the Morning Star of the Reformation"
+                }
+              ]
+            },
             {
               "name": "Martin Luther",
               "years": "November 10, 1483 – February 18, 1546",
@@ -2090,6 +2260,137 @@
                 "source": "https://en.wikipedia.org/wiki/Gladys_Aylward",
                 "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
               }
+            },
+            {
+              "name": "Tim Keller",
+              "slug": "tim-keller",
+              "years": "September 23, 1950 – May 19, 2023",
+              "title": "Pastor & Author",
+              "tagline": "Made the gospel credible to skeptics and planted a church that changed New York City",
+              "bio": "American pastor, theologian, and author who founded Redeemer Presbyterian Church in Manhattan in 1989, growing it into one of the most influential churches in America. He authored numerous bestselling books including 'The Reason for God,' 'The Prodigal God,' and 'Counterfeit Gods.'",
+              "faith": "Keller was uniquely gifted at presenting the Christian gospel to skeptics and intellectuals. His apologetic approach combined winsome reasoning with deep theological conviction. He demonstrated that orthodox Christianity could engage the most secular city in America with both compassion and conviction. His writings on grace, justice, and the gospel have influenced millions worldwide.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Tim Keller (pastor) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Tim_Keller_(pastor)",
+                  "note": "Biography of the Redeemer Presbyterian Church founder"
+                },
+                {
+                  "type": "book",
+                  "title": "The Reason for God: Belief in an Age of Skepticism",
+                  "note": "By Tim Keller. His bestselling apologetics book addressing common objections to Christianity"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chinese-christians",
+          "name": "Chinese Christians",
+          "people": [
+            {
+              "name": "Sun Yat-sen",
+              "slug": "sun-yat-sen",
+              "years": "November 12, 1866 – March 12, 1925",
+              "title": "Founding Father of the Republic of China",
+              "tagline": "The father of modern China who was baptized into the Christian faith",
+              "bio": "Chinese revolutionary, physician, and political philosopher who served as the first president of the Republic of China. Known as the 'Father of the Nation' in both mainland China and Taiwan, he was instrumental in overthrowing the Qing Dynasty and establishing a republic.",
+              "faith": "Sun was baptized as a Christian in Hong Kong around 1883 and maintained his faith throughout his life. His Christian convictions influenced his political philosophy, particularly his emphasis on human dignity and welfare. He studied at a Church of England school and was deeply shaped by Western Christian values, which he sought to integrate with Chinese reform.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Sun Yat-sen — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
+                  "note": "Biography of the founding father of the Republic of China"
+                }
+              ]
+            },
+            {
+              "name": "Chiang Kai-shek",
+              "slug": "chiang-kai-shek",
+              "years": "October 31, 1887 – April 5, 1975",
+              "title": "Leader of the Republic of China",
+              "tagline": "Converted to Methodism and led China through its darkest hour",
+              "bio": "Chinese Nationalist leader who served as the leader of the Republic of China from 1928 until his death in 1975. He led China through World War II against Japan and later governed Taiwan after retreating from the Chinese mainland following the Communist victory in 1949.",
+              "faith": "Chiang converted to Christianity (Methodist) upon his marriage to Soong Mei-ling in 1927 and was baptized in 1930. His faith deepened over time, and he became a committed Methodist who read the Bible and prayed daily. He credited his Christian faith with sustaining him through the trials of war and exile.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Chiang Kai-shek — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
+                  "note": "Biography including his conversion to Christianity"
+                }
+              ]
+            },
+            {
+              "name": "Soong Mei-ling (Madame Chiang Kai-shek)",
+              "slug": "soong-mei-ling",
+              "years": "March 5, 1897 – October 23, 2003",
+              "title": "First Lady of the Republic of China",
+              "tagline": "A devout Methodist who addressed the US Congress and championed China's cause through faith",
+              "bio": "Chinese political figure and the wife of Chiang Kai-shek. Educated in the United States at Wellesley College, she was the first Chinese national and second woman to address both houses of the United States Congress. She served as a bridge between China and the West during World War II and lived to the age of 105.",
+              "faith": "A devout Methodist who was raised in one of China's most prominent Christian families (the Soong family). Her faith was central to her identity and public life. She spoke eloquently about Christian values in her addresses to American audiences and was instrumental in her husband's conversion to Christianity. She was a lifelong practitioner of prayer and Bible reading.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Soong Mei-ling — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Soong_Mei-ling",
+                  "note": "Biography of Madame Chiang Kai-shek"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "converts-from-other-faiths",
+          "name": "Converts from Other Faiths",
+          "people": [
+            {
+              "name": "Pandita Ramabai",
+              "slug": "pandita-ramabai",
+              "years": "April 23, 1858 – April 5, 1922",
+              "title": "Scholar, Social Reformer & Evangelist",
+              "tagline": "India's greatest woman scholar who left Hinduism and championed women's rights through Christ",
+              "bio": "Indian scholar, social reformer, and champion of women's rights who was one of the most remarkable women in Indian history. Born into an orthodox Brahmin family, she earned the title 'Pandita' (learned woman) for her mastery of Sanskrit — a rare achievement for a woman. She founded the Mukti Mission, a refuge for widows and orphans.",
+              "faith": "After the death of her husband, Ramabai converted from Hinduism to Christianity during a visit to England in 1883. She devoted the rest of her life to serving India's most vulnerable women and children in the name of Christ. The Mukti Mission she founded became a center of revival and continues to operate today. She also translated the Bible into her native Marathi language.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Pandita Ramabai — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Pandita_Ramabai",
+                  "note": "Biography of the Indian scholar and Christian reformer"
+                }
+              ]
+            },
+            {
+              "name": "Sundar Singh",
+              "slug": "sundar-singh",
+              "years": "September 3, 1889 – c. 1929",
+              "title": "Indian Christian Missionary",
+              "tagline": "The Apostle with the Bleeding Feet who walked India preaching Christ",
+              "bio": "Indian Christian missionary known as the 'Apostle with the Bleeding Feet' for his barefoot travels across India and Tibet preaching the gospel. Born into a Sikh family, he converted to Christianity at age 15 after a vision of Christ, and adopted the lifestyle of a Hindu sadhu (holy man) to share the gospel in an Indian context. He disappeared during a journey to Tibet around 1929.",
+              "faith": "After burning a Bible page by page in anger, Singh had a dramatic vision of Jesus Christ that transformed his life. He was baptized and devoted himself to spreading the gospel across India and Tibet, enduring extreme hardship, imprisonment, and persecution. His unique approach of presenting Christ through the cultural framework of Indian spirituality made the gospel accessible to millions.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Sundar Singh — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sundar_Singh",
+                  "note": "Biography of the Indian Christian missionary and sadhu"
+                }
+              ]
             }
           ]
         }
@@ -2531,6 +2832,87 @@
                 "source": "https://en.wikipedia.org/wiki/Drew_Brees",
                 "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
               }
+            },
+            {
+              "name": "Katie Ledecky",
+              "slug": "katie-ledecky",
+              "years": "March 17, 1997 – present",
+              "title": "Olympic Swimmer",
+              "tagline": "The most dominant female swimmer in history who credits her Catholic faith",
+              "bio": "American competitive swimmer and seven-time Olympic gold medalist, widely regarded as the greatest female swimmer of all time. She holds numerous world records in distance freestyle events and has won multiple World Championship titles.",
+              "faith": "A devout Catholic who has spoken about the role of her faith in her life and athletic career. She attended a Catholic school growing up and has credited her faith community with providing perspective and grounding beyond competition.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Katie Ledecky — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Katie_Ledecky",
+                  "note": "Biography of the most decorated female swimmer in Olympic history"
+                }
+              ]
+            },
+            {
+              "name": "Sydney McLaughlin-Levrone",
+              "slug": "sydney-mclaughlin-levrone",
+              "years": "August 7, 1999 – present",
+              "title": "Olympic Hurdler & Sprinter",
+              "tagline": "World record holder who runs every race for the glory of God",
+              "bio": "American hurdler and sprinter who is the world record holder in the 400 meters hurdles and an Olympic gold medalist. She has shattered her own world records multiple times and is considered one of the greatest hurdlers in track and field history.",
+              "faith": "A vocal and passionate Christian who has been open about her faith journey. She has written about how her identity is in Christ, not in her athletic achievements. Her book 'Far Beyond Gold' shares her testimony, and she regularly posts Scripture and faith reflections on social media.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Sydney McLaughlin-Levrone — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sydney_McLaughlin-Levrone",
+                  "note": "Biography of the world record-holding hurdler"
+                },
+                {
+                  "type": "book",
+                  "title": "Far Beyond Gold: Running from Fear to Faith",
+                  "note": "By Sydney McLaughlin-Levrone. Her testimony of faith and athletics"
+                }
+              ]
+            },
+            {
+              "name": "Missy Franklin",
+              "slug": "missy-franklin",
+              "years": "May 10, 1995 – present",
+              "title": "Olympic Swimmer",
+              "tagline": "Five-time Olympic gold medalist who has spoken publicly about her Christian faith",
+              "bio": "American former competitive swimmer who won five Olympic gold medals across the 2012 and 2016 Olympics. She was known for her joyful personality, versatility in multiple strokes, and dominance in the backstroke events.",
+              "faith": "Franklin has spoken publicly about her Christian faith and how it provided perspective during both the highs and lows of her swimming career. She has credited God with her talents and has been open about leaning on her faith through career-ending injuries and the transition out of competitive swimming.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Missy Franklin — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Missy_Franklin",
+                  "note": "Biography of the five-time Olympic gold medalist"
+                }
+              ]
+            },
+            {
+              "name": "Tamika Catchings",
+              "slug": "tamika-catchings",
+              "years": "July 21, 1979 – present",
+              "title": "WNBA Legend & Olympic Gold Medalist",
+              "tagline": "WNBA legend who founded a faith-based nonprofit to serve her community",
+              "bio": "American former professional basketball player who is widely regarded as one of the greatest WNBA players of all time. She spent her entire career with the Indiana Fever, winning a WNBA championship and four Olympic gold medals. She was inducted into the Basketball Hall of Fame in 2023.",
+              "faith": "A committed Christian who founded the Catch the Stars Foundation, a faith-based nonprofit focused on empowering youth through fitness, literacy, and mentorship. She has spoken openly about her faith guiding her life purpose beyond basketball and using her platform to serve others in the name of Christ.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Tamika Catchings — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Tamika_Catchings",
+                  "note": "Biography of the WNBA legend and Olympic gold medalist"
+                }
+              ]
             }
           ]
         },
@@ -3132,6 +3514,36 @@
             }
           ],
           "count": 7
+        },
+        {
+          "id": "apologists",
+          "name": "Apologists",
+          "people": [
+            {
+              "name": "Nabeel Qureshi",
+              "slug": "nabeel-qureshi",
+              "years": "April 13, 1983 – September 16, 2017",
+              "title": "Christian Apologist & Author",
+              "tagline": "A devout Muslim who followed the evidence to Jesus and spent his remaining years defending the faith",
+              "bio": "Pakistani-American Christian apologist and author who converted from devout Ahmadiyya Islam to Christianity after years of investigation and dialogue with his friend David Wood. He authored 'Seeking Allah, Finding Jesus' and 'No God but One: Allah or Jesus?' He was a speaker with Ravi Zacharias International Ministries before his death from stomach cancer at age 34.",
+              "faith": "Qureshi's conversion came at enormous personal cost — he was effectively disowned by his family for leaving Islam. Despite this, he devoted his life to sharing the gospel with Muslims and defending the Christian faith. Even during his battle with cancer, he continued to produce apologetics content and point people to Christ. His testimony powerfully demonstrates the transformative power of the gospel across cultural and religious boundaries.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Nabeel Qureshi — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Nabeel_Qureshi_(author)",
+                  "note": "Biography of the Christian apologist and former Muslim"
+                },
+                {
+                  "type": "book",
+                  "title": "Seeking Allah, Finding Jesus",
+                  "note": "By Nabeel Qureshi. His account of leaving Islam and finding Christ"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
