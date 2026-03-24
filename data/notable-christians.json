@@ -12,7 +12,7 @@
           "people": [
             {
               "name": "Johann Sebastian Bach",
-              "years": "1685-1750",
+              "years": "March 31, 1685 – July 28, 1750",
               "title": "Composer",
               "bio": "German composer and musician of the Baroque period, widely regarded as one of the greatest composers of all time. His works include the Brandenburg Concertos, the Mass in B minor, and hundreds of cantatas.",
               "faith": "A devout Lutheran who inscribed 'Soli Deo Gloria' (To God Alone Be the Glory) on his manuscripts. He composed extensively for the church and viewed his musical gifts as given by God for His glory.",
@@ -55,7 +55,7 @@
             },
             {
               "name": "George Frideric Handel",
-              "years": "1685-1759",
+              "years": "February 23, 1685 – April 14, 1759",
               "title": "Composer",
               "bio": "German-born British Baroque composer famous for his operas, oratorios, and concertos. Best known for 'Messiah,' one of the most performed choral works in Western music.",
               "faith": "A committed Christian whose masterwork 'Messiah' sets to music the life of Jesus Christ from prophecy through resurrection. Upon completing the 'Hallelujah Chorus,' he reportedly said, 'I did think I did see all Heaven before me, and the great God Himself.'",
@@ -85,7 +85,7 @@
             },
             {
               "name": "Felix Mendelssohn",
-              "years": "1809-1847",
+              "years": "February 3, 1809 – November 4, 1847",
               "title": "Composer",
               "bio": "German composer, pianist, and conductor of the early Romantic period. Known for his symphonies, concertos, and oratorios including 'Elijah.'",
               "faith": "Raised in a Jewish family that converted to Christianity, Mendelssohn was a devout Lutheran. His oratorio 'Elijah' and symphony 'Reformation' reflect his deep Christian faith. He also revived interest in Bach's sacred works.",
@@ -110,7 +110,7 @@
             },
             {
               "name": "Fanny Crosby",
-              "years": "1820-1915",
+              "years": "March 24, 1820 – February 12, 1915",
               "title": "Hymn Writer",
               "bio": "American mission worker, poet, lyricist, and composer who wrote over 8,000 hymns and gospel songs. Blind from infancy, she became one of the most prolific hymnists in history.",
               "faith": "Despite losing her sight as an infant, Crosby devoted her life to glorifying God through music. She wrote beloved hymns including 'Blessed Assurance,' 'To God Be the Glory,' and 'All the Way My Savior Leads Me.'",
@@ -146,7 +146,7 @@
           "people": [
             {
               "name": "C.S. Lewis",
-              "years": "1898-1963",
+              "years": "November 29, 1898 – November 22, 1963",
               "title": "Author & Apologist",
               "bio": "British writer and lay theologian, author of 'The Chronicles of Narnia,' 'Mere Christianity,' and 'The Screwtape Letters.' Fellow of Magdalen College, Oxford and later Professor at Cambridge.",
               "faith": "A former atheist who converted to Christianity in 1931, Lewis became one of the most influential Christian apologists of the 20th century. He described his conversion in 'Surprised by Joy' and defended the faith in works like 'Mere Christianity.'",
@@ -194,7 +194,7 @@
             },
             {
               "name": "J.R.R. Tolkien",
-              "years": "1892-1973",
+              "years": "January 3, 1892 – September 2, 1973",
               "title": "Author & Philologist",
               "bio": "English writer, philologist, and academic, best known for 'The Hobbit' and 'The Lord of the Rings.' Professor of Anglo-Saxon at Oxford University.",
               "faith": "A devout Roman Catholic whose faith deeply influenced his literary works. He was instrumental in C.S. Lewis's conversion to Christianity. He described 'The Lord of the Rings' as 'a fundamentally religious and Catholic work.'",
@@ -224,7 +224,7 @@
             },
             {
               "name": "John Milton",
-              "years": "1608-1674",
+              "years": "December 9, 1608 – November 8, 1674",
               "title": "Poet",
               "bio": "English poet and intellectual who served as a civil servant during the Commonwealth. Best known for the epic poem 'Paradise Lost,' considered one of the greatest works in the English language.",
               "faith": "A deeply devout Puritan Christian, Milton's magnum opus 'Paradise Lost' aimed to 'justify the ways of God to men.' His works are saturated with biblical themes and theological reflection.",
@@ -249,7 +249,7 @@
             },
             {
               "name": "Fyodor Dostoevsky",
-              "years": "1821-1881",
+              "years": "November 11, 1821 – February 9, 1881",
               "title": "Novelist",
               "bio": "Russian novelist, philosopher, and journalist. His major works include 'Crime and Punishment,' 'The Brothers Karamazov,' and 'The Idiot.'",
               "faith": "After a period of doubt, Dostoevsky experienced a profound renewal of faith during his imprisonment in Siberia. His novels explore the depths of human sin and the transforming power of Christ's love. He wrote, 'If anyone proved to me that Christ was outside the truth... I would remain with Christ.'",
@@ -279,7 +279,7 @@
             },
             {
               "name": "G.K. Chesterton",
-              "years": "1874-1936",
+              "years": "May 29, 1874 – June 14, 1936",
               "title": "Author & Apologist",
               "bio": "English writer, philosopher, and Christian apologist. Author of the Father Brown mysteries, 'Orthodoxy,' 'The Everlasting Man,' and over 80 books.",
               "faith": "Initially an agnostic, Chesterton converted first to Anglicanism and then to Roman Catholicism. His book 'Orthodoxy' describes his intellectual journey to faith. C.S. Lewis credited 'The Everlasting Man' as key to his own conversion.",
@@ -308,7 +308,7 @@
             },
             {
               "name": "John Bunyan",
-              "years": "1628-1688",
+              "years": "November 28, 1628 – August 31, 1688",
               "title": "Author & Preacher",
               "bio": "English writer and Puritan preacher best known for 'The Pilgrim's Progress,' one of the most significant works of English literature and the most widely read Christian allegory ever written.",
               "faith": "A Baptist preacher who was imprisoned for 12 years for preaching without a license. During his imprisonment he wrote 'The Pilgrim's Progress,' an allegory of the Christian journey from sin to salvation that has never been out of print.",
@@ -333,7 +333,7 @@
             },
             {
               "name": "Augustine of Hippo",
-              "years": "354-430",
+              "years": "November 13, 354 – August 28, 430",
               "title": "Theologian & Author",
               "bio": "Early Christian theologian and philosopher from North Africa. Bishop of Hippo Regius and author of 'Confessions' and 'The City of God,' among the most influential works in Western Christianity.",
               "faith": "After years of dissolute living and exploring various philosophies, Augustine dramatically converted to Christianity, famously hearing a child's voice saying 'Take up and read.' His 'Confessions' is one of the first autobiographies in Western literature and a testament to God's grace.",
@@ -362,7 +362,7 @@
             },
             {
               "name": "Leo Tolstoy",
-              "years": "1828-1910",
+              "years": "September 9, 1828 – November 20, 1910",
               "title": "Novelist",
               "bio": "Russian writer regarded as one of the greatest authors of all time. Best known for 'War and Peace' and 'Anna Karenina.'",
               "faith": "After a spiritual crisis in midlife, Tolstoy underwent a profound Christian conversion. He devoted the latter part of his life to understanding and following the teachings of Jesus, writing 'A Confession' and 'The Kingdom of God Is Within You.'",
@@ -392,7 +392,7 @@
             },
             {
               "name": "George MacDonald",
-              "years": "1824-1905",
+              "years": "December 10, 1824 – September 18, 1905",
               "title": "Author & Minister",
               "bio": "Scottish author, poet, and Christian minister. A pioneering figure in fantasy literature, writing works such as 'Phantastes,' 'The Princess and the Goblin,' and 'Lilith.'",
               "faith": "A Congregationalist minister whose theology of God's love permeated all his writings. C.S. Lewis called MacDonald his 'master' and credited MacDonald's 'Phantastes' with 'baptizing his imagination.'",
@@ -422,7 +422,7 @@
           "people": [
             {
               "name": "Isaac Newton",
-              "years": "1643-1727",
+              "years": "January 4, 1643 – March 31, 1727",
               "title": "Physicist & Mathematician",
               "bio": "English mathematician, physicist, and astronomer who formulated the laws of motion and universal gravitation, developed calculus, and made groundbreaking contributions to optics.",
               "faith": "Newton wrote more about theology than science. He believed the elegant design of the solar system pointed to God and wrote, 'This most beautiful system of the sun, planets and comets, could only proceed from the counsel and dominion of an intelligent and powerful Being.'",
@@ -452,7 +452,7 @@
             },
             {
               "name": "Blaise Pascal",
-              "years": "1623-1662",
+              "years": "June 19, 1623 – August 19, 1662",
               "title": "Mathematician, Physicist & Philosopher",
               "bio": "French mathematician, physicist, inventor, and philosopher. Made foundational contributions to probability theory, projective geometry, and the development of the mechanical calculator.",
               "faith": "After a mystical experience on November 23, 1654 (his 'Night of Fire'), Pascal devoted his life to defending Christianity. His 'Pensées' remains one of the most eloquent defenses of the Christian faith ever written. He is the author of 'Pascal's Wager.'",
@@ -483,7 +483,7 @@
             },
             {
               "name": "Michael Faraday",
-              "years": "1791-1867",
+              "years": "September 22, 1791 – August 25, 1867",
               "title": "Physicist & Chemist",
               "bio": "English scientist who contributed to the study of electromagnetism and electrochemistry. His discoveries include electromagnetic induction, diamagnetism, and electrolysis.",
               "faith": "A devout member of the Sandemanian church (a small Christian sect), Faraday's faith was central to his life. He served as a deacon and elder and saw no conflict between science and his Christian beliefs, viewing the study of nature as the study of God's creation.",
@@ -508,7 +508,7 @@
             },
             {
               "name": "Gregor Mendel",
-              "years": "1822-1884",
+              "years": "July 20, 1822 – January 6, 1884",
               "title": "Geneticist & Friar",
               "bio": "Augustinian friar and scientist who discovered the fundamental laws of inheritance through his work with pea plants. Known as the 'Father of Genetics.'",
               "faith": "An Augustinian friar who served as abbot of his monastery, Mendel's scientific work was conducted within the context of his religious life. He saw no contradiction between his faith and his scientific research.",
@@ -527,7 +527,7 @@
             },
             {
               "name": "George Washington Carver",
-              "years": "1864-1943",
+              "years": "c. 1864 – January 5, 1943",
               "title": "Agricultural Scientist & Inventor",
               "bio": "American agricultural scientist and inventor who developed hundreds of products using peanuts, sweet potatoes, and soybeans. Born into slavery, he became one of the most prominent Black scientists of his era.",
               "faith": "A devout Christian who attributed all his discoveries to God. He famously said, 'I love to think of nature as an unlimited broadcasting station, through which God speaks to us every hour, if we will only tune in.' He taught a weekly Bible class for over 30 years.",
@@ -552,7 +552,7 @@
             },
             {
               "name": "Louis Pasteur",
-              "years": "1822-1895",
+              "years": "December 27, 1822 – September 28, 1895",
               "title": "Chemist & Microbiologist",
               "bio": "French chemist and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization. He is known as the 'Father of Microbiology.'",
               "faith": "A devout Catholic who maintained his faith throughout his scientific career. He stated, 'The more I study nature, the more I stand amazed at the work of the Creator.'",
@@ -577,7 +577,7 @@
             },
             {
               "name": "Johannes Kepler",
-              "years": "1571-1630",
+              "years": "December 27, 1571 – November 15, 1630",
               "title": "Astronomer & Mathematician",
               "bio": "German astronomer, mathematician, and astrologer who discovered the three laws of planetary motion, foundational to Isaac Newton's theory of universal gravitation.",
               "faith": "A devout Lutheran who saw his scientific work as a form of worship. He wrote, 'I was merely thinking God's thoughts after Him. Since we astronomers are priests of the highest God in regard to the book of nature, it benefits us to be thoughtful.'",
@@ -596,7 +596,7 @@
             },
             {
               "name": "Robert Boyle",
-              "years": "1627-1691",
+              "years": "January 25, 1627 – December 31, 1691",
               "title": "Chemist & Physicist",
               "bio": "Anglo-Irish natural philosopher, chemist, physicist, and inventor, regarded as the first modern chemist. Best known for Boyle's Law relating gas pressure and volume.",
               "faith": "A deeply devout Christian who wrote extensively on theology and funded Bible translations. He established the Boyle Lectures for defending Christianity against atheism and viewed science as a way to understand God's creation.",
@@ -621,7 +621,7 @@
             },
             {
               "name": "James Clerk Maxwell",
-              "years": "1831-1879",
+              "years": "June 13, 1831 – November 5, 1879",
               "title": "Physicist & Mathematician",
               "bio": "Scottish physicist responsible for the classical theory of electromagnetic radiation, unifying electricity, magnetism, and light. Einstein called Maxwell's work 'the most profound and the most fruitful that physics has experienced since the time of Newton.'",
               "faith": "A deeply committed evangelical Presbyterian who prayed regularly and saw his physics as revealing God's glory. He wrote, 'I think that the results which each man arrives at in his attempts to harmonize his science with his Christianity ought not to be regarded as having any significance except to the man himself.'",
@@ -640,7 +640,7 @@
             },
             {
               "name": "Francis Collins",
-              "years": "1950-present",
+              "years": "April 14, 1950 – present",
               "title": "Geneticist",
               "bio": "American physician-geneticist who led the Human Genome Project and served as director of the National Institutes of Health (NIH) from 2009 to 2021.",
               "faith": "A former atheist who converted to Christianity after reading C.S. Lewis's 'Mere Christianity.' He wrote 'The Language of God: A Scientist Presents Evidence for Belief' and founded BioLogos to explore the harmony between science and faith.",
@@ -679,7 +679,7 @@
               ],
               "slug": "francis-collins",
               "tagline": "Led the Human Genome Project as a converted atheist",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Francis_Collins_official_portrait.jpg/440px-Francis_Collins_official_portrait.jpg"
             }
           ]
         },
@@ -689,7 +689,7 @@
           "people": [
             {
               "name": "Leonhard Euler",
-              "years": "1707-1783",
+              "years": "April 15, 1707 – September 18, 1783",
               "title": "Mathematician & Physicist",
               "bio": "Swiss mathematician, physicist, and astronomer who made foundational contributions to numerous areas of mathematics. He is considered one of the greatest mathematicians of all time.",
               "faith": "A devout Calvinist who wrote a defense of Christianity called 'Letters to a German Princess,' which included arguments for the existence of God. He held daily family prayers and composed hymns.",
@@ -714,7 +714,7 @@
             },
             {
               "name": "Bernhard Riemann",
-              "years": "1826-1866",
+              "years": "September 17, 1826 – July 20, 1866",
               "title": "Mathematician",
               "bio": "German mathematician who made lasting contributions to analysis, number theory, and differential geometry, including the Riemann hypothesis and Riemannian geometry (which provided the mathematical foundation for Einstein's general relativity).",
               "faith": "The son of a Lutheran pastor, Riemann was a devout Christian throughout his life. He originally planned to study theology before pursuing mathematics.",
@@ -733,7 +733,7 @@
             },
             {
               "name": "Georg Cantor",
-              "years": "1845-1918",
+              "years": "March 3, 1845 – January 6, 1918",
               "title": "Mathematician",
               "bio": "German mathematician who created set theory and established the importance of one-to-one correspondence between sets, defining infinite and well-ordered sets.",
               "faith": "A devout Lutheran who believed his theory of transfinite numbers was communicated to him by God. He saw the absolute infinite as an expression of the nature of God.",
@@ -758,7 +758,7 @@
           "people": [
             {
               "name": "Michelangelo Buonarroti",
-              "years": "1475-1564",
+              "years": "March 6, 1475 – February 18, 1564",
               "title": "Artist, Sculptor & Architect",
               "bio": "Italian sculptor, painter, architect, and poet of the High Renaissance. Created the ceiling of the Sistine Chapel, the statue of David, and the Pietà.",
               "faith": "A devout Catholic whose greatest works depicted biblical scenes and Christian themes. His Sistine Chapel ceiling telling the story of Genesis and his Pietà depicting Mary holding the body of Christ are among the most recognizable Christian artworks ever created.",
@@ -783,7 +783,7 @@
             },
             {
               "name": "Rembrandt van Rijn",
-              "years": "1606-1669",
+              "years": "July 15, 1606 – October 4, 1669",
               "title": "Painter & Printmaker",
               "bio": "Dutch Golden Age painter and printmaker, generally considered one of the greatest visual artists in history. Known for biblical paintings, self-portraits, and masterful use of light and shadow.",
               "faith": "A deeply devout Protestant Christian, Rembrandt painted over 300 biblical scenes, more than any other major Western artist. His 'The Return of the Prodigal Son' is considered one of the most powerful visual depictions of God's grace.",
@@ -813,7 +813,7 @@
             },
             {
               "name": "Albrecht Dürer",
-              "years": "1471-1528",
+              "years": "May 21, 1471 – April 6, 1528",
               "title": "Artist & Printmaker",
               "bio": "German painter, printmaker, and theorist of the German Renaissance. Known for his woodcuts, engravings, and paintings including 'Praying Hands.'",
               "faith": "A devout Christian who embraced the Protestant Reformation. His famous 'Praying Hands' drawing and numerous biblical engravings reflect his deep faith. He admired Martin Luther and incorporated Reformation theology into his later works.",
@@ -838,7 +838,7 @@
             },
             {
               "name": "Antoni Gaudí",
-              "years": "1852-1926",
+              "years": "June 25, 1852 – June 10, 1926",
               "title": "Architect",
               "bio": "Spanish architect and the best-known practitioner of Catalan Modernism. His masterwork, the Sagrada Família basilica in Barcelona, remains under construction more than a century after his death.",
               "faith": "A devout Catholic whose later years were entirely dedicated to building the Sagrada Família as an offering to God. He lived ascetically and attended Mass daily. He is currently a candidate for canonization in the Catholic Church.",
@@ -869,7 +869,7 @@
           "people": [
             {
               "name": "Martin Luther",
-              "years": "1483-1546",
+              "years": "November 10, 1483 – February 18, 1546",
               "title": "Reformer & Theologian",
               "bio": "German professor of theology, priest, and seminal figure in the Protestant Reformation. His Ninety-five Theses challenged the Catholic Church's practices and launched the Reformation.",
               "faith": "Luther's rediscovery of justification by faith alone (sola fide) through Scripture alone (sola scriptura) transformed Christianity. His translation of the Bible into German made Scripture accessible to ordinary people.",
@@ -900,7 +900,7 @@
             },
             {
               "name": "John Calvin",
-              "years": "1509-1564",
+              "years": "July 10, 1509 – May 27, 1564",
               "title": "Reformer & Theologian",
               "bio": "French theologian, pastor, and reformer who was a principal figure in the development of the system of Christian theology later called Calvinism. His 'Institutes of the Christian Religion' is a foundational work of Protestant theology.",
               "faith": "Calvin's theology emphasized the sovereignty of God, the authority of Scripture, and salvation by grace alone through faith alone. His work in Geneva established a model for Reformed churches worldwide.",
@@ -925,7 +925,7 @@
             },
             {
               "name": "Jonathan Edwards",
-              "years": "1703-1758",
+              "years": "October 5, 1703 – March 22, 1758",
               "title": "Theologian & Preacher",
               "bio": "American revivalist preacher, philosopher, and Congregationalist Protestant theologian. Key figure in the First Great Awakening and third president of Princeton University.",
               "faith": "Edwards is widely regarded as America's greatest theologian. His sermon 'Sinners in the Hands of an Angry God' is one of the most famous sermons in American history. His theological works on the nature of true virtue and religious affections remain deeply influential.",
@@ -956,7 +956,7 @@
             },
             {
               "name": "Charles Haddon Spurgeon",
-              "years": "1834-1892",
+              "years": "June 19, 1834 – January 31, 1892",
               "title": "Preacher & Author",
               "bio": "English Particular Baptist preacher known as the 'Prince of Preachers.' Pastor of the Metropolitan Tabernacle in London, he frequently preached to audiences of more than 10,000 people.",
               "faith": "Spurgeon was converted at age 15 and began preaching immediately. He published thousands of sermons and authored numerous books. He founded a pastors' college, orphanages, and other charitable organizations, all flowing from his deep love for Christ.",
@@ -981,7 +981,7 @@
             },
             {
               "name": "John Wesley",
-              "years": "1703-1791",
+              "years": "June 28, 1703 – March 2, 1791",
               "title": "Theologian & Evangelist",
               "bio": "English cleric, theologian, and evangelist who co-founded the Methodist movement. His open-air preaching brought the gospel to millions across England.",
               "faith": "After his famous 'Aldersgate experience' in 1738 where his heart was 'strangely warmed,' Wesley dedicated his life to evangelism. He traveled 250,000 miles on horseback, preached over 40,000 sermons, and sparked a revival that transformed England.",
@@ -1006,7 +1006,7 @@
             },
             {
               "name": "George Whitefield",
-              "years": "1714-1770",
+              "years": "December 27, 1714 – September 30, 1770",
               "title": "Evangelist & Preacher",
               "bio": "Anglican cleric and evangelist who was one of the founders of Methodism and the evangelical movement. He preached to enormous crowds on both sides of the Atlantic and was a key figure in the Great Awakening.",
               "faith": "Whitefield was one of the most powerful preachers in Christian history, known for his dramatic delivery and deep conviction. Benjamin Franklin estimated he could be heard by 30,000 people at once. He preached over 18,000 sermons in his lifetime.",
@@ -1025,7 +1025,7 @@
             },
             {
               "name": "William Wilberforce",
-              "years": "1759-1833",
+              "years": "August 24, 1759 – July 29, 1833",
               "title": "Politician & Reformer",
               "bio": "British politician and philanthropist who led the movement to abolish the slave trade in the British Empire. Member of Parliament for 45 years.",
               "faith": "After his evangelical conversion in 1785, Wilberforce devoted his life to two 'great objects': the abolition of the slave trade and the reformation of manners (moral reform). His Christian faith was the driving force behind his tireless campaign against slavery.",
@@ -1055,7 +1055,7 @@
             },
             {
               "name": "Dietrich Bonhoeffer",
-              "years": "1906-1945",
+              "years": "February 4, 1906 – April 9, 1945",
               "title": "Theologian & Martyr",
               "bio": "German Lutheran pastor, theologian, and anti-Nazi dissident. Author of 'The Cost of Discipleship' and 'Life Together.' Executed by the Nazis at Flossenbürg concentration camp.",
               "faith": "Bonhoeffer's theology of 'costly grace' challenged cheap Christianity. He helped found the Confessing Church in opposition to Nazi influence and participated in a plot to assassinate Hitler. His final words were, 'This is the end — for me, the beginning of life.'",
@@ -1090,7 +1090,7 @@
           "people": [
             {
               "name": "Billy Graham",
-              "years": "1918-2018",
+              "years": "November 7, 1918 – February 21, 2018",
               "title": "Evangelist",
               "bio": "American evangelist and ordained Southern Baptist minister whose broadcasts and world tours spanning over six decades made him one of the most influential Christian leaders of the 20th century. He preached to live audiences of nearly 215 million people in more than 185 countries.",
               "faith": "Known as 'America's Pastor,' Graham preached a simple message of salvation through Jesus Christ. He served as spiritual advisor to multiple U.S. Presidents and founded the Billy Graham Evangelistic Association. His integrity and humility set a standard for public Christian ministry.",
@@ -1133,7 +1133,7 @@
             },
             {
               "name": "Jim Elliot",
-              "years": "1927-1956",
+              "years": "October 8, 1927 – January 8, 1956",
               "title": "Missionary & Martyr",
               "bio": "American Christian missionary who was killed along with four companions during Operation Auca, an attempt to evangelize the Huaorani people of Ecuador. He was 28 years old. His death galvanized a generation of missionaries.",
               "faith": "Elliot famously wrote in his journal, 'He is no fool who gives what he cannot keep to gain what he cannot lose.' His wife Elisabeth Elliot later returned to minister to the very tribe that killed him, and many Huaorani eventually became Christians.",
@@ -1171,11 +1171,11 @@
               ],
               "slug": "jim-elliot",
               "tagline": "He is no fool who gives what he cannot keep to gain what he cannot lose",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Jim_Elliot.jpg/440px-Jim_Elliot.jpg"
             },
             {
               "name": "Hudson Taylor",
-              "years": "1832-1905",
+              "years": "May 21, 1832 – June 3, 1905",
               "title": "Missionary to China",
               "bio": "British Protestant Christian missionary to China and founder of the China Inland Mission (now OMF International). He spent 51 years in China and is regarded as one of the most important missionaries of all time.",
               "faith": "Taylor pioneered a new approach to missions by adopting Chinese dress and customs, living by faith without soliciting funds, and opening inland China to the gospel. The CIM he founded became the largest mission agency in the world, eventually bringing over 800 missionaries to China.",
@@ -1205,7 +1205,7 @@
             },
             {
               "name": "Eric Liddell",
-              "years": "1902-1945",
+              "years": "January 16, 1902 – February 21, 1945",
               "title": "Olympic Runner & Missionary",
               "bio": "Scottish Olympic gold medalist (400m, 1924 Paris Olympics) who refused to run his best event (100m) because the heat was on a Sunday. He later served as a missionary in China, where he died in a Japanese internment camp during World War II.",
               "faith": "Liddell famously said, 'God made me fast. And when I run, I feel His pleasure.' After his Olympic triumph, he devoted his life to missionary work in China. His story was immortalized in the Academy Award-winning film 'Chariots of Fire.'",
@@ -1242,7 +1242,7 @@
             },
             {
               "name": "William Carey",
-              "years": "1761-1834",
+              "years": "August 17, 1761 – June 9, 1834",
               "title": "Missionary to India",
               "bio": "English Baptist minister, missionary, and translator known as the 'Father of Modern Missions.' He founded the Serampore College and Serampore University (the first degree-granting university in India) and translated the Bible into numerous Indian languages.",
               "faith": "Carey's famous motto was 'Expect great things from God; attempt great things for God.' He labored for decades in India, translating the Bible into Bengali, Sanskrit, and many other languages, establishing schools, and fighting social evils like sati (widow burning).",
@@ -1266,7 +1266,7 @@
             },
             {
               "name": "Adoniram Judson",
-              "years": "1788-1850",
+              "years": "August 9, 1788 – April 12, 1850",
               "title": "Missionary to Burma",
               "bio": "American Congregationalist and later Baptist missionary who served in Burma (Myanmar) for nearly 40 years. He was the first American foreign missionary sent overseas and translated the entire Bible into Burmese.",
               "faith": "Judson endured imprisonment, torture, the deaths of two wives and several children, and decades of hardship for the sake of the gospel. He completed the Burmese Bible translation and established churches that endure to this day.",
@@ -1290,7 +1290,7 @@
             },
             {
               "name": "David Livingstone",
-              "years": "1813-1873",
+              "years": "March 19, 1813 – May 1, 1873",
               "title": "Missionary & Explorer",
               "bio": "Scottish Congregationalist pioneer Christian missionary, doctor, and explorer in Africa. He was the first European to see Victoria Falls and made extensive explorations of central Africa while seeking to end the slave trade.",
               "faith": "Livingstone believed that Christianity and commerce together could end the African slave trade. He spent over 30 years in Africa, often alone, driven by his faith and desire to bring the gospel to unreached peoples. His body was buried in Westminster Abbey.",
@@ -1314,7 +1314,7 @@
             },
             {
               "name": "George Müller",
-              "years": "1805-1898",
+              "years": "September 27, 1805 – March 10, 1898",
               "title": "Evangelist & Orphanage Director",
               "bio": "Prussian-born evangelist and director of the Ashley Down orphanage in Bristol, England. He cared for over 10,000 orphans during his lifetime and established 117 schools offering Christian education to over 120,000 children.",
               "faith": "Müller is renowned for his radical faith in God's provision. He never asked for money or went into debt, instead relying entirely on prayer. He recorded over 50,000 specific answers to prayer in his journals. He also distributed over 2 million Bibles and tracts.",
@@ -1344,7 +1344,7 @@
             },
             {
               "name": "Corrie ten Boom",
-              "years": "1892-1983",
+              "years": "April 15, 1892 – April 15, 1983",
               "title": "Holocaust Survivor & Evangelist",
               "bio": "Dutch Christian watchmaker who, along with her family, helped many Jews escape the Nazi Holocaust by hiding them in her home. She was eventually imprisoned in the Ravensbrück concentration camp, where her sister Betsie died.",
               "faith": "After surviving the concentration camp, ten Boom traveled the world as a speaker, sharing her message of forgiveness and God's love. Her autobiography 'The Hiding Place' tells the story of her family's courageous faith. She famously forgave a former Ravensbrück guard face-to-face.",
@@ -1381,7 +1381,7 @@
             },
             {
               "name": "John MacArthur",
-              "years": "1939-2025",
+              "years": "June 19, 1939 – March 5, 2025",
               "title": "Pastor & Author",
               "bio": "American pastor-teacher who served as pastor of Grace Community Church in Sun Valley, California, for over 55 years. He was also president of The Master's University and Seminary, a prolific author of over 150 books, and the voice behind the 'Grace to You' radio broadcast.",
               "faith": "MacArthur was one of the most influential Bible expositors of his generation. His verse-by-verse preaching style and commitment to biblical inerrancy shaped Reformed evangelical Christianity. His MacArthur Study Bible has sold over 2 million copies.",
@@ -1419,11 +1419,11 @@
               ],
               "slug": "john-macarthur",
               "tagline": "Devoted over 50 years to expository preaching of Scripture",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/John_MacArthur_%28cropped%29.jpg/440px-John_MacArthur_%28cropped%29.jpg"
             },
             {
               "name": "R.C. Sproul",
-              "years": "1939-2017",
+              "years": "February 13, 1939 – December 14, 2017",
               "title": "Theologian & Pastor",
               "bio": "American Reformed theologian, pastor, and founder of Ligonier Ministries. He authored over 100 books and was known for making complex theology accessible to ordinary Christians. He served as co-pastor at Saint Andrew's Chapel in Sanford, Florida.",
               "faith": "Sproul dedicated his life to teaching the holiness of God and Reformed theology. His book 'The Holiness of God' is considered a modern classic. He was instrumental in drafting the Chicago Statement on Biblical Inerrancy (1978).",
@@ -1456,11 +1456,11 @@
               ],
               "slug": "rc-sproul",
               "tagline": "Made the holiness of God accessible to a generation of believers",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RC_Sproul_at_Ligonier_2005.jpg/440px-RC_Sproul_at_Ligonier_2005.jpg"
             },
             {
               "name": "D.L. Moody",
-              "years": "1837-1899",
+              "years": "February 5, 1837 – December 22, 1899",
               "title": "Evangelist & Educator",
               "bio": "American evangelist and publisher connected with Keswick and Higher Life movements. He founded the Moody Church, Northfield Schools, and the Moody Bible Institute in Chicago. He is estimated to have preached to over 100 million people.",
               "faith": "Moody was converted at age 18 when his Sunday school teacher visited him at work. He became one of the greatest evangelists of the 19th century, working alongside hymn writer Ira Sankey. His plain-spoken gospel preaching drew massive crowds on both sides of the Atlantic.",
@@ -1485,7 +1485,7 @@
             },
             {
               "name": "Amy Carmichael",
-              "years": "1867-1951",
+              "years": "December 16, 1867 – January 18, 1951",
               "title": "Missionary to India",
               "bio": "Irish Christian missionary who served in India for 55 years without furlough. She founded the Dohnavur Fellowship and devoted her life to rescuing children from temple prostitution. She wrote 35 books about her missionary work.",
               "faith": "Carmichael gave her entire life to serving the most vulnerable in India. She rescued hundreds of children from abuse and exploitation, establishing a community that still operates today. Her writings on the cost of discipleship continue to inspire missionaries worldwide.",
@@ -1510,11 +1510,11 @@
               ],
               "slug": "amy-carmichael",
               "tagline": "Rescued hundreds of children in India and served without furlough for 55 years",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Amy_Carmichael_with_children2.jpg/440px-Amy_Carmichael_with_children2.jpg"
             },
             {
               "name": "Jim Cymbala",
-              "years": "1943-present",
+              "years": "1943 – present",
               "title": "Pastor & Author",
               "bio": "American pastor of the Brooklyn Tabernacle in New York City. Under his leadership, the church grew from fewer than 20 members to over 10,000. The Brooklyn Tabernacle Choir, directed by his wife Carol, has won multiple Grammy Awards.",
               "faith": "Cymbala transformed a dying inner-city church through prayer. His Tuesday night prayer meetings became legendary, drawing thousands. His book 'Fresh Wind, Fresh Fire' recounts how God revived the Brooklyn Tabernacle through fervent prayer.",
@@ -1547,11 +1547,11 @@
               ],
               "slug": "jim-cymbala",
               "tagline": "Built the Brooklyn Tabernacle on the power of prayer",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Francis Schaeffer",
-              "years": "1912-1984",
+              "years": "January 30, 1912 – May 15, 1984",
               "title": "Philosopher, Theologian & Author",
               "bio": "American evangelical theologian, philosopher, and Presbyterian pastor. He founded the L'Abri Fellowship community in Switzerland, which became a haven for seekers and intellectuals exploring Christian faith. He authored influential works including 'The God Who Is There' and 'How Should We Then Live?'",
               "faith": "Schaeffer engaged the intellectual culture of the 20th century with a rigorous Christian worldview. He argued that Christianity provides the only adequate basis for human meaning, morality, and knowledge. His work influenced a generation of evangelical thinkers and leaders.",
@@ -1589,11 +1589,11 @@
               ],
               "slug": "francis-schaeffer",
               "tagline": "Showed that Christianity is true truth — answering every honest question",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Francis_Schaeffer.jpg/440px-Francis_Schaeffer.jpg"
             },
             {
               "name": "John Piper",
-              "years": "1946-present",
+              "years": "January 11, 1946 – present",
               "title": "Pastor & Theologian",
               "bio": "American Reformed Baptist pastor, author, and theologian. He served as pastor of Bethlehem Baptist Church in Minneapolis for 33 years and founded Desiring God Ministries. He has authored over 50 books including 'Desiring God' and 'Don't Waste Your Life.'",
               "faith": "Piper is known for his concept of 'Christian Hedonism' — the idea that 'God is most glorified in us when we are most satisfied in Him.' His expository preaching, passionate delivery, and emphasis on God's sovereignty have shaped a generation of Reformed evangelicals.",
@@ -1626,11 +1626,11 @@
               ],
               "slug": "john-piper",
               "tagline": "Proclaimed that God is most glorified in us when we are most satisfied in Him",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/John_Piper_%28theologian%29.jpg/440px-John_Piper_%28theologian%29.jpg"
             },
             {
               "name": "A.W. Tozer",
-              "years": "1897-1963",
+              "years": "April 21, 1897 – May 12, 1963",
               "title": "Pastor & Author",
               "bio": "American Christian pastor, author, magazine editor, and spiritual mentor. He served as pastor for 44 years, primarily at Southside Alliance Church in Chicago. Despite having no formal education, he received honorary doctorates from Wheaton and Houghton colleges.",
               "faith": "Tozer's devotional writings emphasize the pursuit of God's presence above all else. His books 'The Pursuit of God' and 'The Knowledge of the Holy' are considered spiritual classics. He was known as a 'prophet' who called the church to deeper intimacy with God.",
@@ -1655,11 +1655,11 @@
               ],
               "slug": "aw-tozer",
               "tagline": "The 20th-century prophet who pursued the knowledge of the Holy",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Aiden_Wilson_Tozer.jpg/440px-Aiden_Wilson_Tozer.jpg"
             },
             {
               "name": "Lottie Moon",
-              "years": "1840-1912",
+              "years": "December 12, 1840 – December 24, 1912",
               "title": "Missionary to China",
               "bio": "American Southern Baptist missionary who served in China for nearly 40 years. She spent her life evangelizing and advocating for mission support. The annual Lottie Moon Christmas Offering for international missions, named in her honor, has raised billions of dollars.",
               "faith": "Moon gave everything for the gospel in China, eventually dying of starvation because she had given all her food to starving Chinese during a famine. Her sacrificial example inspired the Southern Baptist Convention's largest missions offering, still collected annually.",
@@ -1684,7 +1684,7 @@
             },
             {
               "name": "Watchman Nee",
-              "years": "1903-1972",
+              "years": "November 4, 1903 – May 30, 1972",
               "title": "Church Leader & Author",
               "bio": "Chinese church leader and Christian author who founded the Local Church movement in China. He authored influential works including 'The Normal Christian Life' and 'Sit, Walk, Stand.' He was imprisoned by the Communist government in 1952 and died in prison after 20 years.",
               "faith": "Nee's emphasis on the inner spiritual life and the practical experience of Christ's indwelling has influenced millions of Christians worldwide. He endured two decades of imprisonment for his faith without renouncing Christ.",
@@ -1704,11 +1704,11 @@
               ],
               "slug": "watchman-nee",
               "tagline": "Suffered 20 years in prison rather than deny his Lord",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Watchman_Nee.jpg/440px-Watchman_Nee.jpg"
             },
             {
               "name": "Charles Finney",
-              "years": "1792-1875",
+              "years": "August 29, 1792 – August 16, 1875",
               "title": "Evangelist & Revivalist",
               "bio": "American Presbyterian minister, revivalist leader, and president of Oberlin College. He was a central figure in the Second Great Awakening and is estimated to have led over 500,000 people to Christ.",
               "faith": "Finney's dramatic conversion experience in 1821 transformed him from a lawyer to a fiery evangelist. His revival meetings featured new methods including the 'anxious bench' and extended meetings. He was also a strong advocate for abolition and women's education.",
@@ -1732,7 +1732,7 @@
             },
             {
               "name": "William Booth",
-              "years": "1829-1912",
+              "years": "April 10, 1829 – August 20, 1912",
               "title": "Evangelist & Social Reformer",
               "bio": "English Methodist preacher who co-founded The Salvation Army with his wife Catherine in 1865. The organization combined evangelism with social services for the poor and has grown into a worldwide movement operating in over 130 countries.",
               "faith": "Booth's passion was bringing the gospel to the poorest and most neglected members of society. He famously said, 'While women weep, as they do now, I'll fight; while little children go hungry, as they do now, I'll fight.' The Salvation Army's model of practical Christianity has served millions.",
@@ -1757,7 +1757,7 @@
             },
             {
               "name": "Gladys Aylward",
-              "years": "1902-1970",
+              "years": "February 24, 1902 – January 3, 1970",
               "title": "Missionary to China",
               "bio": "English missionary to China who served from 1930 onward. During the Japanese invasion, she led over 100 orphan children on a harrowing journey across the mountains to safety. Her story was told in the film 'The Inn of the Sixth Happiness.'",
               "faith": "Rejected by the China Inland Mission for lacking education, Aylward saved her own money to travel to China by the Trans-Siberian Railway. She adopted Chinese citizenship, ran an inn for muleteers where she told Bible stories, and became known as 'Ai-weh-deh' (the Virtuous One).",
@@ -1777,7 +1777,7 @@
               ],
               "slug": "gladys-aylward",
               "tagline": "A parlor maid who became a legendary missionary to China",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Gladys_Aylward.jpg/440px-Gladys_Aylward.jpg"
             }
           ]
         }
@@ -1794,7 +1794,7 @@
           "people": [
             {
               "name": "Tim Tebow",
-              "years": "1987-present",
+              "years": "August 14, 1987 – present",
               "title": "Former NFL Quarterback & Baseball Player",
               "bio": "American former professional football and baseball player, Heisman Trophy winner, and two-time BCS National Champion with the University of Florida. Now a sports analyst, author, and philanthropist.",
               "faith": "One of the most outspoken Christian athletes in modern sports. Famous for 'Tebowing' (kneeling in prayer on the field) and wearing Bible verses on his eye black. Founded the Tim Tebow Foundation, which hosts 'Night to Shine' proms for people with special needs worldwide.",
@@ -1833,11 +1833,11 @@
               ],
               "slug": "tim-tebow",
               "tagline": "Wore John 3:16 on his eye black and lived it on every field",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tim_Tebow_2021.jpg/440px-Tim_Tebow_2021.jpg"
             },
             {
               "name": "Stephen Curry",
-              "years": "1988-present",
+              "years": "March 14, 1988 – present",
               "title": "NBA Point Guard",
               "bio": "American professional basketball player for the Golden State Warriors. Four-time NBA champion, two-time NBA MVP, and widely regarded as the greatest shooter in NBA history.",
               "faith": "Curry has repeatedly professed his faith in Jesus Christ in MVP acceptance speeches and interviews. He wears Philippians 4:13 on his shoes. In his 2015 MVP speech he said, 'First and foremost I have to thank my Lord and Savior Jesus Christ for blessing me with the talents to play this game.'",
@@ -1865,11 +1865,11 @@
               ],
               "slug": "stephen-curry",
               "tagline": "The greatest shooter in NBA history who plays for an audience of One",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stephen_Curry_dribbling_2016_%28cropped%29.jpg/440px-Stephen_Curry_dribbling_2016_%28cropped%29.jpg"
             },
             {
               "name": "Jeremy Lin",
-              "years": "1988-present",
+              "years": "August 23, 1988 – present",
               "title": "Former NBA Point Guard",
               "bio": "American-Taiwanese former professional basketball player, best known for 'Linsanity' — his breakout stretch with the New York Knicks in 2012. First American of Chinese/Taiwanese descent to play in the NBA.",
               "faith": "A devout Christian who has spoken extensively about finding his identity in Christ rather than basketball. He has shared his testimony at churches and conferences, emphasizing that his worth comes from God, not performance.",
@@ -1897,11 +1897,11 @@
               ],
               "slug": "jeremy-lin",
               "tagline": "Linsanity — a Harvard underdog who gave God the glory",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jeremy_Lin_2012_Shankbone.JPG/440px-Jeremy_Lin_2012_Shankbone.JPG"
             },
             {
               "name": "Allyson Felix",
-              "years": "1985-present",
+              "years": "November 18, 1985 – present",
               "title": "Olympic Track & Field Sprinter",
               "bio": "American former track and field sprinter, the most decorated American track and field athlete in Olympic history with 11 Olympic medals (7 gold).",
               "faith": "A devout Christian who has spoken openly about her faith. She has said, 'My faith is everything to me. It's the foundation of who I am.' She credits God for her athletic achievements and has been vocal about trusting God through challenges.",
@@ -1922,11 +1922,11 @@
               ],
               "slug": "allyson-felix",
               "tagline": "The most decorated American track Olympian who runs for Christ",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Allyson_Felix_2012.jpg/440px-Allyson_Felix_2012.jpg"
             },
             {
               "name": "Russell Wilson",
-              "years": "1988-present",
+              "years": "November 29, 1988 – present",
               "title": "NFL Quarterback",
               "bio": "American professional football quarterback. Super Bowl XLVIII champion with the Seattle Seahawks. Multiple Pro Bowl selection.",
               "faith": "A vocal Christian who credits God for his success and has spoken about practicing abstinence before marriage with his wife Ciara as an act of faith. He has said, 'My relationship with Jesus Christ is the most important thing in my life.'",
@@ -1947,11 +1947,11 @@
               ],
               "slug": "russell-wilson",
               "tagline": "Leads on and off the field with faith as his foundation",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Russell_Wilson_vs_Rams_2012_%28cropped%29.jpg/440px-Russell_Wilson_vs_Rams_2012_%28cropped%29.jpg"
             },
             {
               "name": "Kirk Cousins",
-              "years": "1988-present",
+              "years": "August 19, 1988 – present",
               "title": "NFL Quarterback",
               "bio": "American professional football quarterback who has played for the Washington Commanders, Minnesota Vikings, and Atlanta Falcons.",
               "faith": "An outspoken Christian who has said, 'The gospel changes everything. It changes how I see football, how I see my marriage, how I see money.' He has spoken at churches and men's conferences about his faith.",
@@ -1972,11 +1972,11 @@
               ],
               "slug": "kirk-cousins",
               "tagline": "An NFL quarterback who studies Scripture as diligently as game film",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kirk_Cousins_2014.jpg/440px-Kirk_Cousins_2014.jpg"
             },
             {
               "name": "Manny Pacquiao",
-              "years": "1978-present",
+              "years": "December 17, 1978 – present",
               "title": "Professional Boxer & Politician",
               "bio": "Filipino professional boxer and politician, the only eight-division world champion in boxing history. He also served as a senator in the Philippines.",
               "faith": "After years of gambling and womanizing, Pacquiao experienced a dramatic conversion to evangelical Christianity. He now preaches regularly at churches, studies the Bible daily, and has said his faith transformed every aspect of his life.",
@@ -2004,11 +2004,11 @@
               ],
               "slug": "manny-pacquiao",
               "tagline": "From world champion boxer to gospel preacher and senator",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Manny_Pacquiao_2019_%28cropped%29.jpg/440px-Manny_Pacquiao_2019_%28cropped%29.jpg"
             },
             {
               "name": "David Robinson",
-              "years": "1965-present",
+              "years": "August 6, 1965 – present",
               "title": "Former NBA Center",
               "bio": "American former professional basketball player who spent his entire career with the San Antonio Spurs. Two-time NBA champion, NBA MVP, and Naval Academy graduate known as 'The Admiral.'",
               "faith": "Robinson became a born-again Christian during his NBA career and has devoted his post-basketball life to ministry and philanthropy. He founded the Carver Academy, a private Christian school in San Antonio, and is active in various faith-based organizations.",
@@ -2029,11 +2029,11 @@
               ],
               "slug": "david-robinson",
               "tagline": "The Admiral — NBA MVP who built schools and served God after basketball",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/David_Robinson_%28basketball%29.jpg/440px-David_Robinson_%28basketball%29.jpg"
             },
             {
               "name": "Simone Biles",
-              "years": "1997-present",
+              "years": "March 14, 1997 – present",
               "title": "Olympic Gymnast",
               "bio": "American artistic gymnast with 37 Olympic and World Championship medals combined, the most decorated gymnast in history.",
               "faith": "Biles has shared her Christian faith on social media and in interviews. She has posted scripture on social media and has said her faith helps her through difficult times, including her courageous decision to prioritize mental health at the 2020 Olympics.",
@@ -2048,11 +2048,11 @@
               ],
               "slug": "simone-biles",
               "tagline": "The greatest gymnast ever, anchored by her faith through every trial",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Simone_Biles_in_2024_%28cropped%29.jpg/440px-Simone_Biles_in_2024_%28cropped%29.jpg"
             },
             {
               "name": "Sadie Robertson Huff",
-              "years": "1997-present",
+              "years": "June 11, 1997 – present",
               "title": "Author, Speaker & Media Personality",
               "bio": "American author, speaker, and media personality best known for the reality TV show 'Duck Dynasty.' Founder of Live Original, a faith-based organization for young people.",
               "faith": "Robertson is one of the most prominent young Christian voices in America. She hosts the 'Whoa That's Good' podcast, speaks at conferences, and has authored multiple bestselling books about faith. She openly shares about following Jesus in every area of life.",
@@ -2073,11 +2073,11 @@
               ],
               "slug": "sadie-robertson-huff",
               "tagline": "Turned reality TV fame into a platform for the gospel",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Gabby Douglas",
-              "years": "1995-present",
+              "years": "December 31, 1995 – present",
               "title": "Olympic Gymnast",
               "bio": "American artistic gymnast who became the first African American to win the individual all-around gold medal at the 2012 Olympics. Also won team gold in 2012 and 2016.",
               "faith": "A devout Christian who has openly credited God for her success. She wrote 'Grace, Gold, and Glory: My Leap of Faith,' sharing how her faith sustained her through challenges. She has said, 'My faith is everything to me.'",
@@ -2097,11 +2097,11 @@
               ],
               "slug": "gabby-douglas",
               "tagline": "Won Olympic gold and gave all the glory to God",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gabrielle_Douglas_at_the_2012_Summer_Olympics_%28cropped%29.jpg/440px-Gabrielle_Douglas_at_the_2012_Summer_Olympics_%28cropped%29.jpg"
             },
             {
               "name": "Coco Gauff",
-              "years": "2004-present",
+              "years": "March 13, 2004 – present",
               "title": "Professional Tennis Player",
               "bio": "American professional tennis player who won the 2023 US Open and 2025 French Open. Achieved a career-high ranking of world No. 2 in singles.",
               "faith": "Gauff has spoken about her Christian faith in press conferences and social media. After winning the US Open at age 19, she said she thanked God for the opportunity. She has quoted Scripture and referenced her faith in victory speeches.",
@@ -2122,11 +2122,11 @@
               ],
               "slug": "coco-gauff",
               "tagline": "A tennis prodigy who credits God for every victory",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coco_Gauff_%2852839559142%29_%28cropped%29.jpg/440px-Coco_Gauff_%2852839559142%29_%28cropped%29.jpg"
             },
             {
               "name": "Dak Prescott",
-              "years": "1993-present",
+              "years": "July 29, 1993 – present",
               "title": "NFL Quarterback",
               "bio": "American professional football quarterback for the Dallas Cowboys. Two-time Pro Bowl selection known for his leadership both on and off the field.",
               "faith": "Prescott has been open about his Christian faith, particularly after the death of his mother and brother. He has said, 'I know God has a plan for me' and credits his faith with helping him through immense personal tragedy.",
@@ -2141,11 +2141,11 @@
               ],
               "slug": "dak-prescott",
               "tagline": "Overcame tragedy with faith and became a voice for Christ in the NFL",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dak_Prescott_2019_%28cropped%29.jpg/440px-Dak_Prescott_2019_%28cropped%29.jpg"
             },
             {
               "name": "Drew Brees",
-              "years": "1979-present",
+              "years": "January 15, 1979 – present",
               "title": "Former NFL Quarterback",
               "bio": "American former professional football quarterback who spent the majority of his career with the New Orleans Saints. Super Bowl XLIV champion and one of the most prolific passers in NFL history.",
               "faith": "A committed Christian who has been vocal about his faith. He has appeared in Christian media, participated in 'Focus on the Family' events, and credited God with his recovery from a career-threatening shoulder injury.",
@@ -2166,7 +2166,7 @@
               ],
               "slug": "drew-brees",
               "tagline": "Led the Saints to a Super Bowl and led many to faith",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Drew_Brees_2018_%28cropped%29.jpg/440px-Drew_Brees_2018_%28cropped%29.jpg"
             }
           ]
         },
@@ -2176,7 +2176,7 @@
           "people": [
             {
               "name": "Lecrae",
-              "years": "1979-present",
+              "years": "October 9, 1979 – present",
               "title": "Rapper & Author",
               "bio": "American Christian hip-hop artist, songwriter, and record producer. His 2014 album 'Anomaly' debuted at No. 1 on the Billboard 200. Grammy Award winner and founder of Reach Records.",
               "faith": "Lecrae converted to Christianity as a teenager and has made his faith central to his music and identity. He has been transparent about his struggles and growth as a Christian. His memoir 'Unashamed' details his journey from a troubled youth to faith in Christ.",
@@ -2209,11 +2209,11 @@
               ],
               "slug": "lecrae",
               "tagline": "Pioneered faith-driven hip-hop and brought the gospel to mainstream culture",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lecrae_Moore_in_2014.jpg/440px-Lecrae_Moore_in_2014.jpg"
             },
             {
               "name": "Lauren Daigle",
-              "years": "1991-present",
+              "years": "September 9, 1991 – present",
               "title": "Christian & Pop Singer",
               "bio": "American contemporary Christian music and pop singer-songwriter. Known for hit songs 'You Say' and 'How Can It Be.' Multiple Grammy Award winner.",
               "faith": "Daigle grew up in a Christian family in Lafayette, Louisiana, and her music reflects her deep faith. She has spoken about writing music as an act of worship and using her platform to point people to Jesus.",
@@ -2234,11 +2234,11 @@
               ],
               "slug": "lauren-daigle",
               "tagline": "Crossed from Christian music to the mainstream without compromising her faith",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lauren_Daigle_2019_by_Glenn_Francis.jpg/440px-Lauren_Daigle_2019_by_Glenn_Francis.jpg"
             },
             {
               "name": "TobyMac",
-              "years": "1964-present",
+              "years": "October 22, 1964 – present",
               "title": "Christian Rapper & Singer",
               "bio": "American Christian hip hop and pop artist, former member of DC Talk. Multiple Grammy Award winner with hits like 'I just need U' and 'Speak Life.'",
               "faith": "TobyMac has been in Christian music for over 30 years. After the tragic death of his son Truett in 2019, he has spoken powerfully about grieving with hope in Christ. His music consistently points listeners to Jesus.",
@@ -2259,11 +2259,11 @@
               ],
               "slug": "tobymac",
               "tagline": "Brought Christ-centered music to millions through creative excellence",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tobymac_Live_BW_%28cropped%29.jpg/440px-Tobymac_Live_BW_%28cropped%29.jpg"
             },
             {
               "name": "Carrie Underwood",
-              "years": "1983-present",
+              "years": "March 10, 1983 – present",
               "title": "Country Music Singer",
               "bio": "American singer and songwriter who rose to fame as the winner of Season 4 of American Idol. She has sold over 85 million records worldwide and won multiple Grammy Awards.",
               "faith": "Underwood has been open about her Christian faith throughout her career. She recorded the gospel album 'My Savior' and has said, 'For me, it just feels natural and organic. It's just who I am. It's part of who I am.'",
@@ -2284,11 +2284,11 @@
               ],
               "slug": "carrie-underwood",
               "tagline": "Country music's biggest voice who credits everything to Jesus",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Carrie_Underwood_2018.png/440px-Carrie_Underwood_2018.png"
             },
             {
               "name": "Chance the Rapper",
-              "years": "1993-present",
+              "years": "April 16, 1993 – present",
               "title": "Rapper & Songwriter",
               "bio": "American rapper, singer, songwriter, and record producer from Chicago. Known for the mixtapes 'Coloring Book' and 'Acid Rap.' Grammy Award winner.",
               "faith": "Chance has been vocal about his Christian faith, particularly on 'Coloring Book,' which is heavily influenced by gospel music. He has said, 'I believe in God. I believe that I've been really blessed by God.'",
@@ -2303,11 +2303,11 @@
               ],
               "slug": "chance-the-rapper",
               "tagline": "Praised God on every album and proved faith is not a genre",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Chance_the_Rapper_2017.png/440px-Chance_the_Rapper_2017.png"
             },
             {
               "name": "Switchfoot",
-              "years": "1996-present",
+              "years": "1996 – present",
               "title": "Rock Band",
               "bio": "American rock band from San Diego fronted by Jon Foreman. Known for hits like 'Meant to Live' and 'Dare You to Move.' Grammy Award winners.",
               "faith": "While they resist the 'Christian band' label, the members of Switchfoot are open about their Christian faith. Jon Foreman has said, 'I've always been interested in the questions that are bigger than genres. But yes, I am a Christian.'",
@@ -2322,11 +2322,11 @@
               ],
               "slug": "switchfoot",
               "tagline": "Asked the world 'Dare You to Move' — a rock band built on faith",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Switchfoot_in_concert_%28San_Diego%2C_2005%29.jpg/440px-Switchfoot_in_concert_%28San_Diego%2C_2005%29.jpg"
             },
             {
               "name": "For King & Country",
-              "years": "2007-present",
+              "years": "2007 – present",
               "title": "Christian Pop Duo",
               "bio": "Australian Christian pop duo consisting of brothers Joel and Luke Smallbone. Multiple Grammy Award winners known for 'God Only Knows,' 'joy.,' and 'Burn the Ships.'",
               "faith": "The Smallbone brothers grew up in a Christian family that moved from Australia to America with nothing. They have shared their family's testimony of God's provision and faithfulness extensively in interviews and their music.",
@@ -2347,7 +2347,7 @@
               ],
               "slug": "for-king-and-country",
               "tagline": "Brothers making anthems of hope that point to the King",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/For_King_%26_Country_2015.jpg/440px-For_King_%26_Country_2015.jpg"
             }
           ]
         },
@@ -2357,7 +2357,7 @@
           "people": [
             {
               "name": "Denzel Washington",
-              "years": "1954-present",
+              "years": "December 28, 1954 – present",
               "title": "Actor & Director",
               "bio": "American actor, director, and producer. Two-time Academy Award winner and one of the most respected actors in Hollywood history.",
               "faith": "Washington is a devout Christian who has spoken openly about his faith for decades. He once considered becoming a preacher and has said, 'Put God first in everything you do. Everything that I have is by the grace of God.' He reads the Bible daily and has been a regular churchgoer his entire life.",
@@ -2385,11 +2385,11 @@
               ],
               "slug": "denzel-washington",
               "tagline": "Put God first in Hollywood and never wavered",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Denzel_Washington_2018.jpg/440px-Denzel_Washington_2018.jpg"
             },
             {
               "name": "Chris Pratt",
-              "years": "1979-present",
+              "years": "June 21, 1979 – present",
               "title": "Actor",
               "bio": "American actor known for roles in 'Guardians of the Galaxy,' 'Jurassic World,' and 'Parks and Recreation.' One of the highest-grossing box office stars.",
               "faith": "Pratt has been outspoken about his Christian faith, famously sharing his '9 Rules' at the MTV Movie Awards, including 'God is real. God loves you. God wants the best for you. Believe that. I do.' He attends Zoe Church in Los Angeles.",
@@ -2417,11 +2417,11 @@
               ],
               "slug": "chris-pratt",
               "tagline": "Rose to stardom and openly proclaimed his faith on every stage",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chris_Pratt_2018.jpg/440px-Chris_Pratt_2018.jpg"
             },
             {
               "name": "Mark Wahlberg",
-              "years": "1971-present",
+              "years": "June 5, 1971 – present",
               "title": "Actor & Producer",
               "bio": "American actor, producer, and businessman. Known for films like 'The Fighter,' 'The Departed,' and 'Father Stu.' Formerly known as rapper Marky Mark.",
               "faith": "A devout Catholic who attends Mass daily and wakes at 2:30 AM to pray. He produced and starred in 'Father Stu,' a film about a boxer who becomes a priest. He has said, 'I just try to stay prayed up and keep God first.'",
@@ -2442,11 +2442,11 @@
               ],
               "slug": "mark-wahlberg",
               "tagline": "Transformed from troubled youth to devout daily communicant",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MarkWahlberg2015.jpg/440px-MarkWahlberg2015.jpg"
             },
             {
               "name": "Candace Cameron Bure",
-              "years": "1976-present",
+              "years": "June 22, 1976 – present",
               "title": "Actress & Author",
               "bio": "American actress, author, and producer best known for her role as D.J. Tanner on 'Full House' and 'Fuller House.' Former co-host of 'The View.'",
               "faith": "An outspoken born-again Christian who has authored several books about faith. She has said, 'My faith affects every part of my life. I can't separate my faith from who I am.' She's been a prominent voice for Christian values in Hollywood.",
@@ -2467,11 +2467,11 @@
               ],
               "slug": "candace-cameron-bure",
               "tagline": "Stood firm for faith and family in the spotlight",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Candace_Cameron_Bure_2019.jpg/440px-Candace_Cameron_Bure_2019.jpg"
             },
             {
               "name": "Jim Caviezel",
-              "years": "1968-present",
+              "years": "September 26, 1968 – present",
               "title": "Actor",
               "bio": "American actor best known for portraying Jesus Christ in Mel Gibson's 'The Passion of the Christ' (2004) and its sequel. Also starred in 'Person of Interest' and 'Sound of Freedom.'",
               "faith": "A devout Catholic who accepted the role of Jesus knowing it could end his Hollywood career. He has spoken at conferences about the cost of following Christ and how his faith guided his acting choices. Starring in 'Sound of Freedom' further demonstrated his commitment to faith-driven projects.",
@@ -2499,11 +2499,11 @@
               ],
               "slug": "jim-caviezel",
               "tagline": "Endured real suffering to portray Christ in The Passion",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jim_Caviezel_by_Gage_Skidmore.jpg/440px-Jim_Caviezel_by_Gage_Skidmore.jpg"
             },
             {
               "name": "Mel Gibson",
-              "years": "1956-present",
+              "years": "January 3, 1956 – present",
               "title": "Actor & Director",
               "bio": "American-Australian actor and filmmaker. Directed 'The Passion of the Christ,' 'Braveheart,' and 'Hacksaw Ridge.' Academy Award-winning director.",
               "faith": "A traditional Catholic whose faith inspired him to direct 'The Passion of the Christ,' which became one of the highest-grossing R-rated films in history. He also directed 'Hacksaw Ridge,' the true story of Christian conscientious objector Desmond Doss.",
@@ -2524,11 +2524,11 @@
               ],
               "slug": "mel-gibson",
               "tagline": "Directed The Passion of the Christ — the highest-grossing R-rated film ever",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mel_Gibson_Cannes_2016_2.jpg/440px-Mel_Gibson_Cannes_2016_2.jpg"
             },
             {
               "name": "Chuck Norris",
-              "years": "1940-present",
+              "years": "March 10, 1940 – present",
               "title": "Actor & Martial Artist",
               "bio": "American martial artist, actor, and author. Known for 'Walker, Texas Ranger' and numerous action films. Holds a 10th-degree black belt in Tang Soo Do.",
               "faith": "A born-again Christian who has written about his faith in multiple books. He has said, 'My Christian faith has been the most important thing in my life.' He regularly writes columns discussing his faith and conservative Christian values.",
@@ -2548,7 +2548,7 @@
               ],
               "slug": "chuck-norris",
               "tagline": "A martial arts legend and lifelong advocate for Christian values",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/440px-Chuck_Norris_May_2015.jpg"
             }
           ]
         }
@@ -2565,7 +2565,7 @@
           "people": [
             {
               "name": "Patrick Bet-David",
-              "years": "1978-present",
+              "years": "October 18, 1978 – present",
               "title": "Entrepreneur, Author & Media Personality",
               "bio": "Iranian-born American businessman, conservative media personality, author, and podcaster. He is the host of the PBD Podcast and Valuetainment, a YouTube channel with over 6 million subscribers. Born to an Assyrian father and Armenian mother in Tehran, his family fled Iran as refugees during the Iran-Iraq War, spending time in a German refugee camp before settling in the United States. He founded PHP Agency, a financial services company.",
               "faith": "Raised in a Christian family (Assyrian and Armenian heritage), Bet-David is an outspoken Christian who frequently discusses faith, God, and biblical principles on his Valuetainment platform. He has spoken about how his refugee experience and faith in God shaped his entrepreneurial drive and worldview.",
@@ -2604,11 +2604,11 @@
               ],
               "slug": "patrick-bet-david",
               "tagline": "Built Valuetainment and credits God for every entrepreneurial breakthrough",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Patrick_Bet-David.jpg/440px-Patrick_Bet-David.jpg"
             },
             {
               "name": "Pat Gelsinger",
-              "years": "1961-present",
+              "years": "July 5, 1961 – present",
               "title": "Former CEO of Intel & VMware",
               "bio": "American business executive and engineer who served as CEO of Intel (2021-2024) and previously as CEO of VMware. Was the chief architect of Intel's i486 microprocessor and the youngest person named VP at Intel at age 32.",
               "faith": "Raised in an Amish/Mennonite community in Pennsylvania, Gelsinger is an outspoken Christian who has given his testimony at numerous churches and conferences. He has spoken about balancing career ambition with faith and family, tithing generously, and how his faith shapes his leadership.",
@@ -2636,11 +2636,11 @@
               ],
               "slug": "pat-gelsinger",
               "tagline": "Led Intel and VMware while keeping Christ at the center",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pat_Gelsinger_Intel.jpg/440px-Pat_Gelsinger_Intel.jpg"
             },
             {
               "name": "David Green",
-              "years": "1941-present",
+              "years": "November 13, 1941 – present",
               "title": "Founder & CEO of Hobby Lobby",
               "bio": "American billionaire businessman, founder of Hobby Lobby, the largest privately-owned arts and crafts retailer in the world with over 1,000 stores.",
               "faith": "Green's Christian faith is the foundation of Hobby Lobby's business practices. The company closes on Sundays, plays Christian music in stores, and pays above minimum wage. Green also founded the Museum of the Bible in Washington, D.C., and has committed to giving away 90% of his wealth.",
@@ -2666,11 +2666,11 @@
               ],
               "slug": "david-green",
               "tagline": "Built Hobby Lobby on biblical principles and closed Sundays for worship",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "S. Truett Cathy",
-              "years": "1921-2014",
+              "years": "March 14, 1921 – September 8, 2014",
               "title": "Founder of Chick-fil-A",
               "bio": "American businessman and philanthropist who founded Chick-fil-A in 1967. Built it into one of the largest quick-service restaurant chains in the United States.",
               "faith": "A devout Southern Baptist whose faith shaped every aspect of his business. Chick-fil-A has been closed on Sundays since its founding so employees can attend church. Cathy taught Sunday school for over 50 years and established the WinShape Foundation for foster care and scholarships.",
@@ -2696,11 +2696,11 @@
               ],
               "slug": "s-truett-cathy",
               "tagline": "Founded Chick-fil-A on the principle of honoring the Lord's Day",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/S._Truett_Cathy.jpg/440px-S._Truett_Cathy.jpg"
             },
             {
               "name": "Dan Cathy",
-              "years": "1953-present",
+              "years": "March 1, 1953 – present",
               "title": "Chairman of Chick-fil-A",
               "bio": "American businessman who served as CEO (2013-2021) and now chairman of Chick-fil-A. Son of founder S. Truett Cathy.",
               "faith": "Like his father, Dan Cathy is an outspoken Christian who has publicly affirmed the company's biblical values. He has spoken about operating the business according to biblical principles and continues the tradition of closing on Sundays.",
@@ -2715,11 +2715,11 @@
               ],
               "slug": "dan-cathy",
               "tagline": "Continued his father's legacy of faith-driven business at Chick-fil-A",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Henry Kaestner",
-              "years": "1970s-present",
+              "years": "c. 1970s – present",
               "title": "Co-founder of Bandwidth.com & Sovereign's Capital",
               "bio": "American entrepreneur, investor, and co-founder of Bandwidth.com (a publicly traded communications platform) and Sovereign's Capital, a faith-driven investing firm.",
               "faith": "Kaestner is a vocal Christian who co-hosts the 'Faith Driven Entrepreneur' podcast and movement, which encourages Christians to view business as a calling. He has spoken extensively about integrating faith with entrepreneurship and investing.",
@@ -2747,11 +2747,11 @@
               ],
               "slug": "henry-kaestner",
               "tagline": "Co-founded Bandwidth.com and invested billions for the Kingdom",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "John D. Beckett",
-              "years": "1938-present",
+              "years": "1938 – present",
               "title": "Chairman of R.W. Beckett Corporation",
               "bio": "American businessman and author who has led the R.W. Beckett Corporation, a leading manufacturer of heating components, since 1965.",
               "faith": "Author of 'Loving Monday: Succeeding in Business Without Selling Your Soul,' Beckett has been a prominent voice for faith in the workplace. He has spoken about applying Christian principles to business leadership for decades.",
@@ -2765,11 +2765,11 @@
               ],
               "slug": "john-d-beckett",
               "tagline": "Proved that loving God and loving business are not at odds",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Norm Miller",
-              "years": "1933-present",
+              "years": "1933 – present",
               "title": "Chairman of Interstate Batteries",
               "bio": "American businessman who has served as chairman of Interstate Batteries, the top-selling replacement battery brand in North America.",
               "faith": "Miller is an outspoken Christian who credits his faith with saving him from alcoholism. Interstate Batteries' corporate mission includes honoring God, and the company has prominently featured Christian messaging, including placing 'I Am Second' on NASCAR cars.",
@@ -2790,11 +2790,11 @@
               ],
               "slug": "norm-miller",
               "tagline": "Transformed Interstate Batteries into a platform for the gospel",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Horst Schulze",
-              "years": "1939-present",
+              "years": "December 16, 1939 – present",
               "title": "Co-founder of The Ritz-Carlton Hotel Company",
               "bio": "German-American hotelier and co-founder of The Ritz-Carlton Hotel Company. Later founded Capella Hotel Group. Known as a pioneer of luxury hospitality.",
               "faith": "A committed Christian who has spoken about how his faith informs his approach to servant leadership. He has said that the Christian call to serve others is the foundation of true hospitality and excellence in business.",
@@ -2814,11 +2814,11 @@
               ],
               "slug": "horst-schulze",
               "tagline": "Built The Ritz-Carlton on servant leadership inspired by Christ",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Cheryl Bachelder",
-              "years": "1956-present",
+              "years": "1956 – present",
               "title": "Former CEO of Popeyes Louisiana Kitchen",
               "bio": "American businesswoman who served as CEO of Popeyes Louisiana Kitchen from 2007 to 2017, overseeing a dramatic turnaround that tripled the company's value.",
               "faith": "A devoted Christian who wrote 'Dare to Serve: How to Drive Superior Results by Serving Others,' a book about servant leadership grounded in her faith. She has spoken at faith-based leadership conferences about following Christ in the corporate world.",
@@ -2832,11 +2832,11 @@
               ],
               "slug": "cheryl-bachelder",
               "tagline": "Turned Popeyes around through dare-to-serve, faith-driven leadership",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Jack Welch",
-              "years": "1935-2020",
+              "years": "November 19, 1935 – March 1, 2020",
               "title": "Former CEO of General Electric",
               "bio": "American businessman and chemical engineer who served as CEO of General Electric from 1981 to 2001. Under his leadership, GE's value grew by 4,000%.",
               "faith": "Welch was a practicing Catholic who attended Mass regularly. While not as publicly vocal about faith as some others, he was known for his Catholic upbringing and values that shaped his leadership style.",
@@ -2851,11 +2851,11 @@
               ],
               "slug": "jack-welch",
               "tagline": "Led GE to greatness while maintaining a quiet, steady Christian faith",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jack_Welch_2012.jpg/440px-Jack_Welch_2012.jpg"
             },
             {
               "name": "Fred Smith",
-              "years": "1944-present",
+              "years": "August 11, 1944 – present",
               "title": "Founder of FedEx",
               "bio": "American businessman who founded Federal Express (FedEx) in 1971. He served as CEO until 2022 and executive chairman until 2024.",
               "faith": "A practicing Christian who has been a member of various church communities. He has attributed his perseverance through FedEx's early financial crises to his faith and determination.",
@@ -2870,7 +2870,7 @@
               ],
               "slug": "fred-smith",
               "tagline": "Founded FedEx and supported Christian causes worldwide",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fred_Smith_at_FedEx.jpg/440px-Fred_Smith_at_FedEx.jpg"
             }
           ]
         },
@@ -2880,7 +2880,7 @@
           "people": [
             {
               "name": "James Tour",
-              "years": "1959-present",
+              "years": "June 18, 1959 – present",
               "title": "Chemist & Nanotechnologist",
               "bio": "American chemist and nanotechnologist at Rice University, one of the world's leading synthetic chemists. Named among 'The 50 Most Influential Scientists in the World Today.'",
               "faith": "A Messianic Jewish believer in Jesus who is outspoken about his faith. Tour has given numerous talks on the intersection of science and faith, has challenged abiogenesis claims, and has shared his testimony widely. He has said, 'I stand in awe of God because of what He has done through His creation.'",
@@ -2914,11 +2914,11 @@
               ],
               "slug": "james-tour",
               "tagline": "A world-leading nanotechnologist who boldly defends creation",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/James_Tour.jpg/440px-James_Tour.jpg"
             },
             {
               "name": "John Lennox",
-              "years": "1943-present",
+              "years": "November 7, 1943 – present",
               "title": "Mathematician & Apologist",
               "bio": "Northern Irish mathematician, bioethicist, and Christian apologist. Emeritus Professor of Mathematics at the University of Oxford. Known for debates with Richard Dawkins and Christopher Hitchens.",
               "faith": "Lennox is one of the most prominent Christian apologists in the academic world. He has debated leading atheists and written numerous books defending the Christian faith, including 'God's Undertaker: Has Science Buried God?' and 'Can Science Explain Everything?'",
@@ -2956,11 +2956,11 @@
               ],
               "slug": "john-lennox",
               "tagline": "Oxford mathematician who debated Dawkins and Hitchens for the faith",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/John_Lennox_2019.jpg/440px-John_Lennox_2019.jpg"
             },
             {
               "name": "Rosalind Picard",
-              "years": "1962-present",
+              "years": "May 17, 1962 – present",
               "title": "Computer Scientist & Engineer",
               "bio": "American scholar and inventor who is founder and director of the Affective Computing Research Group at MIT Media Lab. Pioneer in affective computing and wearable technology.",
               "faith": "Picard became a Christian as an adult after being challenged to read the Bible. She has spoken about how her scientific career and faith journey intertwine, and has given talks about being a Christian in the scientific academy.",
@@ -2981,11 +2981,11 @@
               ],
               "slug": "rosalind-picard",
               "tagline": "Pioneered affective computing after her conversion to Christ",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Rosalind_Picard_2018.jpg/440px-Rosalind_Picard_2018.jpg"
             },
             {
               "name": "William D. Phillips",
-              "years": "1948-present",
+              "years": "November 5, 1948 – present",
               "title": "Physicist & Nobel Laureate",
               "bio": "American physicist who was awarded the Nobel Prize in Physics in 1997 for development of methods to cool and trap atoms with laser light.",
               "faith": "A practicing Methodist who has spoken about the compatibility of science and faith. He has said, 'I believe in God. In fact, I believe in a personal God who acts in and interacts with the creation.'",
@@ -3000,7 +3000,7 @@
               ],
               "slug": "william-d-phillips",
               "tagline": "Won the Nobel Prize in Physics and testifies to God's design",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/William_D._Phillips_2016.jpg/440px-William_D._Phillips_2016.jpg"
             }
           ]
         }
@@ -3017,7 +3017,7 @@
           "people": [
             {
               "name": "Pete Hegseth",
-              "years": "1980-present",
+              "years": "June 6, 1980 – present",
               "title": "U.S. Secretary of Defense & Army Veteran",
               "bio": "American government official and former Fox News host serving as the 29th United States Secretary of Defense. Army National Guard officer (Major) who served in Iraq and Afghanistan, earning two Bronze Stars and a Combat Infantryman Badge.",
               "faith": "An outspoken evangelical Christian who has spoken extensively about the importance of faith in the military and American life. He has discussed his personal relationship with Christ in interviews and in his books.",
@@ -3037,11 +3037,11 @@
               ],
               "slug": "pete-hegseth",
               "tagline": "Army veteran and Secretary of Defense who credits faith for his service",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pete_Hegseth_official_photo.jpg/440px-Pete_Hegseth_official_photo.jpg"
             },
             {
               "name": "Chad Williams",
-              "years": "1986-present",
+              "years": "October 1986 – present",
               "title": "Former Navy SEAL & Evangelist",
               "bio": "American former Navy SEAL who served in Iraq. After leaving the military, he became a full-time evangelist and author of 'SEAL of God.'",
               "faith": "Williams went from a rebellious youth to the Navy SEALs and then to Christ. He was profoundly impacted by the death of his SEAL mentor Scott Helvenston in the Fallujah ambush. He now travels the world sharing the gospel as an evangelist.",
@@ -3068,11 +3068,11 @@
               ],
               "slug": "chad-williams",
               "tagline": "Former Navy SEAL who found his ultimate mission in Christ",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Jeff Struecker",
-              "years": "1969-present",
+              "years": "1969 – present",
               "title": "Former Army Ranger & Pastor",
               "bio": "American former Army Ranger who served in the Battle of Mogadishu (depicted in 'Black Hawk Down'). Retired as a Chaplain (Major). Now serves as a pastor and seminary professor.",
               "faith": "Struecker's faith was tested in combat during the Battle of Mogadishu, where he led convoys through enemy fire. He became an Army chaplain and now pastors a church in Georgia. He has spoken extensively about how faith sustained him in combat.",
@@ -3099,11 +3099,11 @@
               ],
               "slug": "jeff-struecker",
               "tagline": "Black Hawk Down hero who traded combat for the pulpit",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Oliver North",
-              "years": "1943-present",
+              "years": "October 7, 1943 – present",
               "title": "Marine Corps Lieutenant Colonel (Ret.) & Author",
               "bio": "American political commentator, television host, military historian, and former Marine Corps Lieutenant Colonel. Former president of the NRA.",
               "faith": "North has been vocal about his Christian faith throughout his public life. He has spoken at churches and faith-based events about how his relationship with God has guided his decisions in military service and public life.",
@@ -3118,11 +3118,11 @@
               ],
               "slug": "oliver-north",
               "tagline": "Decorated Marine and bestselling author anchored by faith",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Oliver_North_crop.jpg/440px-Oliver_North_crop.jpg"
             },
             {
               "name": "Desmond Doss",
-              "years": "1919-2006",
+              "years": "February 7, 1919 – March 23, 2006",
               "title": "Army Medic & Medal of Honor Recipient",
               "bio": "American Army corporal who served as a combat medic in World War II. He was the first conscientious objector to receive the Medal of Honor, saving 75 men at the Battle of Okinawa without carrying a weapon.",
               "faith": "A devout Seventh-day Adventist whose Christian convictions led him to refuse to carry a weapon or work on Saturdays. Despite ridicule and persecution from fellow soldiers, his extraordinary bravery and faith under fire earned him the Medal of Honor. His story was told in the film 'Hacksaw Ridge.'",
@@ -3155,11 +3155,11 @@
               ],
               "slug": "desmond-doss",
               "tagline": "A conscientious objector who saved 75 lives without firing a shot",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Desmond_Doss_CMH_award.jpg/440px-Desmond_Doss_CMH_award.jpg"
             },
             {
               "name": "Alvin York",
-              "years": "1887-1964",
+              "years": "December 13, 1887 – September 2, 1964",
               "title": "World War I Medal of Honor Recipient",
               "bio": "American soldier and one of the most decorated soldiers of World War I. He received the Medal of Honor for leading an attack that killed 25 Germans and captured 132 prisoners.",
               "faith": "Initially a conscientious objector due to his Christian faith, York struggled with the morality of war before serving. After the war, he used his fame to establish schools and agricultural programs in his rural Tennessee community. His story was told in the 1941 film 'Sergeant York.'",
@@ -3184,7 +3184,7 @@
             },
             {
               "name": "Jason Redman",
-              "years": "1975-present",
+              "years": "November 1975 – present",
               "title": "Former Navy SEAL & Author",
               "bio": "American retired Navy SEAL lieutenant who was severely wounded in Iraq in 2007. Author of 'The Trident' and motivational speaker known for the viral 'Sign on the Door' at Bethesda Naval Hospital.",
               "faith": "Redman has spoken about his faith journey through severe combat injuries and recovery. He has discussed how God brought him through his darkest moments and uses his story to inspire others through faith.",
@@ -3198,11 +3198,11 @@
               ],
               "slug": "jason-redman",
               "tagline": "Wounded Navy SEAL who posted 'Attention — I am still in the fight'",
-              "image": ""
+              "image": "/images/placeholder-saint.svg"
             },
             {
               "name": "Marcus Luttrell",
-              "years": "1975-present",
+              "years": "November 7, 1975 – present",
               "title": "Former Navy SEAL & Author",
               "bio": "American retired Navy SEAL who was the lone survivor of Operation Red Wings in Afghanistan in 2005. Author of 'Lone Survivor,' which was adapted into a major film.",
               "faith": "Luttrell has spoken about his faith as sustaining him during the harrowing experience in Afghanistan where his entire team was killed. He has credited God with his survival and has shared his story at faith-based events.",
@@ -3228,7 +3228,7 @@
               ],
               "slug": "marcus-luttrell",
               "tagline": "Lone Survivor who leaned on God through impossible odds",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Marcus_Luttrell_2014.jpg/440px-Marcus_Luttrell_2014.jpg"
             }
           ]
         },
@@ -3238,7 +3238,7 @@
           "people": [
             {
               "name": "Mike Pence",
-              "years": "1959-present",
+              "years": "June 7, 1959 – present",
               "title": "48th Vice President of the United States",
               "bio": "American politician, lawyer, and former broadcaster who served as the 48th Vice President of the United States (2017-2021) and 50th Governor of Indiana (2013-2017).",
               "faith": "Pence describes himself as 'a Christian, a conservative, and a Republican, in that order.' He became an evangelical Christian in college and has been vocal about how his faith guides his political decisions and personal life.",
@@ -3253,11 +3253,11 @@
               ],
               "slug": "mike-pence",
               "tagline": "Described himself as a Christian, a conservative, and a Republican — in that order",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mike_Pence_official_Vice_Presidential_portrait.jpg/440px-Mike_Pence_official_Vice_Presidential_portrait.jpg"
             },
             {
               "name": "Ben Carson",
-              "years": "1951-present",
+              "years": "September 18, 1951 – present",
               "title": "Neurosurgeon & Former HUD Secretary",
               "bio": "American neurosurgeon and politician who served as the 17th Secretary of Housing and Urban Development (2017-2021). Pioneer in neurosurgery who performed the first successful separation of conjoined twins joined at the head.",
               "faith": "A devout Seventh-day Adventist who has spoken extensively about how God guided his journey from poverty in Detroit to becoming one of the world's leading neurosurgeons. His autobiography 'Gifted Hands' details his faith journey.",
@@ -3290,11 +3290,11 @@
               ],
               "slug": "ben-carson",
               "tagline": "From inner-city poverty to world-renowned neurosurgeon by God's grace",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ben_Carson_official_portrait.jpg/440px-Ben_Carson_official_portrait.jpg"
             },
             {
               "name": "Tim Scott",
-              "years": "1965-present",
+              "years": "September 19, 1965 – present",
               "title": "U.S. Senator",
               "bio": "American politician serving as the junior United States Senator from South Carolina. The first African American U.S. Senator from a Southern state since Reconstruction.",
               "faith": "An evangelical Christian who has spoken openly about how a Chick-fil-A franchise owner mentored him and helped shape his faith as a teenager. He frequently references his Christian faith in public remarks and has spoken about God's role in his life journey.",
@@ -3309,11 +3309,11 @@
               ],
               "slug": "tim-scott",
               "tagline": "Rose from a single-parent home to the U.S. Senate through faith",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tim_Scott%2C_official_portrait%2C_113th_Congress.jpg/440px-Tim_Scott%2C_official_portrait%2C_113th_Congress.jpg"
             },
             {
               "name": "Mike Pompeo",
-              "years": "1963-present",
+              "years": "December 30, 1963 – present",
               "title": "Former Secretary of State & CIA Director",
               "bio": "American politician, diplomat, and businessman who served as the 70th Secretary of State and Director of the CIA. West Point graduate.",
               "faith": "An evangelical Presbyterian who has been open about how his Christian faith informs his worldview and policy positions. He has spoken at faith-based events about the role of Christianity in public service.",
@@ -3328,11 +3328,11 @@
               ],
               "slug": "mike-pompeo",
               "tagline": "Served as Secretary of State guided by a biblical worldview",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mike_Pompeo_official_photo.jpg/440px-Mike_Pompeo_official_photo.jpg"
             },
             {
               "name": "William Wilberforce",
-              "years": "1759-1833",
+              "years": "August 24, 1759 – July 29, 1833",
               "title": "British Parliamentarian & Abolitionist",
               "bio": "See entry in Historical Biographies - Reformers & Theologians. Included here as cross-reference for his political significance.",
               "faith": "Cross-reference: see Historical Biographies.",
@@ -3352,7 +3352,7 @@
             },
             {
               "name": "Abraham Lincoln",
-              "years": "1809-1865",
+              "years": "February 12, 1809 – April 15, 1865",
               "title": "16th President of the United States",
               "bio": "American statesman and lawyer who served as the 16th President of the United States. Led the nation through the Civil War and abolished slavery with the Emancipation Proclamation and 13th Amendment.",
               "faith": "While Lincoln's faith journey was complex, he became increasingly devout during the Civil War. His Second Inaugural Address is one of the most theologically profound presidential speeches in American history, reflecting deeply on God's purposes in the war and quoting Scripture.",
@@ -3383,7 +3383,7 @@
             },
             {
               "name": "George Washington",
-              "years": "1732-1799",
+              "years": "February 22, 1732 – December 14, 1799",
               "title": "1st President of the United States",
               "bio": "American military officer, statesman, and Founding Father who served as the first President of the United States and commander-in-chief of the Continental Army during the Revolutionary War.",
               "faith": "An Anglican/Episcopalian who frequently referenced Providence and God in his writings and speeches. His personal prayer journal was discovered after his death. He established the tradition of adding 'so help me God' to the presidential oath and attended church regularly.",
@@ -3408,7 +3408,7 @@
             },
             {
               "name": "Marco Rubio",
-              "years": "1971-present",
+              "years": "May 28, 1971 – present",
               "title": "U.S. Secretary of State",
               "bio": "American politician and attorney serving as the 72nd United States Secretary of State. Previously served as a United States Senator from Florida.",
               "faith": "Rubio has been open about his Christian faith journey, having been baptized as a Mormon, returned to Catholicism, attended a Southern Baptist church, and settled back in the Catholic Church. He frequently posts Bible verses on social media and has spoken about the importance of faith.",
@@ -3423,11 +3423,11 @@
               ],
               "slug": "marco-rubio",
               "tagline": "A senator and Secretary of State who shares Scripture daily",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Marco_Rubio%2C_official_portrait%2C_112th_Congress.jpg/440px-Marco_Rubio%2C_official_portrait%2C_112th_Congress.jpg"
             },
             {
               "name": "Charlie Kirk",
-              "years": "1993-2025",
+              "years": "October 14, 1993 – September 10, 2025",
               "title": "Political Activist, Author & Founder of Turning Point USA",
               "bio": "American conservative political activist, author, and media personality who founded Turning Point USA in 2012 at age 18. The organization grew into one of the largest conservative youth organizations in America. He hosted 'The Charlie Kirk Show' and was a prominent figure in the conservative movement. He was assassinated on September 10, 2025, and posthumously awarded the Presidential Medal of Freedom.",
               "faith": "Kirk was an outspoken Christian who frequently spoke about biblical values, the importance of faith in public life, and the intersection of Christianity and politics. He hosted faith-based events through Turning Point and advocated for religious liberty. He spoke at churches and Christian conferences about defending the faith in the public square.",
@@ -3467,7 +3467,7 @@
               ],
               "slug": "charlie-kirk",
               "tagline": "Founded Turning Point USA and championed faith in the public square",
-              "image": ""
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Charlie_Kirk_by_Gage_Skidmore.jpg/440px-Charlie_Kirk_by_Gage_Skidmore.jpg"
             }
           ]
         }
