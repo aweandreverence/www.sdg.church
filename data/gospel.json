@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "title": "God Is Holy",
+      "content": "The God who made the universe is perfectly holy, righteous, and just. He created us to know Him and to glorify Him forever. \"Holy, Holy, Holy, is the Lord of armies; the whole earth is full of His glory.\" (Isaiah 6:3, NASB)",
+      "icon": "crown"
+    },
+    {
+      "title": "We Are Sinful",
+      "content": "Every human being has rebelled against God. We have broken His commands in thought, word, and deed. Our sin separates us from a holy God and earns us His righteous judgment. \"For all have sinned and fall short of the glory of God.\" (Romans 3:23, NASB)",
+      "icon": "heart-crack"
+    },
+    {
+      "title": "Christ Is the Savior",
+      "content": "God, in His great love, sent His only Son Jesus Christ to live the perfect life we could not live and to die the death we deserved. On the cross, Jesus bore the full wrath of God for sinners. Three days later, He rose from the dead, conquering sin and death forever. \"But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us.\" (Romans 5:8, NASB)",
+      "icon": "cross"
+    },
+    {
+      "title": "Repent and Believe",
+      "content": "God commands everyone everywhere to repent \u2014 to turn from sin and turn to Him. Salvation is received by grace alone, through faith alone, in Christ alone. It is not earned by good works but freely given to all who trust in Jesus. \"Repent and believe in the gospel.\" (Mark 1:15, NASB)",
+      "icon": "rotate-left"
+    }
+  ]
+}

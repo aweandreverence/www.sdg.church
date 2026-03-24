@@ -33,5 +33,4 @@ yarn-error.log*
 
 # vercel
 .vercel
-data/video-content/raw/
-data/video-content/clips/
+

@@ -1,6 +1,9 @@
 import fs from 'fs';
 import path from 'path';
-import contentData from '@data/content.json';
+import testimoniesData from '@data/testimonies.json';
+import scriptureData from '@data/scripture.json';
+import gospelData from '@data/gospel.json';
+import videosData from '@data/videos.json';
 
 // Load biography data from split files at build time
 function loadBiographiesData() {
@@ -174,43 +177,41 @@ export function getBiographyCategories(): BiographyCategory[] {
   }));
 }
 
-const data = contentData as {
-  testimonies: Testimony[];
-  scripture: Scripture[];
-  gospel: { sections: GospelSection[] };
-  videos: Video[];
-};
+const testimonies = testimoniesData as Testimony[];
+const scripture = scriptureData as Scripture[];
+const gospel = gospelData as { sections: GospelSection[] };
+const videos = videosData as Video[];
 
 export function getTestimonies(): Testimony[] {
-  return data.testimonies;
+  return testimonies;
 }
 
 export function getScriptures(): Scripture[] {
-  return data.scripture.sort((a, b) => a.order - b.order);
+  return scripture.sort((a, b) => a.order - b.order);
 }
 
 export function getScripturesByTheme(theme: string): Scripture[] {
-  return data.scripture
+  return scripture
     .filter((s) => s.theme === theme)
     .sort((a, b) => a.order - b.order);
 }
 
 export function getScriptureThemes(): string[] {
-  return [...new Set(data.scripture.map((s) => s.theme))];
+  return [...new Set(scripture.map((s) => s.theme))];
 }
 
 export function getGospelSections(): GospelSection[] {
-  return data.gospel.sections;
+  return gospel.sections;
 }
 
 export function getVideos(): Video[] {
-  return data.videos;
+  return videos;
 }
 
 export function getVideoById(id: string): Video | undefined {
-  return data.videos.find((v) => v.id === id);
+  return videos.find((v) => v.id === id);
 }
 
 export function getVideoByVideoId(videoId: string): Video | undefined {
-  return data.videos.find((v) => v.videoId === videoId);
+  return videos.find((v) => v.videoId === videoId);
 }
