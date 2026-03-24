@@ -48,7 +48,10 @@
                   "url": "https://www.bach-leipzig.de/en",
                   "note": "Official Bach archive with primary source materials"
                 }
-              ]
+              ],
+              "slug": "johann-sebastian-bach",
+              "tagline": "Inscribed Soli Deo Gloria on every composition",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/440px-Johann_Sebastian_Bach.jpg"
             },
             {
               "name": "George Frideric Handel",
@@ -75,7 +78,10 @@
                   "title": "Handel's Messiah: Comfort for God's People",
                   "note": "By Calvin Stapert. Explores the theological depth of Handel's masterwork"
                 }
-              ]
+              ],
+              "slug": "george-frideric-handel",
+              "tagline": "Saw all Heaven before him while composing the Hallelujah Chorus",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/440px-George_Frideric_Handel_by_Balthasar_Denner.jpg"
             },
             {
               "name": "Felix Mendelssohn",
@@ -97,7 +103,10 @@
                   "url": "https://en.wikipedia.org/wiki/Elijah_(mendelssohn)",
                   "note": "His major biblical oratorio"
                 }
-              ]
+              ],
+              "slug": "felix-mendelssohn",
+              "tagline": "Revived Bach's sacred masterworks and composed the oratorio Elijah",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Felix_Mendelssohn_Bartholdy.jpg/440px-Felix_Mendelssohn_Bartholdy.jpg"
             },
             {
               "name": "Fanny Crosby",
@@ -124,7 +133,10 @@
                   "url": "https://www.youtube.com/results?search_query=fanny+crosby+biography+documentary+hymn+writer",
                   "note": "Documentaries about her extraordinary life and 8,000+ hymns"
                 }
-              ]
+              ],
+              "slug": "fanny-crosby",
+              "tagline": "Blind from infancy, she wrote over 8,000 hymns to God's glory",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fanny_Crosby_-_Project_Gutenberg_eText_18444.jpg/440px-Fanny_Crosby_-_Project_Gutenberg_eText_18444.jpg"
             }
           ]
         },
@@ -175,7 +187,10 @@
                   "url": "https://www.cslewis.org/",
                   "note": "Foundation preserving Lewis's legacy"
                 }
-              ]
+              ],
+              "slug": "cs-lewis",
+              "tagline": "The most reluctant convert who became Christianity's greatest modern apologist",
+              "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/C.s.lewis3.JPG/440px-C.s.lewis3.JPG"
             },
             {
               "name": "J.R.R. Tolkien",
@@ -202,7 +217,10 @@
                   "url": "https://en.wikipedia.org/wiki/Christianity_in_Middle-earth",
                   "note": "Wikipedia article on Christian themes in Tolkien's works"
                 }
-              ]
+              ],
+              "slug": "jrr-tolkien",
+              "tagline": "Created Middle-earth as a fundamentally religious and Catholic work",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/440px-J._R._R._Tolkien%2C_ca._1925.jpg"
             },
             {
               "name": "John Milton",
@@ -224,7 +242,10 @@
                   "url": "https://en.wikipedia.org/wiki/Paradise_Lost",
                   "note": "His epic Christian poem retelling the Fall of Man"
                 }
-              ]
+              ],
+              "slug": "john-milton",
+              "tagline": "Justified the ways of God to men through Paradise Lost",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/John_Milton_by_Jonathan_Richardson.jpg/440px-John_Milton_by_Jonathan_Richardson.jpg"
             },
             {
               "name": "Fyodor Dostoevsky",
@@ -251,7 +272,10 @@
                   "url": "https://en.wikipedia.org/wiki/Religious_views_of_Fyodor_Dostoevsky",
                   "note": "Detailed article on his Christian faith and its role in his works"
                 }
-              ]
+              ],
+              "slug": "fyodor-dostoevsky",
+              "tagline": "Chose to remain with Christ even if Christ were outside the truth",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dostoevsky_1872.jpg/440px-Dostoevsky_1872.jpg"
             },
             {
               "name": "G.K. Chesterton",
@@ -277,7 +301,10 @@
                   "title": "The Everlasting Man",
                   "note": "By G.K. Chesterton. The book C.S. Lewis credited with helping him toward Christianity"
                 }
-              ]
+              ],
+              "slug": "gk-chesterton",
+              "tagline": "Found orthodoxy at the end of every road of reason",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gilbert_Chesterton.jpg/440px-Gilbert_Chesterton.jpg"
             },
             {
               "name": "John Bunyan",
@@ -299,7 +326,10 @@
                   "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress",
                   "note": "History of the most widely read Christian allegory"
                 }
-              ]
+              ],
+              "slug": "john-bunyan",
+              "tagline": "Wrote the greatest Christian allegory from a prison cell",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/John_Bunyan_by_Thomas_Sadler_1684.jpg/440px-John_Bunyan_by_Thomas_Sadler_1684.jpg"
             },
             {
               "name": "Augustine of Hippo",
@@ -325,7 +355,10 @@
                   "title": "The City of God",
                   "note": "By Augustine. His monumental work on Christian philosophy of history"
                 }
-              ]
+              ],
+              "slug": "augustine-of-hippo",
+              "tagline": "Heard 'Take up and read' and transformed Western Christianity",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/440px-Saint_Augustine_by_Philippe_de_Champaigne.jpg"
             },
             {
               "name": "Leo Tolstoy",
@@ -352,7 +385,10 @@
                   "title": "The Kingdom of God Is Within You",
                   "note": "By Tolstoy. His treatise on Christian nonviolence that influenced Gandhi"
                 }
-              ]
+              ],
+              "slug": "leo-tolstoy",
+              "tagline": "Abandoned literary fame to follow the teachings of Jesus",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/440px-L.N.Tolstoy_Prokudin-Gorsky.jpg"
             },
             {
               "name": "George MacDonald",
@@ -373,7 +409,10 @@
                   "title": "Phantastes",
                   "note": "By George MacDonald. The fantasy novel C.S. Lewis credited with 'baptizing his imagination'"
                 }
-              ]
+              ],
+              "slug": "george-macdonald",
+              "tagline": "The fantasy pioneer who baptized C.S. Lewis's imagination",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_MacDonald_1860s.jpg/440px-George_MacDonald_1860s.jpg"
             }
           ]
         },
@@ -406,7 +445,10 @@
                   "title": "Principia Mathematica",
                   "note": "By Isaac Newton. Contains the General Scholium where he writes about God's dominion over the cosmos"
                 }
-              ]
+              ],
+              "slug": "isaac-newton",
+              "tagline": "Wrote more about theology than physics, seeing God in the cosmos",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/440px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg"
             },
             {
               "name": "Blaise Pascal",
@@ -434,7 +476,10 @@
                   "url": "https://en.wikipedia.org/wiki/Pascal%27s_wager",
                   "note": "His famous philosophical argument for belief in God"
                 }
-              ]
+              ],
+              "slug": "blaise-pascal",
+              "tagline": "Devoted his genius to defending the faith after his Night of Fire",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/440px-Blaise_Pascal_Versailles.JPG"
             },
             {
               "name": "Michael Faraday",
@@ -456,7 +501,10 @@
                   "url": "https://en.wikipedia.org/wiki/Glasite",
                   "note": "About the Sandemanian/Glasite church Faraday belonged to"
                 }
-              ]
+              ],
+              "slug": "michael-faraday",
+              "tagline": "Discovered electromagnetism while serving as a church elder",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Michael_Faraday_sitting_crop.jpg/440px-Michael_Faraday_sitting_crop.jpg"
             },
             {
               "name": "Gregor Mendel",
@@ -472,7 +520,10 @@
                   "url": "https://en.wikipedia.org/wiki/Gregor_Mendel",
                   "note": "Biography of the Augustinian friar who founded genetics"
                 }
-              ]
+              ],
+              "slug": "gregor-mendel",
+              "tagline": "An Augustinian friar who became the Father of Genetics",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/440px-Gregor_Mendel_2.jpg"
             },
             {
               "name": "George Washington Carver",
@@ -494,7 +545,10 @@
                   "url": "https://www.youtube.com/results?search_query=george+washington+carver+christian+faith+documentary",
                   "note": "Documentaries about his faith-driven scientific discoveries"
                 }
-              ]
+              ],
+              "slug": "george-washington-carver",
+              "tagline": "Born into slavery, he heard God speak through nature for 30 years",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/George_Washington_Carver_c1910_-_Restoration.jpg/440px-George_Washington_Carver_c1910_-_Restoration.jpg"
             },
             {
               "name": "Louis Pasteur",
@@ -516,7 +570,10 @@
                   "url": "https://en.wikipedia.org/wiki/Religious_views_of_Louis_Pasteur",
                   "note": "Discussion of Pasteur's Catholic beliefs"
                 }
-              ]
+              ],
+              "slug": "louis-pasteur",
+              "tagline": "Stood amazed at the Creator while pioneering microbiology",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/440px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg"
             },
             {
               "name": "Johannes Kepler",
@@ -532,7 +589,10 @@
                   "url": "https://en.wikipedia.org/wiki/Johannes_Kepler",
                   "note": "Biography including his Lutheran faith and view of science as worship"
                 }
-              ]
+              ],
+              "slug": "johannes-kepler",
+              "tagline": "Thinking God's thoughts after Him through planetary motion",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Johannes_Kepler_1610.jpg/440px-Johannes_Kepler_1610.jpg"
             },
             {
               "name": "Robert Boyle",
@@ -554,7 +614,10 @@
                   "url": "https://en.wikipedia.org/wiki/Boyle_Lectures",
                   "note": "The lecture series Boyle established to defend Christianity"
                 }
-              ]
+              ],
+              "slug": "robert-boyle",
+              "tagline": "The first modern chemist who funded Bible translations worldwide",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/440px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg"
             },
             {
               "name": "James Clerk Maxwell",
@@ -570,7 +633,10 @@
                   "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
                   "note": "Biography including his evangelical Presbyterian faith"
                 }
-              ]
+              ],
+              "slug": "james-clerk-maxwell",
+              "tagline": "United electricity, magnetism, and light — all to God's glory",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/James_Clerk_Maxwell.png/440px-James_Clerk_Maxwell.png"
             },
             {
               "name": "Francis Collins",
@@ -610,7 +676,10 @@
                   "url": "https://www.youtube.com/results?search_query=francis+collins+atheism+to+faith+testimony",
                   "note": "Talks about his conversion through reading C.S. Lewis"
                 }
-              ]
+              ],
+              "slug": "francis-collins",
+              "tagline": "Led the Human Genome Project as a converted atheist",
+              "image": ""
             }
           ]
         },
@@ -638,7 +707,10 @@
                   "url": "https://en.wikipedia.org/wiki/Letters_to_a_German_Princess",
                   "note": "His work containing arguments for the existence of God"
                 }
-              ]
+              ],
+              "slug": "leonhard-euler",
+              "tagline": "The most prolific mathematician in history, a devout Calvinist",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/440px-Leonhard_Euler_2.jpg"
             },
             {
               "name": "Bernhard Riemann",
@@ -654,7 +726,10 @@
                   "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
                   "note": "Biography including his pastoral family background and original intent to study theology"
                 }
-              ]
+              ],
+              "slug": "bernhard-riemann",
+              "tagline": "Laid the foundations for Einstein's relativity while trusting in God's Word",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/440px-Georg_Friedrich_Bernhard_Riemann.jpeg"
             },
             {
               "name": "Georg Cantor",
@@ -670,7 +745,10 @@
                   "url": "https://en.wikipedia.org/wiki/Georg_Cantor",
                   "note": "Biography including his belief that God communicated set theory to him"
                 }
-              ]
+              ],
+              "slug": "georg-cantor",
+              "tagline": "Explored the infinite in mathematics as a reflection of God's infinity",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Georg_Cantor2.jpg/440px-Georg_Cantor2.jpg"
             }
           ]
         },
@@ -698,7 +776,10 @@
                   "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
                   "note": "His masterwork depicting the Genesis narrative"
                 }
-              ]
+              ],
+              "slug": "michelangelo-buonarroti",
+              "tagline": "Painted the ceiling of the Sistine Chapel as an act of devotion",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/440px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg"
             },
             {
               "name": "Rembrandt van Rijn",
@@ -725,7 +806,10 @@
                   "title": "The Return of the Prodigal Son: A Story of Homecoming",
                   "note": "By Henri Nouwen. A spiritual meditation on Rembrandt's painting"
                 }
-              ]
+              ],
+              "slug": "rembrandt-van-rijn",
+              "tagline": "Illuminated biblical scenes with the light of divine grace",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/440px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg"
             },
             {
               "name": "Albrecht Dürer",
@@ -747,7 +831,10 @@
                   "url": "https://en.wikipedia.org/wiki/Praying_Hands_(D%C3%BCrer)",
                   "note": "His iconic drawing of hands in prayer"
                 }
-              ]
+              ],
+              "slug": "albrecht-drer",
+              "tagline": "Engraved Praying Hands and brought Scripture to life through art",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Self-Portrait_at_28_by_Albrecht_D%C3%BCrer.jpg/440px-Self-Portrait_at_28_by_Albrecht_D%C3%BCrer.jpg"
             },
             {
               "name": "Antoni Gaudí",
@@ -769,7 +856,10 @@
                   "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
                   "note": "His life's masterwork dedicated to the Holy Family"
                 }
-              ]
+              ],
+              "slug": "antoni-gaud",
+              "tagline": "Designed the Sagrada Família as a Bible in stone",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gaud%C3%AD_%281878%29.jpg/440px-Gaud%C3%AD_%281878%29.jpg"
             }
           ]
         },
@@ -803,7 +893,10 @@
                   "url": "https://www.youtube.com/results?search_query=martin+luther+2003+film+full",
                   "note": "Major biographical film starring Joseph Fiennes"
                 }
-              ]
+              ],
+              "slug": "martin-luther",
+              "tagline": "Here I stand — I can do no other",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/440px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg"
             },
             {
               "name": "John Calvin",
@@ -825,7 +918,10 @@
                   "url": "https://en.wikipedia.org/wiki/Institutes_of_the_Christian_Religion",
                   "note": "His foundational work of Protestant theology"
                 }
-              ]
+              ],
+              "slug": "john-calvin",
+              "tagline": "Offered his heart to God, promptly and sincerely",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_Calvin_by_Holbein.png/440px-John_Calvin_by_Holbein.png"
             },
             {
               "name": "Jonathan Edwards",
@@ -853,7 +949,10 @@
                   "url": "http://edwards.yale.edu/",
                   "note": "Academic center preserving Edwards's works and legacy"
                 }
-              ]
+              ],
+              "slug": "jonathan-edwards",
+              "tagline": "Preached Sinners in the Hands of an Angry God and sparked revival",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jonathan_Edwards_engraving.jpg/440px-Jonathan_Edwards_engraving.jpg"
             },
             {
               "name": "Charles Haddon Spurgeon",
@@ -875,7 +974,10 @@
                   "url": "https://www.spurgeon.org/",
                   "note": "Archive of Spurgeon's thousands of published sermons"
                 }
-              ]
+              ],
+              "slug": "charles-haddon-spurgeon",
+              "tagline": "The Prince of Preachers who drew thousands to Christ weekly",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg/440px-Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg"
             },
             {
               "name": "John Wesley",
@@ -897,7 +999,10 @@
                   "url": "https://en.wikipedia.org/wiki/Aldersgate_experience",
                   "note": "Wesley's famous heart-warming conversion experience"
                 }
-              ]
+              ],
+              "slug": "john-wesley",
+              "tagline": "The world is my parish — founder of Methodism",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/John_Wesley_by_George_Romney.jpg/440px-John_Wesley_by_George_Romney.jpg"
             },
             {
               "name": "George Whitefield",
@@ -913,7 +1018,10 @@
                   "url": "https://en.wikipedia.org/wiki/George_Whitefield",
                   "note": "Biography of the Great Awakening evangelist"
                 }
-              ]
+              ],
+              "slug": "george-whitefield",
+              "tagline": "The thundering voice of the Great Awakening",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/George_Whitefield_by_John_Wollaston.jpg/440px-George_Whitefield_by_John_Wollaston.jpg"
             },
             {
               "name": "William Wilberforce",
@@ -940,7 +1048,10 @@
                   "title": "Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery",
                   "note": "By Eric Metaxas. Biography of Wilberforce's faith-driven abolitionism"
                 }
-              ]
+              ],
+              "slug": "william-wilberforce",
+              "tagline": "Fought for decades to abolish the slave trade in the name of Christ",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/William_Wilberforce_%281759%E2%80%931833%29%2C_John_Rising%2C_1790.jpg/440px-William_Wilberforce_%281759%E2%80%931833%29%2C_John_Rising%2C_1790.jpg"
             },
             {
               "name": "Dietrich Bonhoeffer",
@@ -966,7 +1077,10 @@
                   "title": "Bonhoeffer: Pastor, Martyr, Prophet, Spy",
                   "note": "By Eric Metaxas. Bestselling biography of Bonhoeffer's life and faith"
                 }
-              ]
+              ],
+              "slug": "dietrich-bonhoeffer",
+              "tagline": "Gave his life resisting tyranny for the sake of the gospel",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bundesarchiv_Bild_146-1987-074-16%2C_Dietrich_Bonhoeffer.jpg/440px-Bundesarchiv_Bild_146-1987-074-16%2C_Dietrich_Bonhoeffer.jpg"
             }
           ]
         },
@@ -1012,7 +1126,10 @@
                   "url": "https://www.youtube.com/results?search_query=billy+graham+life+legacy+documentary",
                   "note": "Numerous documentaries about Graham's extraordinary ministry"
                 }
-              ]
+              ],
+              "slug": "billy-graham",
+              "tagline": "Preached the gospel to more people than anyone in history",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Billy_Graham_bw_photo%2C_April_11%2C_1966.jpg/440px-Billy_Graham_bw_photo%2C_April_11%2C_1966.jpg"
             },
             {
               "name": "Jim Elliot",
@@ -1051,7 +1168,10 @@
                   "title": "The Journals of Jim Elliot",
                   "note": "Edited by Elisabeth Elliot. Contains his famous quote about being 'no fool'"
                 }
-              ]
+              ],
+              "slug": "jim-elliot",
+              "tagline": "He is no fool who gives what he cannot keep to gain what he cannot lose",
+              "image": ""
             },
             {
               "name": "Hudson Taylor",
@@ -1078,7 +1198,10 @@
                   "url": "https://omf.org/",
                   "note": "The modern successor to the China Inland Mission Taylor founded"
                 }
-              ]
+              ],
+              "slug": "hudson-taylor",
+              "tagline": "Trusted God alone to fund an entire mission to inland China",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/James_Hudson_Taylor.jpg/440px-James_Hudson_Taylor.jpg"
             },
             {
               "name": "Eric Liddell",
@@ -1112,7 +1235,10 @@
                   "title": "For the Glory: Eric Liddell's Journey from Olympic Champion to Modern Martyr",
                   "note": "By Duncan Hamilton. Comprehensive biography"
                 }
-              ]
+              ],
+              "slug": "eric-liddell",
+              "tagline": "Refused to run on Sunday, then won Olympic gold for God's glory",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eric_Liddell.jpg/440px-Eric_Liddell.jpg"
             },
             {
               "name": "William Carey",
@@ -1133,7 +1259,10 @@
                   "title": "An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens",
                   "note": "By William Carey. The pamphlet that launched the modern missions movement"
                 }
-              ]
+              ],
+              "slug": "william-carey",
+              "tagline": "The father of modern missions who translated the Bible into dozens of languages",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/William_Carey.jpg/440px-William_Carey.jpg"
             },
             {
               "name": "Adoniram Judson",
@@ -1154,7 +1283,10 @@
                   "title": "To the Golden Shore: The Life of Adoniram Judson",
                   "note": "By Courtney Anderson. Definitive biography of Judson"
                 }
-              ]
+              ],
+              "slug": "adoniram-judson",
+              "tagline": "Endured imprisonment and loss to bring the gospel to Burma",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Adoniram_Judson.jpg/440px-Adoniram_Judson.jpg"
             },
             {
               "name": "David Livingstone",
@@ -1175,7 +1307,10 @@
                   "title": "Missionary Travels and Researches in South Africa",
                   "note": "By David Livingstone. His own account of his African journeys"
                 }
-              ]
+              ],
+              "slug": "david-livingstone",
+              "tagline": "Explored Africa to open a path for commerce, civilization, and Christianity",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/David_Livingstone_-1.jpg/440px-David_Livingstone_-1.jpg"
             },
             {
               "name": "George Müller",
@@ -1202,7 +1337,10 @@
                   "url": "https://www.youtube.com/results?search_query=george+muller+documentary+faith+orphanage",
                   "note": "Documentaries about Müller's extraordinary prayer life"
                 }
-              ]
+              ],
+              "slug": "george-mller",
+              "tagline": "Fed 10,000 orphans by prayer alone, never asking anyone but God",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/George_M%C3%BCller.jpg/440px-George_M%C3%BCller.jpg"
             },
             {
               "name": "Corrie ten Boom",
@@ -1236,7 +1374,10 @@
                   "url": "https://www.corrietenboom.com/",
                   "note": "Museum in the ten Boom family home in Haarlem, Netherlands"
                 }
-              ]
+              ],
+              "slug": "corrie-ten-boom",
+              "tagline": "Forgave her Nazi captors and taught the world about God's love",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Corrie_Ten_Boom_in_1945.jpg/440px-Corrie_Ten_Boom_in_1945.jpg"
             },
             {
               "name": "John MacArthur",
@@ -1275,7 +1416,10 @@
                   "title": "The Gospel According to Jesus",
                   "note": "By John MacArthur. Influential book on lordship salvation"
                 }
-              ]
+              ],
+              "slug": "john-macarthur",
+              "tagline": "Devoted over 50 years to expository preaching of Scripture",
+              "image": ""
             },
             {
               "name": "R.C. Sproul",
@@ -1309,7 +1453,10 @@
                   "title": "The Holiness of God",
                   "note": "By R.C. Sproul. His most influential work on God's transcendent holiness"
                 }
-              ]
+              ],
+              "slug": "rc-sproul",
+              "tagline": "Made the holiness of God accessible to a generation of believers",
+              "image": ""
             },
             {
               "name": "D.L. Moody",
@@ -1331,7 +1478,10 @@
                   "url": "https://www.moody.edu/",
                   "note": "The Bible institute Moody founded in Chicago"
                 }
-              ]
+              ],
+              "slug": "dl-moody",
+              "tagline": "A shoe salesman who became America's greatest 19th-century evangelist",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Dwight_Lyman_Moody_c.1900.jpg/440px-Dwight_Lyman_Moody_c.1900.jpg"
             },
             {
               "name": "Amy Carmichael",
@@ -1357,7 +1507,10 @@
                   "title": "If",
                   "note": "By Amy Carmichael. Her devotional classic on sacrificial love"
                 }
-              ]
+              ],
+              "slug": "amy-carmichael",
+              "tagline": "Rescued hundreds of children in India and served without furlough for 55 years",
+              "image": ""
             },
             {
               "name": "Jim Cymbala",
@@ -1391,7 +1544,10 @@
                   "url": "https://www.brooklyntabernacle.org/",
                   "note": "The church Cymbala pastors in downtown Brooklyn"
                 }
-              ]
+              ],
+              "slug": "jim-cymbala",
+              "tagline": "Built the Brooklyn Tabernacle on the power of prayer",
+              "image": ""
             },
             {
               "name": "Francis Schaeffer",
@@ -1430,7 +1586,10 @@
                   "title": "How Should We Then Live? The Rise and Decline of Western Thought and Culture",
                   "note": "By Francis Schaeffer. Cultural analysis from a Christian worldview"
                 }
-              ]
+              ],
+              "slug": "francis-schaeffer",
+              "tagline": "Showed that Christianity is true truth — answering every honest question",
+              "image": ""
             },
             {
               "name": "John Piper",
@@ -1464,7 +1623,10 @@
                   "title": "Desiring God: Meditations of a Christian Hedonist",
                   "note": "By John Piper. His foundational work on finding joy in God"
                 }
-              ]
+              ],
+              "slug": "john-piper",
+              "tagline": "Proclaimed that God is most glorified in us when we are most satisfied in Him",
+              "image": ""
             },
             {
               "name": "A.W. Tozer",
@@ -1490,7 +1652,10 @@
                   "title": "The Knowledge of the Holy",
                   "note": "By A.W. Tozer. Study of the attributes of God"
                 }
-              ]
+              ],
+              "slug": "aw-tozer",
+              "tagline": "The 20th-century prophet who pursued the knowledge of the Holy",
+              "image": ""
             },
             {
               "name": "Lottie Moon",
@@ -1512,7 +1677,10 @@
                   "url": "https://www.imb.org/lottie-moon-christmas-offering/",
                   "note": "The international missions offering named in her honor"
                 }
-              ]
+              ],
+              "slug": "lottie-moon",
+              "tagline": "Gave everything — including her life — for missions in China",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Lottie_Moon.jpg/440px-Lottie_Moon.jpg"
             },
             {
               "name": "Watchman Nee",
@@ -1533,7 +1701,10 @@
                   "title": "The Normal Christian Life",
                   "note": "By Watchman Nee. His most widely read work on the Christian walk"
                 }
-              ]
+              ],
+              "slug": "watchman-nee",
+              "tagline": "Suffered 20 years in prison rather than deny his Lord",
+              "image": ""
             },
             {
               "name": "Charles Finney",
@@ -1554,7 +1725,10 @@
                   "title": "The Autobiography of Charles G. Finney",
                   "note": "Finney's own account of his conversion and revival ministry"
                 }
-              ]
+              ],
+              "slug": "charles-finney",
+              "tagline": "The father of modern revivalism who transformed American Christianity",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Charles_Grandison_Finney_-_c1850.jpg/440px-Charles_Grandison_Finney_-_c1850.jpg"
             },
             {
               "name": "William Booth",
@@ -1576,7 +1750,10 @@
                   "url": "https://en.wikipedia.org/wiki/The_Salvation_Army",
                   "note": "The worldwide organization Booth founded"
                 }
-              ]
+              ],
+              "slug": "william-booth",
+              "tagline": "Founded the Salvation Army to fight sin and save souls",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/General_William_Booth.jpg/440px-General_William_Booth.jpg"
             },
             {
               "name": "Gladys Aylward",
@@ -1597,7 +1774,10 @@
                   "title": "The Small Woman",
                   "note": "By Alan Burgess. Biography adapted into 'The Inn of the Sixth Happiness' film"
                 }
-              ]
+              ],
+              "slug": "gladys-aylward",
+              "tagline": "A parlor maid who became a legendary missionary to China",
+              "image": ""
             }
           ]
         }
@@ -1650,7 +1830,10 @@
                   "url": "https://www.youtube.com/results?search_query=tim+tebow+i+am+second+testimony",
                   "note": "His I Am Second testimony video"
                 }
-              ]
+              ],
+              "slug": "tim-tebow",
+              "tagline": "Wore John 3:16 on his eye black and lived it on every field",
+              "image": ""
             },
             {
               "name": "Stephen Curry",
@@ -1679,7 +1862,10 @@
                   "url": "https://www.youtube.com/results?search_query=stephen+curry+2015+mvp+speech+thank+god",
                   "note": "His viral MVP acceptance speech crediting God"
                 }
-              ]
+              ],
+              "slug": "stephen-curry",
+              "tagline": "The greatest shooter in NBA history who plays for an audience of One",
+              "image": ""
             },
             {
               "name": "Jeremy Lin",
@@ -1708,7 +1894,10 @@
                   "url": "https://www.youtube.com/results?search_query=jeremy+lin+identity+in+christ+testimony+church",
                   "note": "Lin's testimony about finding worth in God rather than basketball"
                 }
-              ]
+              ],
+              "slug": "jeremy-lin",
+              "tagline": "Linsanity — a Harvard underdog who gave God the glory",
+              "image": ""
             },
             {
               "name": "Allyson Felix",
@@ -1730,7 +1919,10 @@
                   "url": "https://www.youtube.com/results?search_query=allyson+felix+christian+faith+testimony",
                   "note": "Interviews where Felix discusses her faith"
                 }
-              ]
+              ],
+              "slug": "allyson-felix",
+              "tagline": "The most decorated American track Olympian who runs for Christ",
+              "image": ""
             },
             {
               "name": "Russell Wilson",
@@ -1752,7 +1944,10 @@
                   "url": "https://www.youtube.com/results?search_query=russell+wilson+ciara+christian+faith+abstinence",
                   "note": "Wilson and Ciara's public testimony about their faith commitment"
                 }
-              ]
+              ],
+              "slug": "russell-wilson",
+              "tagline": "Leads on and off the field with faith as his foundation",
+              "image": ""
             },
             {
               "name": "Kirk Cousins",
@@ -1774,7 +1969,10 @@
                   "url": "https://www.youtube.com/results?search_query=kirk+cousins+christian+faith+testimony+church",
                   "note": "Cousins speaking about his faith at churches and events"
                 }
-              ]
+              ],
+              "slug": "kirk-cousins",
+              "tagline": "An NFL quarterback who studies Scripture as diligently as game film",
+              "image": ""
             },
             {
               "name": "Manny Pacquiao",
@@ -1803,7 +2001,10 @@
                   "url": "https://www.youtube.com/results?search_query=manny+pacquiao+bible+preacher+testimony+conversion",
                   "note": "His dramatic transformation from gambling to gospel preaching"
                 }
-              ]
+              ],
+              "slug": "manny-pacquiao",
+              "tagline": "From world champion boxer to gospel preacher and senator",
+              "image": ""
             },
             {
               "name": "David Robinson",
@@ -1825,7 +2026,10 @@
                   "url": "https://www.youtube.com/results?search_query=david+robinson+i+am+second+christian+testimony",
                   "note": "Robinson's I Am Second testimony"
                 }
-              ]
+              ],
+              "slug": "david-robinson",
+              "tagline": "The Admiral — NBA MVP who built schools and served God after basketball",
+              "image": ""
             },
             {
               "name": "Simone Biles",
@@ -1841,7 +2045,10 @@
                   "url": "https://en.wikipedia.org/wiki/Simone_Biles",
                   "note": "Biography of the most decorated gymnast in history"
                 }
-              ]
+              ],
+              "slug": "simone-biles",
+              "tagline": "The greatest gymnast ever, anchored by her faith through every trial",
+              "image": ""
             },
             {
               "name": "Sadie Robertson Huff",
@@ -1863,7 +2070,10 @@
                   "url": "https://www.liveoriginal.com/",
                   "note": "Robertson's faith-based organization for young people"
                 }
-              ]
+              ],
+              "slug": "sadie-robertson-huff",
+              "tagline": "Turned reality TV fame into a platform for the gospel",
+              "image": ""
             },
             {
               "name": "Gabby Douglas",
@@ -1884,7 +2094,10 @@
                   "title": "Grace, Gold, and Glory: My Leap of Faith",
                   "note": "By Gabrielle Douglas. Her autobiography about faith and gymnastics"
                 }
-              ]
+              ],
+              "slug": "gabby-douglas",
+              "tagline": "Won Olympic gold and gave all the glory to God",
+              "image": ""
             },
             {
               "name": "Coco Gauff",
@@ -1906,7 +2119,10 @@
                   "url": "https://www.youtube.com/results?search_query=coco+gauff+us+open+victory+speech+thank+god",
                   "note": "Her victory speeches referencing her Christian faith"
                 }
-              ]
+              ],
+              "slug": "coco-gauff",
+              "tagline": "A tennis prodigy who credits God for every victory",
+              "image": ""
             },
             {
               "name": "Dak Prescott",
@@ -1922,7 +2138,10 @@
                   "url": "https://en.wikipedia.org/wiki/Dak_Prescott",
                   "note": "Biography of the Dallas Cowboys quarterback"
                 }
-              ]
+              ],
+              "slug": "dak-prescott",
+              "tagline": "Overcame tragedy with faith and became a voice for Christ in the NFL",
+              "image": ""
             },
             {
               "name": "Drew Brees",
@@ -1944,7 +2163,10 @@
                   "url": "https://www.youtube.com/results?search_query=drew+brees+christian+faith+testimony",
                   "note": "Brees discussing his faith in various interviews"
                 }
-              ]
+              ],
+              "slug": "drew-brees",
+              "tagline": "Led the Saints to a Super Bowl and led many to faith",
+              "image": ""
             }
           ]
         },
@@ -1984,7 +2206,10 @@
                   "url": "https://www.reachrecords.com/",
                   "note": "The Christian hip-hop label Lecrae founded"
                 }
-              ]
+              ],
+              "slug": "lecrae",
+              "tagline": "Pioneered faith-driven hip-hop and brought the gospel to mainstream culture",
+              "image": ""
             },
             {
               "name": "Lauren Daigle",
@@ -2006,7 +2231,10 @@
                   "url": "https://www.youtube.com/results?search_query=lauren+daigle+you+say+official+music+video",
                   "note": "Her hit song with over a billion YouTube views"
                 }
-              ]
+              ],
+              "slug": "lauren-daigle",
+              "tagline": "Crossed from Christian music to the mainstream without compromising her faith",
+              "image": ""
             },
             {
               "name": "TobyMac",
@@ -2028,7 +2256,10 @@
                   "url": "https://www.youtube.com/results?search_query=tobymac+son+truett+death+testimony+faith",
                   "note": "TobyMac sharing about grieving with hope after losing his son"
                 }
-              ]
+              ],
+              "slug": "tobymac",
+              "tagline": "Brought Christ-centered music to millions through creative excellence",
+              "image": ""
             },
             {
               "name": "Carrie Underwood",
@@ -2050,7 +2281,10 @@
                   "url": "https://en.wikipedia.org/wiki/My_Savior",
                   "note": "Her 2021 gospel hymns album"
                 }
-              ]
+              ],
+              "slug": "carrie-underwood",
+              "tagline": "Country music's biggest voice who credits everything to Jesus",
+              "image": ""
             },
             {
               "name": "Chance the Rapper",
@@ -2066,7 +2300,10 @@
                   "url": "https://en.wikipedia.org/wiki/Chance_the_Rapper",
                   "note": "Biography of the gospel-influenced rapper"
                 }
-              ]
+              ],
+              "slug": "chance-the-rapper",
+              "tagline": "Praised God on every album and proved faith is not a genre",
+              "image": ""
             },
             {
               "name": "Switchfoot",
@@ -2082,7 +2319,10 @@
                   "url": "https://en.wikipedia.org/wiki/Switchfoot",
                   "note": "Biography of the Christian rock band"
                 }
-              ]
+              ],
+              "slug": "switchfoot",
+              "tagline": "Asked the world 'Dare You to Move' — a rock band built on faith",
+              "image": ""
             },
             {
               "name": "For King & Country",
@@ -2104,7 +2344,10 @@
                   "url": "https://www.youtube.com/results?search_query=for+king+and+country+smallbone+family+testimony",
                   "note": "The Smallbone brothers sharing their family's story of faith"
                 }
-              ]
+              ],
+              "slug": "for-king-and-country",
+              "tagline": "Brothers making anthems of hope that point to the King",
+              "image": ""
             }
           ]
         },
@@ -2139,7 +2382,10 @@
                   "url": "https://www.youtube.com/results?search_query=denzel+washington+put+god+first+commencement+speech",
                   "note": "His viral speech about putting God first in everything"
                 }
-              ]
+              ],
+              "slug": "denzel-washington",
+              "tagline": "Put God first in Hollywood and never wavered",
+              "image": ""
             },
             {
               "name": "Chris Pratt",
@@ -2168,7 +2414,10 @@
                   "url": "https://www.youtube.com/results?search_query=chris+pratt+9+rules+mtv+generation+award+god+is+real",
                   "note": "His viral speech declaring 'God is real'"
                 }
-              ]
+              ],
+              "slug": "chris-pratt",
+              "tagline": "Rose to stardom and openly proclaimed his faith on every stage",
+              "image": ""
             },
             {
               "name": "Mark Wahlberg",
@@ -2190,7 +2439,10 @@
                   "url": "https://www.youtube.com/results?search_query=mark+wahlberg+faith+prayer+father+stu+catholic",
                   "note": "Interviews about his daily faith practice and the film Father Stu"
                 }
-              ]
+              ],
+              "slug": "mark-wahlberg",
+              "tagline": "Transformed from troubled youth to devout daily communicant",
+              "image": ""
             },
             {
               "name": "Candace Cameron Bure",
@@ -2212,7 +2464,10 @@
                   "url": "https://www.youtube.com/results?search_query=candace+cameron+bure+i+am+second+testimony",
                   "note": "Her I Am Second testimony video"
                 }
-              ]
+              ],
+              "slug": "candace-cameron-bure",
+              "tagline": "Stood firm for faith and family in the spotlight",
+              "image": ""
             },
             {
               "name": "Jim Caviezel",
@@ -2241,7 +2496,10 @@
                   "url": "https://www.youtube.com/results?search_query=jim+caviezel+cost+playing+jesus+passion+career",
                   "note": "Caviezel on how the role of Jesus impacted his career and faith"
                 }
-              ]
+              ],
+              "slug": "jim-caviezel",
+              "tagline": "Endured real suffering to portray Christ in The Passion",
+              "image": ""
             },
             {
               "name": "Mel Gibson",
@@ -2263,7 +2521,10 @@
                   "url": "https://en.wikipedia.org/wiki/The_Passion_of_the_Christ",
                   "note": "The faith-driven film about Christ's crucifixion"
                 }
-              ]
+              ],
+              "slug": "mel-gibson",
+              "tagline": "Directed The Passion of the Christ — the highest-grossing R-rated film ever",
+              "image": ""
             },
             {
               "name": "Chuck Norris",
@@ -2284,7 +2545,10 @@
                   "title": "Against All Odds: My Story",
                   "note": "By Chuck Norris. His autobiography including his faith journey"
                 }
-              ]
+              ],
+              "slug": "chuck-norris",
+              "tagline": "A martial arts legend and lifelong advocate for Christian values",
+              "image": ""
             }
           ]
         }
@@ -2337,7 +2601,10 @@
                   "url": "https://www.youtube.com/results?search_query=patrick+bet+david+refugee+story+iran+testimony",
                   "note": "His journey from Iranian refugee to American entrepreneur"
                 }
-              ]
+              ],
+              "slug": "patrick-bet-david",
+              "tagline": "Built Valuetainment and credits God for every entrepreneurial breakthrough",
+              "image": ""
             },
             {
               "name": "Pat Gelsinger",
@@ -2366,7 +2633,10 @@
                   "url": "https://www.youtube.com/results?search_query=pat+gelsinger+testimony+faith+farm+boy+tech+ceo",
                   "note": "His testimony about growing up Amish/Mennonite and leading in tech"
                 }
-              ]
+              ],
+              "slug": "pat-gelsinger",
+              "tagline": "Led Intel and VMware while keeping Christ at the center",
+              "image": ""
             },
             {
               "name": "David Green",
@@ -2393,7 +2663,10 @@
                   "title": "Giving It All Away... and Getting It All Back Again",
                   "note": "By David Green. His account of faith-driven business and generosity"
                 }
-              ]
+              ],
+              "slug": "david-green",
+              "tagline": "Built Hobby Lobby on biblical principles and closed Sundays for worship",
+              "image": ""
             },
             {
               "name": "S. Truett Cathy",
@@ -2420,7 +2693,10 @@
                   "url": "https://www.winshape.org/",
                   "note": "The charitable foundation Cathy established"
                 }
-              ]
+              ],
+              "slug": "s-truett-cathy",
+              "tagline": "Founded Chick-fil-A on the principle of honoring the Lord's Day",
+              "image": ""
             },
             {
               "name": "Dan Cathy",
@@ -2436,7 +2712,10 @@
                   "url": "https://en.wikipedia.org/wiki/Dan_Cathy",
                   "note": "Biography of the Chick-fil-A chairman"
                 }
-              ]
+              ],
+              "slug": "dan-cathy",
+              "tagline": "Continued his father's legacy of faith-driven business at Chick-fil-A",
+              "image": ""
             },
             {
               "name": "Henry Kaestner",
@@ -2465,7 +2744,10 @@
                   "url": "https://www.youtube.com/results?search_query=henry+kaestner+faith+driven+entrepreneur+podcast",
                   "note": "Podcast and talks about faith in business"
                 }
-              ]
+              ],
+              "slug": "henry-kaestner",
+              "tagline": "Co-founded Bandwidth.com and invested billions for the Kingdom",
+              "image": ""
             },
             {
               "name": "John D. Beckett",
@@ -2480,7 +2762,10 @@
                   "title": "Loving Monday: Succeeding in Business Without Selling Your Soul",
                   "note": "By John D. Beckett. His vision for integrating faith and work"
                 }
-              ]
+              ],
+              "slug": "john-d-beckett",
+              "tagline": "Proved that loving God and loving business are not at odds",
+              "image": ""
             },
             {
               "name": "Norm Miller",
@@ -2502,7 +2787,10 @@
                   "url": "https://www.iamsecond.com/",
                   "note": "The testimony campaign Miller championed through NASCAR"
                 }
-              ]
+              ],
+              "slug": "norm-miller",
+              "tagline": "Transformed Interstate Batteries into a platform for the gospel",
+              "image": ""
             },
             {
               "name": "Horst Schulze",
@@ -2523,7 +2811,10 @@
                   "title": "Excellence Wins: A No-Nonsense Guide to Becoming the Best in a World of Compromise",
                   "note": "By Horst Schulze. His philosophy of servant leadership rooted in faith"
                 }
-              ]
+              ],
+              "slug": "horst-schulze",
+              "tagline": "Built The Ritz-Carlton on servant leadership inspired by Christ",
+              "image": ""
             },
             {
               "name": "Cheryl Bachelder",
@@ -2538,7 +2829,10 @@
                   "title": "Dare to Serve: How to Drive Superior Results by Serving Others",
                   "note": "By Cheryl Bachelder. Her account of faith-driven servant leadership at Popeyes"
                 }
-              ]
+              ],
+              "slug": "cheryl-bachelder",
+              "tagline": "Turned Popeyes around through dare-to-serve, faith-driven leadership",
+              "image": ""
             },
             {
               "name": "Jack Welch",
@@ -2554,7 +2848,10 @@
                   "url": "https://en.wikipedia.org/wiki/Jack_Welch",
                   "note": "Biography of the legendary GE CEO"
                 }
-              ]
+              ],
+              "slug": "jack-welch",
+              "tagline": "Led GE to greatness while maintaining a quiet, steady Christian faith",
+              "image": ""
             },
             {
               "name": "Fred Smith",
@@ -2570,7 +2867,10 @@
                   "url": "https://en.wikipedia.org/wiki/Fred_Smith_(businessman)",
                   "note": "Biography of the FedEx founder"
                 }
-              ]
+              ],
+              "slug": "fred-smith",
+              "tagline": "Founded FedEx and supported Christian causes worldwide",
+              "image": ""
             }
           ]
         },
@@ -2611,7 +2911,10 @@
                   "url": "https://www.youtube.com/results?search_query=james+tour+personal+testimony+messianic+jewish",
                   "note": "His testimony as a Messianic Jewish believer"
                 }
-              ]
+              ],
+              "slug": "james-tour",
+              "tagline": "A world-leading nanotechnologist who boldly defends creation",
+              "image": ""
             },
             {
               "name": "John Lennox",
@@ -2650,7 +2953,10 @@
                   "url": "https://www.youtube.com/results?search_query=john+lennox+christopher+hitchens+debate",
                   "note": "Lennox debating one of the 'New Atheists'"
                 }
-              ]
+              ],
+              "slug": "john-lennox",
+              "tagline": "Oxford mathematician who debated Dawkins and Hitchens for the faith",
+              "image": ""
             },
             {
               "name": "Rosalind Picard",
@@ -2672,7 +2978,10 @@
                   "url": "https://www.youtube.com/results?search_query=rosalind+picard+christian+faith+mit+testimony",
                   "note": "Picard's testimony about becoming a Christian as a scientist"
                 }
-              ]
+              ],
+              "slug": "rosalind-picard",
+              "tagline": "Pioneered affective computing after her conversion to Christ",
+              "image": ""
             },
             {
               "name": "William D. Phillips",
@@ -2688,7 +2997,10 @@
                   "url": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
                   "note": "Biography of the Nobel laureate physicist"
                 }
-              ]
+              ],
+              "slug": "william-d-phillips",
+              "tagline": "Won the Nobel Prize in Physics and testifies to God's design",
+              "image": ""
             }
           ]
         }
@@ -2722,7 +3034,10 @@
                   "title": "American Crusade: Our Fight to Stay Free",
                   "note": "By Pete Hegseth. His book discussing faith, freedom, and American values"
                 }
-              ]
+              ],
+              "slug": "pete-hegseth",
+              "tagline": "Army veteran and Secretary of Defense who credits faith for his service",
+              "image": ""
             },
             {
               "name": "Chad Williams",
@@ -2750,7 +3065,10 @@
                   "url": "https://www.youtube.com/results?search_query=chad+williams+navy+seal+of+god+testimony",
                   "note": "His powerful conversion testimony"
                 }
-              ]
+              ],
+              "slug": "chad-williams",
+              "tagline": "Former Navy SEAL who found his ultimate mission in Christ",
+              "image": ""
             },
             {
               "name": "Jeff Struecker",
@@ -2778,7 +3096,10 @@
                   "title": "The Road to Unafraid",
                   "note": "By Jeff Struecker. His account of faith under fire in Mogadishu"
                 }
-              ]
+              ],
+              "slug": "jeff-struecker",
+              "tagline": "Black Hawk Down hero who traded combat for the pulpit",
+              "image": ""
             },
             {
               "name": "Oliver North",
@@ -2794,7 +3115,10 @@
                   "url": "https://en.wikipedia.org/wiki/Oliver_North",
                   "note": "Biography of the Marine and political figure"
                 }
-              ]
+              ],
+              "slug": "oliver-north",
+              "tagline": "Decorated Marine and bestselling author anchored by faith",
+              "image": ""
             },
             {
               "name": "Desmond Doss",
@@ -2828,7 +3152,10 @@
                   "title": "Desmond Doss: Conscientious Objector",
                   "note": "By Frances Doss. Biography by his first wife"
                 }
-              ]
+              ],
+              "slug": "desmond-doss",
+              "tagline": "A conscientious objector who saved 75 lives without firing a shot",
+              "image": ""
             },
             {
               "name": "Alvin York",
@@ -2850,7 +3177,10 @@
                   "url": "https://en.wikipedia.org/wiki/Sergeant_York_(film)",
                   "note": "The 1941 film starring Gary Cooper"
                 }
-              ]
+              ],
+              "slug": "alvin-york",
+              "tagline": "A pacifist-turned-hero who credited God for his WWI valor",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sergeant_York_-_Alvin_C._York_-_Project_Gutenberg_eText_19117.jpg/440px-Sergeant_York_-_Alvin_C._York_-_Project_Gutenberg_eText_19117.jpg"
             },
             {
               "name": "Jason Redman",
@@ -2865,7 +3195,10 @@
                   "title": "The Trident: The Forging and Reforging of a Navy SEAL Leader",
                   "note": "By Jason Redman. His account of combat, injury, and recovery through faith"
                 }
-              ]
+              ],
+              "slug": "jason-redman",
+              "tagline": "Wounded Navy SEAL who posted 'Attention — I am still in the fight'",
+              "image": ""
             },
             {
               "name": "Marcus Luttrell",
@@ -2892,7 +3225,10 @@
                   "url": "https://en.wikipedia.org/wiki/Lone_Survivor_(film)",
                   "note": "The 2013 film adaptation starring Mark Wahlberg"
                 }
-              ]
+              ],
+              "slug": "marcus-luttrell",
+              "tagline": "Lone Survivor who leaned on God through impossible odds",
+              "image": ""
             }
           ]
         },
@@ -2914,7 +3250,10 @@
                   "url": "https://en.wikipedia.org/wiki/Mike_Pence",
                   "note": "Biography of the 48th Vice President"
                 }
-              ]
+              ],
+              "slug": "mike-pence",
+              "tagline": "Described himself as a Christian, a conservative, and a Republican — in that order",
+              "image": ""
             },
             {
               "name": "Ben Carson",
@@ -2948,7 +3287,10 @@
                   "url": "https://en.wikipedia.org/wiki/Gifted_Hands:_The_Ben_Carson_Story_(film)",
                   "note": "TV film starring Cuba Gooding Jr. as Carson"
                 }
-              ]
+              ],
+              "slug": "ben-carson",
+              "tagline": "From inner-city poverty to world-renowned neurosurgeon by God's grace",
+              "image": ""
             },
             {
               "name": "Tim Scott",
@@ -2964,7 +3306,10 @@
                   "url": "https://en.wikipedia.org/wiki/Tim_Scott",
                   "note": "Biography of the South Carolina senator"
                 }
-              ]
+              ],
+              "slug": "tim-scott",
+              "tagline": "Rose from a single-parent home to the U.S. Senate through faith",
+              "image": ""
             },
             {
               "name": "Mike Pompeo",
@@ -2980,7 +3325,10 @@
                   "url": "https://en.wikipedia.org/wiki/Mike_Pompeo",
                   "note": "Biography of the former Secretary of State"
                 }
-              ]
+              ],
+              "slug": "mike-pompeo",
+              "tagline": "Served as Secretary of State guided by a biblical worldview",
+              "image": ""
             },
             {
               "name": "William Wilberforce",
@@ -2997,7 +3345,10 @@
                   "url": "https://en.wikipedia.org/wiki/William_Wilberforce",
                   "note": "See full entry in Reformers & Theologians"
                 }
-              ]
+              ],
+              "slug": "william-wilberforce-politicians",
+              "tagline": "Fought for decades to abolish the slave trade in the name of Christ",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/William_Wilberforce_%281759%E2%80%931833%29%2C_John_Rising%2C_1790.jpg/440px-William_Wilberforce_%281759%E2%80%931833%29%2C_John_Rising%2C_1790.jpg"
             },
             {
               "name": "Abraham Lincoln",
@@ -3025,7 +3376,10 @@
                   "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_second_inaugural_address",
                   "note": "His theologically profound address about God's purposes in the Civil War"
                 }
-              ]
+              ],
+              "slug": "abraham-lincoln",
+              "tagline": "Led a nation through its darkest hour with humble reliance on Providence",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/440px-Abraham_Lincoln_O-77_matte_collodion_print.jpg"
             },
             {
               "name": "George Washington",
@@ -3047,7 +3401,10 @@
                   "url": "https://en.wikipedia.org/wiki/Religious_views_of_George_Washington",
                   "note": "Analysis of Washington's Anglican faith and references to Providence"
                 }
-              ]
+              ],
+              "slug": "george-washington",
+              "tagline": "Knelt in prayer at Valley Forge and led a nation under God",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/440px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
             },
             {
               "name": "Marco Rubio",
@@ -3063,7 +3420,10 @@
                   "url": "https://en.wikipedia.org/wiki/Marco_Rubio",
                   "note": "Biography including his faith journey through multiple denominations"
                 }
-              ]
+              ],
+              "slug": "marco-rubio",
+              "tagline": "A senator and Secretary of State who shares Scripture daily",
+              "image": ""
             },
             {
               "name": "Charlie Kirk",
@@ -3104,7 +3464,10 @@
                   "url": "https://www.youtube.com/results?search_query=charlie+kirk+show+faith+christian+values",
                   "note": "His media platform where he frequently discussed faith"
                 }
-              ]
+              ],
+              "slug": "charlie-kirk",
+              "tagline": "Founded Turning Point USA and championed faith in the public square",
+              "image": ""
             }
           ]
         }
