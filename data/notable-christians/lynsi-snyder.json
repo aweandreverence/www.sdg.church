@@ -1,0 +1,48 @@
+{
+  "name": "Lynsi Snyder",
+  "years": "May 5, 1982 – present",
+  "title": "Businesswoman, In-N-Out Burger Owner",
+  "bio": "American billionaire businesswoman, sole owner and president of In-N-Out Burger. The only grandchild of Harry and Esther Snyder, who founded In-N-Out in 1948. Under her leadership, In-N-Out has nearly doubled its locations to 400+ stores across eight states. Named to the Forbes 400 with a net worth of $8.7 billion.",
+  "faith": "Snyder became a born-again Christian as a child, attending Shingletown Christian Academy, a school her parents helped found. After her father's death from drug abuse when she was 17, she drifted into substance abuse and a series of broken relationships. 'The Passion of the Christ' (2004) drew her back to God, and she experienced her deepest transformation during the struggles of her third marriage, describing how she 'finally found the true love of Christ' and was 'made whole and new.' She continues the family tradition of printing Bible verse references on In-N-Out packaging — adding Proverbs 24:16 to fry containers, Luke 6:35 to coffee cups, and Isaiah 9:6 to holiday cups. She co-founded the Slave 2 Nothing Foundation with her husband Sean Ellingson, which has granted over $17 million to fight substance abuse and human trafficking. In 2023, she gave the largest gift in Biola University's 115-year history, funding the $92 million Snyder School of Cinema and Media Arts.",
+  "videos": [
+    {
+      "title": "Lynsi Snyder — I Am Second",
+      "url": "https://www.youtube.com/watch?v=gJkOq6rOaZs",
+      "platform": "youtube",
+      "note": "Her candid testimony about loss, broken marriages, and finding wholeness in Christ"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Lynsi Snyder — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lynsi_Snyder",
+      "note": "Biography of the In-N-Out heiress"
+    },
+    {
+      "type": "article",
+      "title": "'God Had Something Better': In-N-Out heiress puts her trust in the Lord, not man — Decision Magazine",
+      "url": "https://decisionmagazine.com/god-had-something-better-in-n-out-heiress-puts-her-trust-in-the-lord-not-man/",
+      "note": "Billy Graham Evangelistic Association interview (March 2021)"
+    },
+    {
+      "type": "article",
+      "title": "Forbes: In-N-Out Billionaire Lynsi Snyder Opens Up About Her Troubled Past",
+      "url": "https://www.forbes.com/sites/chloesorvino/2018/10/10/exclusive-in-n-out-billionaire-lynsi-snyder-opens-up-about-her-troubled-past-and-the-burger-chains-future/",
+      "note": "Forbes exclusive profile (October 2018)"
+    },
+    {
+      "type": "website",
+      "title": "Slave 2 Nothing Foundation",
+      "url": "https://slave2nothing.org/",
+      "note": "Co-founded by Lynsi and Sean Ellingson to fight substance abuse and human trafficking"
+    }
+  ],
+  "slug": "lynsi-snyder",
+  "tagline": "Inherited a burger empire but nearly lost herself — found wholeness in Christ and now uses her platform to put Scripture in the hands of millions",
+  "image": "/images/bios/lynsi-snyder.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Lynsi_Snyder",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  }
+}
