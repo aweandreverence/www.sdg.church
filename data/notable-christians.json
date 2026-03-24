@@ -2502,31 +2502,6 @@
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jim_Caviezel_by_Gage_Skidmore.jpg/440px-Jim_Caviezel_by_Gage_Skidmore.jpg"
             },
             {
-              "name": "Mel Gibson",
-              "years": "January 3, 1956 – present",
-              "title": "Actor & Director",
-              "bio": "American-Australian actor and filmmaker. Directed 'The Passion of the Christ,' 'Braveheart,' and 'Hacksaw Ridge.' Academy Award-winning director.",
-              "faith": "A traditional Catholic whose faith inspired him to direct 'The Passion of the Christ,' which became one of the highest-grossing R-rated films in history. He also directed 'Hacksaw Ridge,' the true story of Christian conscientious objector Desmond Doss.",
-              "videos": [],
-              "sources": [
-                {
-                  "type": "wikipedia",
-                  "title": "Mel Gibson — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/Mel_Gibson",
-                  "note": "Biography of the actor-director"
-                },
-                {
-                  "type": "wikipedia",
-                  "title": "The Passion of the Christ — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/The_Passion_of_the_Christ",
-                  "note": "The faith-driven film about Christ's crucifixion"
-                }
-              ],
-              "slug": "mel-gibson",
-              "tagline": "Directed The Passion of the Christ — the highest-grossing R-rated film ever",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mel_Gibson_Cannes_2016_2.jpg/440px-Mel_Gibson_Cannes_2016_2.jpg"
-            },
-            {
               "name": "Chuck Norris",
               "years": "March 10, 1940 – present",
               "title": "Actor & Martial Artist",
@@ -2549,8 +2524,34 @@
               "slug": "chuck-norris",
               "tagline": "A martial arts legend and lifelong advocate for Christian values",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/440px-Chuck_Norris_May_2015.jpg"
+            },
+            {
+              "name": "Kirk Cameron",
+              "years": "October 12, 1970 – present",
+              "title": "Actor & Evangelist",
+              "bio": "American actor best known for his role as Mike Seaver on 'Growing Pains.' After his conversion to Christianity at age 17, he became a prominent evangelist, co-founding The Way of the Master ministry with Ray Comfort and starring in the 'Fireproof' and 'Left Behind' films.",
+              "faith": "Kirk Cameron's conversion at 17 transformed his life and career. He has said, 'I was doing all the things that Hollywood says you should do to be happy... and I wasn't.' He became a bold evangelist, co-founding The Way of the Master with Ray Comfort and producing faith-based films like 'Fireproof,' which grossed $33 million on a $500,000 budget. He has been an outspoken advocate for biblical marriage, homeschooling, and the authority of Scripture.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Kirk Cameron — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Kirk_Cameron",
+                  "note": "Biography of the actor and evangelist"
+                },
+                {
+                  "type": "web",
+                  "title": "The Way of the Master",
+                  "url": "https://www.livingwaters.com/",
+                  "note": "Kirk Cameron and Ray Comfort's evangelism ministry"
+                }
+              ],
+              "slug": "kirk-cameron",
+              "tagline": "From Growing Pains teen idol to bold evangelist for Christ",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Kirk_Cameron_by_Gage_Skidmore_2.jpg/440px-Kirk_Cameron_by_Gage_Skidmore_2.jpg"
             }
-          ]
+          ],
+          "count": 7
         }
       ]
     },
@@ -2835,25 +2836,6 @@
               "image": "/images/placeholder-saint.svg"
             },
             {
-              "name": "Jack Welch",
-              "years": "November 19, 1935 – March 1, 2020",
-              "title": "Former CEO of General Electric",
-              "bio": "American businessman and chemical engineer who served as CEO of General Electric from 1981 to 2001. Under his leadership, GE's value grew by 4,000%.",
-              "faith": "Welch was a practicing Catholic who attended Mass regularly. While not as publicly vocal about faith as some others, he was known for his Catholic upbringing and values that shaped his leadership style.",
-              "videos": [],
-              "sources": [
-                {
-                  "type": "wikipedia",
-                  "title": "Jack Welch — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/Jack_Welch",
-                  "note": "Biography of the legendary GE CEO"
-                }
-              ],
-              "slug": "jack-welch",
-              "tagline": "Led GE to greatness while maintaining a quiet, steady Christian faith",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jack_Welch_2012.jpg/440px-Jack_Welch_2012.jpg"
-            },
-            {
               "name": "Fred Smith",
               "years": "August 11, 1944 – present",
               "title": "Founder of FedEx",
@@ -2871,8 +2853,40 @@
               "slug": "fred-smith",
               "tagline": "Founded FedEx and supported Christian causes worldwide",
               "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fred_Smith_at_FedEx.jpg/440px-Fred_Smith_at_FedEx.jpg"
+            },
+            {
+              "name": "Alan Barnhart",
+              "years": "1962 – present",
+              "title": "CEO, Barnhart Crane & Rigging",
+              "bio": "CEO of Barnhart Crane & Rigging, one of the largest heavy lift and transport companies in North America with over 70 locations. Alan and his brother Eric grew up working in the steel-erecting business their father founded in Memphis, Tennessee in 1969. Alan studied civil engineering and joined the business full-time in the early 1980s.",
+              "faith": "Alan and his brother Eric made the extraordinary decision to give 100% of their highly successful company to the National Christian Foundation in 2007 to keep wealth from taking over their lives. Though they still run daily operations, the brothers will never reap the company's accrued value — they kept none of it. About 50% of all company earnings are donated immediately to charity, with the remaining 50% reinvested to grow the business. Alan has said the decision was driven by a conviction that everything belongs to God. He and his wife Katherine have six children and reside in Tennessee.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "web",
+                  "title": "Alan Barnhart — Faith Driven Entrepreneur",
+                  "url": "https://faithdrivenentrepreneur.org/alan-barnhart/",
+                  "note": "Profile on the Faith Driven Entrepreneur platform"
+                },
+                {
+                  "type": "web",
+                  "title": "Barnhart Crane & Rigging",
+                  "url": "https://www.barnhartcrane.com/about/",
+                  "note": "Company website"
+                },
+                {
+                  "type": "web",
+                  "title": "Alan Barnhart — Generous Giving",
+                  "url": "https://generousgiving.org/video/alan-barnhart/",
+                  "note": "Generous Giving testimony"
+                }
+              ],
+              "slug": "alan-barnhart",
+              "tagline": "Gave away a $100M+ company to God and kept running it as a steward",
+              "image": ""
             }
-          ]
+          ],
+          "count": 12
         },
         {
           "id": "scientists-living",
