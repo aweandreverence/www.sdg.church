@@ -3,7 +3,15 @@ import path from 'path';
 import testimoniesData from '@data/testimonies.json';
 import scriptureData from '@data/scripture.json';
 import gospelData from '@data/gospel.json';
-import videosData from '@data/videos.json';
+// Load video data from split files at build time
+function loadVideosData(): Video[] {
+  const dataDir = path.join(process.cwd(), 'data', 'videos');
+  const index = JSON.parse(fs.readFileSync(path.join(dataDir, '_index.json'), 'utf-8'));
+  return index.videos.map((ref: { $ref: string }) => {
+    const videoPath = path.join(dataDir, ref.$ref);
+    return JSON.parse(fs.readFileSync(videoPath, 'utf-8'));
+  });
+}
 
 // Load biography data from split files at build time
 function loadBiographiesData() {
@@ -180,7 +188,7 @@ export function getBiographyCategories(): BiographyCategory[] {
 const testimonies = testimoniesData as Testimony[];
 const scripture = scriptureData as Scripture[];
 const gospel = gospelData as { sections: GospelSection[] };
-const videos = videosData as Video[];
+const videos = loadVideosData();
 
 export function getTestimonies(): Testimony[] {
   return testimonies;

@@ -1,0 +1,58 @@
+{
+  "videos": [
+    {
+      "$ref": "testimony-1.json"
+    },
+    {
+      "$ref": "testimony-2.json"
+    },
+    {
+      "$ref": "testimony-3.json"
+    },
+    {
+      "$ref": "testimony-4.json"
+    },
+    {
+      "$ref": "testimony-5.json"
+    },
+    {
+      "$ref": "testimony-6.json"
+    },
+    {
+      "$ref": "testimony-7.json"
+    },
+    {
+      "$ref": "testimony-8.json"
+    },
+    {
+      "$ref": "testimony-9.json"
+    },
+    {
+      "$ref": "testimony-10.json"
+    },
+    {
+      "$ref": "testimony-11.json"
+    },
+    {
+      "$ref": "testimony-12.json"
+    },
+    {
+      "$ref": "testimony-13.json"
+    },
+    {
+      "$ref": "testimony-14.json"
+    },
+    {
+      "$ref": "testimony-15.json"
+    },
+    {
+      "$ref": "testimony-16.json"
+    },
+    {
+      "$ref": "testimony-17.json"
+    },
+    {
+      "$ref": "testimony-18.json"
+    }
+  ]
+}
