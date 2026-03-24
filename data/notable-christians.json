@@ -2836,25 +2836,6 @@
               "image": ""
             },
             {
-              "name": "Jack Welch",
-              "years": "1935-2020",
-              "title": "Former CEO of General Electric",
-              "bio": "American businessman and chemical engineer who served as CEO of General Electric from 1981 to 2001. Under his leadership, GE's value grew by 4,000%.",
-              "faith": "Welch was a practicing Catholic who attended Mass regularly. While not as publicly vocal about faith as some others, he was known for his Catholic upbringing and values that shaped his leadership style.",
-              "videos": [],
-              "sources": [
-                {
-                  "type": "wikipedia",
-                  "title": "Jack Welch — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/Jack_Welch",
-                  "note": "Biography of the legendary GE CEO"
-                }
-              ],
-              "slug": "jack-welch",
-              "tagline": "Led GE to greatness while maintaining a quiet, steady Christian faith",
-              "image": ""
-            },
-            {
               "name": "Fred Smith",
               "years": "1944-present",
               "title": "Founder of FedEx",
@@ -2905,7 +2886,7 @@
               "image": ""
             }
           ],
-          "count": 13
+          "count": 12
         },
         {
           "id": "scientists-living",
