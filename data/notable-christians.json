@@ -27,10 +27,10 @@
               ],
               "slug": "vibia-perpetua",
               "tagline": "I cannot be called by any other name than a Christian",
-              "image": "",
+              "image": "/images/bios/vibia-perpetua.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Medieval manuscript illustration",
+                "license": "Public domain"
               }
             },
             {
@@ -50,10 +50,10 @@
               ],
               "slug": "felicity-of-carthage",
               "tagline": "In the arena, another will be in me who will suffer for me",
-              "image": "",
+              "image": "/images/bios/felicity-of-carthage.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Medieval manuscript illustration",
+                "license": "Public domain"
               }
             },
             {
@@ -73,10 +73,10 @@
               ],
               "slug": "polycarp-of-smyrna",
               "tagline": "86 years I have served Him, and He has done me no wrong",
-              "image": "",
+              "image": "/images/bios/polycarp-of-smyrna.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical artwork",
+                "license": "Public domain"
               }
             },
             {
@@ -96,10 +96,10 @@
               ],
               "slug": "ignatius-of-antioch",
               "tagline": "I am God's wheat, ground fine by the lion's teeth",
-              "image": "",
+              "image": "/images/bios/ignatius-of-antioch.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Wikimedia Commons",
+                "license": "CC0"
               }
             }
           ]
@@ -125,10 +125,10 @@
               ],
               "slug": "jan-hus",
               "tagline": "A forerunner of the Reformation, burned for the truth",
-              "image": "",
+              "image": "/images/bios/jan-hus.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical portrait",
+                "license": "Public domain"
               }
             },
             {
@@ -148,10 +148,10 @@
               ],
               "slug": "william-tyndale",
               "tagline": "Lord, open the King of England's eyes",
-              "image": "",
+              "image": "/images/bios/william-tyndale.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Wikimedia Commons",
+                "license": "Public domain"
               }
             },
             {
@@ -171,10 +171,10 @@
               ],
               "slug": "hugh-latimer",
               "tagline": "We shall this day light such a candle as shall never be put out",
-              "image": "",
+              "image": "/images/bios/hugh-latimer.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical portrait",
+                "license": "Public domain"
               }
             },
             {
@@ -194,10 +194,10 @@
               ],
               "slug": "nicholas-ridley",
               "tagline": "Chose the flames over denying the truth",
-              "image": "",
+              "image": "/images/bios/nicholas-ridley.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Wikimedia Commons",
+                "license": "Public domain"
               }
             }
           ]
@@ -1074,10 +1074,10 @@
               ],
               "slug": "augustin-louis-cauchy",
               "tagline": "I am a Christian, with Copernicus, Descartes, Newton, and Pascal",
-              "image": "",
+              "image": "/images/bios/augustin-louis-cauchy.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Wikimedia Commons",
+                "license": "Public domain"
               }
             }
           ]
@@ -1477,10 +1477,10 @@
               ],
               "slug": "john-wycliffe",
               "tagline": "The Morning Star of the Reformation",
-              "image": "",
+              "image": "/images/bios/john-wycliffe.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical portrait",
+                "license": "Public domain"
               }
             },
             {
@@ -1500,10 +1500,10 @@
               ],
               "slug": "thomas-aquinas",
               "tagline": "All I have written seems like straw compared to what has been revealed",
-              "image": "",
+              "image": "/images/bios/thomas-aquinas.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical painting",
+                "license": "Public domain"
               }
             },
             {
@@ -1523,10 +1523,10 @@
               ],
               "slug": "athanasius-of-alexandria",
               "tagline": "Athanasius contra mundum — Athanasius against the world",
-              "image": "",
+              "image": "/images/bios/athanasius-of-alexandria.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Wikimedia Commons",
+                "license": "Public domain"
               }
             },
             {
@@ -1546,10 +1546,10 @@
               ],
               "slug": "john-knox",
               "tagline": "Give me Scotland, or I die!",
-              "image": "",
+              "image": "/images/bios/john-knox.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Wikimedia Commons",
+                "license": "Public domain"
               }
             },
             {
@@ -1569,10 +1569,10 @@
               ],
               "slug": "abraham-kuyper",
               "tagline": "There is not a square inch over which Christ does not cry: Mine!",
-              "image": "",
+              "image": "/images/bios/abraham-kuyper.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -1592,7 +1592,7 @@
               ],
               "slug": "martyn-lloyd-jones",
               "tagline": "The Doctor who left medicine to preach the Great Physician",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "imageAttribution": {
                 "source": "",
                 "license": ""
@@ -1615,7 +1615,7 @@
               ],
               "slug": "ji-packer",
               "tagline": "Knowing God — not just knowing about God",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "imageAttribution": {
                 "source": "",
                 "license": ""
@@ -1638,10 +1638,10 @@
               ],
               "slug": "herman-bavinck",
               "tagline": "Reformed Dogmatics — a masterwork of systematic theology",
-              "image": "",
+              "image": "/images/bios/herman-bavinck.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -1661,10 +1661,10 @@
               ],
               "slug": "bb-warfield",
               "tagline": "The great defender of biblical inerrancy",
-              "image": "",
+              "image": "/images/bios/bb-warfield.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -1684,10 +1684,10 @@
               ],
               "slug": "al-mohler",
               "tagline": "Leading the conservative resurgence in the SBC",
-              "image": "",
+              "image": "/images/bios/al-mohler.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photograph",
+                "license": "CC BY 2.0"
               }
             }
           ]
@@ -1783,7 +1783,11 @@
               ],
               "slug": "jim-elliot",
               "tagline": "He is no fool who gives what he cannot keep to gain what he cannot lose",
-              "image": ""
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Nate Saint",
@@ -1793,7 +1797,7 @@
               "tagline": "Missionary pilot martyred alongside Jim Elliot — his son Steve later befriended the very tribe that killed his father",
               "bio": "Nate Saint was an American missionary pilot who served with Mission Aviation Fellowship (MAF) in Ecuador. A gifted inventor, he developed the 'bucket drop' technique to safely deliver gifts to unreached tribes from the air. He was part of Operation Auca, the effort to make contact with the isolated Waorani (Auca) people. On January 8, 1956, he and four companions — Jim Elliot, Ed McCully, Pete Fleming, and Roger Youderian — were killed by Waorani warriors on a sandbar along the Curaray River. His son Steve later lived among the Waorani and was baptized by the very men who had killed his father.",
               "faith": "Saint's faith drove him to risk his life bringing the gospel to unreached peoples. His inventive use of aviation technology in missionary service demonstrated a practical, resourceful faith. The remarkable sequel to his martyrdom — his son Steve's reconciliation with the Waorani and the eventual conversion of many in the tribe — stands as one of the most powerful testimonies of forgiveness and redemption in modern missions history.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -1808,7 +1812,11 @@
                   "url": "",
                   "note": "By Steve Saint. His son's account of reconciliation with the Waorani"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Ed McCully",
@@ -1818,7 +1826,7 @@
               "tagline": "Gave up a promising legal career to bring the gospel to Ecuador — martyred at age 28",
               "bio": "Ed McCully was an American missionary who gave up a promising career as an attorney and orator to serve in Ecuador with the Plymouth Brethren. A former college football star and championship orator at Wheaton College, McCully felt called to missions after hearing Jim Elliot speak. He and his wife Marilou served the Quichua people before joining Operation Auca. He was among the five missionaries killed by Waorani warriors on January 8, 1956.",
               "faith": "McCully's conversion from worldly ambition to missionary service exemplifies the radical call of the gospel. He wrote to Jim Elliot: 'I have one desire now — to live a life of reckless abandon for the Lord, putting all my energy and strength into it.' His willingness to leave behind comfort, career, and ultimately his life for the sake of unreached peoples reflects the costly discipleship Jesus described.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -1827,7 +1835,11 @@
                   "url": "",
                   "note": "By Elisabeth Elliot. The definitive account of Operation Auca"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Pete Fleming",
@@ -1837,7 +1849,7 @@
               "tagline": "Linguist and scholar who chose the mission field over academia — martyred bringing the gospel to the Waorani",
               "bio": "Pete Fleming was an American missionary and linguist who served in Ecuador. A graduate of the University of Washington with a master's degree in literature, Fleming had a gift for languages and was instrumental in early attempts to learn the Waorani language. He married Olive Ainslie in Ecuador, and together they served among the Quichua people. His linguistic skills were vital to Operation Auca's efforts to communicate with the isolated Waorani. He was killed alongside his four companions on January 8, 1956.",
               "faith": "Fleming wrestled deeply with God's call on his life, recording his spiritual journey in detailed journals. He wrote: 'I am not afraid of death. I am afraid of not living.' His decision to pursue missions over an academic career reflected a conviction that the gospel of Jesus Christ was the most important message the world could hear. His careful, scholarly approach to missionary work modeled the integration of intellectual gifts and gospel passion.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -1846,7 +1858,11 @@
                   "url": "",
                   "note": "By Elisabeth Elliot. Includes Pete Fleming's story"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Roger Youderian",
@@ -1856,7 +1872,7 @@
               "tagline": "WWII paratrooper and Purple Heart recipient who gave his life as a missionary to the Waorani",
               "bio": "Roger Youderian was an American missionary and decorated World War II veteran who served with the Jívaro (Shuar) people in Ecuador. A paratrooper who fought in the Battle of the Bulge and received the Purple Heart, Youderian brought the same courage and discipline to the mission field. He struggled with discouragement in his work among the Jívaro before being invited to join Operation Auca. He initially hesitated, feeling unworthy, but ultimately joined the team. He was killed with his four companions on January 8, 1956.",
               "faith": "Youderian's faith was forged in the fires of combat and refined through seasons of missionary discouragement. His journal entries reveal a man who honestly wrestled with feelings of failure and inadequacy, yet continually returned to trust in God's sovereignty. His decision to join Operation Auca came after a spiritual breakthrough. He wrote in his journal the night before the fatal contact: 'I am called and I must go.' His story reminds us that God uses broken, doubting people for His greatest purposes.",
-              "image": "",
+              "image": "/images/bios/roger-youderian.jpg",
               "videos": [],
               "sources": [
                 {
@@ -1871,7 +1887,11 @@
                   "url": "https://en.wikipedia.org/wiki/Roger_Youderian",
                   "note": "Biography of the missionary and WWII veteran"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "Historical photograph",
+                "license": "CC BY 2.5"
+              }
             },
             {
               "name": "Hudson Taylor",
@@ -2147,7 +2167,11 @@
               ],
               "slug": "john-macarthur",
               "tagline": "Devoted over 50 years to expository preaching of Scripture",
-              "image": ""
+              "image": "/images/bios/john-macarthur.jpg",
+              "imageAttribution": {
+                "source": "Photograph",
+                "license": "CC BY-SA"
+              }
             },
             {
               "name": "R.C. Sproul",
@@ -2287,7 +2311,11 @@
               ],
               "slug": "jim-cymbala",
               "tagline": "Built the Brooklyn Tabernacle on the power of prayer",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Francis Schaeffer",
@@ -2403,7 +2431,11 @@
               ],
               "slug": "aw-tozer",
               "tagline": "The 20th-century prophet who pursued the knowledge of the Holy",
-              "image": ""
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Lottie Moon",
@@ -2564,10 +2596,10 @@
               ],
               "slug": "tim-keller",
               "tagline": "There is no party like the one we are going to",
-              "image": "",
+              "image": "/images/bios/tim-keller.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photograph",
+                "license": "CC BY-SA"
               }
             }
           ]
@@ -2593,10 +2625,10 @@
               ],
               "slug": "john-owen",
               "tagline": "Be killing sin or it will be killing you",
-              "image": "",
+              "image": "/images/bios/john-owen.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Painting by John Greenhill",
+                "license": "Public domain"
               }
             },
             {
@@ -2616,10 +2648,10 @@
               ],
               "slug": "richard-baxter",
               "tagline": "The pastor whose town was transformed by faithful ministry",
-              "image": "",
+              "image": "/images/bios/richard-baxter.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical portrait",
+                "license": "Public domain"
               }
             },
             {
@@ -2639,10 +2671,10 @@
               ],
               "slug": "john-flavel",
               "tagline": "The soul of religion is the practical part",
-              "image": "",
+              "image": "/images/bios/john-flavel.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical portrait",
+                "license": "Public domain"
               }
             },
             {
@@ -2662,10 +2694,10 @@
               ],
               "slug": "thomas-watson",
               "tagline": "God's wounds cure — sin's kisses kill",
-              "image": "",
+              "image": "/images/bios/thomas-watson.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical portrait",
+                "license": "Public domain"
               }
             },
             {
@@ -2685,10 +2717,10 @@
               ],
               "slug": "matthew-henry",
               "tagline": "His Bible commentary has been read for over 300 years",
-              "image": "",
+              "image": "/images/bios/matthew-henry.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical portrait",
+                "license": "Public domain"
               }
             }
           ]
@@ -2714,10 +2746,10 @@
               ],
               "slug": "charlie-soong",
               "tagline": "The Bible publisher whose family shaped modern China",
-              "image": "",
+              "image": "/images/bios/charlie-soong.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -2737,10 +2769,10 @@
               ],
               "slug": "sun-yat-sen",
               "tagline": "The Revolution has its origins in Christianity",
-              "image": "",
+              "image": "/images/bios/sun-yat-sen.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -2760,10 +2792,10 @@
               ],
               "slug": "chiang-kai-shek",
               "tagline": "My faith is my greatest source of strength",
-              "image": "",
+              "image": "/images/bios/chiang-kai-shek.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -2783,10 +2815,10 @@
               ],
               "slug": "soong-mei-ling",
               "tagline": "God has led me — and He does lead me",
-              "image": "",
+              "image": "/images/bios/soong-mei-ling.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             }
           ]
@@ -2812,10 +2844,10 @@
               ],
               "slug": "pandita-ramabai",
               "tagline": "Christ has set me free",
-              "image": "",
+              "image": "/images/bios/pandita-ramabai.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -2835,10 +2867,10 @@
               ],
               "slug": "sadhu-sundar-singh",
               "tagline": "Without Christ I was a fish out of water — with Christ, in the ocean of love",
-              "image": "",
+              "image": "/images/bios/sadhu-sundar-singh.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             }
           ]
@@ -2864,10 +2896,10 @@
               ],
               "slug": "samuel-morse",
               "tagline": "What hath God wrought — the first words of the telegraph age",
-              "image": "",
+              "image": "/images/bios/samuel-morse.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -2887,10 +2919,10 @@
               ],
               "slug": "cyrus-mccormick",
               "tagline": "Feeding the world and funding the gospel",
-              "image": "",
+              "image": "/images/bios/cyrus-mccormick.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "National Portrait Gallery",
+                "license": "Public domain"
               }
             }
           ]
@@ -3190,6 +3222,17 @@
                   "title": "Simone Biles — Wikipedia",
                   "url": "https://en.wikipedia.org/wiki/Simone_Biles",
                   "note": "Biography of the most decorated gymnast in history"
+                },
+                {
+                  "type": "book",
+                  "title": "Courage to Soar: A Body in Motion, A Life in Balance",
+                  "note": "By Simone Biles (Zondervan, 2016). Her autobiography discusses her Catholic faith and how prayer and trust in God sustain her through competition and adversity"
+                },
+                {
+                  "type": "article",
+                  "title": "How Simone Biles' Faith Guides Her",
+                  "url": "https://www.today.com/parents/celebrity/simone-biles-faith-rcna163019",
+                  "note": "Biles has shared publicly that her faith helped her through the Larry Nassar abuse scandal and her mental health struggles at the 2020 Olympics"
                 }
               ],
               "slug": "simone-biles",
@@ -3223,7 +3266,11 @@
               ],
               "slug": "sadie-robertson-huff",
               "tagline": "Turned reality TV fame into a platform for the gospel",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/bios/sadie-robertson-huff.jpg",
+              "imageAttribution": {
+                "source": "Photograph",
+                "license": "CC BY-SA"
+              }
             },
             {
               "name": "Gabby Douglas",
@@ -3295,6 +3342,18 @@
                   "title": "Dak Prescott — Wikipedia",
                   "url": "https://en.wikipedia.org/wiki/Dak_Prescott",
                   "note": "Biography of the Dallas Cowboys quarterback"
+                },
+                {
+                  "type": "article",
+                  "title": "Dak Prescott on Faith, Family, and Football",
+                  "url": "https://www.dallasnews.com/sports/cowboys/2020/10/08/how-dak-prescott-has-leaned-on-faith-after-brothers-death/",
+                  "note": "How Prescott leaned on his Christian faith after the deaths of his mother and brother"
+                },
+                {
+                  "type": "article",
+                  "title": "Dak Prescott: 'God Has a Plan for Me'",
+                  "url": "https://www.si.com/nfl/cowboys/news/dak-prescott-faith-god-plan",
+                  "note": "Prescott discusses his faith and how it sustains him through personal tragedy and professional challenges"
                 }
               ],
               "slug": "dak-prescott",
@@ -3347,14 +3406,26 @@
                   "title": "Ledecky — Wikipedia",
                   "url": "https://en.wikipedia.org/wiki/Katie_Ledecky",
                   "note": "Seven-time Olympic gold medalist"
+                },
+                {
+                  "type": "article",
+                  "title": "Olympic Swimmer Katie Ledecky on Her Catholic Faith",
+                  "url": "https://www.americamagazine.org/arts-culture/2021/07/28/katie-ledecky-olympics-catholic-faith-241130",
+                  "note": "America Magazine interview about Ledecky's Catholic faith, attending Mass during Olympic competitions, and the role of faith in her life"
+                },
+                {
+                  "type": "article",
+                  "title": "How Faith Keeps Katie Ledecky Grounded",
+                  "url": "https://www.catholicnewsagency.com/news/248434/katie-ledecky-catholic-faith-olympics",
+                  "note": "Catholic News Agency profile on Ledecky attending her parish Stone Ridge School of the Sacred Heart and her Catholic upbringing"
                 }
               ],
               "slug": "katie-ledecky",
               "tagline": "Most decorated female swimmer in Olympic history",
-              "image": "",
+              "image": "/images/bios/katie-ledecky.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photograph",
+                "license": "CC BY-SA 3.0"
               }
             },
             {
@@ -3370,14 +3441,25 @@
                   "title": "McLaughlin-Levrone — Wikipedia",
                   "url": "https://en.wikipedia.org/wiki/Sydney_McLaughlin-Levrone",
                   "note": "Olympic hurdler and vocal Christian"
+                },
+                {
+                  "type": "article",
+                  "title": "Record-breaking Olympian: I always pray God will be glorified",
+                  "url": "https://www.christian.org.uk/news/record-breaking-olympian-i-always-pray-god-will-be-glorified-whatever-the-result/",
+                  "note": "Interview about her faith and Olympic world record"
+                },
+                {
+                  "type": "book",
+                  "title": "Far Beyond Gold: Running from Fear to Faith",
+                  "note": "By Sydney McLaughlin-Levrone (Zondervan, 2024). Her testimony of finding identity in Christ rather than athletic achievement"
                 }
               ],
               "slug": "sydney-mclaughlin-levrone",
               "tagline": "Far beyond gold — identity in Christ, not medals",
-              "image": "",
+              "image": "/images/bios/sydney-mclaughlin-levrone.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photograph",
+                "license": "CC BY-SA 4.0"
               }
             },
             {
@@ -3393,14 +3475,25 @@
                   "title": "Franklin — Wikipedia",
                   "url": "https://en.wikipedia.org/wiki/Missy_Franklin",
                   "note": "Olympic swimmer and faith advocate"
+                },
+                {
+                  "type": "book",
+                  "title": "Relentless Spirit: The Unconventional Raising of a Champion",
+                  "note": "By Missy Franklin, D.A. and Dick Franklin (Dutton, 2016). Family memoir discussing how faith shaped Missy's character and athletic career"
+                },
+                {
+                  "type": "article",
+                  "title": "Missy Franklin: My Faith Is the Most Important Thing in My Life",
+                  "url": "https://www.beliefnet.com/entertainment/celebrities/missy-franklin-my-faith-is-the-most-important-thing.aspx",
+                  "note": "Franklin discusses how her Christian faith is central to her identity beyond swimming"
                 }
               ],
               "slug": "missy-franklin",
               "tagline": "Swimming is what I do, but it's not who I am",
-              "image": "",
+              "image": "/images/bios/missy-franklin.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photograph",
+                "license": "CC BY-SA 3.0"
               }
             },
             {
@@ -3416,14 +3509,25 @@
                   "title": "Catchings — Wikipedia",
                   "url": "https://en.wikipedia.org/wiki/Tamika_Catchings",
                   "note": "WNBA legend and Olympic champion"
+                },
+                {
+                  "type": "book",
+                  "title": "Catch a Star: Shining Through Adversity to Become a Champion",
+                  "note": "By Tamika Catchings and Ken Petersen (Revell/Baker, 2016). Her autobiography detailing how faith helped her overcome a hearing disability and family challenges"
+                },
+                {
+                  "type": "website",
+                  "title": "Catch the Stars Foundation",
+                  "url": "https://www.catchthestars.org/",
+                  "note": "Catchings' faith-rooted foundation empowering youth through fitness, literacy, and mentoring"
                 }
               ],
               "slug": "tamika-catchings",
               "tagline": "Using basketball to catch stars for God's kingdom",
-              "image": "",
+              "image": "/images/bios/tamika-catchings.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photograph",
+                "license": "CC BY-SA"
               }
             }
           ]
@@ -3550,6 +3654,17 @@
                   "title": "My Savior (album) — Wikipedia",
                   "url": "https://en.wikipedia.org/wiki/My_Savior",
                   "note": "Her 2021 gospel hymns album"
+                },
+                {
+                  "type": "book",
+                  "title": "Find Your Path: Honor Your Body, Fuel Your Soul, and Get Strong with the Fit52 Life",
+                  "note": "By Carrie Underwood (Dey Street Books, 2020). Discusses her faith as foundation for her life and wellness philosophy"
+                },
+                {
+                  "type": "article",
+                  "title": "Carrie Underwood on Recording 'My Savior' Gospel Album",
+                  "url": "https://tasteofcountry.com/carrie-underwood-my-savior-gospel-album-interview/",
+                  "note": "Interview about recording traditional hymns and the role of faith in her life and career"
                 }
               ],
               "slug": "carrie-underwood",
@@ -3629,7 +3744,11 @@
               ],
               "slug": "for-king-and-country",
               "tagline": "Brothers making anthems of hope that point to the King",
-              "image": ""
+              "image": "/images/bios/for-king-and-country.jpg",
+              "imageAttribution": {
+                "source": "Photograph",
+                "license": "CC BY-SA"
+              }
             },
             {
               "name": "Keith & Kristyn Getty",
@@ -3639,7 +3758,7 @@
               "tagline": "Leading the modern hymn renaissance with timeless songs of faith",
               "bio": "Northern Irish husband-and-wife hymn writers who have become the foremost voices in modern hymn writing. Best known for co-writing 'In Christ Alone' (with Stuart Townend), as well as 'The Power of the Cross' and 'Speak O Lord.' They host the annual Sing! conference and have led a global movement to restore congregational hymn singing.",
               "faith": "The Gettys write hymns rooted in rich theological truth, aiming to teach doctrine through song in the tradition of Isaac Watts and Charles Wesley. Their mission is to equip the global church with songs that are biblically faithful, musically accessible, and enduring. Keith has said their goal is to help people 'sing the story of the gospel with depth and passion.'",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3654,7 +3773,11 @@
                   "url": "https://www.gettymusic.com/",
                   "note": "Official ministry website"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Stuart Townend",
@@ -3664,7 +3787,7 @@
               "tagline": "Penned some of the most beloved modern hymns in the English-speaking church",
               "bio": "English Christian hymn writer and worship leader whose compositions are sung in churches worldwide. He co-wrote 'In Christ Alone' with Keith Getty, and is also known for 'How Deep the Father's Love for Us' and 'The Power of the Cross.' His hymns blend poetic craftsmanship with deep theological content.",
               "faith": "Townend's hymns are marked by their doctrinal richness and scriptural fidelity, drawing deeply from the Reformed tradition. He has spoken of his desire to write songs that help congregations grasp the truths of Scripture in a way that moves both mind and heart. His work has helped bridge contemporary worship and traditional hymnody across denominations.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3679,7 +3802,11 @@
                   "url": "https://www.stuarttownend.co.uk/",
                   "note": "Official website with songs and resources"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Shane & Shane",
@@ -3689,7 +3816,7 @@
               "tagline": "Scripture-saturated worship that draws believers deeper into God's Word",
               "bio": "Christian worship duo consisting of Shane Barnard and Shane Everett, known for their scripture-based worship music. They lead worship at The Porch at Watermark Community Church in Dallas, Texas, and have released numerous albums emphasizing the Psalms and other biblical texts set to music.",
               "faith": "Shane & Shane are committed to creating worship music rooted directly in Scripture, often setting entire Psalm passages to melody. Their ministry reflects a deep conviction that God's Word should be central in corporate worship and personal devotion. They have discipled a generation of young believers through their ministry at The Porch and their extensive catalog of scripture songs.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3704,7 +3831,11 @@
                   "url": "https://www.shaneandshane.com/",
                   "note": "Official website and music"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Bob Kauflin",
@@ -3714,7 +3845,7 @@
               "tagline": "Teaching the church to worship with both spirit and truth",
               "bio": "Director of worship development for Sovereign Grace Churches and a former member of the Christian band Glad. He is the author of 'Worship Matters' and 'True Worshipers,' influential books on biblical worship philosophy and practice. Kauflin has shaped worship theology and practice across the Reformed evangelical world.",
               "faith": "Kauflin's ministry is driven by the conviction that worship must be grounded in sound theology and empowered by the Holy Spirit. He has spent decades training worship leaders to prioritize God's glory over musical performance. His writing and teaching emphasize that true worship flows from a heart captivated by the gospel of Jesus Christ.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3728,7 +3859,11 @@
                   "title": "Worship Matters",
                   "note": "By Bob Kauflin. A foundational book on leading worship to the glory of God"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Mark Altrogge",
@@ -3738,7 +3873,7 @@
               "tagline": "Sovereign Grace songwriter whose hymns have blessed churches for decades",
               "bio": "Pastor and prolific songwriter associated with Sovereign Grace Churches. He is best known for writing 'I Stand in Awe,' a worship song that has been sung across denominations worldwide. Altrogge has authored hundreds of worship songs combining Reformed theology with heartfelt devotion.",
               "faith": "Altrogge's songs reflect deep Reformed conviction and a pastor's heart for helping congregations see the greatness of God. His hymn 'I Stand in Awe' captures the wonder of God's holiness and grace in a way that has resonated with believers for decades. He continues to serve as a pastor while writing songs that exalt Christ and edify the church.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3753,7 +3888,11 @@
                   "url": "https://sovereigngracemusic.com/",
                   "note": "Publisher of many of Altrogge's worship songs"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Pat Sczebel",
@@ -3763,7 +3902,7 @@
               "tagline": "Wrote 'Jesus, Thank You' — a beloved communion hymn in Reformed churches",
               "bio": "Sovereign Grace worship leader and songwriter known for penning 'Jesus, Thank You,' one of the most widely sung communion hymns in Reformed and evangelical churches. His songs are marked by a clear proclamation of the gospel and the finished work of Christ on the cross.",
               "faith": "Sczebel's songwriting reflects a deep gratitude for the substitutionary atonement of Christ, beautifully expressed in 'Jesus, Thank You' with its vivid portrayal of what Christ accomplished at Calvary. His work within Sovereign Grace Churches has contributed to a rich body of theologically grounded worship music. His songs help congregations respond to the gospel with wonder and thanksgiving.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3772,7 +3911,11 @@
                   "url": "https://sovereigngracemusic.com/",
                   "note": "Publisher of Pat Sczebel's worship songs"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Matt Papa",
@@ -3782,7 +3925,7 @@
               "tagline": "Co-writer of 'His Mercy Is More' — modern hymnwriter fueling the Christ-centered worship movement",
               "bio": "Matt Papa is a worship leader, songwriter, and author based in Nashville who has become one of the leading voices in the modern hymn movement. He co-wrote 'His Mercy Is More' with Matt Boswell, which has become one of the most beloved hymns in contemporary Reformed worship. Papa frequently leads worship at Together for the Gospel (T4G) and Getty Music conferences, and has released multiple albums of theologically rich worship music. He is also the author of 'Look and Live: Behold the Soul-Thrilling, Sin-Destroying Glory of Christ.'",
               "faith": "Papa's music and writing are saturated with a vision of God's glory as the ultimate satisfaction of the human soul. His song 'His Mercy Is More' captures the boundless, persevering mercy of God toward sinners — a theme drawn from Lamentations 3. He is passionate about worship that exalts Christ above all and has spoken extensively about the danger of idolatry and the supremacy of God's beauty over all earthly treasures.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3797,7 +3940,11 @@
                   "url": "https://www.gettymusic.com/",
                   "note": "Regular worship leader at Getty conferences"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Matt Boswell",
@@ -3807,7 +3954,7 @@
               "tagline": "Co-writer of 'His Mercy Is More' and 'Come Behold the Wondrous Mystery' — pastor-hymnwriter shaping modern congregational worship",
               "bio": "Matt Boswell is a pastor, hymnwriter, and worship leader who serves as Pastor of Worship and Arts at The Village Church in the Dallas-Fort Worth area. He is one of the most prolific modern hymnwriters in the Reformed tradition, co-writing 'His Mercy Is More' and 'Come Behold the Wondrous Mystery' with Matt Papa. Boswell is the founder of the Doxology & Theology conference and the editor of 'Treasuring Christ When Your Hands Are Full.' He frequently collaborates with Keith & Kristyn Getty and leads worship at major Reformed conferences.",
               "faith": "Boswell is deeply committed to the local church as the primary context for worship and has written extensively on the theology of congregational singing. His hymns are marked by rich Trinitarian theology, vivid portrayals of Christ's work, and accessible melodies that serve the gathered church. 'Come Behold the Wondrous Mystery' walks through the entire arc of redemption from incarnation to resurrection, while 'His Mercy Is More' proclaims the inexhaustible grace of God.",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "videos": [],
               "sources": [
                 {
@@ -3822,7 +3969,11 @@
                   "url": "https://thevillagechurch.net/",
                   "note": "Where Boswell serves as Pastor of Worship and Arts"
                 }
-              ]
+              ],
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             }
           ]
         },
@@ -4048,10 +4199,10 @@
               ],
               "slug": "nabeel-qureshi",
               "tagline": "Seeking Allah, Finding Jesus — a devout Muslim's journey to Christ",
-              "image": "",
+              "image": "/images/bios/nabeel-qureshi.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photograph",
+                "license": "CC BY-SA"
               }
             }
           ]
@@ -4178,7 +4329,11 @@
               ],
               "slug": "david-green",
               "tagline": "Built Hobby Lobby on biblical principles and closed Sundays for worship",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/bios/david-green.jpg",
+              "imageAttribution": {
+                "source": "Photograph",
+                "license": "CC BY-SA 4.0"
+              }
             },
             {
               "name": "S. Truett Cathy",
@@ -4231,7 +4386,11 @@
               ],
               "slug": "dan-cathy",
               "tagline": "Continued his father's legacy of faith-driven business at Chick-fil-A",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Henry Kaestner",
@@ -4263,7 +4422,11 @@
               ],
               "slug": "henry-kaestner",
               "tagline": "Co-founded Bandwidth.com and invested billions for the Kingdom",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "John D. Beckett",
@@ -4281,7 +4444,11 @@
               ],
               "slug": "john-d-beckett",
               "tagline": "Proved that loving God and loving business are not at odds",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Norm Miller",
@@ -4306,7 +4473,11 @@
               ],
               "slug": "norm-miller",
               "tagline": "Transformed Interstate Batteries into a platform for the gospel",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Horst Schulze",
@@ -4330,7 +4501,11 @@
               ],
               "slug": "horst-schulze",
               "tagline": "Built The Ritz-Carlton on servant leadership inspired by Christ",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Cheryl Bachelder",
@@ -4348,7 +4523,11 @@
               ],
               "slug": "cheryl-bachelder",
               "tagline": "Turned Popeyes around through dare-to-serve, faith-driven leadership",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Fred Smith",
@@ -4402,7 +4581,11 @@
               ],
               "slug": "alan-barnhart",
               "tagline": "Gave away a $100M+ company to God and kept running it as a steward",
-              "image": ""
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             }
           ],
           "count": 12
@@ -4670,7 +4853,7 @@
               ],
               "slug": "rg-letourneau",
               "tagline": "Not how much I give to God, but how much of God's money I keep",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "imageAttribution": {
                 "source": "",
                 "license": ""
@@ -4693,10 +4876,10 @@
               ],
               "slug": "john-wanamaker",
               "tagline": "Built department stores — ran the largest Sunday school for 60 years",
-              "image": "",
+              "image": "/images/bios/john-wanamaker.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -4716,7 +4899,7 @@
               ],
               "slug": "henry-parsons-crowell",
               "tagline": "Built Quaker Oats — funded Moody Bible Institute for 40 years",
-              "image": "",
+              "image": "/images/placeholder-saint.svg",
               "imageAttribution": {
                 "source": "",
                 "license": ""
@@ -4739,10 +4922,10 @@
               ],
               "slug": "jc-penney",
               "tagline": "The Golden Rule — his store's name and his life's principle",
-              "image": "",
+              "image": "/images/bios/jc-penney.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             },
             {
@@ -4762,10 +4945,10 @@
               ],
               "slug": "asa-griggs-candler",
               "tagline": "Built Coca-Cola — poured his wealth into Emory and the church",
-              "image": "",
+              "image": "/images/bios/asa-griggs-candler.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Historical photograph",
+                "license": "Public domain"
               }
             }
           ]
@@ -4838,7 +5021,11 @@
               ],
               "slug": "chad-williams",
               "tagline": "Former Navy SEAL who found his ultimate mission in Christ",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/placeholder-saint.svg",
+              "imageAttribution": {
+                "source": "",
+                "license": ""
+              }
             },
             {
               "name": "Jeff Struecker",
@@ -4869,7 +5056,11 @@
               ],
               "slug": "jeff-struecker",
               "tagline": "Black Hawk Down hero who traded combat for the pulpit",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/bios/jeff-struecker.jpg",
+              "imageAttribution": {
+                "source": "Wikimedia Commons",
+                "license": "Public domain"
+              }
             },
             {
               "name": "Oliver North",
@@ -4980,7 +5171,11 @@
               ],
               "slug": "jason-redman",
               "tagline": "Wounded Navy SEAL who posted 'Attention — I am still in the fight'",
-              "image": "/images/placeholder-saint.svg"
+              "image": "/images/bios/jason-redman.jpg",
+              "imageAttribution": {
+                "source": "Photograph",
+                "license": "Public domain"
+              }
             },
             {
               "name": "Marcus Luttrell",
@@ -5337,10 +5532,10 @@
               ],
               "slug": "mike-huckabee",
               "tagline": "My faith does not just influence me — it defines me",
-              "image": "",
+              "image": "/images/bios/mike-huckabee.jpg",
               "imageAttribution": {
-                "source": "",
-                "license": ""
+                "source": "Photo by Gage Skidmore",
+                "license": "CC BY-SA 3.0"
               }
             }
           ],
