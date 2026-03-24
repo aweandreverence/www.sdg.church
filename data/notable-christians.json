@@ -2648,6 +2648,149 @@
               "slug": "for-king-and-country",
               "tagline": "Brothers making anthems of hope that point to the King",
               "image": ""
+            },
+            {
+              "name": "Keith & Kristyn Getty",
+              "slug": "keith-and-kristyn-getty",
+              "years": "Keith: December 16, 1974 – present; Kristyn: January 11, 1980 – present",
+              "title": "Hymn Writers",
+              "tagline": "Leading the modern hymn renaissance with timeless songs of faith",
+              "bio": "Northern Irish husband-and-wife hymn writers who have become the foremost voices in modern hymn writing. Best known for co-writing 'In Christ Alone' (with Stuart Townend), as well as 'The Power of the Cross' and 'Speak O Lord.' They host the annual Sing! conference and have led a global movement to restore congregational hymn singing.",
+              "faith": "The Gettys write hymns rooted in rich theological truth, aiming to teach doctrine through song in the tradition of Isaac Watts and Charles Wesley. Their mission is to equip the global church with songs that are biblically faithful, musically accessible, and enduring. Keith has said their goal is to help people 'sing the story of the gospel with depth and passion.'",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Keith & Kristyn Getty — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Keith_and_Kristyn_Getty",
+                  "note": "Biography of the hymn-writing duo"
+                },
+                {
+                  "type": "website",
+                  "title": "Getty Music",
+                  "url": "https://www.gettymusic.com/",
+                  "note": "Official ministry website"
+                }
+              ]
+            },
+            {
+              "name": "Stuart Townend",
+              "slug": "stuart-townend",
+              "years": "January 13, 1963 – present",
+              "title": "Hymn Writer & Worship Leader",
+              "tagline": "Penned some of the most beloved modern hymns in the English-speaking church",
+              "bio": "English Christian hymn writer and worship leader whose compositions are sung in churches worldwide. He co-wrote 'In Christ Alone' with Keith Getty, and is also known for 'How Deep the Father's Love for Us' and 'The Power of the Cross.' His hymns blend poetic craftsmanship with deep theological content.",
+              "faith": "Townend's hymns are marked by their doctrinal richness and scriptural fidelity, drawing deeply from the Reformed tradition. He has spoken of his desire to write songs that help congregations grasp the truths of Scripture in a way that moves both mind and heart. His work has helped bridge contemporary worship and traditional hymnody across denominations.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Stuart Townend — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Stuart_Townend",
+                  "note": "Biography of the English hymn writer"
+                },
+                {
+                  "type": "website",
+                  "title": "Stuart Townend Official Site",
+                  "url": "https://www.stuarttownend.co.uk/",
+                  "note": "Official website with songs and resources"
+                }
+              ]
+            },
+            {
+              "name": "Shane & Shane",
+              "slug": "shane-and-shane",
+              "years": "Shane Barnard: December 11, 1975 – present; Shane Everett: 1978 – present",
+              "title": "Worship Duo",
+              "tagline": "Scripture-saturated worship that draws believers deeper into God's Word",
+              "bio": "Christian worship duo consisting of Shane Barnard and Shane Everett, known for their scripture-based worship music. They lead worship at The Porch at Watermark Community Church in Dallas, Texas, and have released numerous albums emphasizing the Psalms and other biblical texts set to music.",
+              "faith": "Shane & Shane are committed to creating worship music rooted directly in Scripture, often setting entire Psalm passages to melody. Their ministry reflects a deep conviction that God's Word should be central in corporate worship and personal devotion. They have discipled a generation of young believers through their ministry at The Porch and their extensive catalog of scripture songs.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Shane & Shane — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Shane_%26_Shane",
+                  "note": "Biography of the Christian worship duo"
+                },
+                {
+                  "type": "website",
+                  "title": "Shane & Shane Official Site",
+                  "url": "https://www.shaneandshane.com/",
+                  "note": "Official website and music"
+                }
+              ]
+            },
+            {
+              "name": "Bob Kauflin",
+              "slug": "bob-kauflin",
+              "years": "1955 – present",
+              "title": "Worship Leader & Author",
+              "tagline": "Teaching the church to worship with both spirit and truth",
+              "bio": "Director of worship development for Sovereign Grace Churches and a former member of the Christian band Glad. He is the author of 'Worship Matters' and 'True Worshipers,' influential books on biblical worship philosophy and practice. Kauflin has shaped worship theology and practice across the Reformed evangelical world.",
+              "faith": "Kauflin's ministry is driven by the conviction that worship must be grounded in sound theology and empowered by the Holy Spirit. He has spent decades training worship leaders to prioritize God's glory over musical performance. His writing and teaching emphasize that true worship flows from a heart captivated by the gospel of Jesus Christ.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Bob Kauflin — Sovereign Grace Music",
+                  "url": "https://sovereigngracemusic.com/",
+                  "note": "Sovereign Grace Music ministry"
+                },
+                {
+                  "type": "book",
+                  "title": "Worship Matters",
+                  "note": "By Bob Kauflin. A foundational book on leading worship to the glory of God"
+                }
+              ]
+            },
+            {
+              "name": "Mark Altrogge",
+              "slug": "mark-altrogge",
+              "years": "c. 1955 – present",
+              "title": "Pastor & Songwriter",
+              "tagline": "Sovereign Grace songwriter whose hymns have blessed churches for decades",
+              "bio": "Pastor and prolific songwriter associated with Sovereign Grace Churches. He is best known for writing 'I Stand in Awe,' a worship song that has been sung across denominations worldwide. Altrogge has authored hundreds of worship songs combining Reformed theology with heartfelt devotion.",
+              "faith": "Altrogge's songs reflect deep Reformed conviction and a pastor's heart for helping congregations see the greatness of God. His hymn 'I Stand in Awe' captures the wonder of God's holiness and grace in a way that has resonated with believers for decades. He continues to serve as a pastor while writing songs that exalt Christ and edify the church.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "The Blazing Center — Mark Altrogge's Blog",
+                  "url": "https://theblazingcenter.com/",
+                  "note": "Mark Altrogge's personal blog on faith and worship"
+                },
+                {
+                  "type": "website",
+                  "title": "Sovereign Grace Music",
+                  "url": "https://sovereigngracemusic.com/",
+                  "note": "Publisher of many of Altrogge's worship songs"
+                }
+              ]
+            },
+            {
+              "name": "Pat Sczebel",
+              "slug": "pat-sczebel",
+              "years": "Unknown – present",
+              "title": "Worship Leader & Songwriter",
+              "tagline": "Wrote 'Jesus, Thank You' — a beloved communion hymn in Reformed churches",
+              "bio": "Sovereign Grace worship leader and songwriter known for penning 'Jesus, Thank You,' one of the most widely sung communion hymns in Reformed and evangelical churches. His songs are marked by a clear proclamation of the gospel and the finished work of Christ on the cross.",
+              "faith": "Sczebel's songwriting reflects a deep gratitude for the substitutionary atonement of Christ, beautifully expressed in 'Jesus, Thank You' with its vivid portrayal of what Christ accomplished at Calvary. His work within Sovereign Grace Churches has contributed to a rich body of theologically grounded worship music. His songs help congregations respond to the gospel with wonder and thanksgiving.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Sovereign Grace Music",
+                  "url": "https://sovereigngracemusic.com/",
+                  "note": "Publisher of Pat Sczebel's worship songs"
+                }
+              ]
             }
           ]
         },
