@@ -1,0 +1,3147 @@
+{
+  "lastUpdated": "2026-03-22",
+  "categories": [
+    {
+      "id": "historical-biographies",
+      "name": "Historical Biographies",
+      "description": "Christians throughout history who glorified God through extraordinary works",
+      "subcategories": [
+        {
+          "id": "composers",
+          "name": "Composers & Musicians",
+          "people": [
+            {
+              "name": "Johann Sebastian Bach",
+              "years": "1685-1750",
+              "title": "Composer",
+              "bio": "German composer and musician of the Baroque period, widely regarded as one of the greatest composers of all time. His works include the Brandenburg Concertos, the Mass in B minor, and hundreds of cantatas.",
+              "faith": "A devout Lutheran who inscribed 'Soli Deo Gloria' (To God Alone Be the Glory) on his manuscripts. He composed extensively for the church and viewed his musical gifts as given by God for His glory.",
+              "videos": [
+                {
+                  "title": "Bach and the Bible - The Faith Behind the Music",
+                  "url": "https://www.youtube.com/results?search_query=johann+sebastian+bach+christian+faith+soli+deo+gloria",
+                  "platform": "youtube",
+                  "note": "Search for documentaries on Bach's faith"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Johann Sebastian Bach — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+                  "note": "Comprehensive biography including his devout Lutheran faith"
+                },
+                {
+                  "type": "book",
+                  "title": "Bach: Music in the Castle of Heaven",
+                  "note": "By John Eliot Gardiner. Explores Bach's faith and its influence on his compositions"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Bach and the Soli Deo Gloria Tradition",
+                  "url": "https://www.youtube.com/results?search_query=bach+soli+deo+gloria+christian+faith+documentary",
+                  "note": "Documentaries exploring Bach's practice of inscribing SDG on his manuscripts"
+                },
+                {
+                  "type": "website",
+                  "title": "Bach-Archiv Leipzig",
+                  "url": "https://www.bach-leipzig.de/en",
+                  "note": "Official Bach archive with primary source materials"
+                }
+              ]
+            },
+            {
+              "name": "George Frideric Handel",
+              "years": "1685-1759",
+              "title": "Composer",
+              "bio": "German-born British Baroque composer famous for his operas, oratorios, and concertos. Best known for 'Messiah,' one of the most performed choral works in Western music.",
+              "faith": "A committed Christian whose masterwork 'Messiah' sets to music the life of Jesus Christ from prophecy through resurrection. Upon completing the 'Hallelujah Chorus,' he reportedly said, 'I did think I did see all Heaven before me, and the great God Himself.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "George Frideric Handel — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+                  "note": "Biography including composition of Messiah"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Messiah (Handel) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Messiah_(Handel)",
+                  "note": "Detailed history of the oratorio and its biblical text"
+                },
+                {
+                  "type": "book",
+                  "title": "Handel's Messiah: Comfort for God's People",
+                  "note": "By Calvin Stapert. Explores the theological depth of Handel's masterwork"
+                }
+              ]
+            },
+            {
+              "name": "Felix Mendelssohn",
+              "years": "1809-1847",
+              "title": "Composer",
+              "bio": "German composer, pianist, and conductor of the early Romantic period. Known for his symphonies, concertos, and oratorios including 'Elijah.'",
+              "faith": "Raised in a Jewish family that converted to Christianity, Mendelssohn was a devout Lutheran. His oratorio 'Elijah' and symphony 'Reformation' reflect his deep Christian faith. He also revived interest in Bach's sacred works.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Felix Mendelssohn — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+                  "note": "Biography including his Christian faith and sacred compositions"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Elijah (Mendelssohn) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Elijah_(mendelssohn)",
+                  "note": "His major biblical oratorio"
+                }
+              ]
+            },
+            {
+              "name": "Fanny Crosby",
+              "years": "1820-1915",
+              "title": "Hymn Writer",
+              "bio": "American mission worker, poet, lyricist, and composer who wrote over 8,000 hymns and gospel songs. Blind from infancy, she became one of the most prolific hymnists in history.",
+              "faith": "Despite losing her sight as an infant, Crosby devoted her life to glorifying God through music. She wrote beloved hymns including 'Blessed Assurance,' 'To God Be the Glory,' and 'All the Way My Savior Leads Me.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Fanny Crosby — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Fanny_Crosby",
+                  "note": "Biography of the prolific blind hymn writer"
+                },
+                {
+                  "type": "book",
+                  "title": "Fanny Crosby: An Autobiography",
+                  "note": "Crosby's own account of her life and faith journey"
+                },
+                {
+                  "type": "youtube",
+                  "title": "The Story of Fanny Crosby",
+                  "url": "https://www.youtube.com/results?search_query=fanny+crosby+biography+documentary+hymn+writer",
+                  "note": "Documentaries about her extraordinary life and 8,000+ hymns"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "authors-poets",
+          "name": "Authors & Poets",
+          "people": [
+            {
+              "name": "C.S. Lewis",
+              "years": "1898-1963",
+              "title": "Author & Apologist",
+              "bio": "British writer and lay theologian, author of 'The Chronicles of Narnia,' 'Mere Christianity,' and 'The Screwtape Letters.' Fellow of Magdalen College, Oxford and later Professor at Cambridge.",
+              "faith": "A former atheist who converted to Christianity in 1931, Lewis became one of the most influential Christian apologists of the 20th century. He described his conversion in 'Surprised by Joy' and defended the faith in works like 'Mere Christianity.'",
+              "videos": [
+                {
+                  "title": "C.S. Lewis - The Most Reluctant Convert",
+                  "url": "https://www.youtube.com/results?search_query=cs+lewis+conversion+story+testimony",
+                  "platform": "youtube",
+                  "note": "Search for dramatizations and documentaries about Lewis's conversion"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "C. S. Lewis — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/C._S._Lewis",
+                  "note": "Comprehensive biography including his conversion from atheism"
+                },
+                {
+                  "type": "book",
+                  "title": "Surprised by Joy",
+                  "note": "By C.S. Lewis. His autobiographical account of his conversion to Christianity"
+                },
+                {
+                  "type": "book",
+                  "title": "Mere Christianity",
+                  "note": "By C.S. Lewis. One of the most influential Christian apologetics books of the 20th century"
+                },
+                {
+                  "type": "youtube",
+                  "title": "C.S. Lewis — The Most Reluctant Convert (2021 Film)",
+                  "url": "https://www.youtube.com/results?search_query=cs+lewis+most+reluctant+convert+film",
+                  "note": "Feature film dramatizing Lewis's journey from atheism to faith"
+                },
+                {
+                  "type": "website",
+                  "title": "C.S. Lewis Foundation",
+                  "url": "https://www.cslewis.org/",
+                  "note": "Foundation preserving Lewis's legacy"
+                }
+              ]
+            },
+            {
+              "name": "J.R.R. Tolkien",
+              "years": "1892-1973",
+              "title": "Author & Philologist",
+              "bio": "English writer, philologist, and academic, best known for 'The Hobbit' and 'The Lord of the Rings.' Professor of Anglo-Saxon at Oxford University.",
+              "faith": "A devout Roman Catholic whose faith deeply influenced his literary works. He was instrumental in C.S. Lewis's conversion to Christianity. He described 'The Lord of the Rings' as 'a fundamentally religious and Catholic work.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "J. R. R. Tolkien — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+                  "note": "Biography including his Catholic faith and its influence on his works"
+                },
+                {
+                  "type": "book",
+                  "title": "The Letters of J.R.R. Tolkien",
+                  "note": "Edited by Humphrey Carpenter. Contains letters where Tolkien describes LOTR as 'a fundamentally religious and Catholic work'"
+                },
+                {
+                  "type": "article",
+                  "title": "Tolkien's faith and Middle-earth",
+                  "url": "https://en.wikipedia.org/wiki/Christianity_in_Middle-earth",
+                  "note": "Wikipedia article on Christian themes in Tolkien's works"
+                }
+              ]
+            },
+            {
+              "name": "John Milton",
+              "years": "1608-1674",
+              "title": "Poet",
+              "bio": "English poet and intellectual who served as a civil servant during the Commonwealth. Best known for the epic poem 'Paradise Lost,' considered one of the greatest works in the English language.",
+              "faith": "A deeply devout Puritan Christian, Milton's magnum opus 'Paradise Lost' aimed to 'justify the ways of God to men.' His works are saturated with biblical themes and theological reflection.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Milton — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Milton",
+                  "note": "Biography including his Puritan faith and theological writings"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Paradise Lost — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Paradise_Lost",
+                  "note": "His epic Christian poem retelling the Fall of Man"
+                }
+              ]
+            },
+            {
+              "name": "Fyodor Dostoevsky",
+              "years": "1821-1881",
+              "title": "Novelist",
+              "bio": "Russian novelist, philosopher, and journalist. His major works include 'Crime and Punishment,' 'The Brothers Karamazov,' and 'The Idiot.'",
+              "faith": "After a period of doubt, Dostoevsky experienced a profound renewal of faith during his imprisonment in Siberia. His novels explore the depths of human sin and the transforming power of Christ's love. He wrote, 'If anyone proved to me that Christ was outside the truth... I would remain with Christ.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Fyodor Dostoevsky — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+                  "note": "Biography including his faith renewal during Siberian imprisonment"
+                },
+                {
+                  "type": "book",
+                  "title": "The Brothers Karamazov",
+                  "note": "By Dostoevsky. His final novel, deeply exploring Christian themes of faith, doubt, and redemption"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Religious views of Fyodor Dostoevsky",
+                  "url": "https://en.wikipedia.org/wiki/Religious_views_of_Fyodor_Dostoevsky",
+                  "note": "Detailed article on his Christian faith and its role in his works"
+                }
+              ]
+            },
+            {
+              "name": "G.K. Chesterton",
+              "years": "1874-1936",
+              "title": "Author & Apologist",
+              "bio": "English writer, philosopher, and Christian apologist. Author of the Father Brown mysteries, 'Orthodoxy,' 'The Everlasting Man,' and over 80 books.",
+              "faith": "Initially an agnostic, Chesterton converted first to Anglicanism and then to Roman Catholicism. His book 'Orthodoxy' describes his intellectual journey to faith. C.S. Lewis credited 'The Everlasting Man' as key to his own conversion.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "G. K. Chesterton — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/G._K._Chesterton",
+                  "note": "Comprehensive biography including his conversion journey"
+                },
+                {
+                  "type": "book",
+                  "title": "Orthodoxy",
+                  "note": "By G.K. Chesterton. His autobiographical account of arriving at Christian faith through reason"
+                },
+                {
+                  "type": "book",
+                  "title": "The Everlasting Man",
+                  "note": "By G.K. Chesterton. The book C.S. Lewis credited with helping him toward Christianity"
+                }
+              ]
+            },
+            {
+              "name": "John Bunyan",
+              "years": "1628-1688",
+              "title": "Author & Preacher",
+              "bio": "English writer and Puritan preacher best known for 'The Pilgrim's Progress,' one of the most significant works of English literature and the most widely read Christian allegory ever written.",
+              "faith": "A Baptist preacher who was imprisoned for 12 years for preaching without a license. During his imprisonment he wrote 'The Pilgrim's Progress,' an allegory of the Christian journey from sin to salvation that has never been out of print.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Bunyan — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Bunyan",
+                  "note": "Biography of the imprisoned preacher who wrote Pilgrim's Progress"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "The Pilgrim's Progress — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress",
+                  "note": "History of the most widely read Christian allegory"
+                }
+              ]
+            },
+            {
+              "name": "Augustine of Hippo",
+              "years": "354-430",
+              "title": "Theologian & Author",
+              "bio": "Early Christian theologian and philosopher from North Africa. Bishop of Hippo Regius and author of 'Confessions' and 'The City of God,' among the most influential works in Western Christianity.",
+              "faith": "After years of dissolute living and exploring various philosophies, Augustine dramatically converted to Christianity, famously hearing a child's voice saying 'Take up and read.' His 'Confessions' is one of the first autobiographies in Western literature and a testament to God's grace.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Augustine of Hippo — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+                  "note": "Comprehensive article on the most influential Church Father"
+                },
+                {
+                  "type": "book",
+                  "title": "Confessions",
+                  "note": "By Augustine. His autobiographical account of conversion, one of the most important works in Christian literature"
+                },
+                {
+                  "type": "book",
+                  "title": "The City of God",
+                  "note": "By Augustine. His monumental work on Christian philosophy of history"
+                }
+              ]
+            },
+            {
+              "name": "Leo Tolstoy",
+              "years": "1828-1910",
+              "title": "Novelist",
+              "bio": "Russian writer regarded as one of the greatest authors of all time. Best known for 'War and Peace' and 'Anna Karenina.'",
+              "faith": "After a spiritual crisis in midlife, Tolstoy underwent a profound Christian conversion. He devoted the latter part of his life to understanding and following the teachings of Jesus, writing 'A Confession' and 'The Kingdom of God Is Within You.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Leo Tolstoy — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+                  "note": "Biography including his spiritual crisis and Christian conversion"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "A Confession — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/A_Confession",
+                  "note": "Tolstoy's account of his spiritual crisis and turn to Christ"
+                },
+                {
+                  "type": "book",
+                  "title": "The Kingdom of God Is Within You",
+                  "note": "By Tolstoy. His treatise on Christian nonviolence that influenced Gandhi"
+                }
+              ]
+            },
+            {
+              "name": "George MacDonald",
+              "years": "1824-1905",
+              "title": "Author & Minister",
+              "bio": "Scottish author, poet, and Christian minister. A pioneering figure in fantasy literature, writing works such as 'Phantastes,' 'The Princess and the Goblin,' and 'Lilith.'",
+              "faith": "A Congregationalist minister whose theology of God's love permeated all his writings. C.S. Lewis called MacDonald his 'master' and credited MacDonald's 'Phantastes' with 'baptizing his imagination.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "George MacDonald — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/George_MacDonald",
+                  "note": "Biography of the minister and fantasy pioneer who influenced C.S. Lewis"
+                },
+                {
+                  "type": "book",
+                  "title": "Phantastes",
+                  "note": "By George MacDonald. The fantasy novel C.S. Lewis credited with 'baptizing his imagination'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scientists",
+          "name": "Scientists",
+          "people": [
+            {
+              "name": "Isaac Newton",
+              "years": "1643-1727",
+              "title": "Physicist & Mathematician",
+              "bio": "English mathematician, physicist, and astronomer who formulated the laws of motion and universal gravitation, developed calculus, and made groundbreaking contributions to optics.",
+              "faith": "Newton wrote more about theology than science. He believed the elegant design of the solar system pointed to God and wrote, 'This most beautiful system of the sun, planets and comets, could only proceed from the counsel and dominion of an intelligent and powerful Being.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Isaac Newton — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+                  "note": "Biography including his extensive theological writings"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Religious views of Isaac Newton — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Religious_views_of_Isaac_Newton",
+                  "note": "Detailed article on Newton's Christian beliefs and theological works"
+                },
+                {
+                  "type": "book",
+                  "title": "Principia Mathematica",
+                  "note": "By Isaac Newton. Contains the General Scholium where he writes about God's dominion over the cosmos"
+                }
+              ]
+            },
+            {
+              "name": "Blaise Pascal",
+              "years": "1623-1662",
+              "title": "Mathematician, Physicist & Philosopher",
+              "bio": "French mathematician, physicist, inventor, and philosopher. Made foundational contributions to probability theory, projective geometry, and the development of the mechanical calculator.",
+              "faith": "After a mystical experience on November 23, 1654 (his 'Night of Fire'), Pascal devoted his life to defending Christianity. His 'Pensées' remains one of the most eloquent defenses of the Christian faith ever written. He is the author of 'Pascal's Wager.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Blaise Pascal — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+                  "note": "Biography including his 'Night of Fire' conversion experience"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Pensées — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Pens%C3%A9es",
+                  "note": "His famous unfinished defense of the Christian faith"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Pascal's Wager — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Pascal%27s_wager",
+                  "note": "His famous philosophical argument for belief in God"
+                }
+              ]
+            },
+            {
+              "name": "Michael Faraday",
+              "years": "1791-1867",
+              "title": "Physicist & Chemist",
+              "bio": "English scientist who contributed to the study of electromagnetism and electrochemistry. His discoveries include electromagnetic induction, diamagnetism, and electrolysis.",
+              "faith": "A devout member of the Sandemanian church (a small Christian sect), Faraday's faith was central to his life. He served as a deacon and elder and saw no conflict between science and his Christian beliefs, viewing the study of nature as the study of God's creation.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Michael Faraday — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+                  "note": "Biography including his Sandemanian faith"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Glasite — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Glasite",
+                  "note": "About the Sandemanian/Glasite church Faraday belonged to"
+                }
+              ]
+            },
+            {
+              "name": "Gregor Mendel",
+              "years": "1822-1884",
+              "title": "Geneticist & Friar",
+              "bio": "Augustinian friar and scientist who discovered the fundamental laws of inheritance through his work with pea plants. Known as the 'Father of Genetics.'",
+              "faith": "An Augustinian friar who served as abbot of his monastery, Mendel's scientific work was conducted within the context of his religious life. He saw no contradiction between his faith and his scientific research.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Gregor Mendel — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+                  "note": "Biography of the Augustinian friar who founded genetics"
+                }
+              ]
+            },
+            {
+              "name": "George Washington Carver",
+              "years": "1864-1943",
+              "title": "Agricultural Scientist & Inventor",
+              "bio": "American agricultural scientist and inventor who developed hundreds of products using peanuts, sweet potatoes, and soybeans. Born into slavery, he became one of the most prominent Black scientists of his era.",
+              "faith": "A devout Christian who attributed all his discoveries to God. He famously said, 'I love to think of nature as an unlimited broadcasting station, through which God speaks to us every hour, if we will only tune in.' He taught a weekly Bible class for over 30 years.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "George Washington Carver — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/George_Washington_Carver",
+                  "note": "Biography including his deep Christian faith and Bible teaching"
+                },
+                {
+                  "type": "youtube",
+                  "title": "George Washington Carver: A Man of Faith and Science",
+                  "url": "https://www.youtube.com/results?search_query=george+washington+carver+christian+faith+documentary",
+                  "note": "Documentaries about his faith-driven scientific discoveries"
+                }
+              ]
+            },
+            {
+              "name": "Louis Pasteur",
+              "years": "1822-1895",
+              "title": "Chemist & Microbiologist",
+              "bio": "French chemist and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization. He is known as the 'Father of Microbiology.'",
+              "faith": "A devout Catholic who maintained his faith throughout his scientific career. He stated, 'The more I study nature, the more I stand amazed at the work of the Creator.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Louis Pasteur — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+                  "note": "Biography including his Catholic faith"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Religious views of Louis Pasteur — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Religious_views_of_Louis_Pasteur",
+                  "note": "Discussion of Pasteur's Catholic beliefs"
+                }
+              ]
+            },
+            {
+              "name": "Johannes Kepler",
+              "years": "1571-1630",
+              "title": "Astronomer & Mathematician",
+              "bio": "German astronomer, mathematician, and astrologer who discovered the three laws of planetary motion, foundational to Isaac Newton's theory of universal gravitation.",
+              "faith": "A devout Lutheran who saw his scientific work as a form of worship. He wrote, 'I was merely thinking God's thoughts after Him. Since we astronomers are priests of the highest God in regard to the book of nature, it benefits us to be thoughtful.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Johannes Kepler — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+                  "note": "Biography including his Lutheran faith and view of science as worship"
+                }
+              ]
+            },
+            {
+              "name": "Robert Boyle",
+              "years": "1627-1691",
+              "title": "Chemist & Physicist",
+              "bio": "Anglo-Irish natural philosopher, chemist, physicist, and inventor, regarded as the first modern chemist. Best known for Boyle's Law relating gas pressure and volume.",
+              "faith": "A deeply devout Christian who wrote extensively on theology and funded Bible translations. He established the Boyle Lectures for defending Christianity against atheism and viewed science as a way to understand God's creation.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Robert Boyle — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Robert_Boyle",
+                  "note": "Biography including his extensive theological writings and Bible translations"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Boyle Lectures — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Boyle_Lectures",
+                  "note": "The lecture series Boyle established to defend Christianity"
+                }
+              ]
+            },
+            {
+              "name": "James Clerk Maxwell",
+              "years": "1831-1879",
+              "title": "Physicist & Mathematician",
+              "bio": "Scottish physicist responsible for the classical theory of electromagnetic radiation, unifying electricity, magnetism, and light. Einstein called Maxwell's work 'the most profound and the most fruitful that physics has experienced since the time of Newton.'",
+              "faith": "A deeply committed evangelical Presbyterian who prayed regularly and saw his physics as revealing God's glory. He wrote, 'I think that the results which each man arrives at in his attempts to harmonize his science with his Christianity ought not to be regarded as having any significance except to the man himself.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "James Clerk Maxwell — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+                  "note": "Biography including his evangelical Presbyterian faith"
+                }
+              ]
+            },
+            {
+              "name": "Francis Collins",
+              "years": "1950-present",
+              "title": "Geneticist",
+              "bio": "American physician-geneticist who led the Human Genome Project and served as director of the National Institutes of Health (NIH) from 2009 to 2021.",
+              "faith": "A former atheist who converted to Christianity after reading C.S. Lewis's 'Mere Christianity.' He wrote 'The Language of God: A Scientist Presents Evidence for Belief' and founded BioLogos to explore the harmony between science and faith.",
+              "videos": [
+                {
+                  "title": "Francis Collins: Why I'm a Christian",
+                  "url": "https://www.youtube.com/results?search_query=francis+collins+why+christian+faith+testimony",
+                  "platform": "youtube",
+                  "note": "Search for Collins's numerous faith interviews and talks"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Francis Collins — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Francis_Collins",
+                  "note": "Biography including his conversion from atheism"
+                },
+                {
+                  "type": "book",
+                  "title": "The Language of God: A Scientist Presents Evidence for Belief",
+                  "note": "By Francis Collins. His personal account of how science and faith coexist"
+                },
+                {
+                  "type": "website",
+                  "title": "BioLogos",
+                  "url": "https://biologos.org/",
+                  "note": "The organization Collins founded to explore faith and science"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Francis Collins — From Atheism to Faith",
+                  "url": "https://www.youtube.com/results?search_query=francis+collins+atheism+to+faith+testimony",
+                  "note": "Talks about his conversion through reading C.S. Lewis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mathematicians",
+          "name": "Mathematicians",
+          "people": [
+            {
+              "name": "Leonhard Euler",
+              "years": "1707-1783",
+              "title": "Mathematician & Physicist",
+              "bio": "Swiss mathematician, physicist, and astronomer who made foundational contributions to numerous areas of mathematics. He is considered one of the greatest mathematicians of all time.",
+              "faith": "A devout Calvinist who wrote a defense of Christianity called 'Letters to a German Princess,' which included arguments for the existence of God. He held daily family prayers and composed hymns.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Leonhard Euler — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+                  "note": "Biography including his Calvinist faith and defense of Christianity"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Letters to a German Princess — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Letters_to_a_German_Princess",
+                  "note": "His work containing arguments for the existence of God"
+                }
+              ]
+            },
+            {
+              "name": "Bernhard Riemann",
+              "years": "1826-1866",
+              "title": "Mathematician",
+              "bio": "German mathematician who made lasting contributions to analysis, number theory, and differential geometry, including the Riemann hypothesis and Riemannian geometry (which provided the mathematical foundation for Einstein's general relativity).",
+              "faith": "The son of a Lutheran pastor, Riemann was a devout Christian throughout his life. He originally planned to study theology before pursuing mathematics.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Bernhard Riemann — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
+                  "note": "Biography including his pastoral family background and original intent to study theology"
+                }
+              ]
+            },
+            {
+              "name": "Georg Cantor",
+              "years": "1845-1918",
+              "title": "Mathematician",
+              "bio": "German mathematician who created set theory and established the importance of one-to-one correspondence between sets, defining infinite and well-ordered sets.",
+              "faith": "A devout Lutheran who believed his theory of transfinite numbers was communicated to him by God. He saw the absolute infinite as an expression of the nature of God.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Georg Cantor — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Georg_Cantor",
+                  "note": "Biography including his belief that God communicated set theory to him"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "artists-architects",
+          "name": "Artists & Architects",
+          "people": [
+            {
+              "name": "Michelangelo Buonarroti",
+              "years": "1475-1564",
+              "title": "Artist, Sculptor & Architect",
+              "bio": "Italian sculptor, painter, architect, and poet of the High Renaissance. Created the ceiling of the Sistine Chapel, the statue of David, and the Pietà.",
+              "faith": "A devout Catholic whose greatest works depicted biblical scenes and Christian themes. His Sistine Chapel ceiling telling the story of Genesis and his Pietà depicting Mary holding the body of Christ are among the most recognizable Christian artworks ever created.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Michelangelo — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Michelangelo",
+                  "note": "Comprehensive biography including his faith-driven art"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Sistine Chapel ceiling — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+                  "note": "His masterwork depicting the Genesis narrative"
+                }
+              ]
+            },
+            {
+              "name": "Rembrandt van Rijn",
+              "years": "1606-1669",
+              "title": "Painter & Printmaker",
+              "bio": "Dutch Golden Age painter and printmaker, generally considered one of the greatest visual artists in history. Known for biblical paintings, self-portraits, and masterful use of light and shadow.",
+              "faith": "A deeply devout Protestant Christian, Rembrandt painted over 300 biblical scenes, more than any other major Western artist. His 'The Return of the Prodigal Son' is considered one of the most powerful visual depictions of God's grace.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Rembrandt — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Rembrandt",
+                  "note": "Biography of the artist who painted more biblical scenes than any other major Western artist"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "The Return of the Prodigal Son (Rembrandt) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/The_Return_of_the_Prodigal_Son_(Rembrandt)",
+                  "note": "His masterful depiction of the parable from Luke 15"
+                },
+                {
+                  "type": "book",
+                  "title": "The Return of the Prodigal Son: A Story of Homecoming",
+                  "note": "By Henri Nouwen. A spiritual meditation on Rembrandt's painting"
+                }
+              ]
+            },
+            {
+              "name": "Albrecht Dürer",
+              "years": "1471-1528",
+              "title": "Artist & Printmaker",
+              "bio": "German painter, printmaker, and theorist of the German Renaissance. Known for his woodcuts, engravings, and paintings including 'Praying Hands.'",
+              "faith": "A devout Christian who embraced the Protestant Reformation. His famous 'Praying Hands' drawing and numerous biblical engravings reflect his deep faith. He admired Martin Luther and incorporated Reformation theology into his later works.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Albrecht Dürer — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+                  "note": "Biography including his embrace of the Reformation"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Praying Hands (Dürer) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Praying_Hands_(D%C3%BCrer)",
+                  "note": "His iconic drawing of hands in prayer"
+                }
+              ]
+            },
+            {
+              "name": "Antoni Gaudí",
+              "years": "1852-1926",
+              "title": "Architect",
+              "bio": "Spanish architect and the best-known practitioner of Catalan Modernism. His masterwork, the Sagrada Família basilica in Barcelona, remains under construction more than a century after his death.",
+              "faith": "A devout Catholic whose later years were entirely dedicated to building the Sagrada Família as an offering to God. He lived ascetically and attended Mass daily. He is currently a candidate for canonization in the Catholic Church.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Antoni Gaudí — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+                  "note": "Biography including his devout faith and canonization cause"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Sagrada Família — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+                  "note": "His life's masterwork dedicated to the Holy Family"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reformers-theologians",
+          "name": "Reformers & Theologians",
+          "people": [
+            {
+              "name": "Martin Luther",
+              "years": "1483-1546",
+              "title": "Reformer & Theologian",
+              "bio": "German professor of theology, priest, and seminal figure in the Protestant Reformation. His Ninety-five Theses challenged the Catholic Church's practices and launched the Reformation.",
+              "faith": "Luther's rediscovery of justification by faith alone (sola fide) through Scripture alone (sola scriptura) transformed Christianity. His translation of the Bible into German made Scripture accessible to ordinary people.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Martin Luther — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+                  "note": "Comprehensive biography of the father of the Reformation"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Ninety-five Theses — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+                  "note": "The document that launched the Protestant Reformation"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Martin Luther (2003 Film)",
+                  "url": "https://www.youtube.com/results?search_query=martin+luther+2003+film+full",
+                  "note": "Major biographical film starring Joseph Fiennes"
+                }
+              ]
+            },
+            {
+              "name": "John Calvin",
+              "years": "1509-1564",
+              "title": "Reformer & Theologian",
+              "bio": "French theologian, pastor, and reformer who was a principal figure in the development of the system of Christian theology later called Calvinism. His 'Institutes of the Christian Religion' is a foundational work of Protestant theology.",
+              "faith": "Calvin's theology emphasized the sovereignty of God, the authority of Scripture, and salvation by grace alone through faith alone. His work in Geneva established a model for Reformed churches worldwide.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Calvin — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Calvin",
+                  "note": "Comprehensive biography of the Reformed theologian"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Institutes of the Christian Religion — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Institutes_of_the_Christian_Religion",
+                  "note": "His foundational work of Protestant theology"
+                }
+              ]
+            },
+            {
+              "name": "Jonathan Edwards",
+              "years": "1703-1758",
+              "title": "Theologian & Preacher",
+              "bio": "American revivalist preacher, philosopher, and Congregationalist Protestant theologian. Key figure in the First Great Awakening and third president of Princeton University.",
+              "faith": "Edwards is widely regarded as America's greatest theologian. His sermon 'Sinners in the Hands of an Angry God' is one of the most famous sermons in American history. His theological works on the nature of true virtue and religious affections remain deeply influential.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jonathan Edwards (theologian) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+                  "note": "Biography of America's greatest theologian"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Sinners in the Hands of an Angry God — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sinners_in_the_Hands_of_an_Angry_God",
+                  "note": "His most famous sermon from the First Great Awakening"
+                },
+                {
+                  "type": "website",
+                  "title": "The Jonathan Edwards Center at Yale University",
+                  "url": "http://edwards.yale.edu/",
+                  "note": "Academic center preserving Edwards's works and legacy"
+                }
+              ]
+            },
+            {
+              "name": "Charles Haddon Spurgeon",
+              "years": "1834-1892",
+              "title": "Preacher & Author",
+              "bio": "English Particular Baptist preacher known as the 'Prince of Preachers.' Pastor of the Metropolitan Tabernacle in London, he frequently preached to audiences of more than 10,000 people.",
+              "faith": "Spurgeon was converted at age 15 and began preaching immediately. He published thousands of sermons and authored numerous books. He founded a pastors' college, orphanages, and other charitable organizations, all flowing from his deep love for Christ.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Charles Spurgeon — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Charles_Spurgeon",
+                  "note": "Biography of the 'Prince of Preachers'"
+                },
+                {
+                  "type": "website",
+                  "title": "Spurgeon's Sermons Archive",
+                  "url": "https://www.spurgeon.org/",
+                  "note": "Archive of Spurgeon's thousands of published sermons"
+                }
+              ]
+            },
+            {
+              "name": "John Wesley",
+              "years": "1703-1791",
+              "title": "Theologian & Evangelist",
+              "bio": "English cleric, theologian, and evangelist who co-founded the Methodist movement. His open-air preaching brought the gospel to millions across England.",
+              "faith": "After his famous 'Aldersgate experience' in 1738 where his heart was 'strangely warmed,' Wesley dedicated his life to evangelism. He traveled 250,000 miles on horseback, preached over 40,000 sermons, and sparked a revival that transformed England.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Wesley — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Wesley",
+                  "note": "Comprehensive biography of the founder of Methodism"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Aldersgate experience — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Aldersgate_experience",
+                  "note": "Wesley's famous heart-warming conversion experience"
+                }
+              ]
+            },
+            {
+              "name": "George Whitefield",
+              "years": "1714-1770",
+              "title": "Evangelist & Preacher",
+              "bio": "Anglican cleric and evangelist who was one of the founders of Methodism and the evangelical movement. He preached to enormous crowds on both sides of the Atlantic and was a key figure in the Great Awakening.",
+              "faith": "Whitefield was one of the most powerful preachers in Christian history, known for his dramatic delivery and deep conviction. Benjamin Franklin estimated he could be heard by 30,000 people at once. He preached over 18,000 sermons in his lifetime.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "George Whitefield — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/George_Whitefield",
+                  "note": "Biography of the Great Awakening evangelist"
+                }
+              ]
+            },
+            {
+              "name": "William Wilberforce",
+              "years": "1759-1833",
+              "title": "Politician & Reformer",
+              "bio": "British politician and philanthropist who led the movement to abolish the slave trade in the British Empire. Member of Parliament for 45 years.",
+              "faith": "After his evangelical conversion in 1785, Wilberforce devoted his life to two 'great objects': the abolition of the slave trade and the reformation of manners (moral reform). His Christian faith was the driving force behind his tireless campaign against slavery.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "William Wilberforce — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/William_Wilberforce",
+                  "note": "Biography of the abolitionist driven by faith"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Amazing Grace (2006 Film)",
+                  "url": "https://www.youtube.com/results?search_query=amazing+grace+2006+film+wilberforce",
+                  "note": "Biographical film about Wilberforce's fight to end slavery"
+                },
+                {
+                  "type": "book",
+                  "title": "Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery",
+                  "note": "By Eric Metaxas. Biography of Wilberforce's faith-driven abolitionism"
+                }
+              ]
+            },
+            {
+              "name": "Dietrich Bonhoeffer",
+              "years": "1906-1945",
+              "title": "Theologian & Martyr",
+              "bio": "German Lutheran pastor, theologian, and anti-Nazi dissident. Author of 'The Cost of Discipleship' and 'Life Together.' Executed by the Nazis at Flossenbürg concentration camp.",
+              "faith": "Bonhoeffer's theology of 'costly grace' challenged cheap Christianity. He helped found the Confessing Church in opposition to Nazi influence and participated in a plot to assassinate Hitler. His final words were, 'This is the end — for me, the beginning of life.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Dietrich Bonhoeffer — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+                  "note": "Biography of the theologian-martyr executed by the Nazis"
+                },
+                {
+                  "type": "book",
+                  "title": "The Cost of Discipleship",
+                  "note": "By Dietrich Bonhoeffer. His influential work on 'costly grace' versus 'cheap grace'"
+                },
+                {
+                  "type": "book",
+                  "title": "Bonhoeffer: Pastor, Martyr, Prophet, Spy",
+                  "note": "By Eric Metaxas. Bestselling biography of Bonhoeffer's life and faith"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pastors-missionaries",
+          "name": "Pastors & Missionaries",
+          "people": [
+            {
+              "name": "Billy Graham",
+              "years": "1918-2018",
+              "title": "Evangelist",
+              "bio": "American evangelist and ordained Southern Baptist minister whose broadcasts and world tours spanning over six decades made him one of the most influential Christian leaders of the 20th century. He preached to live audiences of nearly 215 million people in more than 185 countries.",
+              "faith": "Known as 'America's Pastor,' Graham preached a simple message of salvation through Jesus Christ. He served as spiritual advisor to multiple U.S. Presidents and founded the Billy Graham Evangelistic Association. His integrity and humility set a standard for public Christian ministry.",
+              "videos": [
+                {
+                  "title": "Billy Graham Classic Crusade Sermons",
+                  "url": "https://www.youtube.com/results?search_query=billy+graham+crusade+sermon+classic",
+                  "platform": "youtube",
+                  "note": "Hundreds of Graham's crusade sermons are available on YouTube"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Billy Graham — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Billy_Graham",
+                  "note": "Comprehensive biography of the most prominent evangelist of the 20th century"
+                },
+                {
+                  "type": "book",
+                  "title": "Just As I Am: The Autobiography of Billy Graham",
+                  "note": "By Billy Graham. His own account of his life and ministry"
+                },
+                {
+                  "type": "website",
+                  "title": "Billy Graham Evangelistic Association",
+                  "url": "https://billygraham.org/",
+                  "note": "The ministry organization Graham founded"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Billy Graham's Life and Legacy",
+                  "url": "https://www.youtube.com/results?search_query=billy+graham+life+legacy+documentary",
+                  "note": "Numerous documentaries about Graham's extraordinary ministry"
+                }
+              ]
+            },
+            {
+              "name": "Jim Elliot",
+              "years": "1927-1956",
+              "title": "Missionary & Martyr",
+              "bio": "American Christian missionary who was killed along with four companions during Operation Auca, an attempt to evangelize the Huaorani people of Ecuador. He was 28 years old. His death galvanized a generation of missionaries.",
+              "faith": "Elliot famously wrote in his journal, 'He is no fool who gives what he cannot keep to gain what he cannot lose.' His wife Elisabeth Elliot later returned to minister to the very tribe that killed him, and many Huaorani eventually became Christians.",
+              "videos": [
+                {
+                  "title": "End of the Spear — The Jim Elliot Story",
+                  "url": "https://www.youtube.com/results?search_query=end+of+the+spear+jim+elliot+movie",
+                  "platform": "youtube",
+                  "note": "Feature film based on the true story of Operation Auca"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jim Elliot — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jim_Elliot",
+                  "note": "Biography of the missionary martyr in Ecuador"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Operation Auca — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Operation_Auca",
+                  "note": "The failed missionary expedition that cost five lives"
+                },
+                {
+                  "type": "book",
+                  "title": "Through Gates of Splendor",
+                  "note": "By Elisabeth Elliot. Account of the five missionaries' martyrdom by Jim's widow"
+                },
+                {
+                  "type": "book",
+                  "title": "The Journals of Jim Elliot",
+                  "note": "Edited by Elisabeth Elliot. Contains his famous quote about being 'no fool'"
+                }
+              ]
+            },
+            {
+              "name": "Hudson Taylor",
+              "years": "1832-1905",
+              "title": "Missionary to China",
+              "bio": "British Protestant Christian missionary to China and founder of the China Inland Mission (now OMF International). He spent 51 years in China and is regarded as one of the most important missionaries of all time.",
+              "faith": "Taylor pioneered a new approach to missions by adopting Chinese dress and customs, living by faith without soliciting funds, and opening inland China to the gospel. The CIM he founded became the largest mission agency in the world, eventually bringing over 800 missionaries to China.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Hudson Taylor — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Hudson_Taylor",
+                  "note": "Biography of the pioneering missionary to inland China"
+                },
+                {
+                  "type": "book",
+                  "title": "Hudson Taylor's Spiritual Secret",
+                  "note": "By Dr. and Mrs. Howard Taylor. Classic biography of Taylor's faith-driven life"
+                },
+                {
+                  "type": "website",
+                  "title": "OMF International",
+                  "url": "https://omf.org/",
+                  "note": "The modern successor to the China Inland Mission Taylor founded"
+                }
+              ]
+            },
+            {
+              "name": "Eric Liddell",
+              "years": "1902-1945",
+              "title": "Olympic Runner & Missionary",
+              "bio": "Scottish Olympic gold medalist (400m, 1924 Paris Olympics) who refused to run his best event (100m) because the heat was on a Sunday. He later served as a missionary in China, where he died in a Japanese internment camp during World War II.",
+              "faith": "Liddell famously said, 'God made me fast. And when I run, I feel His pleasure.' After his Olympic triumph, he devoted his life to missionary work in China. His story was immortalized in the Academy Award-winning film 'Chariots of Fire.'",
+              "videos": [
+                {
+                  "title": "Chariots of Fire — Eric Liddell's Story",
+                  "url": "https://www.youtube.com/results?search_query=chariots+of+fire+eric+liddell+faith+documentary",
+                  "platform": "youtube",
+                  "note": "The 1981 Academy Award-winning film and related documentaries"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Eric Liddell — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Eric_Liddell",
+                  "note": "Biography of the Olympic champion turned missionary"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Chariots of Fire — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+                  "note": "The Oscar-winning film based on Liddell's story"
+                },
+                {
+                  "type": "book",
+                  "title": "For the Glory: Eric Liddell's Journey from Olympic Champion to Modern Martyr",
+                  "note": "By Duncan Hamilton. Comprehensive biography"
+                }
+              ]
+            },
+            {
+              "name": "William Carey",
+              "years": "1761-1834",
+              "title": "Missionary to India",
+              "bio": "English Baptist minister, missionary, and translator known as the 'Father of Modern Missions.' He founded the Serampore College and Serampore University (the first degree-granting university in India) and translated the Bible into numerous Indian languages.",
+              "faith": "Carey's famous motto was 'Expect great things from God; attempt great things for God.' He labored for decades in India, translating the Bible into Bengali, Sanskrit, and many other languages, establishing schools, and fighting social evils like sati (widow burning).",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "William Carey (missionary) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/William_Carey_(missionary)",
+                  "note": "Biography of the 'Father of Modern Missions'"
+                },
+                {
+                  "type": "book",
+                  "title": "An Enquiry into the Obligations of Christians to Use Means for the Conversion of the Heathens",
+                  "note": "By William Carey. The pamphlet that launched the modern missions movement"
+                }
+              ]
+            },
+            {
+              "name": "Adoniram Judson",
+              "years": "1788-1850",
+              "title": "Missionary to Burma",
+              "bio": "American Congregationalist and later Baptist missionary who served in Burma (Myanmar) for nearly 40 years. He was the first American foreign missionary sent overseas and translated the entire Bible into Burmese.",
+              "faith": "Judson endured imprisonment, torture, the deaths of two wives and several children, and decades of hardship for the sake of the gospel. He completed the Burmese Bible translation and established churches that endure to this day.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Adoniram Judson — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Adoniram_Judson",
+                  "note": "Biography of the first American foreign missionary"
+                },
+                {
+                  "type": "book",
+                  "title": "To the Golden Shore: The Life of Adoniram Judson",
+                  "note": "By Courtney Anderson. Definitive biography of Judson"
+                }
+              ]
+            },
+            {
+              "name": "David Livingstone",
+              "years": "1813-1873",
+              "title": "Missionary & Explorer",
+              "bio": "Scottish Congregationalist pioneer Christian missionary, doctor, and explorer in Africa. He was the first European to see Victoria Falls and made extensive explorations of central Africa while seeking to end the slave trade.",
+              "faith": "Livingstone believed that Christianity and commerce together could end the African slave trade. He spent over 30 years in Africa, often alone, driven by his faith and desire to bring the gospel to unreached peoples. His body was buried in Westminster Abbey.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "David Livingstone — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/David_Livingstone",
+                  "note": "Biography of the missionary-explorer of Africa"
+                },
+                {
+                  "type": "book",
+                  "title": "Missionary Travels and Researches in South Africa",
+                  "note": "By David Livingstone. His own account of his African journeys"
+                }
+              ]
+            },
+            {
+              "name": "George Müller",
+              "years": "1805-1898",
+              "title": "Evangelist & Orphanage Director",
+              "bio": "Prussian-born evangelist and director of the Ashley Down orphanage in Bristol, England. He cared for over 10,000 orphans during his lifetime and established 117 schools offering Christian education to over 120,000 children.",
+              "faith": "Müller is renowned for his radical faith in God's provision. He never asked for money or went into debt, instead relying entirely on prayer. He recorded over 50,000 specific answers to prayer in his journals. He also distributed over 2 million Bibles and tracts.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "George Müller — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/George_M%C3%BCller",
+                  "note": "Biography of the man of faith who cared for 10,000 orphans"
+                },
+                {
+                  "type": "book",
+                  "title": "The Autobiography of George Müller",
+                  "note": "Müller's own account of his life of faith and answered prayer"
+                },
+                {
+                  "type": "youtube",
+                  "title": "George Müller: Delighted in God",
+                  "url": "https://www.youtube.com/results?search_query=george+muller+documentary+faith+orphanage",
+                  "note": "Documentaries about Müller's extraordinary prayer life"
+                }
+              ]
+            },
+            {
+              "name": "Corrie ten Boom",
+              "years": "1892-1983",
+              "title": "Holocaust Survivor & Evangelist",
+              "bio": "Dutch Christian watchmaker who, along with her family, helped many Jews escape the Nazi Holocaust by hiding them in her home. She was eventually imprisoned in the Ravensbrück concentration camp, where her sister Betsie died.",
+              "faith": "After surviving the concentration camp, ten Boom traveled the world as a speaker, sharing her message of forgiveness and God's love. Her autobiography 'The Hiding Place' tells the story of her family's courageous faith. She famously forgave a former Ravensbrück guard face-to-face.",
+              "videos": [
+                {
+                  "title": "Corrie ten Boom — The Hiding Place",
+                  "url": "https://www.youtube.com/results?search_query=corrie+ten+boom+hiding+place+testimony",
+                  "platform": "youtube",
+                  "note": "Testimonies and the film adaptation of her story"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Corrie ten Boom — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Corrie_ten_Boom",
+                  "note": "Biography of the Holocaust survivor and evangelist"
+                },
+                {
+                  "type": "book",
+                  "title": "The Hiding Place",
+                  "note": "By Corrie ten Boom. Her autobiography about hiding Jews and surviving the concentration camp"
+                },
+                {
+                  "type": "website",
+                  "title": "Corrie ten Boom Museum",
+                  "url": "https://www.corrietenboom.com/",
+                  "note": "Museum in the ten Boom family home in Haarlem, Netherlands"
+                }
+              ]
+            },
+            {
+              "name": "John MacArthur",
+              "years": "1939-2025",
+              "title": "Pastor & Author",
+              "bio": "American pastor-teacher who served as pastor of Grace Community Church in Sun Valley, California, for over 55 years. He was also president of The Master's University and Seminary, a prolific author of over 150 books, and the voice behind the 'Grace to You' radio broadcast.",
+              "faith": "MacArthur was one of the most influential Bible expositors of his generation. His verse-by-verse preaching style and commitment to biblical inerrancy shaped Reformed evangelical Christianity. His MacArthur Study Bible has sold over 2 million copies.",
+              "videos": [
+                {
+                  "title": "John MacArthur Sermons — Grace to You",
+                  "url": "https://www.youtube.com/results?search_query=john+macarthur+sermon+grace+to+you",
+                  "platform": "youtube",
+                  "note": "Thousands of MacArthur's sermons are available through Grace to You"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John MacArthur (American pastor) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_MacArthur_(American_pastor)",
+                  "note": "Biography of the influential pastor-teacher"
+                },
+                {
+                  "type": "website",
+                  "title": "Grace to You",
+                  "url": "https://www.gty.org/",
+                  "note": "MacArthur's Bible teaching ministry with thousands of free sermons"
+                },
+                {
+                  "type": "book",
+                  "title": "The MacArthur Study Bible",
+                  "note": "By John MacArthur. Study Bible with over 2 million copies sold"
+                },
+                {
+                  "type": "book",
+                  "title": "The Gospel According to Jesus",
+                  "note": "By John MacArthur. Influential book on lordship salvation"
+                }
+              ]
+            },
+            {
+              "name": "R.C. Sproul",
+              "years": "1939-2017",
+              "title": "Theologian & Pastor",
+              "bio": "American Reformed theologian, pastor, and founder of Ligonier Ministries. He authored over 100 books and was known for making complex theology accessible to ordinary Christians. He served as co-pastor at Saint Andrew's Chapel in Sanford, Florida.",
+              "faith": "Sproul dedicated his life to teaching the holiness of God and Reformed theology. His book 'The Holiness of God' is considered a modern classic. He was instrumental in drafting the Chicago Statement on Biblical Inerrancy (1978).",
+              "videos": [
+                {
+                  "title": "R.C. Sproul — Ligonier Teaching Series",
+                  "url": "https://www.youtube.com/results?search_query=rc+sproul+holiness+of+god+teaching",
+                  "platform": "youtube",
+                  "note": "Sproul's extensive teaching library is available through Ligonier"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "R. C. Sproul — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/R._C._Sproul",
+                  "note": "Biography of the Reformed theologian and Ligonier founder"
+                },
+                {
+                  "type": "website",
+                  "title": "Ligonier Ministries",
+                  "url": "https://www.ligonier.org/",
+                  "note": "The teaching ministry Sproul founded"
+                },
+                {
+                  "type": "book",
+                  "title": "The Holiness of God",
+                  "note": "By R.C. Sproul. His most influential work on God's transcendent holiness"
+                }
+              ]
+            },
+            {
+              "name": "D.L. Moody",
+              "years": "1837-1899",
+              "title": "Evangelist & Educator",
+              "bio": "American evangelist and publisher connected with Keswick and Higher Life movements. He founded the Moody Church, Northfield Schools, and the Moody Bible Institute in Chicago. He is estimated to have preached to over 100 million people.",
+              "faith": "Moody was converted at age 18 when his Sunday school teacher visited him at work. He became one of the greatest evangelists of the 19th century, working alongside hymn writer Ira Sankey. His plain-spoken gospel preaching drew massive crowds on both sides of the Atlantic.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Dwight L. Moody — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Dwight_L._Moody",
+                  "note": "Biography of the great 19th-century evangelist"
+                },
+                {
+                  "type": "website",
+                  "title": "Moody Bible Institute",
+                  "url": "https://www.moody.edu/",
+                  "note": "The Bible institute Moody founded in Chicago"
+                }
+              ]
+            },
+            {
+              "name": "Amy Carmichael",
+              "years": "1867-1951",
+              "title": "Missionary to India",
+              "bio": "Irish Christian missionary who served in India for 55 years without furlough. She founded the Dohnavur Fellowship and devoted her life to rescuing children from temple prostitution. She wrote 35 books about her missionary work.",
+              "faith": "Carmichael gave her entire life to serving the most vulnerable in India. She rescued hundreds of children from abuse and exploitation, establishing a community that still operates today. Her writings on the cost of discipleship continue to inspire missionaries worldwide.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Amy Carmichael — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Amy_Carmichael",
+                  "note": "Biography of the missionary who served 55 years in India"
+                },
+                {
+                  "type": "book",
+                  "title": "Things As They Are: Mission Work in Southern India",
+                  "note": "By Amy Carmichael. Her honest account of missionary life"
+                },
+                {
+                  "type": "book",
+                  "title": "If",
+                  "note": "By Amy Carmichael. Her devotional classic on sacrificial love"
+                }
+              ]
+            },
+            {
+              "name": "Jim Cymbala",
+              "years": "1943-present",
+              "title": "Pastor & Author",
+              "bio": "American pastor of the Brooklyn Tabernacle in New York City. Under his leadership, the church grew from fewer than 20 members to over 10,000. The Brooklyn Tabernacle Choir, directed by his wife Carol, has won multiple Grammy Awards.",
+              "faith": "Cymbala transformed a dying inner-city church through prayer. His Tuesday night prayer meetings became legendary, drawing thousands. His book 'Fresh Wind, Fresh Fire' recounts how God revived the Brooklyn Tabernacle through fervent prayer.",
+              "videos": [
+                {
+                  "title": "Jim Cymbala — Fresh Wind, Fresh Fire",
+                  "url": "https://www.youtube.com/results?search_query=jim+cymbala+fresh+wind+fresh+fire+brooklyn+tabernacle",
+                  "platform": "youtube",
+                  "note": "Cymbala's sermons and testimony about prayer"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jim Cymbala — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jim_Cymbala",
+                  "note": "Biography of the Brooklyn Tabernacle pastor"
+                },
+                {
+                  "type": "book",
+                  "title": "Fresh Wind, Fresh Fire",
+                  "note": "By Jim Cymbala. His account of revival through prayer at Brooklyn Tabernacle"
+                },
+                {
+                  "type": "website",
+                  "title": "Brooklyn Tabernacle",
+                  "url": "https://www.brooklyntabernacle.org/",
+                  "note": "The church Cymbala pastors in downtown Brooklyn"
+                }
+              ]
+            },
+            {
+              "name": "Francis Schaeffer",
+              "years": "1912-1984",
+              "title": "Philosopher, Theologian & Author",
+              "bio": "American evangelical theologian, philosopher, and Presbyterian pastor. He founded the L'Abri Fellowship community in Switzerland, which became a haven for seekers and intellectuals exploring Christian faith. He authored influential works including 'The God Who Is There' and 'How Should We Then Live?'",
+              "faith": "Schaeffer engaged the intellectual culture of the 20th century with a rigorous Christian worldview. He argued that Christianity provides the only adequate basis for human meaning, morality, and knowledge. His work influenced a generation of evangelical thinkers and leaders.",
+              "videos": [
+                {
+                  "title": "How Should We Then Live? — Francis Schaeffer Documentary Series",
+                  "url": "https://www.youtube.com/results?search_query=francis+schaeffer+how+should+we+then+live+documentary",
+                  "platform": "youtube",
+                  "note": "Schaeffer's landmark documentary series on Western civilization and Christianity"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Francis Schaeffer — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Francis_Schaeffer",
+                  "note": "Biography of the philosopher-theologian"
+                },
+                {
+                  "type": "website",
+                  "title": "L'Abri Fellowship",
+                  "url": "https://labri.org/",
+                  "note": "The study community Schaeffer founded in Switzerland"
+                },
+                {
+                  "type": "book",
+                  "title": "The God Who Is There",
+                  "note": "By Francis Schaeffer. His foundational work on Christian apologetics"
+                },
+                {
+                  "type": "book",
+                  "title": "How Should We Then Live? The Rise and Decline of Western Thought and Culture",
+                  "note": "By Francis Schaeffer. Cultural analysis from a Christian worldview"
+                }
+              ]
+            },
+            {
+              "name": "John Piper",
+              "years": "1946-present",
+              "title": "Pastor & Theologian",
+              "bio": "American Reformed Baptist pastor, author, and theologian. He served as pastor of Bethlehem Baptist Church in Minneapolis for 33 years and founded Desiring God Ministries. He has authored over 50 books including 'Desiring God' and 'Don't Waste Your Life.'",
+              "faith": "Piper is known for his concept of 'Christian Hedonism' — the idea that 'God is most glorified in us when we are most satisfied in Him.' His expository preaching, passionate delivery, and emphasis on God's sovereignty have shaped a generation of Reformed evangelicals.",
+              "videos": [
+                {
+                  "title": "John Piper — Don't Waste Your Life",
+                  "url": "https://www.youtube.com/results?search_query=john+piper+dont+waste+your+life+sermon",
+                  "platform": "youtube",
+                  "note": "Piper's impassioned sermons and conference talks"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Piper (theologian) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Piper_(theologian)",
+                  "note": "Biography of the Reformed Baptist pastor and author"
+                },
+                {
+                  "type": "website",
+                  "title": "Desiring God",
+                  "url": "https://www.desiringgod.org/",
+                  "note": "Piper's ministry with thousands of free sermons and articles"
+                },
+                {
+                  "type": "book",
+                  "title": "Desiring God: Meditations of a Christian Hedonist",
+                  "note": "By John Piper. His foundational work on finding joy in God"
+                }
+              ]
+            },
+            {
+              "name": "A.W. Tozer",
+              "years": "1897-1963",
+              "title": "Pastor & Author",
+              "bio": "American Christian pastor, author, magazine editor, and spiritual mentor. He served as pastor for 44 years, primarily at Southside Alliance Church in Chicago. Despite having no formal education, he received honorary doctorates from Wheaton and Houghton colleges.",
+              "faith": "Tozer's devotional writings emphasize the pursuit of God's presence above all else. His books 'The Pursuit of God' and 'The Knowledge of the Holy' are considered spiritual classics. He was known as a 'prophet' who called the church to deeper intimacy with God.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "A. W. Tozer — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/A._W._Tozer",
+                  "note": "Biography of the self-taught pastor and mystic"
+                },
+                {
+                  "type": "book",
+                  "title": "The Pursuit of God",
+                  "note": "By A.W. Tozer. His devotional classic on seeking God's presence"
+                },
+                {
+                  "type": "book",
+                  "title": "The Knowledge of the Holy",
+                  "note": "By A.W. Tozer. Study of the attributes of God"
+                }
+              ]
+            },
+            {
+              "name": "Lottie Moon",
+              "years": "1840-1912",
+              "title": "Missionary to China",
+              "bio": "American Southern Baptist missionary who served in China for nearly 40 years. She spent her life evangelizing and advocating for mission support. The annual Lottie Moon Christmas Offering for international missions, named in her honor, has raised billions of dollars.",
+              "faith": "Moon gave everything for the gospel in China, eventually dying of starvation because she had given all her food to starving Chinese during a famine. Her sacrificial example inspired the Southern Baptist Convention's largest missions offering, still collected annually.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Lottie Moon — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Lottie_Moon",
+                  "note": "Biography of the beloved Southern Baptist missionary"
+                },
+                {
+                  "type": "website",
+                  "title": "Lottie Moon Christmas Offering — IMB",
+                  "url": "https://www.imb.org/lottie-moon-christmas-offering/",
+                  "note": "The international missions offering named in her honor"
+                }
+              ]
+            },
+            {
+              "name": "Watchman Nee",
+              "years": "1903-1972",
+              "title": "Church Leader & Author",
+              "bio": "Chinese church leader and Christian author who founded the Local Church movement in China. He authored influential works including 'The Normal Christian Life' and 'Sit, Walk, Stand.' He was imprisoned by the Communist government in 1952 and died in prison after 20 years.",
+              "faith": "Nee's emphasis on the inner spiritual life and the practical experience of Christ's indwelling has influenced millions of Christians worldwide. He endured two decades of imprisonment for his faith without renouncing Christ.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Watchman Nee — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Watchman_Nee",
+                  "note": "Biography of the Chinese church leader imprisoned for his faith"
+                },
+                {
+                  "type": "book",
+                  "title": "The Normal Christian Life",
+                  "note": "By Watchman Nee. His most widely read work on the Christian walk"
+                }
+              ]
+            },
+            {
+              "name": "Charles Finney",
+              "years": "1792-1875",
+              "title": "Evangelist & Revivalist",
+              "bio": "American Presbyterian minister, revivalist leader, and president of Oberlin College. He was a central figure in the Second Great Awakening and is estimated to have led over 500,000 people to Christ.",
+              "faith": "Finney's dramatic conversion experience in 1821 transformed him from a lawyer to a fiery evangelist. His revival meetings featured new methods including the 'anxious bench' and extended meetings. He was also a strong advocate for abolition and women's education.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Charles Grandison Finney — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Charles_Grandison_Finney",
+                  "note": "Biography of the Second Great Awakening revivalist"
+                },
+                {
+                  "type": "book",
+                  "title": "The Autobiography of Charles G. Finney",
+                  "note": "Finney's own account of his conversion and revival ministry"
+                }
+              ]
+            },
+            {
+              "name": "William Booth",
+              "years": "1829-1912",
+              "title": "Evangelist & Social Reformer",
+              "bio": "English Methodist preacher who co-founded The Salvation Army with his wife Catherine in 1865. The organization combined evangelism with social services for the poor and has grown into a worldwide movement operating in over 130 countries.",
+              "faith": "Booth's passion was bringing the gospel to the poorest and most neglected members of society. He famously said, 'While women weep, as they do now, I'll fight; while little children go hungry, as they do now, I'll fight.' The Salvation Army's model of practical Christianity has served millions.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "William Booth — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/William_Booth",
+                  "note": "Biography of the founder of The Salvation Army"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "The Salvation Army — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/The_Salvation_Army",
+                  "note": "The worldwide organization Booth founded"
+                }
+              ]
+            },
+            {
+              "name": "Gladys Aylward",
+              "years": "1902-1970",
+              "title": "Missionary to China",
+              "bio": "English missionary to China who served from 1930 onward. During the Japanese invasion, she led over 100 orphan children on a harrowing journey across the mountains to safety. Her story was told in the film 'The Inn of the Sixth Happiness.'",
+              "faith": "Rejected by the China Inland Mission for lacking education, Aylward saved her own money to travel to China by the Trans-Siberian Railway. She adopted Chinese citizenship, ran an inn for muleteers where she told Bible stories, and became known as 'Ai-weh-deh' (the Virtuous One).",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Gladys Aylward — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Gladys_Aylward",
+                  "note": "Biography of the determined missionary to China"
+                },
+                {
+                  "type": "book",
+                  "title": "The Small Woman",
+                  "note": "By Alan Burgess. Biography adapted into 'The Inn of the Sixth Happiness' film"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living-testimonies",
+      "name": "Living Testimonies",
+      "description": "Athletes, musicians, actors, and celebrities who publicly profess faith in Jesus Christ",
+      "subcategories": [
+        {
+          "id": "athletes",
+          "name": "Athletes",
+          "people": [
+            {
+              "name": "Tim Tebow",
+              "years": "1987-present",
+              "title": "Former NFL Quarterback & Baseball Player",
+              "bio": "American former professional football and baseball player, Heisman Trophy winner, and two-time BCS National Champion with the University of Florida. Now a sports analyst, author, and philanthropist.",
+              "faith": "One of the most outspoken Christian athletes in modern sports. Famous for 'Tebowing' (kneeling in prayer on the field) and wearing Bible verses on his eye black. Founded the Tim Tebow Foundation, which hosts 'Night to Shine' proms for people with special needs worldwide.",
+              "videos": [
+                {
+                  "title": "Tim Tebow Testimony & Faith Story",
+                  "url": "https://www.youtube.com/results?search_query=tim+tebow+testimony+faith+story",
+                  "platform": "youtube",
+                  "note": "Tebow has shared his testimony in numerous interviews and conferences"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Tim Tebow — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Tim_Tebow",
+                  "note": "Biography including his Christian faith and philanthropy"
+                },
+                {
+                  "type": "website",
+                  "title": "Tim Tebow Foundation",
+                  "url": "https://www.timtebowfoundation.org/",
+                  "note": "His foundation, including Night to Shine for people with special needs"
+                },
+                {
+                  "type": "book",
+                  "title": "Through My Eyes",
+                  "note": "By Tim Tebow. His autobiography discussing faith and football"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Tim Tebow — I Am Second",
+                  "url": "https://www.youtube.com/results?search_query=tim+tebow+i+am+second+testimony",
+                  "note": "His I Am Second testimony video"
+                }
+              ]
+            },
+            {
+              "name": "Stephen Curry",
+              "years": "1988-present",
+              "title": "NBA Point Guard",
+              "bio": "American professional basketball player for the Golden State Warriors. Four-time NBA champion, two-time NBA MVP, and widely regarded as the greatest shooter in NBA history.",
+              "faith": "Curry has repeatedly professed his faith in Jesus Christ in MVP acceptance speeches and interviews. He wears Philippians 4:13 on his shoes. In his 2015 MVP speech he said, 'First and foremost I have to thank my Lord and Savior Jesus Christ for blessing me with the talents to play this game.'",
+              "videos": [
+                {
+                  "title": "Stephen Curry MVP Speech - Thanks Jesus Christ",
+                  "url": "https://www.youtube.com/results?search_query=stephen+curry+mvp+speech+jesus+christ+lord+savior",
+                  "platform": "youtube",
+                  "note": "Curry's 2015 and 2016 MVP acceptance speeches prominently thank Christ"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Stephen Curry — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Stephen_Curry",
+                  "note": "Biography of the greatest shooter in NBA history"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Stephen Curry 2015 MVP Speech — Thanking Jesus Christ",
+                  "url": "https://www.youtube.com/results?search_query=stephen+curry+2015+mvp+speech+thank+god",
+                  "note": "His viral MVP acceptance speech crediting God"
+                }
+              ]
+            },
+            {
+              "name": "Jeremy Lin",
+              "years": "1988-present",
+              "title": "Former NBA Point Guard",
+              "bio": "American-Taiwanese former professional basketball player, best known for 'Linsanity' — his breakout stretch with the New York Knicks in 2012. First American of Chinese/Taiwanese descent to play in the NBA.",
+              "faith": "A devout Christian who has spoken extensively about finding his identity in Christ rather than basketball. He has shared his testimony at churches and conferences, emphasizing that his worth comes from God, not performance.",
+              "videos": [
+                {
+                  "title": "Jeremy Lin Testimony",
+                  "url": "https://www.youtube.com/results?search_query=jeremy+lin+christian+testimony+faith",
+                  "platform": "youtube",
+                  "note": "Lin has given testimony at numerous churches and events"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jeremy Lin — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jeremy_Lin",
+                  "note": "Biography including his Christian faith"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Jeremy Lin — Finding Identity in Christ",
+                  "url": "https://www.youtube.com/results?search_query=jeremy+lin+identity+in+christ+testimony+church",
+                  "note": "Lin's testimony about finding worth in God rather than basketball"
+                }
+              ]
+            },
+            {
+              "name": "Allyson Felix",
+              "years": "1985-present",
+              "title": "Olympic Track & Field Sprinter",
+              "bio": "American former track and field sprinter, the most decorated American track and field athlete in Olympic history with 11 Olympic medals (7 gold).",
+              "faith": "A devout Christian who has spoken openly about her faith. She has said, 'My faith is everything to me. It's the foundation of who I am.' She credits God for her athletic achievements and has been vocal about trusting God through challenges.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Allyson Felix — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Allyson_Felix",
+                  "note": "Biography of the most decorated American track athlete"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Allyson Felix on Faith and Athletics",
+                  "url": "https://www.youtube.com/results?search_query=allyson+felix+christian+faith+testimony",
+                  "note": "Interviews where Felix discusses her faith"
+                }
+              ]
+            },
+            {
+              "name": "Russell Wilson",
+              "years": "1988-present",
+              "title": "NFL Quarterback",
+              "bio": "American professional football quarterback. Super Bowl XLVIII champion with the Seattle Seahawks. Multiple Pro Bowl selection.",
+              "faith": "A vocal Christian who credits God for his success and has spoken about practicing abstinence before marriage with his wife Ciara as an act of faith. He has said, 'My relationship with Jesus Christ is the most important thing in my life.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Russell Wilson — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Russell_Wilson",
+                  "note": "Biography including his Christian faith"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Russell Wilson and Ciara — Faith and Abstinence Testimony",
+                  "url": "https://www.youtube.com/results?search_query=russell+wilson+ciara+christian+faith+abstinence",
+                  "note": "Wilson and Ciara's public testimony about their faith commitment"
+                }
+              ]
+            },
+            {
+              "name": "Kirk Cousins",
+              "years": "1988-present",
+              "title": "NFL Quarterback",
+              "bio": "American professional football quarterback who has played for the Washington Commanders, Minnesota Vikings, and Atlanta Falcons.",
+              "faith": "An outspoken Christian who has said, 'The gospel changes everything. It changes how I see football, how I see my marriage, how I see money.' He has spoken at churches and men's conferences about his faith.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Kirk Cousins — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Kirk_Cousins",
+                  "note": "Biography of the NFL quarterback"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Kirk Cousins — Faith and Football",
+                  "url": "https://www.youtube.com/results?search_query=kirk+cousins+christian+faith+testimony+church",
+                  "note": "Cousins speaking about his faith at churches and events"
+                }
+              ]
+            },
+            {
+              "name": "Manny Pacquiao",
+              "years": "1978-present",
+              "title": "Professional Boxer & Politician",
+              "bio": "Filipino professional boxer and politician, the only eight-division world champion in boxing history. He also served as a senator in the Philippines.",
+              "faith": "After years of gambling and womanizing, Pacquiao experienced a dramatic conversion to evangelical Christianity. He now preaches regularly at churches, studies the Bible daily, and has said his faith transformed every aspect of his life.",
+              "videos": [
+                {
+                  "title": "Manny Pacquiao Christian Testimony",
+                  "url": "https://www.youtube.com/results?search_query=manny+pacquiao+christian+testimony+conversion",
+                  "platform": "youtube",
+                  "note": "Pacquiao has shared his dramatic conversion story many times"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Manny Pacquiao — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Manny_Pacquiao",
+                  "note": "Biography including his conversion to Christianity"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Manny Pacquiao — From Boxing Champion to Bible Preacher",
+                  "url": "https://www.youtube.com/results?search_query=manny+pacquiao+bible+preacher+testimony+conversion",
+                  "note": "His dramatic transformation from gambling to gospel preaching"
+                }
+              ]
+            },
+            {
+              "name": "David Robinson",
+              "years": "1965-present",
+              "title": "Former NBA Center",
+              "bio": "American former professional basketball player who spent his entire career with the San Antonio Spurs. Two-time NBA champion, NBA MVP, and Naval Academy graduate known as 'The Admiral.'",
+              "faith": "Robinson became a born-again Christian during his NBA career and has devoted his post-basketball life to ministry and philanthropy. He founded the Carver Academy, a private Christian school in San Antonio, and is active in various faith-based organizations.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "David Robinson (basketball) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/David_Robinson_(basketball)",
+                  "note": "Biography including his Christian faith and philanthropy"
+                },
+                {
+                  "type": "youtube",
+                  "title": "David Robinson — I Am Second",
+                  "url": "https://www.youtube.com/results?search_query=david+robinson+i+am+second+christian+testimony",
+                  "note": "Robinson's I Am Second testimony"
+                }
+              ]
+            },
+            {
+              "name": "Simone Biles",
+              "years": "1997-present",
+              "title": "Olympic Gymnast",
+              "bio": "American artistic gymnast with 37 Olympic and World Championship medals combined, the most decorated gymnast in history.",
+              "faith": "Biles has shared her Christian faith on social media and in interviews. She has posted scripture on social media and has said her faith helps her through difficult times, including her courageous decision to prioritize mental health at the 2020 Olympics.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Simone Biles — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Simone_Biles",
+                  "note": "Biography of the most decorated gymnast in history"
+                }
+              ]
+            },
+            {
+              "name": "Sadie Robertson Huff",
+              "years": "1997-present",
+              "title": "Author, Speaker & Media Personality",
+              "bio": "American author, speaker, and media personality best known for the reality TV show 'Duck Dynasty.' Founder of Live Original, a faith-based organization for young people.",
+              "faith": "Robertson is one of the most prominent young Christian voices in America. She hosts the 'Whoa That's Good' podcast, speaks at conferences, and has authored multiple bestselling books about faith. She openly shares about following Jesus in every area of life.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Sadie Robertson — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sadie_Robertson",
+                  "note": "Biography including her faith-based media and speaking career"
+                },
+                {
+                  "type": "website",
+                  "title": "Live Original",
+                  "url": "https://www.liveoriginal.com/",
+                  "note": "Robertson's faith-based organization for young people"
+                }
+              ]
+            },
+            {
+              "name": "Gabby Douglas",
+              "years": "1995-present",
+              "title": "Olympic Gymnast",
+              "bio": "American artistic gymnast who became the first African American to win the individual all-around gold medal at the 2012 Olympics. Also won team gold in 2012 and 2016.",
+              "faith": "A devout Christian who has openly credited God for her success. She wrote 'Grace, Gold, and Glory: My Leap of Faith,' sharing how her faith sustained her through challenges. She has said, 'My faith is everything to me.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Gabby Douglas — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Gabby_Douglas",
+                  "note": "Biography of the Olympic champion gymnast"
+                },
+                {
+                  "type": "book",
+                  "title": "Grace, Gold, and Glory: My Leap of Faith",
+                  "note": "By Gabrielle Douglas. Her autobiography about faith and gymnastics"
+                }
+              ]
+            },
+            {
+              "name": "Coco Gauff",
+              "years": "2004-present",
+              "title": "Professional Tennis Player",
+              "bio": "American professional tennis player who won the 2023 US Open and 2025 French Open. Achieved a career-high ranking of world No. 2 in singles.",
+              "faith": "Gauff has spoken about her Christian faith in press conferences and social media. After winning the US Open at age 19, she said she thanked God for the opportunity. She has quoted Scripture and referenced her faith in victory speeches.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Coco Gauff — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Coco_Gauff",
+                  "note": "Biography of the young tennis champion"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Coco Gauff — US Open Victory Speech Thanking God",
+                  "url": "https://www.youtube.com/results?search_query=coco+gauff+us+open+victory+speech+thank+god",
+                  "note": "Her victory speeches referencing her Christian faith"
+                }
+              ]
+            },
+            {
+              "name": "Dak Prescott",
+              "years": "1993-present",
+              "title": "NFL Quarterback",
+              "bio": "American professional football quarterback for the Dallas Cowboys. Two-time Pro Bowl selection known for his leadership both on and off the field.",
+              "faith": "Prescott has been open about his Christian faith, particularly after the death of his mother and brother. He has said, 'I know God has a plan for me' and credits his faith with helping him through immense personal tragedy.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Dak Prescott — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Dak_Prescott",
+                  "note": "Biography of the Dallas Cowboys quarterback"
+                }
+              ]
+            },
+            {
+              "name": "Drew Brees",
+              "years": "1979-present",
+              "title": "Former NFL Quarterback",
+              "bio": "American former professional football quarterback who spent the majority of his career with the New Orleans Saints. Super Bowl XLIV champion and one of the most prolific passers in NFL history.",
+              "faith": "A committed Christian who has been vocal about his faith. He has appeared in Christian media, participated in 'Focus on the Family' events, and credited God with his recovery from a career-threatening shoulder injury.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Drew Brees — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Drew_Brees",
+                  "note": "Biography of the Super Bowl champion quarterback"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Drew Brees — Christian Faith and Football",
+                  "url": "https://www.youtube.com/results?search_query=drew+brees+christian+faith+testimony",
+                  "note": "Brees discussing his faith in various interviews"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "musicians-entertainers",
+          "name": "Musicians & Entertainers",
+          "people": [
+            {
+              "name": "Lecrae",
+              "years": "1979-present",
+              "title": "Rapper & Author",
+              "bio": "American Christian hip-hop artist, songwriter, and record producer. His 2014 album 'Anomaly' debuted at No. 1 on the Billboard 200. Grammy Award winner and founder of Reach Records.",
+              "faith": "Lecrae converted to Christianity as a teenager and has made his faith central to his music and identity. He has been transparent about his struggles and growth as a Christian. His memoir 'Unashamed' details his journey from a troubled youth to faith in Christ.",
+              "videos": [
+                {
+                  "title": "Lecrae - I Am Second",
+                  "url": "https://www.youtube.com/results?search_query=lecrae+i+am+second+testimony",
+                  "platform": "youtube",
+                  "note": "Lecrae has shared his testimony in I Am Second and various conferences"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Lecrae — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Lecrae",
+                  "note": "Biography of the Christian hip-hop artist"
+                },
+                {
+                  "type": "book",
+                  "title": "Unashamed",
+                  "note": "By Lecrae. His memoir about faith, identity, and redemption"
+                },
+                {
+                  "type": "website",
+                  "title": "Reach Records",
+                  "url": "https://www.reachrecords.com/",
+                  "note": "The Christian hip-hop label Lecrae founded"
+                }
+              ]
+            },
+            {
+              "name": "Lauren Daigle",
+              "years": "1991-present",
+              "title": "Christian & Pop Singer",
+              "bio": "American contemporary Christian music and pop singer-songwriter. Known for hit songs 'You Say' and 'How Can It Be.' Multiple Grammy Award winner.",
+              "faith": "Daigle grew up in a Christian family in Lafayette, Louisiana, and her music reflects her deep faith. She has spoken about writing music as an act of worship and using her platform to point people to Jesus.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Lauren Daigle — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Lauren_Daigle",
+                  "note": "Biography of the Christian music crossover artist"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Lauren Daigle — You Say (Official Music Video)",
+                  "url": "https://www.youtube.com/results?search_query=lauren+daigle+you+say+official+music+video",
+                  "note": "Her hit song with over a billion YouTube views"
+                }
+              ]
+            },
+            {
+              "name": "TobyMac",
+              "years": "1964-present",
+              "title": "Christian Rapper & Singer",
+              "bio": "American Christian hip hop and pop artist, former member of DC Talk. Multiple Grammy Award winner with hits like 'I just need U' and 'Speak Life.'",
+              "faith": "TobyMac has been in Christian music for over 30 years. After the tragic death of his son Truett in 2019, he has spoken powerfully about grieving with hope in Christ. His music consistently points listeners to Jesus.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "TobyMac — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/TobyMac",
+                  "note": "Biography of the Christian music artist"
+                },
+                {
+                  "type": "youtube",
+                  "title": "TobyMac — Grieving with Hope After Son's Death",
+                  "url": "https://www.youtube.com/results?search_query=tobymac+son+truett+death+testimony+faith",
+                  "note": "TobyMac sharing about grieving with hope after losing his son"
+                }
+              ]
+            },
+            {
+              "name": "Carrie Underwood",
+              "years": "1983-present",
+              "title": "Country Music Singer",
+              "bio": "American singer and songwriter who rose to fame as the winner of Season 4 of American Idol. She has sold over 85 million records worldwide and won multiple Grammy Awards.",
+              "faith": "Underwood has been open about her Christian faith throughout her career. She recorded the gospel album 'My Savior' and has said, 'For me, it just feels natural and organic. It's just who I am. It's part of who I am.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Carrie Underwood — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Carrie_Underwood",
+                  "note": "Biography of the country music star"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "My Savior (album) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/My_Savior",
+                  "note": "Her 2021 gospel hymns album"
+                }
+              ]
+            },
+            {
+              "name": "Chance the Rapper",
+              "years": "1993-present",
+              "title": "Rapper & Songwriter",
+              "bio": "American rapper, singer, songwriter, and record producer from Chicago. Known for the mixtapes 'Coloring Book' and 'Acid Rap.' Grammy Award winner.",
+              "faith": "Chance has been vocal about his Christian faith, particularly on 'Coloring Book,' which is heavily influenced by gospel music. He has said, 'I believe in God. I believe that I've been really blessed by God.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Chance the Rapper — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Chance_the_Rapper",
+                  "note": "Biography of the gospel-influenced rapper"
+                }
+              ]
+            },
+            {
+              "name": "Switchfoot",
+              "years": "1996-present",
+              "title": "Rock Band",
+              "bio": "American rock band from San Diego fronted by Jon Foreman. Known for hits like 'Meant to Live' and 'Dare You to Move.' Grammy Award winners.",
+              "faith": "While they resist the 'Christian band' label, the members of Switchfoot are open about their Christian faith. Jon Foreman has said, 'I've always been interested in the questions that are bigger than genres. But yes, I am a Christian.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Switchfoot — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Switchfoot",
+                  "note": "Biography of the Christian rock band"
+                }
+              ]
+            },
+            {
+              "name": "For King & Country",
+              "years": "2007-present",
+              "title": "Christian Pop Duo",
+              "bio": "Australian Christian pop duo consisting of brothers Joel and Luke Smallbone. Multiple Grammy Award winners known for 'God Only Knows,' 'joy.,' and 'Burn the Ships.'",
+              "faith": "The Smallbone brothers grew up in a Christian family that moved from Australia to America with nothing. They have shared their family's testimony of God's provision and faithfulness extensively in interviews and their music.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "For King & Country — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/For_King_%26_Country_(band)",
+                  "note": "Biography of the Christian pop duo"
+                },
+                {
+                  "type": "youtube",
+                  "title": "For King & Country — Family Testimony",
+                  "url": "https://www.youtube.com/results?search_query=for+king+and+country+smallbone+family+testimony",
+                  "note": "The Smallbone brothers sharing their family's story of faith"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "actors",
+          "name": "Actors & Entertainers",
+          "people": [
+            {
+              "name": "Denzel Washington",
+              "years": "1954-present",
+              "title": "Actor & Director",
+              "bio": "American actor, director, and producer. Two-time Academy Award winner and one of the most respected actors in Hollywood history.",
+              "faith": "Washington is a devout Christian who has spoken openly about his faith for decades. He once considered becoming a preacher and has said, 'Put God first in everything you do. Everything that I have is by the grace of God.' He reads the Bible daily and has been a regular churchgoer his entire life.",
+              "videos": [
+                {
+                  "title": "Denzel Washington - Put God First",
+                  "url": "https://www.youtube.com/results?search_query=denzel+washington+put+god+first+speech",
+                  "platform": "youtube",
+                  "note": "Denzel's commencement speeches about faith are widely viewed"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Denzel Washington — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Denzel_Washington",
+                  "note": "Biography of the two-time Oscar winner"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Denzel Washington — Put God First Commencement Speech",
+                  "url": "https://www.youtube.com/results?search_query=denzel+washington+put+god+first+commencement+speech",
+                  "note": "His viral speech about putting God first in everything"
+                }
+              ]
+            },
+            {
+              "name": "Chris Pratt",
+              "years": "1979-present",
+              "title": "Actor",
+              "bio": "American actor known for roles in 'Guardians of the Galaxy,' 'Jurassic World,' and 'Parks and Recreation.' One of the highest-grossing box office stars.",
+              "faith": "Pratt has been outspoken about his Christian faith, famously sharing his '9 Rules' at the MTV Movie Awards, including 'God is real. God loves you. God wants the best for you. Believe that. I do.' He attends Zoe Church in Los Angeles.",
+              "videos": [
+                {
+                  "title": "Chris Pratt MTV Awards Speech about God",
+                  "url": "https://www.youtube.com/results?search_query=chris+pratt+mtv+awards+god+is+real+speech",
+                  "platform": "youtube",
+                  "note": "Pratt's viral MTV speech about faith"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Chris Pratt — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Chris_Pratt",
+                  "note": "Biography of the action star"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Chris Pratt — 9 Rules (MTV Generation Award Speech)",
+                  "url": "https://www.youtube.com/results?search_query=chris+pratt+9+rules+mtv+generation+award+god+is+real",
+                  "note": "His viral speech declaring 'God is real'"
+                }
+              ]
+            },
+            {
+              "name": "Mark Wahlberg",
+              "years": "1971-present",
+              "title": "Actor & Producer",
+              "bio": "American actor, producer, and businessman. Known for films like 'The Fighter,' 'The Departed,' and 'Father Stu.' Formerly known as rapper Marky Mark.",
+              "faith": "A devout Catholic who attends Mass daily and wakes at 2:30 AM to pray. He produced and starred in 'Father Stu,' a film about a boxer who becomes a priest. He has said, 'I just try to stay prayed up and keep God first.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Mark Wahlberg — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
+                  "note": "Biography of the actor and devout Catholic"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Mark Wahlberg — Faith, Prayer, and Father Stu",
+                  "url": "https://www.youtube.com/results?search_query=mark+wahlberg+faith+prayer+father+stu+catholic",
+                  "note": "Interviews about his daily faith practice and the film Father Stu"
+                }
+              ]
+            },
+            {
+              "name": "Candace Cameron Bure",
+              "years": "1976-present",
+              "title": "Actress & Author",
+              "bio": "American actress, author, and producer best known for her role as D.J. Tanner on 'Full House' and 'Fuller House.' Former co-host of 'The View.'",
+              "faith": "An outspoken born-again Christian who has authored several books about faith. She has said, 'My faith affects every part of my life. I can't separate my faith from who I am.' She's been a prominent voice for Christian values in Hollywood.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Candace Cameron Bure — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Candace_Cameron_Bure",
+                  "note": "Biography of the actress and Christian author"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Candace Cameron Bure — I Am Second",
+                  "url": "https://www.youtube.com/results?search_query=candace+cameron+bure+i+am+second+testimony",
+                  "note": "Her I Am Second testimony video"
+                }
+              ]
+            },
+            {
+              "name": "Jim Caviezel",
+              "years": "1968-present",
+              "title": "Actor",
+              "bio": "American actor best known for portraying Jesus Christ in Mel Gibson's 'The Passion of the Christ' (2004) and its sequel. Also starred in 'Person of Interest' and 'Sound of Freedom.'",
+              "faith": "A devout Catholic who accepted the role of Jesus knowing it could end his Hollywood career. He has spoken at conferences about the cost of following Christ and how his faith guided his acting choices. Starring in 'Sound of Freedom' further demonstrated his commitment to faith-driven projects.",
+              "videos": [
+                {
+                  "title": "Jim Caviezel Testimony - Faith and The Passion of the Christ",
+                  "url": "https://www.youtube.com/results?search_query=jim+caviezel+testimony+faith+passion+of+christ",
+                  "platform": "youtube",
+                  "note": "Caviezel has shared powerful testimony about playing Jesus and his Catholic faith"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jim Caviezel — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jim_Caviezel",
+                  "note": "Biography of the actor who portrayed Jesus in The Passion of the Christ"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Jim Caviezel — The Cost of Playing Jesus",
+                  "url": "https://www.youtube.com/results?search_query=jim+caviezel+cost+playing+jesus+passion+career",
+                  "note": "Caviezel on how the role of Jesus impacted his career and faith"
+                }
+              ]
+            },
+            {
+              "name": "Mel Gibson",
+              "years": "1956-present",
+              "title": "Actor & Director",
+              "bio": "American-Australian actor and filmmaker. Directed 'The Passion of the Christ,' 'Braveheart,' and 'Hacksaw Ridge.' Academy Award-winning director.",
+              "faith": "A traditional Catholic whose faith inspired him to direct 'The Passion of the Christ,' which became one of the highest-grossing R-rated films in history. He also directed 'Hacksaw Ridge,' the true story of Christian conscientious objector Desmond Doss.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Mel Gibson — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Mel_Gibson",
+                  "note": "Biography of the actor-director"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "The Passion of the Christ — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/The_Passion_of_the_Christ",
+                  "note": "The faith-driven film about Christ's crucifixion"
+                }
+              ]
+            },
+            {
+              "name": "Chuck Norris",
+              "years": "1940-present",
+              "title": "Actor & Martial Artist",
+              "bio": "American martial artist, actor, and author. Known for 'Walker, Texas Ranger' and numerous action films. Holds a 10th-degree black belt in Tang Soo Do.",
+              "faith": "A born-again Christian who has written about his faith in multiple books. He has said, 'My Christian faith has been the most important thing in my life.' He regularly writes columns discussing his faith and conservative Christian values.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Chuck Norris — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Chuck_Norris",
+                  "note": "Biography of the martial artist and actor"
+                },
+                {
+                  "type": "book",
+                  "title": "Against All Odds: My Story",
+                  "note": "By Chuck Norris. His autobiography including his faith journey"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entrepreneurs-scientists",
+      "name": "Entrepreneurs, CEOs & Scientists",
+      "description": "Business leaders, entrepreneurs, and scientists who profess faith in Jesus Christ",
+      "subcategories": [
+        {
+          "id": "tech-business",
+          "name": "Technology & Business Leaders",
+          "people": [
+            {
+              "name": "Patrick Bet-David",
+              "years": "1978-present",
+              "title": "Entrepreneur, Author & Media Personality",
+              "bio": "Iranian-born American businessman, conservative media personality, author, and podcaster. He is the host of the PBD Podcast and Valuetainment, a YouTube channel with over 6 million subscribers. Born to an Assyrian father and Armenian mother in Tehran, his family fled Iran as refugees during the Iran-Iraq War, spending time in a German refugee camp before settling in the United States. He founded PHP Agency, a financial services company.",
+              "faith": "Raised in a Christian family (Assyrian and Armenian heritage), Bet-David is an outspoken Christian who frequently discusses faith, God, and biblical principles on his Valuetainment platform. He has spoken about how his refugee experience and faith in God shaped his entrepreneurial drive and worldview.",
+              "videos": [
+                {
+                  "title": "Patrick Bet-David — Faith and Entrepreneurship",
+                  "url": "https://www.youtube.com/results?search_query=patrick+bet+david+christian+faith+god+testimony",
+                  "platform": "youtube",
+                  "note": "PBD discussing faith and God on Valuetainment"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Patrick Bet-David — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Patrick_Bet-David",
+                  "note": "Biography including his Assyrian Christian heritage and refugee background"
+                },
+                {
+                  "type": "website",
+                  "title": "Valuetainment",
+                  "url": "https://valuetainment.com/",
+                  "note": "Bet-David's media company and YouTube platform"
+                },
+                {
+                  "type": "book",
+                  "title": "Your Next Five Moves: Master the Art of Business Strategy",
+                  "note": "By Patrick Bet-David. His bestselling business strategy book"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Patrick Bet-David — Refugee to CEO Story",
+                  "url": "https://www.youtube.com/results?search_query=patrick+bet+david+refugee+story+iran+testimony",
+                  "note": "His journey from Iranian refugee to American entrepreneur"
+                }
+              ]
+            },
+            {
+              "name": "Pat Gelsinger",
+              "years": "1961-present",
+              "title": "Former CEO of Intel & VMware",
+              "bio": "American business executive and engineer who served as CEO of Intel (2021-2024) and previously as CEO of VMware. Was the chief architect of Intel's i486 microprocessor and the youngest person named VP at Intel at age 32.",
+              "faith": "Raised in an Amish/Mennonite community in Pennsylvania, Gelsinger is an outspoken Christian who has given his testimony at numerous churches and conferences. He has spoken about balancing career ambition with faith and family, tithing generously, and how his faith shapes his leadership.",
+              "videos": [
+                {
+                  "title": "Pat Gelsinger Testimony - Technology and Faith",
+                  "url": "https://www.youtube.com/results?search_query=pat+gelsinger+christian+testimony+faith",
+                  "platform": "youtube",
+                  "note": "Gelsinger has given extensive testimony talks at churches and conferences"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Pat Gelsinger — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Pat_Gelsinger",
+                  "note": "Biography including his faith background"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Pat Gelsinger — From Farm Boy to Tech CEO",
+                  "url": "https://www.youtube.com/results?search_query=pat+gelsinger+testimony+faith+farm+boy+tech+ceo",
+                  "note": "His testimony about growing up Amish/Mennonite and leading in tech"
+                }
+              ]
+            },
+            {
+              "name": "David Green",
+              "years": "1941-present",
+              "title": "Founder & CEO of Hobby Lobby",
+              "bio": "American billionaire businessman, founder of Hobby Lobby, the largest privately-owned arts and crafts retailer in the world with over 1,000 stores.",
+              "faith": "Green's Christian faith is the foundation of Hobby Lobby's business practices. The company closes on Sundays, plays Christian music in stores, and pays above minimum wage. Green also founded the Museum of the Bible in Washington, D.C., and has committed to giving away 90% of his wealth.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "David Green (businessman) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/David_Green_(businessman)",
+                  "note": "Biography of the Hobby Lobby founder"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Museum of the Bible — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Museum_of_the_Bible",
+                  "note": "The museum Green founded in Washington, D.C."
+                },
+                {
+                  "type": "book",
+                  "title": "Giving It All Away... and Getting It All Back Again",
+                  "note": "By David Green. His account of faith-driven business and generosity"
+                }
+              ]
+            },
+            {
+              "name": "S. Truett Cathy",
+              "years": "1921-2014",
+              "title": "Founder of Chick-fil-A",
+              "bio": "American businessman and philanthropist who founded Chick-fil-A in 1967. Built it into one of the largest quick-service restaurant chains in the United States.",
+              "faith": "A devout Southern Baptist whose faith shaped every aspect of his business. Chick-fil-A has been closed on Sundays since its founding so employees can attend church. Cathy taught Sunday school for over 50 years and established the WinShape Foundation for foster care and scholarships.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "S. Truett Cathy — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/S._Truett_Cathy",
+                  "note": "Biography of the Chick-fil-A founder"
+                },
+                {
+                  "type": "book",
+                  "title": "Eat Mor Chikin: Inspire More People",
+                  "note": "By S. Truett Cathy. His story of building Chick-fil-A on Christian principles"
+                },
+                {
+                  "type": "website",
+                  "title": "WinShape Foundation",
+                  "url": "https://www.winshape.org/",
+                  "note": "The charitable foundation Cathy established"
+                }
+              ]
+            },
+            {
+              "name": "Dan Cathy",
+              "years": "1953-present",
+              "title": "Chairman of Chick-fil-A",
+              "bio": "American businessman who served as CEO (2013-2021) and now chairman of Chick-fil-A. Son of founder S. Truett Cathy.",
+              "faith": "Like his father, Dan Cathy is an outspoken Christian who has publicly affirmed the company's biblical values. He has spoken about operating the business according to biblical principles and continues the tradition of closing on Sundays.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Dan Cathy — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Dan_Cathy",
+                  "note": "Biography of the Chick-fil-A chairman"
+                }
+              ]
+            },
+            {
+              "name": "Henry Kaestner",
+              "years": "1970s-present",
+              "title": "Co-founder of Bandwidth.com & Sovereign's Capital",
+              "bio": "American entrepreneur, investor, and co-founder of Bandwidth.com (a publicly traded communications platform) and Sovereign's Capital, a faith-driven investing firm.",
+              "faith": "Kaestner is a vocal Christian who co-hosts the 'Faith Driven Entrepreneur' podcast and movement, which encourages Christians to view business as a calling. He has spoken extensively about integrating faith with entrepreneurship and investing.",
+              "videos": [
+                {
+                  "title": "Henry Kaestner - Faith Driven Entrepreneur",
+                  "url": "https://www.youtube.com/results?search_query=henry+kaestner+faith+driven+entrepreneur",
+                  "platform": "youtube",
+                  "note": "Kaestner's Faith Driven Entrepreneur content is widely available"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Faith Driven Entrepreneur",
+                  "url": "https://www.faithdrivenentrepreneur.org/",
+                  "note": "The movement Kaestner co-founded for Christian entrepreneurs"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Henry Kaestner — Faith Driven Investing",
+                  "url": "https://www.youtube.com/results?search_query=henry+kaestner+faith+driven+entrepreneur+podcast",
+                  "note": "Podcast and talks about faith in business"
+                }
+              ]
+            },
+            {
+              "name": "John D. Beckett",
+              "years": "1938-present",
+              "title": "Chairman of R.W. Beckett Corporation",
+              "bio": "American businessman and author who has led the R.W. Beckett Corporation, a leading manufacturer of heating components, since 1965.",
+              "faith": "Author of 'Loving Monday: Succeeding in Business Without Selling Your Soul,' Beckett has been a prominent voice for faith in the workplace. He has spoken about applying Christian principles to business leadership for decades.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Loving Monday: Succeeding in Business Without Selling Your Soul",
+                  "note": "By John D. Beckett. His vision for integrating faith and work"
+                }
+              ]
+            },
+            {
+              "name": "Norm Miller",
+              "years": "1933-present",
+              "title": "Chairman of Interstate Batteries",
+              "bio": "American businessman who has served as chairman of Interstate Batteries, the top-selling replacement battery brand in North America.",
+              "faith": "Miller is an outspoken Christian who credits his faith with saving him from alcoholism. Interstate Batteries' corporate mission includes honoring God, and the company has prominently featured Christian messaging, including placing 'I Am Second' on NASCAR cars.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Interstate Batteries — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Interstate_Batteries",
+                  "note": "About the company and its faith-based corporate mission"
+                },
+                {
+                  "type": "website",
+                  "title": "I Am Second",
+                  "url": "https://www.iamsecond.com/",
+                  "note": "The testimony campaign Miller championed through NASCAR"
+                }
+              ]
+            },
+            {
+              "name": "Horst Schulze",
+              "years": "1939-present",
+              "title": "Co-founder of The Ritz-Carlton Hotel Company",
+              "bio": "German-American hotelier and co-founder of The Ritz-Carlton Hotel Company. Later founded Capella Hotel Group. Known as a pioneer of luxury hospitality.",
+              "faith": "A committed Christian who has spoken about how his faith informs his approach to servant leadership. He has said that the Christian call to serve others is the foundation of true hospitality and excellence in business.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Horst Schulze — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Horst_Schulze_(hotelier)",
+                  "note": "Biography of the Ritz-Carlton co-founder"
+                },
+                {
+                  "type": "book",
+                  "title": "Excellence Wins: A No-Nonsense Guide to Becoming the Best in a World of Compromise",
+                  "note": "By Horst Schulze. His philosophy of servant leadership rooted in faith"
+                }
+              ]
+            },
+            {
+              "name": "Cheryl Bachelder",
+              "years": "1956-present",
+              "title": "Former CEO of Popeyes Louisiana Kitchen",
+              "bio": "American businesswoman who served as CEO of Popeyes Louisiana Kitchen from 2007 to 2017, overseeing a dramatic turnaround that tripled the company's value.",
+              "faith": "A devoted Christian who wrote 'Dare to Serve: How to Drive Superior Results by Serving Others,' a book about servant leadership grounded in her faith. She has spoken at faith-based leadership conferences about following Christ in the corporate world.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "Dare to Serve: How to Drive Superior Results by Serving Others",
+                  "note": "By Cheryl Bachelder. Her account of faith-driven servant leadership at Popeyes"
+                }
+              ]
+            },
+            {
+              "name": "Jack Welch",
+              "years": "1935-2020",
+              "title": "Former CEO of General Electric",
+              "bio": "American businessman and chemical engineer who served as CEO of General Electric from 1981 to 2001. Under his leadership, GE's value grew by 4,000%.",
+              "faith": "Welch was a practicing Catholic who attended Mass regularly. While not as publicly vocal about faith as some others, he was known for his Catholic upbringing and values that shaped his leadership style.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jack Welch — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jack_Welch",
+                  "note": "Biography of the legendary GE CEO"
+                }
+              ]
+            },
+            {
+              "name": "Fred Smith",
+              "years": "1944-present",
+              "title": "Founder of FedEx",
+              "bio": "American businessman who founded Federal Express (FedEx) in 1971. He served as CEO until 2022 and executive chairman until 2024.",
+              "faith": "A practicing Christian who has been a member of various church communities. He has attributed his perseverance through FedEx's early financial crises to his faith and determination.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Fred Smith (businessman) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Fred_Smith_(businessman)",
+                  "note": "Biography of the FedEx founder"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scientists-living",
+          "name": "Scientists & Academics",
+          "people": [
+            {
+              "name": "James Tour",
+              "years": "1959-present",
+              "title": "Chemist & Nanotechnologist",
+              "bio": "American chemist and nanotechnologist at Rice University, one of the world's leading synthetic chemists. Named among 'The 50 Most Influential Scientists in the World Today.'",
+              "faith": "A Messianic Jewish believer in Jesus who is outspoken about his faith. Tour has given numerous talks on the intersection of science and faith, has challenged abiogenesis claims, and has shared his testimony widely. He has said, 'I stand in awe of God because of what He has done through His creation.'",
+              "videos": [
+                {
+                  "title": "James Tour Testimony & Science and Faith",
+                  "url": "https://www.youtube.com/results?search_query=james+tour+testimony+christian+faith+science",
+                  "platform": "youtube",
+                  "note": "Tour has extensive YouTube content on science and faith"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "James Tour — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/James_Tour",
+                  "note": "Biography of the Rice University chemist"
+                },
+                {
+                  "type": "youtube",
+                  "title": "James Tour — The Origin of Life Has Not Been Explained",
+                  "url": "https://www.youtube.com/results?search_query=james+tour+origin+of+life+abiogenesis",
+                  "note": "Tour's scientific critiques of abiogenesis"
+                },
+                {
+                  "type": "youtube",
+                  "title": "James Tour — Personal Testimony",
+                  "url": "https://www.youtube.com/results?search_query=james+tour+personal+testimony+messianic+jewish",
+                  "note": "His testimony as a Messianic Jewish believer"
+                }
+              ]
+            },
+            {
+              "name": "John Lennox",
+              "years": "1943-present",
+              "title": "Mathematician & Apologist",
+              "bio": "Northern Irish mathematician, bioethicist, and Christian apologist. Emeritus Professor of Mathematics at the University of Oxford. Known for debates with Richard Dawkins and Christopher Hitchens.",
+              "faith": "Lennox is one of the most prominent Christian apologists in the academic world. He has debated leading atheists and written numerous books defending the Christian faith, including 'God's Undertaker: Has Science Buried God?' and 'Can Science Explain Everything?'",
+              "videos": [
+                {
+                  "title": "John Lennox vs Richard Dawkins Debate",
+                  "url": "https://www.youtube.com/results?search_query=john+lennox+richard+dawkins+debate+god+delusion",
+                  "platform": "youtube",
+                  "note": "Lennox's debates with Dawkins and Hitchens are widely available"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "John Lennox — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/John_Lennox",
+                  "note": "Biography of the Oxford mathematician and apologist"
+                },
+                {
+                  "type": "book",
+                  "title": "God's Undertaker: Has Science Buried God?",
+                  "note": "By John Lennox. His case that science points to God"
+                },
+                {
+                  "type": "book",
+                  "title": "Can Science Explain Everything?",
+                  "note": "By John Lennox. Accessible defense of faith and science"
+                },
+                {
+                  "type": "youtube",
+                  "title": "John Lennox vs Christopher Hitchens Debate",
+                  "url": "https://www.youtube.com/results?search_query=john+lennox+christopher+hitchens+debate",
+                  "note": "Lennox debating one of the 'New Atheists'"
+                }
+              ]
+            },
+            {
+              "name": "Rosalind Picard",
+              "years": "1962-present",
+              "title": "Computer Scientist & Engineer",
+              "bio": "American scholar and inventor who is founder and director of the Affective Computing Research Group at MIT Media Lab. Pioneer in affective computing and wearable technology.",
+              "faith": "Picard became a Christian as an adult after being challenged to read the Bible. She has spoken about how her scientific career and faith journey intertwine, and has given talks about being a Christian in the scientific academy.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Rosalind Picard — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Rosalind_Picard",
+                  "note": "Biography of the MIT affective computing pioneer"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Rosalind Picard — From Atheism to Faith at MIT",
+                  "url": "https://www.youtube.com/results?search_query=rosalind+picard+christian+faith+mit+testimony",
+                  "note": "Picard's testimony about becoming a Christian as a scientist"
+                }
+              ]
+            },
+            {
+              "name": "William D. Phillips",
+              "years": "1948-present",
+              "title": "Physicist & Nobel Laureate",
+              "bio": "American physicist who was awarded the Nobel Prize in Physics in 1997 for development of methods to cool and trap atoms with laser light.",
+              "faith": "A practicing Methodist who has spoken about the compatibility of science and faith. He has said, 'I believe in God. In fact, I believe in a personal God who acts in and interacts with the creation.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "William Daniel Phillips — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
+                  "note": "Biography of the Nobel laureate physicist"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "military-political",
+      "name": "Military Leaders & Politicians",
+      "description": "Military operators, veterans, and political leaders who publicly profess their Christian faith",
+      "subcategories": [
+        {
+          "id": "military",
+          "name": "Military Leaders",
+          "people": [
+            {
+              "name": "Pete Hegseth",
+              "years": "1980-present",
+              "title": "U.S. Secretary of Defense & Army Veteran",
+              "bio": "American government official and former Fox News host serving as the 29th United States Secretary of Defense. Army National Guard officer (Major) who served in Iraq and Afghanistan, earning two Bronze Stars and a Combat Infantryman Badge.",
+              "faith": "An outspoken evangelical Christian who has spoken extensively about the importance of faith in the military and American life. He has discussed his personal relationship with Christ in interviews and in his books.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Pete Hegseth — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+                  "note": "Biography including his military service and faith"
+                },
+                {
+                  "type": "book",
+                  "title": "American Crusade: Our Fight to Stay Free",
+                  "note": "By Pete Hegseth. His book discussing faith, freedom, and American values"
+                }
+              ]
+            },
+            {
+              "name": "Chad Williams",
+              "years": "1986-present",
+              "title": "Former Navy SEAL & Evangelist",
+              "bio": "American former Navy SEAL who served in Iraq. After leaving the military, he became a full-time evangelist and author of 'SEAL of God.'",
+              "faith": "Williams went from a rebellious youth to the Navy SEALs and then to Christ. He was profoundly impacted by the death of his SEAL mentor Scott Helvenston in the Fallujah ambush. He now travels the world sharing the gospel as an evangelist.",
+              "videos": [
+                {
+                  "title": "Chad Williams - SEAL of God Testimony",
+                  "url": "https://www.youtube.com/results?search_query=chad+williams+navy+seal+testimony+seal+of+god",
+                  "platform": "youtube",
+                  "note": "Williams has widely shared his testimony from SEAL to evangelist"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "SEAL of God",
+                  "note": "By Chad Williams. His journey from Navy SEAL to evangelist"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Chad Williams — From Navy SEAL to Evangelist",
+                  "url": "https://www.youtube.com/results?search_query=chad+williams+navy+seal+of+god+testimony",
+                  "note": "His powerful conversion testimony"
+                }
+              ]
+            },
+            {
+              "name": "Jeff Struecker",
+              "years": "1969-present",
+              "title": "Former Army Ranger & Pastor",
+              "bio": "American former Army Ranger who served in the Battle of Mogadishu (depicted in 'Black Hawk Down'). Retired as a Chaplain (Major). Now serves as a pastor and seminary professor.",
+              "faith": "Struecker's faith was tested in combat during the Battle of Mogadishu, where he led convoys through enemy fire. He became an Army chaplain and now pastors a church in Georgia. He has spoken extensively about how faith sustained him in combat.",
+              "videos": [
+                {
+                  "title": "Jeff Struecker - Black Hawk Down Faith Story",
+                  "url": "https://www.youtube.com/results?search_query=jeff+struecker+black+hawk+down+testimony+faith",
+                  "platform": "youtube",
+                  "note": "Struecker has shared his combat faith testimony widely"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Jeff Struecker — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Jeff_Struecker",
+                  "note": "Biography of the Black Hawk Down veteran turned pastor"
+                },
+                {
+                  "type": "book",
+                  "title": "The Road to Unafraid",
+                  "note": "By Jeff Struecker. His account of faith under fire in Mogadishu"
+                }
+              ]
+            },
+            {
+              "name": "Oliver North",
+              "years": "1943-present",
+              "title": "Marine Corps Lieutenant Colonel (Ret.) & Author",
+              "bio": "American political commentator, television host, military historian, and former Marine Corps Lieutenant Colonel. Former president of the NRA.",
+              "faith": "North has been vocal about his Christian faith throughout his public life. He has spoken at churches and faith-based events about how his relationship with God has guided his decisions in military service and public life.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Oliver North — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Oliver_North",
+                  "note": "Biography of the Marine and political figure"
+                }
+              ]
+            },
+            {
+              "name": "Desmond Doss",
+              "years": "1919-2006",
+              "title": "Army Medic & Medal of Honor Recipient",
+              "bio": "American Army corporal who served as a combat medic in World War II. He was the first conscientious objector to receive the Medal of Honor, saving 75 men at the Battle of Okinawa without carrying a weapon.",
+              "faith": "A devout Seventh-day Adventist whose Christian convictions led him to refuse to carry a weapon or work on Saturdays. Despite ridicule and persecution from fellow soldiers, his extraordinary bravery and faith under fire earned him the Medal of Honor. His story was told in the film 'Hacksaw Ridge.'",
+              "videos": [
+                {
+                  "title": "Desmond Doss - The Real Hacksaw Ridge",
+                  "url": "https://www.youtube.com/results?search_query=desmond+doss+hacksaw+ridge+real+story+testimony",
+                  "platform": "youtube",
+                  "note": "Multiple documentaries about Doss's faith and heroism exist"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Desmond Doss — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Desmond_Doss",
+                  "note": "Biography of the conscientious objector Medal of Honor recipient"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Hacksaw Ridge — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Hacksaw_Ridge",
+                  "note": "The 2016 film based on Doss's story, directed by Mel Gibson"
+                },
+                {
+                  "type": "book",
+                  "title": "Desmond Doss: Conscientious Objector",
+                  "note": "By Frances Doss. Biography by his first wife"
+                }
+              ]
+            },
+            {
+              "name": "Alvin York",
+              "years": "1887-1964",
+              "title": "World War I Medal of Honor Recipient",
+              "bio": "American soldier and one of the most decorated soldiers of World War I. He received the Medal of Honor for leading an attack that killed 25 Germans and captured 132 prisoners.",
+              "faith": "Initially a conscientious objector due to his Christian faith, York struggled with the morality of war before serving. After the war, he used his fame to establish schools and agricultural programs in his rural Tennessee community. His story was told in the 1941 film 'Sergeant York.'",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Alvin York — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Alvin_C._York",
+                  "note": "Biography of the WWI hero"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Sergeant York (film) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Sergeant_York_(film)",
+                  "note": "The 1941 film starring Gary Cooper"
+                }
+              ]
+            },
+            {
+              "name": "Jason Redman",
+              "years": "1975-present",
+              "title": "Former Navy SEAL & Author",
+              "bio": "American retired Navy SEAL lieutenant who was severely wounded in Iraq in 2007. Author of 'The Trident' and motivational speaker known for the viral 'Sign on the Door' at Bethesda Naval Hospital.",
+              "faith": "Redman has spoken about his faith journey through severe combat injuries and recovery. He has discussed how God brought him through his darkest moments and uses his story to inspire others through faith.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "book",
+                  "title": "The Trident: The Forging and Reforging of a Navy SEAL Leader",
+                  "note": "By Jason Redman. His account of combat, injury, and recovery through faith"
+                }
+              ]
+            },
+            {
+              "name": "Marcus Luttrell",
+              "years": "1975-present",
+              "title": "Former Navy SEAL & Author",
+              "bio": "American retired Navy SEAL who was the lone survivor of Operation Red Wings in Afghanistan in 2005. Author of 'Lone Survivor,' which was adapted into a major film.",
+              "faith": "Luttrell has spoken about his faith as sustaining him during the harrowing experience in Afghanistan where his entire team was killed. He has credited God with his survival and has shared his story at faith-based events.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Marcus Luttrell — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Marcus_Luttrell",
+                  "note": "Biography of the Lone Survivor"
+                },
+                {
+                  "type": "book",
+                  "title": "Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10",
+                  "note": "By Marcus Luttrell. His account of survival through faith and determination"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Lone Survivor (film) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Lone_Survivor_(film)",
+                  "note": "The 2013 film adaptation starring Mark Wahlberg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "politicians",
+          "name": "Politicians & Public Servants",
+          "people": [
+            {
+              "name": "Mike Pence",
+              "years": "1959-present",
+              "title": "48th Vice President of the United States",
+              "bio": "American politician, lawyer, and former broadcaster who served as the 48th Vice President of the United States (2017-2021) and 50th Governor of Indiana (2013-2017).",
+              "faith": "Pence describes himself as 'a Christian, a conservative, and a Republican, in that order.' He became an evangelical Christian in college and has been vocal about how his faith guides his political decisions and personal life.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Mike Pence — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Mike_Pence",
+                  "note": "Biography of the 48th Vice President"
+                }
+              ]
+            },
+            {
+              "name": "Ben Carson",
+              "years": "1951-present",
+              "title": "Neurosurgeon & Former HUD Secretary",
+              "bio": "American neurosurgeon and politician who served as the 17th Secretary of Housing and Urban Development (2017-2021). Pioneer in neurosurgery who performed the first successful separation of conjoined twins joined at the head.",
+              "faith": "A devout Seventh-day Adventist who has spoken extensively about how God guided his journey from poverty in Detroit to becoming one of the world's leading neurosurgeons. His autobiography 'Gifted Hands' details his faith journey.",
+              "videos": [
+                {
+                  "title": "Ben Carson - Gifted Hands Testimony",
+                  "url": "https://www.youtube.com/results?search_query=ben+carson+gifted+hands+testimony+faith+christian",
+                  "platform": "youtube",
+                  "note": "Carson's story of faith from poverty to neurosurgery is widely shared"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Ben Carson — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Ben_Carson",
+                  "note": "Biography of the neurosurgeon and public servant"
+                },
+                {
+                  "type": "book",
+                  "title": "Gifted Hands: The Ben Carson Story",
+                  "note": "By Ben Carson. His autobiography about faith, poverty, and becoming a neurosurgeon"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Gifted Hands (film) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Gifted_Hands:_The_Ben_Carson_Story_(film)",
+                  "note": "TV film starring Cuba Gooding Jr. as Carson"
+                }
+              ]
+            },
+            {
+              "name": "Tim Scott",
+              "years": "1965-present",
+              "title": "U.S. Senator",
+              "bio": "American politician serving as the junior United States Senator from South Carolina. The first African American U.S. Senator from a Southern state since Reconstruction.",
+              "faith": "An evangelical Christian who has spoken openly about how a Chick-fil-A franchise owner mentored him and helped shape his faith as a teenager. He frequently references his Christian faith in public remarks and has spoken about God's role in his life journey.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Tim Scott — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Tim_Scott",
+                  "note": "Biography of the South Carolina senator"
+                }
+              ]
+            },
+            {
+              "name": "Mike Pompeo",
+              "years": "1963-present",
+              "title": "Former Secretary of State & CIA Director",
+              "bio": "American politician, diplomat, and businessman who served as the 70th Secretary of State and Director of the CIA. West Point graduate.",
+              "faith": "An evangelical Presbyterian who has been open about how his Christian faith informs his worldview and policy positions. He has spoken at faith-based events about the role of Christianity in public service.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Mike Pompeo — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Mike_Pompeo",
+                  "note": "Biography of the former Secretary of State"
+                }
+              ]
+            },
+            {
+              "name": "William Wilberforce",
+              "years": "1759-1833",
+              "title": "British Parliamentarian & Abolitionist",
+              "bio": "See entry in Historical Biographies - Reformers & Theologians. Included here as cross-reference for his political significance.",
+              "faith": "Cross-reference: see Historical Biographies.",
+              "videos": [],
+              "crossRef": "historical-biographies/reformers-theologians",
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "William Wilberforce — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/William_Wilberforce",
+                  "note": "See full entry in Reformers & Theologians"
+                }
+              ]
+            },
+            {
+              "name": "Abraham Lincoln",
+              "years": "1809-1865",
+              "title": "16th President of the United States",
+              "bio": "American statesman and lawyer who served as the 16th President of the United States. Led the nation through the Civil War and abolished slavery with the Emancipation Proclamation and 13th Amendment.",
+              "faith": "While Lincoln's faith journey was complex, he became increasingly devout during the Civil War. His Second Inaugural Address is one of the most theologically profound presidential speeches in American history, reflecting deeply on God's purposes in the war and quoting Scripture.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Abraham Lincoln — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+                  "note": "Comprehensive biography of the 16th President"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Religious views of Abraham Lincoln — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Religious_views_of_Abraham_Lincoln",
+                  "note": "Detailed analysis of Lincoln's evolving faith"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Abraham Lincoln's second inaugural address — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln%27s_second_inaugural_address",
+                  "note": "His theologically profound address about God's purposes in the Civil War"
+                }
+              ]
+            },
+            {
+              "name": "George Washington",
+              "years": "1732-1799",
+              "title": "1st President of the United States",
+              "bio": "American military officer, statesman, and Founding Father who served as the first President of the United States and commander-in-chief of the Continental Army during the Revolutionary War.",
+              "faith": "An Anglican/Episcopalian who frequently referenced Providence and God in his writings and speeches. His personal prayer journal was discovered after his death. He established the tradition of adding 'so help me God' to the presidential oath and attended church regularly.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "George Washington — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/George_Washington",
+                  "note": "Comprehensive biography of the first President"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Religious views of George Washington — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Religious_views_of_George_Washington",
+                  "note": "Analysis of Washington's Anglican faith and references to Providence"
+                }
+              ]
+            },
+            {
+              "name": "Marco Rubio",
+              "years": "1971-present",
+              "title": "U.S. Secretary of State",
+              "bio": "American politician and attorney serving as the 72nd United States Secretary of State. Previously served as a United States Senator from Florida.",
+              "faith": "Rubio has been open about his Christian faith journey, having been baptized as a Mormon, returned to Catholicism, attended a Southern Baptist church, and settled back in the Catholic Church. He frequently posts Bible verses on social media and has spoken about the importance of faith.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Marco Rubio — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Marco_Rubio",
+                  "note": "Biography including his faith journey through multiple denominations"
+                }
+              ]
+            },
+            {
+              "name": "Charlie Kirk",
+              "years": "1993-2025",
+              "title": "Political Activist, Author & Founder of Turning Point USA",
+              "bio": "American conservative political activist, author, and media personality who founded Turning Point USA in 2012 at age 18. The organization grew into one of the largest conservative youth organizations in America. He hosted 'The Charlie Kirk Show' and was a prominent figure in the conservative movement. He was assassinated on September 10, 2025, and posthumously awarded the Presidential Medal of Freedom.",
+              "faith": "Kirk was an outspoken Christian who frequently spoke about biblical values, the importance of faith in public life, and the intersection of Christianity and politics. He hosted faith-based events through Turning Point and advocated for religious liberty. He spoke at churches and Christian conferences about defending the faith in the public square.",
+              "videos": [
+                {
+                  "title": "Charlie Kirk — Faith, Freedom, and America",
+                  "url": "https://www.youtube.com/results?search_query=charlie+kirk+christian+faith+god+bible+speech",
+                  "platform": "youtube",
+                  "note": "Kirk discussing faith and biblical values at events"
+                }
+              ],
+              "sources": [
+                {
+                  "type": "wikipedia",
+                  "title": "Charlie Kirk (activist) — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Charlie_Kirk_(activist)",
+                  "note": "Biography of the TPUSA founder, including his Christian nationalism movement"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Turning Point USA — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Turning_Point_USA",
+                  "note": "The conservative youth organization Kirk founded"
+                },
+                {
+                  "type": "wikipedia",
+                  "title": "Assassination of Charlie Kirk — Wikipedia",
+                  "url": "https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk",
+                  "note": "Details of his assassination on September 10, 2025"
+                },
+                {
+                  "type": "youtube",
+                  "title": "Charlie Kirk — The Charlie Kirk Show",
+                  "url": "https://www.youtube.com/results?search_query=charlie+kirk+show+faith+christian+values",
+                  "note": "His media platform where he frequently discussed faith"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "videoResources": {
+    "description": "Curated video resources for evangelism and testimony",
+    "collections": [
+      {
+        "name": "I Am Second",
+        "description": "Personal testimony videos from athletes, musicians, and celebrities who put Jesus first",
+        "url": "https://www.iamsecond.com/",
+        "platform": "web",
+        "note": "Features testimonies from many notable Christians"
+      },
+      {
+        "name": "Living Waters - Are You a Good Person?",
+        "description": "Street evangelism videos by Ray Comfort using the law to bring knowledge of sin",
+        "url": "https://www.youtube.com/results?search_query=living+waters+ray+comfort+are+you+a+good+person",
+        "platform": "youtube",
+        "note": "Excellent evangelism tool showing people their need for a Savior"
+      },
+      {
+        "name": "I'll Be Honest - Testimonies",
+        "description": "Collection of honest, raw testimony videos from believers",
+        "url": "https://www.youtube.com/results?search_query=ill+be+honest+testimony",
+        "platform": "youtube",
+        "note": "Powerful short-form testimony videos"
+      },
+      {
+        "name": "Desiring God Testimonies",
+        "description": "Testimonies and teaching from John Piper and Desiring God ministry",
+        "url": "https://www.youtube.com/results?search_query=desiring+god+testimony+john+piper",
+        "platform": "youtube",
+        "note": "Reformed theology perspective on Christian living"
+      }
+    ]
+  }
+}

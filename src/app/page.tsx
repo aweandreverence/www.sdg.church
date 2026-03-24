@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { getTestimonies } from '@/lib/data';
-import { BibleRef } from '@/components/BibleRef';
 import { VideoCard } from '@/components/VideoCard';
 import styles from '@styles/common.module.scss';
 
@@ -24,8 +23,7 @@ export default function HomePage() {
             Lamb.&rsquo;&rdquo;
           </p>
           <span className={styles.heroRef}>
-            — <BibleRef reference="Revelation 7:9-10" className={styles.heroRefLink} />
-            {' '}(NASB)
+            — Revelation 7:9-10 (NASB)
           </span>
         </div>
       </div>
@@ -88,7 +86,7 @@ export default function HomePage() {
                 is day; night is coming when no one can work.&rdquo;
               </blockquote>
               <p className={styles.passageRef}>
-                — <BibleRef reference="John 9:4" className={styles.heroRefLink} />
+                — John 9:4
               </p>
               <p className={styles.urgencyText}>
                 There is an urgency to the gospel. God&apos;s offer of salvation
