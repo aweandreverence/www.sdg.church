@@ -1,23 +1,34 @@
 {
-  "name": "Mike Pompeo",
-  "years": "December 30, 1963 – present",
-  "title": "Former Secretary of State & CIA Director",
-  "bio": "American politician, diplomat, and businessman who served as the 70th Secretary of State and Director of the CIA. West Point graduate.",
-  "faith": "An evangelical Presbyterian who has been open about how his Christian faith informs his worldview and policy positions. He has spoken at faith-based events about the role of Christianity in public service.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Mike Pompeo — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mike_Pompeo",
-      "note": "Biography of the former Secretary of State"
+    "name": "Mike Pompeo",
+    "years": "December 30, 1963 – present",
+    "title": "Former Secretary of State & CIA Director",
+    "bio": "American politician, diplomat, and businessman who served as the 70th Secretary of State and Director of the CIA. West Point graduate.",
+    "faith": "An evangelical Presbyterian who has been open about how his Christian faith informs his worldview and policy positions. He has spoken at faith-based events about the role of Christianity in public service.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Mike Pompeo — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mike_Pompeo",
+            "note": "Biography of the former Secretary of State"
+        },
+        {
+            "type": "interview",
+            "title": "Mike Pompeo on Faith in Public Life",
+            "url": "https://www.washingtonexaminer.com/news/mike-pompeo-reflects-on-faith-and-foreign-policy",
+            "note": "Interview exploring Pompeo's evangelical Christian faith and how it informed his approach to foreign policy and religious freedom advocacy"
+        },
+        {
+            "type": "book",
+            "title": "Never Give an Inch by Mike Pompeo",
+            "note": "Pompeo's memoir discussing his faith foundation and how Christian convictions shaped his service as CIA Director and Secretary of State"
+        }
+    ],
+    "slug": "mike-pompeo",
+    "tagline": "Served as Secretary of State guided by a biblical worldview",
+    "image": "/images/bios/mike-pompeo.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/Mike_Pompeo",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "mike-pompeo",
-  "tagline": "Served as Secretary of State guided by a biblical worldview",
-  "image": "/images/bios/mike-pompeo.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/Mike_Pompeo",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

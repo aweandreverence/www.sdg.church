@@ -1,23 +1,28 @@
 {
-  "name": "Bernhard Riemann",
-  "years": "September 17, 1826 – July 20, 1866",
-  "title": "Mathematician",
-  "bio": "German mathematician who made lasting contributions to analysis, number theory, and differential geometry, including the Riemann hypothesis and Riemannian geometry (which provided the mathematical foundation for Einstein's general relativity).",
-  "faith": "The son of a Lutheran pastor, Riemann was a devout Christian throughout his life. He originally planned to study theology before pursuing mathematics.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Bernhard Riemann — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
-      "note": "Biography including his pastoral family background and original intent to study theology"
+    "name": "Bernhard Riemann",
+    "years": "September 17, 1826 – July 20, 1866",
+    "title": "Mathematician",
+    "bio": "German mathematician who made lasting contributions to analysis, number theory, and differential geometry, including the Riemann hypothesis and Riemannian geometry (which provided the mathematical foundation for Einstein's general relativity).",
+    "faith": "The son of a Lutheran pastor, Riemann was a devout Christian throughout his life. He originally planned to study theology before pursuing mathematics.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Bernhard Riemann — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
+            "note": "Biography including his pastoral family background and original intent to study theology"
+        },
+        {
+            "type": "article",
+            "title": "Bernhard Riemann: Turning Points in the Conception of Mathematics — Detlef Laugwitz",
+            "note": "Mathematical biography noting Riemann's deep Lutheran piety — the son of a pastor, he nearly entered the ministry himself before choosing mathematics"
+        }
+    ],
+    "slug": "bernhard-riemann",
+    "tagline": "Laid the foundations for Einstein's relativity while trusting in God's Word",
+    "image": "/images/bios/bernhard-riemann.jpg",
+    "imageAttribution": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/440px-Georg_Friedrich_Bernhard_Riemann.jpeg",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "bernhard-riemann",
-  "tagline": "Laid the foundations for Einstein's relativity while trusting in God's Word",
-  "image": "/images/bios/bernhard-riemann.jpg",
-  "imageAttribution": {
-    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/440px-Georg_Friedrich_Bernhard_Riemann.jpeg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

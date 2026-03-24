@@ -1,23 +1,34 @@
 {
-  "name": "Henry Parsons Crowell",
-  "years": "January 27, 1855 – October 24, 1943",
-  "title": "Businessman & Philanthropist",
-  "bio": "American businessman who built Quaker Oats into a national brand through innovative marketing. One of the first to use mass advertising, branded packaging, and product sampling.",
-  "faith": "Crowell served as chairman of the board of Moody Bible Institute for over 40 years. He devoted his business acumen to funding Christian education and missions. He once said: 'I believe my money-making is a gift from God, and I am under obligation to use it in His service.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Crowell — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Henry_Parsons_Crowell",
-      "note": "Quaker Oats founder and Moody patron"
+    "name": "Henry Parsons Crowell",
+    "years": "January 27, 1855 – October 24, 1943",
+    "title": "Businessman & Philanthropist",
+    "bio": "American businessman who built Quaker Oats into a national brand through innovative marketing. One of the first to use mass advertising, branded packaging, and product sampling.",
+    "faith": "Crowell served as chairman of the board of Moody Bible Institute for over 40 years. He devoted his business acumen to funding Christian education and missions. He once said: 'I believe my money-making is a gift from God, and I am under obligation to use it in His service.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Crowell — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Henry_Parsons_Crowell",
+            "note": "Quaker Oats founder and Moody patron"
+        },
+        {
+            "type": "book",
+            "title": "Cereal Tycoon: Henry Parsons Crowell — Founder of the Quaker Oats Company by Joe Musser",
+            "note": "Biography of Crowell's faith journey, his 40-year presidency of Moody Bible Institute board, and his dedication of 60-70% of income to Christian causes"
+        },
+        {
+            "type": "article",
+            "title": "Henry Parsons Crowell and the Moody Bible Institute",
+            "url": "https://www.moodybible.org/about/our-history/",
+            "note": "Crowell served as chairman of Moody Bible Institute for over 40 years, channeling his Quaker Oats fortune into Christian education"
+        }
+    ],
+    "slug": "henry-parsons-crowell",
+    "tagline": "Built Quaker Oats — funded Moody Bible Institute for 40 years",
+    "image": "/images/placeholder-saint.svg",
+    "imageAttribution": {
+        "source": "",
+        "license": ""
     }
-  ],
-  "slug": "henry-parsons-crowell",
-  "tagline": "Built Quaker Oats — funded Moody Bible Institute for 40 years",
-  "image": "/images/placeholder-saint.svg",
-  "imageAttribution": {
-    "source": "",
-    "license": ""
-  }
 }

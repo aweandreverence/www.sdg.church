@@ -1,23 +1,34 @@
 {
-  "name": "Sun Yat-sen",
-  "years": "November 12, 1866 – March 12, 1925",
-  "title": "Revolutionary & Father of Modern China",
-  "bio": "Chinese revolutionary and political leader who served as the first president of the Republic of China. Known as the 'Father of the Nation,' he overthrew the Qing dynasty and established a republic.",
-  "faith": "Sun was baptized as a Christian in Hong Kong in 1883 and credited Christianity as a driving force behind his revolutionary ideals of equality and justice. He said: 'I am a follower of Jesus Christ. The Revolution has its origins in Christianity.' His Three Principles of the People were influenced by Christian ethics.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Sun Yat-sen — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
-      "note": "Father of the Republic of China"
+    "name": "Sun Yat-sen",
+    "years": "November 12, 1866 – March 12, 1925",
+    "title": "Revolutionary & Father of Modern China",
+    "bio": "Chinese revolutionary and political leader who served as the first president of the Republic of China. Known as the 'Father of the Nation,' he overthrew the Qing dynasty and established a republic.",
+    "faith": "Sun was baptized as a Christian in Hong Kong in 1883 and credited Christianity as a driving force behind his revolutionary ideals of equality and justice. He said: 'I am a follower of Jesus Christ. The Revolution has its origins in Christianity.' His Three Principles of the People were influenced by Christian ethics.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Sun Yat-sen — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
+            "note": "Father of the Republic of China"
+        },
+        {
+            "type": "article",
+            "title": "Sun Yat-sen's Christian Faith and the Revolution",
+            "url": "https://www.christianitytoday.com/history/people/rulers/sun-yat-sen.html",
+            "note": "Overview of Sun Yat-sen's baptism in Hong Kong (1884) and how Christian ideals shaped his Three Principles of the People"
+        },
+        {
+            "type": "book",
+            "title": "Memoirs of a Chinese Revolutionary by Sun Yat-sen",
+            "note": "Sun's own account of his life, including references to his Christian faith and its influence on his revolutionary vision"
+        }
+    ],
+    "slug": "sun-yat-sen",
+    "tagline": "The Revolution has its origins in Christianity",
+    "image": "/images/bios/sun-yat-sen.jpg",
+    "imageAttribution": {
+        "source": "Historical photograph",
+        "license": "Public domain"
     }
-  ],
-  "slug": "sun-yat-sen",
-  "tagline": "The Revolution has its origins in Christianity",
-  "image": "/images/bios/sun-yat-sen.jpg",
-  "imageAttribution": {
-    "source": "Historical photograph",
-    "license": "Public domain"
-  }
 }

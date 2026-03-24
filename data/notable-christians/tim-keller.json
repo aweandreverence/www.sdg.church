@@ -1,23 +1,34 @@
 {
-  "name": "Tim Keller",
-  "years": "September 23, 1950 – May 19, 2023",
-  "title": "Pastor, Author & Apologist",
-  "bio": "Founding pastor of Redeemer Presbyterian Church in Manhattan, which grew from a small group to over 5,000 members. Author of The Reason for God, The Prodigal God, and numerous other influential books bridging Reformed theology and urban culture.",
-  "faith": "Keller made Reformed theology accessible to skeptics and seekers in one of the most secular cities in America. He demonstrated that rigorous theological thinking and compassionate cultural engagement are not opposites. Near the end of his life, battling cancer, he wrote about his confidence in the resurrection: 'There is no party like the one we are going to.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Keller — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Tim_Keller_(pastor)",
-      "note": "Founding pastor of Redeemer Presbyterian NYC"
+    "name": "Tim Keller",
+    "years": "September 23, 1950 – May 19, 2023",
+    "title": "Pastor, Author & Apologist",
+    "bio": "Founding pastor of Redeemer Presbyterian Church in Manhattan, which grew from a small group to over 5,000 members. Author of The Reason for God, The Prodigal God, and numerous other influential books bridging Reformed theology and urban culture.",
+    "faith": "Keller made Reformed theology accessible to skeptics and seekers in one of the most secular cities in America. He demonstrated that rigorous theological thinking and compassionate cultural engagement are not opposites. Near the end of his life, battling cancer, he wrote about his confidence in the resurrection: 'There is no party like the one we are going to.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Keller — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tim_Keller_(pastor)",
+            "note": "Founding pastor of Redeemer Presbyterian NYC"
+        },
+        {
+            "type": "book",
+            "title": "The Reason for God: Belief in an Age of Skepticism — Timothy Keller",
+            "note": "Keller's bestselling apologetics work addressing doubts about Christianity — draws on his decades of ministry to skeptics in Manhattan"
+        },
+        {
+            "type": "website",
+            "title": "Gospel in Life — Tim Keller Sermons and Resources",
+            "url": "https://gospelinlife.com/",
+            "note": "Archive of Keller's sermons, articles, and teachings from Redeemer Presbyterian Church in New York City"
+        }
+    ],
+    "slug": "tim-keller",
+    "tagline": "There is no party like the one we are going to",
+    "image": "/images/bios/tim-keller.jpg",
+    "imageAttribution": {
+        "source": "Photograph",
+        "license": "CC BY-SA"
     }
-  ],
-  "slug": "tim-keller",
-  "tagline": "There is no party like the one we are going to",
-  "image": "/images/bios/tim-keller.jpg",
-  "imageAttribution": {
-    "source": "Photograph",
-    "license": "CC BY-SA"
-  }
 }

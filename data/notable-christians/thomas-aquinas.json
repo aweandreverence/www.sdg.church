@@ -1,23 +1,35 @@
 {
-  "name": "Thomas Aquinas",
-  "years": "January 28, 1225 – March 7, 1274",
-  "title": "Theologian & Philosopher",
-  "bio": "Italian Dominican friar and the most influential medieval theologian. His Summa Theologica remains one of the greatest works of systematic theology ever written, synthesizing Aristotelian philosophy with Christian doctrine.",
-  "faith": "Aquinas devoted his entire life to understanding and articulating the Christian faith through reason and revelation. Near the end of his life, after a mystical experience during Mass, he stopped writing, saying: 'All that I have written seems like straw compared to what has been revealed to me.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Aquinas — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
-      "note": "Greatest medieval theologian"
+    "name": "Thomas Aquinas",
+    "years": "January 28, 1225 – March 7, 1274",
+    "title": "Theologian & Philosopher",
+    "bio": "Italian Dominican friar and the most influential medieval theologian. His Summa Theologica remains one of the greatest works of systematic theology ever written, synthesizing Aristotelian philosophy with Christian doctrine.",
+    "faith": "Aquinas devoted his entire life to understanding and articulating the Christian faith through reason and revelation. Near the end of his life, after a mystical experience during Mass, he stopped writing, saying: 'All that I have written seems like straw compared to what has been revealed to me.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Aquinas — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+            "note": "Greatest medieval theologian"
+        },
+        {
+            "type": "primary_text",
+            "title": "Summa Theologica — New Advent",
+            "url": "https://www.newadvent.org/summa/",
+            "note": "Aquinas's masterwork of systematic theology, one of the most influential works in Western philosophy and theology"
+        },
+        {
+            "type": "primary_text",
+            "title": "Summa Contra Gentiles — Dominican House of Studies",
+            "url": "https://dhspriory.org/thomas/ContraGentiles.htm",
+            "note": "Aquinas's apologetic work presenting reasoned arguments for the Christian faith"
+        }
+    ],
+    "slug": "thomas-aquinas",
+    "tagline": "All I have written seems like straw compared to what has been revealed",
+    "image": "/images/bios/thomas-aquinas.jpg",
+    "imageAttribution": {
+        "source": "Historical painting",
+        "license": "Public domain"
     }
-  ],
-  "slug": "thomas-aquinas",
-  "tagline": "All I have written seems like straw compared to what has been revealed",
-  "image": "/images/bios/thomas-aquinas.jpg",
-  "imageAttribution": {
-    "source": "Historical painting",
-    "license": "Public domain"
-  }
 }

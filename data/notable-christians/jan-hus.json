@@ -1,23 +1,35 @@
 {
-  "name": "Jan Hus",
-  "years": "c. 1372 – July 6, 1415",
-  "title": "Bohemian Reformer & Martyr",
-  "bio": "Czech priest and reformer who challenged church corruption a century before Luther. Burned at the stake at the Council of Constance after refusing to recant his teachings.",
-  "faith": "Hus preached Scripture's authority over papal decrees and championed preaching in the common tongue. His followers, the Hussites, became forerunners of the Protestant Reformation. He reportedly said at his burning, 'You may roast this goose, but a swan will come whom you will not silence.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Jan Hus — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jan_Hus",
-      "note": "Pre-Reformation Czech reformer"
+    "name": "Jan Hus",
+    "years": "c. 1372 – July 6, 1415",
+    "title": "Bohemian Reformer & Martyr",
+    "bio": "Czech priest and reformer who challenged church corruption a century before Luther. Burned at the stake at the Council of Constance after refusing to recant his teachings.",
+    "faith": "Hus preached Scripture's authority over papal decrees and championed preaching in the common tongue. His followers, the Hussites, became forerunners of the Protestant Reformation. He reportedly said at his burning, 'You may roast this goose, but a swan will come whom you will not silence.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Jan Hus — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jan_Hus",
+            "note": "Pre-Reformation Czech reformer"
+        },
+        {
+            "type": "primary_text",
+            "title": "De Ecclesia (On the Church)",
+            "url": "https://www.ccel.org/ccel/huss/church.html",
+            "note": "Hus's major theological work arguing for Scripture's authority over papal decrees — the treatise that led to his condemnation"
+        },
+        {
+            "type": "book",
+            "title": "Foxe's Book of Martyrs — Jan Hus",
+            "url": "https://www.ccel.org/ccel/foxe/martyrs.vi.html",
+            "note": "John Foxe's account of Hus's trial and execution at the Council of Constance"
+        }
+    ],
+    "slug": "jan-hus",
+    "tagline": "A forerunner of the Reformation, burned for the truth",
+    "image": "/images/bios/jan-hus.jpg",
+    "imageAttribution": {
+        "source": "Historical portrait",
+        "license": "Public domain"
     }
-  ],
-  "slug": "jan-hus",
-  "tagline": "A forerunner of the Reformation, burned for the truth",
-  "image": "/images/bios/jan-hus.jpg",
-  "imageAttribution": {
-    "source": "Historical portrait",
-    "license": "Public domain"
-  }
 }

@@ -1,23 +1,35 @@
 {
-  "name": "Hugh Latimer",
-  "years": "c. 1487 – October 16, 1555",
-  "title": "Bishop & Reformation Martyr",
-  "bio": "English Protestant bishop who became one of the leading preachers of the English Reformation. Burned at the stake in Oxford alongside Nicholas Ridley under Queen Mary I.",
-  "faith": "As the flames were lit, Latimer spoke to Ridley: 'Be of good comfort, Master Ridley, and play the man! We shall this day light such a candle, by God's grace, in England, as I trust shall never be put out.' His words have echoed through centuries.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Latimer — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Hugh_Latimer",
-      "note": "English Reformation martyr"
+    "name": "Hugh Latimer",
+    "years": "c. 1487 – October 16, 1555",
+    "title": "Bishop & Reformation Martyr",
+    "bio": "English Protestant bishop who became one of the leading preachers of the English Reformation. Burned at the stake in Oxford alongside Nicholas Ridley under Queen Mary I.",
+    "faith": "As the flames were lit, Latimer spoke to Ridley: 'Be of good comfort, Master Ridley, and play the man! We shall this day light such a candle, by God's grace, in England, as I trust shall never be put out.' His words have echoed through centuries.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Latimer — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hugh_Latimer",
+            "note": "English Reformation martyr"
+        },
+        {
+            "type": "primary_text",
+            "title": "Sermon on the Plough (1548)",
+            "url": "https://www.ccel.org/ccel/latimer/sermons.html",
+            "note": "Latimer's most famous sermon, a powerful call for faithful preaching and reform in the English church"
+        },
+        {
+            "type": "book",
+            "title": "Foxe's Book of Martyrs — Latimer and Ridley",
+            "url": "https://www.ccel.org/ccel/foxe/martyrs.ix.html",
+            "note": "Foxe's account of the Oxford Martyrs, including Latimer's famous words: 'We shall this day light such a candle...'"
+        }
+    ],
+    "slug": "hugh-latimer",
+    "tagline": "We shall this day light such a candle as shall never be put out",
+    "image": "/images/bios/hugh-latimer.jpg",
+    "imageAttribution": {
+        "source": "Historical portrait",
+        "license": "Public domain"
     }
-  ],
-  "slug": "hugh-latimer",
-  "tagline": "We shall this day light such a candle as shall never be put out",
-  "image": "/images/bios/hugh-latimer.jpg",
-  "imageAttribution": {
-    "source": "Historical portrait",
-    "license": "Public domain"
-  }
 }

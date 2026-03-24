@@ -1,23 +1,34 @@
 {
-  "name": "Asa Griggs Candler",
-  "years": "December 30, 1851 – March 12, 1929",
-  "title": "Coca-Cola Founder & Methodist Philanthropist",
-  "bio": "American businessman who purchased the Coca-Cola formula and built it into a global brand. Served as mayor of Atlanta and became one of the wealthiest men in the South.",
-  "faith": "Candler was a devout Methodist who donated massive amounts to Emory University, essentially funding its move to Atlanta and establishing it as a major research university. He taught Sunday school, funded church building projects across the South, and saw his wealth as a stewardship from God.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Candler — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Asa_Griggs_Candler",
-      "note": "Coca-Cola founder and Emory benefactor"
+    "name": "Asa Griggs Candler",
+    "years": "December 30, 1851 – March 12, 1929",
+    "title": "Coca-Cola Founder & Methodist Philanthropist",
+    "bio": "American businessman who purchased the Coca-Cola formula and built it into a global brand. Served as mayor of Atlanta and became one of the wealthiest men in the South.",
+    "faith": "Candler was a devout Methodist who donated massive amounts to Emory University, essentially funding its move to Atlanta and establishing it as a major research university. He taught Sunday school, funded church building projects across the South, and saw his wealth as a stewardship from God.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Candler — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Asa_Griggs_Candler",
+            "note": "Coca-Cola founder and Emory benefactor"
+        },
+        {
+            "type": "article",
+            "title": "Asa Griggs Candler: Coca-Cola, Methodism, and Emory University",
+            "url": "https://www.emory.edu/EMORY_MAGAZINE/issues/2011/autumn/features/asa-candler/index.html",
+            "note": "Emory University article on how Candler's deep Methodist faith led him to donate $1 million (equivalent to ~$30 million today) to found Emory University"
+        },
+        {
+            "type": "book",
+            "title": "Asa Griggs Candler by Charles Howard Candler",
+            "note": "Biography by his son documenting Candler's lifelong Methodist devotion, his Sunday school teaching, and his philanthropy to Methodist causes"
+        }
+    ],
+    "slug": "asa-griggs-candler",
+    "tagline": "Built Coca-Cola — poured his wealth into Emory and the church",
+    "image": "/images/bios/asa-griggs-candler.jpg",
+    "imageAttribution": {
+        "source": "Historical photograph",
+        "license": "Public domain"
     }
-  ],
-  "slug": "asa-griggs-candler",
-  "tagline": "Built Coca-Cola — poured his wealth into Emory and the church",
-  "image": "/images/bios/asa-griggs-candler.jpg",
-  "imageAttribution": {
-    "source": "Historical photograph",
-    "license": "Public domain"
-  }
 }

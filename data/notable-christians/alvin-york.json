@@ -1,29 +1,40 @@
 {
-  "name": "Alvin York",
-  "years": "December 13, 1887 – September 2, 1964",
-  "title": "World War I Medal of Honor Recipient",
-  "bio": "American soldier and one of the most decorated soldiers of World War I. He received the Medal of Honor for leading an attack that killed 25 Germans and captured 132 prisoners.",
-  "faith": "Initially a conscientious objector due to his Christian faith, York struggled with the morality of war before serving. After the war, he used his fame to establish schools and agricultural programs in his rural Tennessee community. His story was told in the 1941 film 'Sergeant York.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Alvin York — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Alvin_C._York",
-      "note": "Biography of the WWI hero"
-    },
-    {
-      "type": "wikipedia",
-      "title": "Sergeant York (film) — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sergeant_York_(film)",
-      "note": "The 1941 film starring Gary Cooper"
+    "name": "Alvin York",
+    "years": "December 13, 1887 – September 2, 1964",
+    "title": "World War I Medal of Honor Recipient",
+    "bio": "American soldier and one of the most decorated soldiers of World War I. He received the Medal of Honor for leading an attack that killed 25 Germans and captured 132 prisoners.",
+    "faith": "Initially a conscientious objector due to his Christian faith, York struggled with the morality of war before serving. After the war, he used his fame to establish schools and agricultural programs in his rural Tennessee community. His story was told in the 1941 film 'Sergeant York.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Alvin York — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alvin_C._York",
+            "note": "Biography of the WWI hero"
+        },
+        {
+            "type": "wikipedia",
+            "title": "Sergeant York (film) — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sergeant_York_(film)",
+            "note": "The 1941 film starring Gary Cooper"
+        },
+        {
+            "type": "book",
+            "title": "Sergeant York: His Own Life Story and War Diary by Alvin C. York",
+            "note": "York's diary and autobiography describing his dramatic conversion from hard-drinking fighter to devout Christian, and his internal struggle as a pacifist believer drafted into WWI"
+        },
+        {
+            "type": "article",
+            "title": "Alvin York: Christian Soldier",
+            "url": "https://www.christianitytoday.com/history/people/activists/alvin-c-york.html",
+            "note": "Christianity Today profile of York's conversion at a revival meeting, his pacifist convictions, and how his pastor and draft board helped him reconcile faith with military service"
+        }
+    ],
+    "slug": "alvin-york",
+    "tagline": "A pacifist-turned-hero who credited God for his WWI valor",
+    "image": "/images/bios/alvin-york.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/Alvin_C._York",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "alvin-york",
-  "tagline": "A pacifist-turned-hero who credited God for his WWI valor",
-  "image": "/images/bios/alvin-york.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/Alvin_C._York",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

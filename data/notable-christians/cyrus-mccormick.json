@@ -1,23 +1,35 @@
 {
-  "name": "Cyrus McCormick",
-  "years": "February 15, 1809 – May 13, 1884",
-  "title": "Inventor & Philanthropist",
-  "bio": "American inventor of the mechanical reaper, which revolutionized agriculture and helped feed growing populations. Founded the McCormick Harvesting Machine Company (later International Harvester).",
-  "faith": "McCormick was a devout Presbyterian who gave generously to churches and theological seminaries. He was a major benefactor of what became McCormick Theological Seminary in Chicago. He saw his inventions as a way to serve God by serving humanity's need for food.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "McCormick — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Cyrus_McCormick",
-      "note": "Inventor of the mechanical reaper"
+    "name": "Cyrus McCormick",
+    "years": "February 15, 1809 – May 13, 1884",
+    "title": "Inventor & Philanthropist",
+    "bio": "American inventor of the mechanical reaper, which revolutionized agriculture and helped feed growing populations. Founded the McCormick Harvesting Machine Company (later International Harvester).",
+    "faith": "McCormick was a devout Presbyterian who gave generously to churches and theological seminaries. He was a major benefactor of what became McCormick Theological Seminary in Chicago. He saw his inventions as a way to serve God by serving humanity's need for food.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "McCormick — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cyrus_McCormick",
+            "note": "Inventor of the mechanical reaper"
+        },
+        {
+            "type": "article",
+            "title": "Cyrus McCormick: Presbyterian Industrialist and Philanthropist",
+            "url": "https://www.christianitytoday.com/history/people/moversandshakers/cyrus-mccormick.html",
+            "note": "McCormick was a devout Presbyterian who gave generously to churches, seminaries, and missions — he funded the seminary that became McCormick Theological Seminary"
+        },
+        {
+            "type": "book",
+            "title": "Cyrus Hall McCormick: His Life and Work — Herbert N. Casson",
+            "url": "https://archive.org/details/cyrushallmccormi00cass",
+            "note": "Biography covering McCormick's Presbyterian faith and how it motivated both his business ethics and his extensive philanthropy"
+        }
+    ],
+    "slug": "cyrus-mccormick",
+    "tagline": "Feeding the world and funding the gospel",
+    "image": "/images/bios/cyrus-mccormick.jpg",
+    "imageAttribution": {
+        "source": "National Portrait Gallery",
+        "license": "Public domain"
     }
-  ],
-  "slug": "cyrus-mccormick",
-  "tagline": "Feeding the world and funding the gospel",
-  "image": "/images/bios/cyrus-mccormick.jpg",
-  "imageAttribution": {
-    "source": "National Portrait Gallery",
-    "license": "Public domain"
-  }
 }

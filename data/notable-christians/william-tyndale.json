@@ -1,23 +1,41 @@
 {
-  "name": "William Tyndale",
-  "years": "c. 1494 – October 6, 1536",
-  "title": "Bible Translator & Martyr",
-  "bio": "English scholar who first translated the Bible into English from the original Hebrew and Greek. Strangled and burned at the stake in Belgium for heresy.",
-  "faith": "Tyndale's dying prayer was 'Lord, open the King of England's eyes.' Within four years, Henry VIII authorized an English Bible based largely on Tyndale's translation. About 84% of his New Testament survives in the King James Version.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Tyndale — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/William_Tyndale",
-      "note": "Father of the English Bible"
+    "name": "William Tyndale",
+    "years": "c. 1494 – October 6, 1536",
+    "title": "Bible Translator & Martyr",
+    "bio": "English scholar who first translated the Bible into English from the original Hebrew and Greek. Strangled and burned at the stake in Belgium for heresy.",
+    "faith": "Tyndale's dying prayer was 'Lord, open the King of England's eyes.' Within four years, Henry VIII authorized an English Bible based largely on Tyndale's translation. About 84% of his New Testament survives in the King James Version.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Tyndale — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/William_Tyndale",
+            "note": "Father of the English Bible"
+        },
+        {
+            "type": "primary_text",
+            "title": "Tyndale's New Testament (1526)",
+            "url": "https://www.ccel.org/ccel/bible/tyndale.html",
+            "note": "The first printed English New Testament, translated from the original Greek — the work for which Tyndale gave his life"
+        },
+        {
+            "type": "book",
+            "title": "Foxe's Book of Martyrs — William Tyndale",
+            "url": "https://www.ccel.org/ccel/foxe/martyrs.viii.html",
+            "note": "Foxe's account of Tyndale's imprisonment, strangling, and burning at Vilvoorde Castle"
+        },
+        {
+            "type": "primary_text",
+            "title": "The Obedience of a Christian Man",
+            "url": "https://www.ccel.org/ccel/tyndale/obedience.html",
+            "note": "Tyndale's influential treatise on Christian obedience and the authority of Scripture over church tradition"
+        }
+    ],
+    "slug": "william-tyndale",
+    "tagline": "Lord, open the King of England's eyes",
+    "image": "/images/bios/william-tyndale.jpg",
+    "imageAttribution": {
+        "source": "Wikimedia Commons",
+        "license": "Public domain"
     }
-  ],
-  "slug": "william-tyndale",
-  "tagline": "Lord, open the King of England's eyes",
-  "image": "/images/bios/william-tyndale.jpg",
-  "imageAttribution": {
-    "source": "Wikimedia Commons",
-    "license": "Public domain"
-  }
 }

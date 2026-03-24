@@ -1,23 +1,34 @@
 {
-  "name": "J.I. Packer",
-  "years": "July 22, 1926 – July 17, 2020",
-  "title": "Theologian & Author",
-  "bio": "British-born Canadian Reformed theologian and author of Knowing God, one of the best-selling Christian books of the 20th century. He helped shape modern evangelicalism while maintaining deep Reformed convictions.",
-  "faith": "Packer's Knowing God made profound theology accessible to ordinary believers. He emphasized that knowing God personally — not merely knowing about Him — is the whole purpose of human existence. A humble scholar who once said theology was simply 'thinking about God in His presence.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Packer — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/J._I._Packer",
-      "note": "Author of Knowing God"
+    "name": "J.I. Packer",
+    "years": "July 22, 1926 – July 17, 2020",
+    "title": "Theologian & Author",
+    "bio": "British-born Canadian Reformed theologian and author of Knowing God, one of the best-selling Christian books of the 20th century. He helped shape modern evangelicalism while maintaining deep Reformed convictions.",
+    "faith": "Packer's Knowing God made profound theology accessible to ordinary believers. He emphasized that knowing God personally — not merely knowing about Him — is the whole purpose of human existence. A humble scholar who once said theology was simply 'thinking about God in His presence.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Packer — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J._I._Packer",
+            "note": "Author of Knowing God"
+        },
+        {
+            "type": "book",
+            "title": "Knowing God",
+            "note": "Packer's most influential work (1973), a classic introduction to the character and attributes of God"
+        },
+        {
+            "type": "article",
+            "title": "J.I. Packer Tribute — Christianity Today",
+            "url": "https://www.christianitytoday.com/news/2020/july/ji-packer-has-died-knowing-god-obituary-tribute.html",
+            "note": "Tribute and overview of Packer's life and influence on evangelical theology"
+        }
+    ],
+    "slug": "ji-packer",
+    "tagline": "Knowing God — not just knowing about God",
+    "image": "/images/placeholder-saint.svg",
+    "imageAttribution": {
+        "source": "",
+        "license": ""
     }
-  ],
-  "slug": "ji-packer",
-  "tagline": "Knowing God — not just knowing about God",
-  "image": "/images/placeholder-saint.svg",
-  "imageAttribution": {
-    "source": "",
-    "license": ""
-  }
 }

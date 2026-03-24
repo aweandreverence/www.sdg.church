@@ -1,29 +1,41 @@
 {
-  "name": "George Washington",
-  "years": "February 22, 1732 – December 14, 1799",
-  "title": "1st President of the United States",
-  "bio": "American military officer, statesman, and Founding Father who served as the first President of the United States and commander-in-chief of the Continental Army during the Revolutionary War.",
-  "faith": "An Anglican/Episcopalian who frequently referenced Providence and God in his writings and speeches. His personal prayer journal was discovered after his death. He established the tradition of adding 'so help me God' to the presidential oath and attended church regularly.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "George Washington — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Washington",
-      "note": "Comprehensive biography of the first President"
-    },
-    {
-      "type": "wikipedia",
-      "title": "Religious views of George Washington — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Religious_views_of_George_Washington",
-      "note": "Analysis of Washington's Anglican faith and references to Providence"
+    "name": "George Washington",
+    "years": "February 22, 1732 – December 14, 1799",
+    "title": "1st President of the United States",
+    "bio": "American military officer, statesman, and Founding Father who served as the first President of the United States and commander-in-chief of the Continental Army during the Revolutionary War.",
+    "faith": "An Anglican/Episcopalian who frequently referenced Providence and God in his writings and speeches. His personal prayer journal was discovered after his death. He established the tradition of adding 'so help me God' to the presidential oath and attended church regularly.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "George Washington — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Washington",
+            "note": "Comprehensive biography of the first President"
+        },
+        {
+            "type": "wikipedia",
+            "title": "Religious views of George Washington — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Religious_views_of_George_Washington",
+            "note": "Analysis of Washington's Anglican faith and references to Providence"
+        },
+        {
+            "type": "primary_text",
+            "title": "George Washington's Circular to the States (June 8, 1783)",
+            "url": "https://founders.archives.gov/documents/Washington/99-01-02-11404",
+            "note": "Washington's prayer for the nation: 'I now make it my earnest prayer, that God would... incline the hearts of the Citizens... to entertain a brotherly affection and love for one another'"
+        },
+        {
+            "type": "article",
+            "title": "George Washington and Religion",
+            "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/george-washington-and-religion/",
+            "note": "Mount Vernon's scholarly examination of Washington's Anglican faith, church attendance, and religious references in his writings"
+        }
+    ],
+    "slug": "george-washington",
+    "tagline": "Knelt in prayer at Valley Forge and led a nation under God",
+    "image": "/images/bios/george-washington.jpg",
+    "imageAttribution": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/440px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "george-washington",
-  "tagline": "Knelt in prayer at Valley Forge and led a nation under God",
-  "image": "/images/bios/george-washington.jpg",
-  "imageAttribution": {
-    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/440px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

@@ -1,35 +1,47 @@
 {
-  "name": "Dak Prescott",
-  "years": "July 29, 1993 – present",
-  "title": "NFL Quarterback",
-  "bio": "American professional football quarterback for the Dallas Cowboys. Two-time Pro Bowl selection known for his leadership both on and off the field.",
-  "faith": "Prescott has been open about his Christian faith, particularly after the death of his mother and brother. He has said, 'I know God has a plan for me' and credits his faith with helping him through immense personal tragedy.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Dak Prescott — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Dak_Prescott",
-      "note": "Biography of the Dallas Cowboys quarterback"
-    },
-    {
-      "type": "article",
-      "title": "Dak Prescott on Faith, Family, and Football",
-      "url": "https://www.dallasnews.com/sports/cowboys/2020/10/08/how-dak-prescott-has-leaned-on-faith-after-brothers-death/",
-      "note": "How Prescott leaned on his Christian faith after the deaths of his mother and brother"
-    },
-    {
-      "type": "article",
-      "title": "Dak Prescott: 'God Has a Plan for Me'",
-      "url": "https://www.si.com/nfl/cowboys/news/dak-prescott-faith-god-plan",
-      "note": "Prescott discusses his faith and how it sustains him through personal tragedy and professional challenges"
+    "name": "Dak Prescott",
+    "years": "July 29, 1993 – present",
+    "title": "NFL Quarterback",
+    "bio": "American professional football quarterback for the Dallas Cowboys. Two-time Pro Bowl selection known for his leadership both on and off the field.",
+    "faith": "Prescott has been open about his Christian faith, particularly after the death of his mother and brother. He has said, 'I know God has a plan for me' and credits his faith with helping him through immense personal tragedy.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Dak Prescott — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dak_Prescott",
+            "note": "Biography of the Dallas Cowboys quarterback"
+        },
+        {
+            "type": "article",
+            "title": "Dak Prescott on Faith, Family, and Football",
+            "url": "https://www.dallasnews.com/sports/cowboys/2020/10/08/how-dak-prescott-has-leaned-on-faith-after-brothers-death/",
+            "note": "How Prescott leaned on his Christian faith after the deaths of his mother and brother"
+        },
+        {
+            "type": "article",
+            "title": "Dak Prescott: 'God Has a Plan for Me'",
+            "url": "https://www.si.com/nfl/cowboys/news/dak-prescott-faith-god-plan",
+            "note": "Prescott discusses his faith and how it sustains him through personal tragedy and professional challenges"
+        },
+        {
+            "type": "article",
+            "title": "Dak Prescott Credits Faith After Brother's Death",
+            "url": "https://www.foxnews.com/sports/dak-prescott-faith-brother-death",
+            "note": "Interview about leaning on faith after personal tragedy"
+        },
+        {
+            "type": "video",
+            "title": "Dak Prescott: My Faith Journey | I Am Second",
+            "url": "https://www.iamsecond.com/film/dak-prescott/",
+            "note": "I Am Second testimony film"
+        }
+    ],
+    "slug": "dak-prescott",
+    "tagline": "Overcame tragedy with faith and became a voice for Christ in the NFL",
+    "image": "/images/bios/dak-prescott.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/Dak_Prescott",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "dak-prescott",
-  "tagline": "Overcame tragedy with faith and became a voice for Christ in the NFL",
-  "image": "/images/bios/dak-prescott.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/Dak_Prescott",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

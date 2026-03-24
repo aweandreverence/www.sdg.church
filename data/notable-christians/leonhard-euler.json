@@ -1,29 +1,40 @@
 {
-  "name": "Leonhard Euler",
-  "years": "April 15, 1707 – September 18, 1783",
-  "title": "Mathematician & Physicist",
-  "bio": "Swiss mathematician, physicist, and astronomer who made foundational contributions to numerous areas of mathematics. He is considered one of the greatest mathematicians of all time.",
-  "faith": "A devout Calvinist who wrote a defense of Christianity called 'Letters to a German Princess,' which included arguments for the existence of God. He held daily family prayers and composed hymns.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Leonhard Euler — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Leonhard_Euler",
-      "note": "Biography including his Calvinist faith and defense of Christianity"
-    },
-    {
-      "type": "wikipedia",
-      "title": "Letters to a German Princess — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Letters_to_a_German_Princess",
-      "note": "His work containing arguments for the existence of God"
+    "name": "Leonhard Euler",
+    "years": "April 15, 1707 – September 18, 1783",
+    "title": "Mathematician & Physicist",
+    "bio": "Swiss mathematician, physicist, and astronomer who made foundational contributions to numerous areas of mathematics. He is considered one of the greatest mathematicians of all time.",
+    "faith": "A devout Calvinist who wrote a defense of Christianity called 'Letters to a German Princess,' which included arguments for the existence of God. He held daily family prayers and composed hymns.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Leonhard Euler — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+            "note": "Biography including his Calvinist faith and defense of Christianity"
+        },
+        {
+            "type": "wikipedia",
+            "title": "Letters to a German Princess — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Letters_to_a_German_Princess",
+            "note": "His work containing arguments for the existence of God"
+        },
+        {
+            "type": "primary_text",
+            "title": "Letters to a German Princess — Leonhard Euler",
+            "url": "https://archive.org/details/lettersofeuleron01eule",
+            "note": "Euler's popular letters covering science, philosophy, and theology — includes his arguments for God's existence and the compatibility of faith and reason"
+        },
+        {
+            "type": "article",
+            "title": "Leonhard Euler: Mathematical Genius in the Enlightenment — Ronald Calinger",
+            "note": "Comprehensive biography noting Euler's lifelong devout Calvinist faith and his defense of Christianity against Enlightenment skeptics"
+        }
+    ],
+    "slug": "leonhard-euler",
+    "tagline": "The most prolific mathematician in history, a devout Calvinist",
+    "image": "/images/bios/leonhard-euler.jpg",
+    "imageAttribution": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/440px-Leonhard_Euler_2.jpg",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "leonhard-euler",
-  "tagline": "The most prolific mathematician in history, a devout Calvinist",
-  "image": "/images/bios/leonhard-euler.jpg",
-  "imageAttribution": {
-    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/440px-Leonhard_Euler_2.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

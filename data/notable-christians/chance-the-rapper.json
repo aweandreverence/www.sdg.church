@@ -1,23 +1,34 @@
 {
-  "name": "Chance the Rapper",
-  "years": "April 16, 1993 – present",
-  "title": "Rapper & Songwriter",
-  "bio": "American rapper, singer, songwriter, and record producer from Chicago. Known for the mixtapes 'Coloring Book' and 'Acid Rap.' Grammy Award winner.",
-  "faith": "Chance has been vocal about his Christian faith, particularly on 'Coloring Book,' which is heavily influenced by gospel music. He has said, 'I believe in God. I believe that I've been really blessed by God.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Chance the Rapper — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Chance_the_Rapper",
-      "note": "Biography of the gospel-influenced rapper"
+    "name": "Chance the Rapper",
+    "years": "April 16, 1993 – present",
+    "title": "Rapper & Songwriter",
+    "bio": "American rapper, singer, songwriter, and record producer from Chicago. Known for the mixtapes 'Coloring Book' and 'Acid Rap.' Grammy Award winner.",
+    "faith": "Chance has been vocal about his Christian faith, particularly on 'Coloring Book,' which is heavily influenced by gospel music. He has said, 'I believe in God. I believe that I've been really blessed by God.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Chance the Rapper — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chance_the_Rapper",
+            "note": "Biography of the gospel-influenced rapper"
+        },
+        {
+            "type": "article",
+            "title": "Chance the Rapper talks faith, family at the Grammys",
+            "url": "https://www.usatoday.com/story/life/entertainthis/2017/02/13/chance-rapper-grammys-speech-god/97853498/",
+            "note": "Grammy acceptance speech thanking God and discussing faith"
+        },
+        {
+            "type": "album",
+            "title": "Coloring Book (2016)",
+            "note": "Gospel-infused mixtape featuring tracks like \"Blessings\" and \"How Great\" with explicit Christian themes"
+        }
+    ],
+    "slug": "chance-the-rapper",
+    "tagline": "Praised God on every album and proved faith is not a genre",
+    "image": "/images/bios/chance-the-rapper.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/Chance_the_Rapper",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "chance-the-rapper",
-  "tagline": "Praised God on every album and proved faith is not a genre",
-  "image": "/images/bios/chance-the-rapper.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/Chance_the_Rapper",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }
