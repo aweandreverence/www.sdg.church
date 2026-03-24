@@ -1,0 +1,58 @@
+{
+  "videos": [
+    {
+      "$ref": "sm-lockridge-sermon.json"
+    },
+    {
+      "$ref": "nabeel-qureshi-testimony.json"
+    },
+    {
+      "$ref": "brian-head-welch-testimony.json"
+    },
+    {
+      "$ref": "rosaria-butterfield-testimony.json"
+    },
+    {
+      "$ref": "lee-strobel-testimony.json"
+    },
+    {
+      "$ref": "james-tour-testimony.json"
+    },
+    {
+      "$ref": "lecrae-testimony.json"
+    },
+    {
+      "$ref": "paul-lim-testimony.json"
+    },
+    {
+      "$ref": "denzel-washington-speech.json"
+    },
+    {
+      "$ref": "chris-pratt-speech.json"
+    },
+    {
+      "$ref": "bethany-hamilton-testimony.json"
+    },
+    {
+      "$ref": "eric-metaxas-testimony.json"
+    },
+    {
+      "$ref": "clayton-kershaw-testimony.json"
+    },
+    {
+      "$ref": "alex-kendrick-testimony.json"
+    },
+    {
+      "$ref": "atheist-scientist-testimony.json"
+    },
+    {
+      "$ref": "rosaria-butterfield-set-free.json"
+    },
+    {
+      "$ref": "anne-wilson-testimony.json"
+    },
+    {
+      "$ref": "ryan-ries-testimony.json"
+    }
+  ]
+}
