@@ -2872,8 +2872,40 @@
               "slug": "fred-smith",
               "tagline": "Founded FedEx and supported Christian causes worldwide",
               "image": ""
+            },
+            {
+              "name": "Alan Barnhart",
+              "years": "1960s-present",
+              "title": "CEO, Barnhart Crane & Rigging",
+              "bio": "CEO of Barnhart Crane & Rigging, one of the largest heavy lift and transport companies in North America with over 70 locations. Alan and his brother Eric grew up working in the steel-erecting business their father founded in Memphis, Tennessee in 1969. Alan studied civil engineering and joined the business full-time in the early 1980s.",
+              "faith": "Alan and his brother Eric made the extraordinary decision to give 100% of their highly successful company to the National Christian Foundation in 2007 to keep wealth from taking over their lives. Though they still run daily operations, the brothers will never reap the company's accrued value — they kept none of it. About 50% of all company earnings are donated immediately to charity, with the remaining 50% reinvested to grow the business. Alan has said the decision was driven by a conviction that everything belongs to God. He and his wife Katherine have six children and reside in Tennessee.",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "web",
+                  "title": "Alan Barnhart — Faith Driven Entrepreneur",
+                  "url": "https://faithdrivenentrepreneur.org/alan-barnhart/",
+                  "note": "Profile on the Faith Driven Entrepreneur platform"
+                },
+                {
+                  "type": "web",
+                  "title": "Barnhart Crane & Rigging",
+                  "url": "https://www.barnhartcrane.com/about/",
+                  "note": "Company website"
+                },
+                {
+                  "type": "web",
+                  "title": "Alan Barnhart — Generous Giving",
+                  "url": "https://generousgiving.org/video/alan-barnhart/",
+                  "note": "Generous Giving testimony"
+                }
+              ],
+              "slug": "alan-barnhart",
+              "tagline": "Gave away a $100M+ company to God and kept running it as a steward",
+              "image": ""
             }
-          ]
+          ],
+          "count": 13
         },
         {
           "id": "scientists-living",
