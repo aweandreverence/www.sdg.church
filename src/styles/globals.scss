@@ -28,6 +28,25 @@ a {
   }
 }
 
+/* ── Skip-to-content (a11y) ── */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  z-index: 9999;
+  padding: 0.75rem 1.5rem;
+  background: $gold;
+  color: $dark-bg;
+  font-weight: 500;
+  border-radius: 0 0 4px 4px;
+  text-decoration: none;
+  transition: top 0.2s ease;
+
+  &:focus {
+    top: 0;
+  }
+}
+
 .navbar-dark {
   background-color: rgba(0, 0, 0, 0.85) !important;
 }
