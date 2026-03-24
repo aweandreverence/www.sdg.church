@@ -2791,6 +2791,56 @@
                   "note": "Publisher of Pat Sczebel's worship songs"
                 }
               ]
+            },
+            {
+              "name": "Matt Papa",
+              "slug": "matt-papa",
+              "years": "1983 – present",
+              "title": "Worship Leader, Songwriter & Author",
+              "tagline": "Co-writer of 'His Mercy Is More' — modern hymnwriter fueling the Christ-centered worship movement",
+              "bio": "Matt Papa is a worship leader, songwriter, and author based in Nashville who has become one of the leading voices in the modern hymn movement. He co-wrote 'His Mercy Is More' with Matt Boswell, which has become one of the most beloved hymns in contemporary Reformed worship. Papa frequently leads worship at Together for the Gospel (T4G) and Getty Music conferences, and has released multiple albums of theologically rich worship music. He is also the author of 'Look and Live: Behold the Soul-Thrilling, Sin-Destroying Glory of Christ.'",
+              "faith": "Papa's music and writing are saturated with a vision of God's glory as the ultimate satisfaction of the human soul. His song 'His Mercy Is More' captures the boundless, persevering mercy of God toward sinners — a theme drawn from Lamentations 3. He is passionate about worship that exalts Christ above all and has spoken extensively about the danger of idolatry and the supremacy of God's beauty over all earthly treasures.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Matt Papa Official Website",
+                  "url": "https://mattpapa.com/",
+                  "note": "Music, books, and ministry information"
+                },
+                {
+                  "type": "website",
+                  "title": "Getty Music",
+                  "url": "https://www.gettymusic.com/",
+                  "note": "Regular worship leader at Getty conferences"
+                }
+              ]
+            },
+            {
+              "name": "Matt Boswell",
+              "slug": "matt-boswell",
+              "years": "1981 – present",
+              "title": "Pastor, Hymnwriter & Worship Leader",
+              "tagline": "Co-writer of 'His Mercy Is More' and 'Come Behold the Wondrous Mystery' — pastor-hymnwriter shaping modern congregational worship",
+              "bio": "Matt Boswell is a pastor, hymnwriter, and worship leader who serves as Pastor of Worship and Arts at The Village Church in the Dallas-Fort Worth area. He is one of the most prolific modern hymnwriters in the Reformed tradition, co-writing 'His Mercy Is More' and 'Come Behold the Wondrous Mystery' with Matt Papa. Boswell is the founder of the Doxology & Theology conference and the editor of 'Treasuring Christ When Your Hands Are Full.' He frequently collaborates with Keith & Kristyn Getty and leads worship at major Reformed conferences.",
+              "faith": "Boswell is deeply committed to the local church as the primary context for worship and has written extensively on the theology of congregational singing. His hymns are marked by rich Trinitarian theology, vivid portrayals of Christ's work, and accessible melodies that serve the gathered church. 'Come Behold the Wondrous Mystery' walks through the entire arc of redemption from incarnation to resurrection, while 'His Mercy Is More' proclaims the inexhaustible grace of God.",
+              "image": "",
+              "videos": [],
+              "sources": [
+                {
+                  "type": "website",
+                  "title": "Matt Boswell Official Website",
+                  "url": "https://mattboswell.com/",
+                  "note": "Hymns, writing, and ministry"
+                },
+                {
+                  "type": "website",
+                  "title": "The Village Church",
+                  "url": "https://thevillagechurch.net/",
+                  "note": "Where Boswell serves as Pastor of Worship and Arts"
+                }
+              ]
             }
           ]
         },
@@ -2867,35 +2917,6 @@
               "image": "/images/bios/chris-pratt.jpg",
               "imageAttribution": {
                 "source": "https://en.wikipedia.org/wiki/Chris_Pratt",
-                "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-              }
-            },
-            {
-              "name": "Mark Wahlberg",
-              "years": "June 5, 1971 – present",
-              "title": "Actor & Producer",
-              "bio": "American actor, producer, and businessman. Known for films like 'The Fighter,' 'The Departed,' and 'Father Stu.' Formerly known as rapper Marky Mark.",
-              "faith": "A devout Catholic who attends Mass daily and wakes at 2:30 AM to pray. He produced and starred in 'Father Stu,' a film about a boxer who becomes a priest. He has said, 'I just try to stay prayed up and keep God first.'",
-              "videos": [],
-              "sources": [
-                {
-                  "type": "wikipedia",
-                  "title": "Mark Wahlberg — Wikipedia",
-                  "url": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
-                  "note": "Biography of the actor and devout Catholic"
-                },
-                {
-                  "type": "youtube",
-                  "title": "Mark Wahlberg — Faith, Prayer, and Father Stu",
-                  "url": "https://www.youtube.com/results?search_query=mark+wahlberg+faith+prayer+father+stu+catholic",
-                  "note": "Interviews about his daily faith practice and the film Father Stu"
-                }
-              ],
-              "slug": "mark-wahlberg",
-              "tagline": "Transformed from troubled youth to devout daily communicant",
-              "image": "/images/bios/mark-wahlberg.jpg",
-              "imageAttribution": {
-                "source": "https://en.wikipedia.org/wiki/Mark_Wahlberg",
                 "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
               }
             },
