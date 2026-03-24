@@ -1,0 +1,41 @@
+{
+  "name": "Eric Liddell",
+  "years": "January 16, 1902 – February 21, 1945",
+  "title": "Olympic Runner & Missionary",
+  "bio": "Scottish Olympic gold medalist (400m, 1924 Paris Olympics) who refused to run his best event (100m) because the heat was on a Sunday. He later served as a missionary in China, where he died in a Japanese internment camp during World War II.",
+  "faith": "Liddell famously said, 'God made me fast. And when I run, I feel His pleasure.' After his Olympic triumph, he devoted his life to missionary work in China. His story was immortalized in the Academy Award-winning film 'Chariots of Fire.'",
+  "videos": [
+    {
+      "title": "Chariots of Fire — Eric Liddell's Story",
+      "url": "https://www.youtube.com/results?search_query=chariots+of+fire+eric+liddell+faith+documentary",
+      "platform": "youtube",
+      "note": "The 1981 Academy Award-winning film and related documentaries"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Eric Liddell — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eric_Liddell",
+      "note": "Biography of the Olympic champion turned missionary"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Chariots of Fire — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+      "note": "The Oscar-winning film based on Liddell's story"
+    },
+    {
+      "type": "book",
+      "title": "For the Glory: Eric Liddell's Journey from Olympic Champion to Modern Martyr",
+      "note": "By Duncan Hamilton. Comprehensive biography"
+    }
+  ],
+  "slug": "eric-liddell",
+  "tagline": "Refused to run on Sunday, then won Olympic gold for God's glory",
+  "image": "/images/bios/eric-liddell.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Eric_Liddell",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "David Green",
+  "years": "November 13, 1941 – present",
+  "title": "Founder & CEO of Hobby Lobby",
+  "bio": "American billionaire businessman, founder of Hobby Lobby, the largest privately-owned arts and crafts retailer in the world with over 1,000 stores.",
+  "faith": "Green's Christian faith is the foundation of Hobby Lobby's business practices. The company closes on Sundays, plays Christian music in stores, and pays above minimum wage. Green also founded the Museum of the Bible in Washington, D.C., and has committed to giving away 90% of his wealth.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "David Green (businessman) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Green_(businessman)",
+      "note": "Biography of the Hobby Lobby founder"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Museum of the Bible — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Museum_of_the_Bible",
+      "note": "The museum Green founded in Washington, D.C."
+    },
+    {
+      "type": "book",
+      "title": "Giving It All Away... and Getting It All Back Again",
+      "note": "By David Green. His account of faith-driven business and generosity"
+    }
+  ],
+  "slug": "david-green",
+  "tagline": "Built Hobby Lobby on biblical principles and closed Sundays for worship",
+  "image": "/images/bios/david-green.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "CC BY-SA 4.0"
+  }
+}

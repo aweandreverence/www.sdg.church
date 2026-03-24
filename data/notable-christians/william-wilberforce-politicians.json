@@ -1,0 +1,24 @@
+{
+  "name": "William Wilberforce",
+  "years": "August 24, 1759 – July 29, 1833",
+  "title": "British Parliamentarian & Abolitionist",
+  "bio": "See entry in Historical Biographies - Reformers & Theologians. Included here as cross-reference for his political significance.",
+  "faith": "Cross-reference: see Historical Biographies.",
+  "videos": [],
+  "crossRef": "historical-biographies/reformers-theologians",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "William Wilberforce — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Wilberforce",
+      "note": "See full entry in Reformers & Theologians"
+    }
+  ],
+  "slug": "william-wilberforce-politicians",
+  "tagline": "Fought for decades to abolish the slave trade in the name of Christ",
+  "image": "/images/bios/william-wilberforce-politicians.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/William_Wilberforce",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

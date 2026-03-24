@@ -1,0 +1,41 @@
+{
+  "name": "Ben Carson",
+  "years": "September 18, 1951 – present",
+  "title": "Neurosurgeon & Former HUD Secretary",
+  "bio": "American neurosurgeon and politician who served as the 17th Secretary of Housing and Urban Development (2017-2021). Pioneer in neurosurgery who performed the first successful separation of conjoined twins joined at the head.",
+  "faith": "A devout Seventh-day Adventist who has spoken extensively about how God guided his journey from poverty in Detroit to becoming one of the world's leading neurosurgeons. His autobiography 'Gifted Hands' details his faith journey.",
+  "videos": [
+    {
+      "title": "Ben Carson - Gifted Hands Testimony",
+      "url": "https://www.youtube.com/results?search_query=ben+carson+gifted+hands+testimony+faith+christian",
+      "platform": "youtube",
+      "note": "Carson's story of faith from poverty to neurosurgery is widely shared"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Ben Carson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ben_Carson",
+      "note": "Biography of the neurosurgeon and public servant"
+    },
+    {
+      "type": "book",
+      "title": "Gifted Hands: The Ben Carson Story",
+      "note": "By Ben Carson. His autobiography about faith, poverty, and becoming a neurosurgeon"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Gifted Hands (film) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gifted_Hands:_The_Ben_Carson_Story_(film)",
+      "note": "TV film starring Cuba Gooding Jr. as Carson"
+    }
+  ],
+  "slug": "ben-carson",
+  "tagline": "From inner-city poverty to world-renowned neurosurgeon by God's grace",
+  "image": "/images/bios/ben-carson.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Ben_Carson",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

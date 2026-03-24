@@ -1,0 +1,29 @@
+{
+  "name": "Allyson Felix",
+  "years": "November 18, 1985 – present",
+  "title": "Olympic Track & Field Sprinter",
+  "bio": "American former track and field sprinter, the most decorated American track and field athlete in Olympic history with 11 Olympic medals (7 gold).",
+  "faith": "A devout Christian who has spoken openly about her faith. She has said, 'My faith is everything to me. It's the foundation of who I am.' She credits God for her athletic achievements and has been vocal about trusting God through challenges.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Allyson Felix — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Allyson_Felix",
+      "note": "Biography of the most decorated American track athlete"
+    },
+    {
+      "type": "youtube",
+      "title": "Allyson Felix on Faith and Athletics",
+      "url": "https://www.youtube.com/results?search_query=allyson+felix+christian+faith+testimony",
+      "note": "Interviews where Felix discusses her faith"
+    }
+  ],
+  "slug": "allyson-felix",
+  "tagline": "The most decorated American track Olympian who runs for Christ",
+  "image": "/images/bios/allyson-felix.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Allyson_Felix",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

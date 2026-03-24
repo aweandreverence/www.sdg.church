@@ -1,0 +1,29 @@
+{
+  "name": "Lauren Daigle",
+  "years": "September 9, 1991 – present",
+  "title": "Christian & Pop Singer",
+  "bio": "American contemporary Christian music and pop singer-songwriter. Known for hit songs 'You Say' and 'How Can It Be.' Multiple Grammy Award winner.",
+  "faith": "Daigle grew up in a Christian family in Lafayette, Louisiana, and her music reflects her deep faith. She has spoken about writing music as an act of worship and using her platform to point people to Jesus.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Lauren Daigle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lauren_Daigle",
+      "note": "Biography of the Christian music crossover artist"
+    },
+    {
+      "type": "youtube",
+      "title": "Lauren Daigle — You Say (Official Music Video)",
+      "url": "https://www.youtube.com/results?search_query=lauren+daigle+you+say+official+music+video",
+      "note": "Her hit song with over a billion YouTube views"
+    }
+  ],
+  "slug": "lauren-daigle",
+  "tagline": "Crossed from Christian music to the mainstream without compromising her faith",
+  "image": "/images/bios/lauren-daigle.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Lauren_Daigle",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

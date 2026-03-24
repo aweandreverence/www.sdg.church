@@ -1,0 +1,23 @@
+{
+  "name": "Vibia Perpetua",
+  "years": "c. 181 – March 7, 203",
+  "title": "Early Church Martyr",
+  "bio": "Young noblewoman of Carthage martyred in the arena at age 22. Her diary, The Passion of Perpetua and Felicity, is one of the earliest Christian writings by a woman.",
+  "faith": "When her father begged her to recant, she pointed to a water vessel and asked, 'Can you call a vase by any other name? Then I cannot be called by any other name than a Christian.' She went to her death with extraordinary courage.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Perpetua — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Perpetua_and_Felicity",
+      "note": "Account of the early church martyrs of Carthage"
+    }
+  ],
+  "slug": "vibia-perpetua",
+  "tagline": "I cannot be called by any other name than a Christian",
+  "image": "/images/bios/vibia-perpetua.jpg",
+  "imageAttribution": {
+    "source": "Medieval manuscript illustration",
+    "license": "Public domain"
+  }
+}

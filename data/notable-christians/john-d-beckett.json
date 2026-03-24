@@ -1,0 +1,22 @@
+{
+  "name": "John D. Beckett",
+  "years": "1938 – present",
+  "title": "Chairman of R.W. Beckett Corporation",
+  "bio": "American businessman and author who has led the R.W. Beckett Corporation, a leading manufacturer of heating components, since 1965.",
+  "faith": "Author of 'Loving Monday: Succeeding in Business Without Selling Your Soul,' Beckett has been a prominent voice for faith in the workplace. He has spoken about applying Christian principles to business leadership for decades.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "book",
+      "title": "Loving Monday: Succeeding in Business Without Selling Your Soul",
+      "note": "By John D. Beckett. His vision for integrating faith and work"
+    }
+  ],
+  "slug": "john-d-beckett",
+  "tagline": "Proved that loving God and loving business are not at odds",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

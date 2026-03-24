@@ -1,0 +1,46 @@
+{
+  "name": "Jim Elliot",
+  "years": "October 8, 1927 – January 8, 1956",
+  "title": "Missionary & Martyr",
+  "bio": "American Christian missionary who was killed along with four companions during Operation Auca, an attempt to evangelize the Huaorani people of Ecuador. He was 28 years old. His death galvanized a generation of missionaries.",
+  "faith": "Elliot famously wrote in his journal, 'He is no fool who gives what he cannot keep to gain what he cannot lose.' His wife Elisabeth Elliot later returned to minister to the very tribe that killed him, and many Huaorani eventually became Christians.",
+  "videos": [
+    {
+      "title": "End of the Spear — The Jim Elliot Story",
+      "url": "https://www.youtube.com/results?search_query=end+of+the+spear+jim+elliot+movie",
+      "platform": "youtube",
+      "note": "Feature film based on the true story of Operation Auca"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Jim Elliot — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jim_Elliot",
+      "note": "Biography of the missionary martyr in Ecuador"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Operation Auca — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Auca",
+      "note": "The failed missionary expedition that cost five lives"
+    },
+    {
+      "type": "book",
+      "title": "Through Gates of Splendor",
+      "note": "By Elisabeth Elliot. Account of the five missionaries' martyrdom by Jim's widow"
+    },
+    {
+      "type": "book",
+      "title": "The Journals of Jim Elliot",
+      "note": "Edited by Elisabeth Elliot. Contains his famous quote about being 'no fool'"
+    }
+  ],
+  "slug": "jim-elliot",
+  "tagline": "He is no fool who gives what he cannot keep to gain what he cannot lose",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

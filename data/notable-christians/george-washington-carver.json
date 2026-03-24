@@ -1,0 +1,29 @@
+{
+  "name": "George Washington Carver",
+  "years": "c. 1864 – January 5, 1943",
+  "title": "Agricultural Scientist & Inventor",
+  "bio": "American agricultural scientist and inventor who developed hundreds of products using peanuts, sweet potatoes, and soybeans. Born into slavery, he became one of the most prominent Black scientists of his era.",
+  "faith": "A devout Christian who attributed all his discoveries to God. He famously said, 'I love to think of nature as an unlimited broadcasting station, through which God speaks to us every hour, if we will only tune in.' He taught a weekly Bible class for over 30 years.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "George Washington Carver — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Washington_Carver",
+      "note": "Biography including his deep Christian faith and Bible teaching"
+    },
+    {
+      "type": "youtube",
+      "title": "George Washington Carver: A Man of Faith and Science",
+      "url": "https://www.youtube.com/results?search_query=george+washington+carver+christian+faith+documentary",
+      "note": "Documentaries about his faith-driven scientific discoveries"
+    }
+  ],
+  "slug": "george-washington-carver",
+  "tagline": "Born into slavery, he heard God speak through nature for 30 years",
+  "image": "/images/bios/george-washington-carver.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/George_Washington_Carver",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

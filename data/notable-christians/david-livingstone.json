@@ -1,0 +1,28 @@
+{
+  "name": "David Livingstone",
+  "years": "March 19, 1813 – May 1, 1873",
+  "title": "Missionary & Explorer",
+  "bio": "Scottish Congregationalist pioneer Christian missionary, doctor, and explorer in Africa. He was the first European to see Victoria Falls and made extensive explorations of central Africa while seeking to end the slave trade.",
+  "faith": "Livingstone believed that Christianity and commerce together could end the African slave trade. He spent over 30 years in Africa, often alone, driven by his faith and desire to bring the gospel to unreached peoples. His body was buried in Westminster Abbey.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "David Livingstone — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Livingstone",
+      "note": "Biography of the missionary-explorer of Africa"
+    },
+    {
+      "type": "book",
+      "title": "Missionary Travels and Researches in South Africa",
+      "note": "By David Livingstone. His own account of his African journeys"
+    }
+  ],
+  "slug": "david-livingstone",
+  "tagline": "Explored Africa to open a path for commerce, civilization, and Christianity",
+  "image": "/images/bios/david-livingstone.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/David_Livingstone",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Charlie Kirk",
+  "years": "October 14, 1993 – September 10, 2025",
+  "title": "Political Activist, Author & Founder of Turning Point USA",
+  "bio": "American conservative political activist, author, and media personality who founded Turning Point USA in 2012 at age 18. The organization grew into one of the largest conservative youth organizations in America. He hosted 'The Charlie Kirk Show' and was a prominent figure in the conservative movement. He was assassinated on September 10, 2025, and posthumously awarded the Presidential Medal of Freedom.",
+  "faith": "Kirk was an outspoken Christian who frequently spoke about biblical values, the importance of faith in public life, and the intersection of Christianity and politics. He hosted faith-based events through Turning Point and advocated for religious liberty. He spoke at churches and Christian conferences about defending the faith in the public square.",
+  "videos": [
+    {
+      "title": "Charlie Kirk — Faith, Freedom, and America",
+      "url": "https://www.youtube.com/results?search_query=charlie+kirk+christian+faith+god+bible+speech",
+      "platform": "youtube",
+      "note": "Kirk discussing faith and biblical values at events"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Charlie Kirk (activist) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charlie_Kirk_(activist)",
+      "note": "Biography of the TPUSA founder, including his Christian nationalism movement"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Turning Point USA — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Turning_Point_USA",
+      "note": "The conservative youth organization Kirk founded"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Assassination of Charlie Kirk — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk",
+      "note": "Details of his assassination on September 10, 2025"
+    },
+    {
+      "type": "youtube",
+      "title": "Charlie Kirk — The Charlie Kirk Show",
+      "url": "https://www.youtube.com/results?search_query=charlie+kirk+show+faith+christian+values",
+      "note": "His media platform where he frequently discussed faith"
+    }
+  ],
+  "slug": "charlie-kirk",
+  "tagline": "Founded Turning Point USA and championed faith in the public square",
+  "image": "/images/bios/charlie-kirk.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Charlie_Kirk_(activist)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

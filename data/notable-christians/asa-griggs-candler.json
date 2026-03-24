@@ -1,0 +1,23 @@
+{
+  "name": "Asa Griggs Candler",
+  "years": "December 30, 1851 – March 12, 1929",
+  "title": "Coca-Cola Founder & Methodist Philanthropist",
+  "bio": "American businessman who purchased the Coca-Cola formula and built it into a global brand. Served as mayor of Atlanta and became one of the wealthiest men in the South.",
+  "faith": "Candler was a devout Methodist who donated massive amounts to Emory University, essentially funding its move to Atlanta and establishing it as a major research university. He taught Sunday school, funded church building projects across the South, and saw his wealth as a stewardship from God.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Candler — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asa_Griggs_Candler",
+      "note": "Coca-Cola founder and Emory benefactor"
+    }
+  ],
+  "slug": "asa-griggs-candler",
+  "tagline": "Built Coca-Cola — poured his wealth into Emory and the church",
+  "image": "/images/bios/asa-griggs-candler.jpg",
+  "imageAttribution": {
+    "source": "Historical photograph",
+    "license": "Public domain"
+  }
+}

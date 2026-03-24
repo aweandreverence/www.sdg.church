@@ -1,0 +1,29 @@
+{
+  "name": "John Milton",
+  "years": "December 9, 1608 – November 8, 1674",
+  "title": "Poet",
+  "bio": "English poet and intellectual who served as a civil servant during the Commonwealth. Best known for the epic poem 'Paradise Lost,' considered one of the greatest works in the English language.",
+  "faith": "A deeply devout Puritan Christian, Milton's magnum opus 'Paradise Lost' aimed to 'justify the ways of God to men.' His works are saturated with biblical themes and theological reflection.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John Milton — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Milton",
+      "note": "Biography including his Puritan faith and theological writings"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Paradise Lost — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Paradise_Lost",
+      "note": "His epic Christian poem retelling the Fall of Man"
+    }
+  ],
+  "slug": "john-milton",
+  "tagline": "Justified the ways of God to men through Paradise Lost",
+  "image": "/images/bios/john-milton.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/John_Milton",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

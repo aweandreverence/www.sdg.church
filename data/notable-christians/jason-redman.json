@@ -1,0 +1,22 @@
+{
+  "name": "Jason Redman",
+  "years": "November 1975 – present",
+  "title": "Former Navy SEAL & Author",
+  "bio": "American retired Navy SEAL lieutenant who was severely wounded in Iraq in 2007. Author of 'The Trident' and motivational speaker known for the viral 'Sign on the Door' at Bethesda Naval Hospital.",
+  "faith": "Redman has spoken about his faith journey through severe combat injuries and recovery. He has discussed how God brought him through his darkest moments and uses his story to inspire others through faith.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "book",
+      "title": "The Trident: The Forging and Reforging of a Navy SEAL Leader",
+      "note": "By Jason Redman. His account of combat, injury, and recovery through faith"
+    }
+  ],
+  "slug": "jason-redman",
+  "tagline": "Wounded Navy SEAL who posted 'Attention — I am still in the fight'",
+  "image": "/images/bios/jason-redman.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "Public domain"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Lottie Moon",
+  "years": "December 12, 1840 – December 24, 1912",
+  "title": "Missionary to China",
+  "bio": "American Southern Baptist missionary who served in China for nearly 40 years. She spent her life evangelizing and advocating for mission support. The annual Lottie Moon Christmas Offering for international missions, named in her honor, has raised billions of dollars.",
+  "faith": "Moon gave everything for the gospel in China, eventually dying of starvation because she had given all her food to starving Chinese during a famine. Her sacrificial example inspired the Southern Baptist Convention's largest missions offering, still collected annually.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Lottie Moon — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lottie_Moon",
+      "note": "Biography of the beloved Southern Baptist missionary"
+    },
+    {
+      "type": "website",
+      "title": "Lottie Moon Christmas Offering — IMB",
+      "url": "https://www.imb.org/lottie-moon-christmas-offering/",
+      "note": "The international missions offering named in her honor"
+    }
+  ],
+  "slug": "lottie-moon",
+  "tagline": "Gave everything — including her life — for missions in China",
+  "image": "/images/bios/lottie-moon.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Lottie_Moon",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

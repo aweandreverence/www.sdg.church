@@ -1,0 +1,36 @@
+{
+  "name": "Chris Pratt",
+  "years": "June 21, 1979 – present",
+  "title": "Actor",
+  "bio": "American actor known for roles in 'Guardians of the Galaxy,' 'Jurassic World,' and 'Parks and Recreation.' One of the highest-grossing box office stars.",
+  "faith": "Pratt has been outspoken about his Christian faith, famously sharing his '9 Rules' at the MTV Movie Awards, including 'God is real. God loves you. God wants the best for you. Believe that. I do.' He attends Zoe Church in Los Angeles.",
+  "videos": [
+    {
+      "title": "Chris Pratt MTV Awards Speech about God",
+      "url": "https://www.youtube.com/results?search_query=chris+pratt+mtv+awards+god+is+real+speech",
+      "platform": "youtube",
+      "note": "Pratt's viral MTV speech about faith"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Chris Pratt — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chris_Pratt",
+      "note": "Biography of the action star"
+    },
+    {
+      "type": "youtube",
+      "title": "Chris Pratt — 9 Rules (MTV Generation Award Speech)",
+      "url": "https://www.youtube.com/results?search_query=chris+pratt+9+rules+mtv+generation+award+god+is+real",
+      "note": "His viral speech declaring 'God is real'"
+    }
+  ],
+  "slug": "chris-pratt",
+  "tagline": "Rose to stardom and openly proclaimed his faith on every stage",
+  "image": "/images/bios/chris-pratt.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Chris_Pratt",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

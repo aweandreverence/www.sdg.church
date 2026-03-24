@@ -1,0 +1,23 @@
+{
+  "name": "Tim Scott",
+  "years": "September 19, 1965 – present",
+  "title": "U.S. Senator",
+  "bio": "American politician serving as the junior United States Senator from South Carolina. The first African American U.S. Senator from a Southern state since Reconstruction.",
+  "faith": "An evangelical Christian who has spoken openly about how a Chick-fil-A franchise owner mentored him and helped shape his faith as a teenager. He frequently references his Christian faith in public remarks and has spoken about God's role in his life journey.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Tim Scott — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tim_Scott",
+      "note": "Biography of the South Carolina senator"
+    }
+  ],
+  "slug": "tim-scott",
+  "tagline": "Rose from a single-parent home to the U.S. Senate through faith",
+  "image": "/images/bios/tim-scott.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Tim_Scott",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

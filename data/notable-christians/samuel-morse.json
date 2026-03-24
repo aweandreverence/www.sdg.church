@@ -1,0 +1,23 @@
+{
+  "name": "Samuel Morse",
+  "years": "April 27, 1791 – April 2, 1872",
+  "title": "Inventor of the Telegraph",
+  "bio": "American inventor and painter who developed the electric telegraph and Morse code, revolutionizing long-distance communication. Originally trained as an artist, he turned to invention after personal tragedy.",
+  "faith": "Morse was a devout Calvinist. The first message sent by telegraph in 1844 was 'What hath God wrought' (Numbers 23:23) — chosen by Annie Ellsworth. Morse himself said: 'The nearer I approach the end of my pilgrimage... the grandeur and sublimity of God's remedy for fallen man are more appreciated.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Morse — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Morse",
+      "note": "Inventor of the telegraph"
+    }
+  ],
+  "slug": "samuel-morse",
+  "tagline": "What hath God wrought — the first words of the telegraph age",
+  "image": "/images/bios/samuel-morse.jpg",
+  "imageAttribution": {
+    "source": "Historical photograph",
+    "license": "Public domain"
+  }
+}

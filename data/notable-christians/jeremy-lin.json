@@ -1,0 +1,36 @@
+{
+  "name": "Jeremy Lin",
+  "years": "August 23, 1988 – present",
+  "title": "Former NBA Point Guard",
+  "bio": "American-Taiwanese former professional basketball player, best known for 'Linsanity' — his breakout stretch with the New York Knicks in 2012. First American of Chinese/Taiwanese descent to play in the NBA.",
+  "faith": "A devout Christian who has spoken extensively about finding his identity in Christ rather than basketball. He has shared his testimony at churches and conferences, emphasizing that his worth comes from God, not performance.",
+  "videos": [
+    {
+      "title": "Jeremy Lin Testimony",
+      "url": "https://www.youtube.com/results?search_query=jeremy+lin+christian+testimony+faith",
+      "platform": "youtube",
+      "note": "Lin has given testimony at numerous churches and events"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Jeremy Lin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jeremy_Lin",
+      "note": "Biography including his Christian faith"
+    },
+    {
+      "type": "youtube",
+      "title": "Jeremy Lin — Finding Identity in Christ",
+      "url": "https://www.youtube.com/results?search_query=jeremy+lin+identity+in+christ+testimony+church",
+      "note": "Lin's testimony about finding worth in God rather than basketball"
+    }
+  ],
+  "slug": "jeremy-lin",
+  "tagline": "Linsanity — a Harvard underdog who gave God the glory",
+  "image": "/images/bios/jeremy-lin.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Jeremy_Lin",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Richard Baxter",
+  "years": "November 12, 1615 – December 8, 1691",
+  "title": "Puritan Pastor & Author",
+  "bio": "English Puritan leader who pastored in Kidderminster and transformed the town through faithful ministry. His prolific writing produced over 140 books, including The Reformed Pastor and The Saints' Everlasting Rest.",
+  "faith": "Baxter's ministry in Kidderminster turned a spiritually apathetic town into a community where 'you could hear families singing psalms and praying from every house.' The Reformed Pastor remains essential reading for ministers. He modeled what it means to shepherd souls with tireless devotion.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Baxter — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Richard_Baxter",
+      "note": "Puritan pastor of Kidderminster"
+    }
+  ],
+  "slug": "richard-baxter",
+  "tagline": "The pastor whose town was transformed by faithful ministry",
+  "image": "/images/bios/richard-baxter.jpg",
+  "imageAttribution": {
+    "source": "Historical portrait",
+    "license": "Public domain"
+  }
+}

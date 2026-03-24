@@ -1,0 +1,23 @@
+{
+  "name": "Chiang Kai-shek",
+  "years": "October 31, 1887 – April 5, 1975",
+  "title": "Military & Political Leader",
+  "bio": "Leader of the Republic of China who governed mainland China before retreating to Taiwan. He led China through World War II and was one of the most consequential figures in 20th-century Asian history.",
+  "faith": "Chiang was baptized a Methodist Christian in 1930, influenced by his wife Soong Mei-ling. He attributed his survival through war and exile to God's providence. He read the Bible daily and wrote in his diary: 'My faith is my greatest source of strength.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Chiang — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
+      "note": "Leader of the Republic of China"
+    }
+  ],
+  "slug": "chiang-kai-shek",
+  "tagline": "My faith is my greatest source of strength",
+  "image": "/images/bios/chiang-kai-shek.jpg",
+  "imageAttribution": {
+    "source": "Historical photograph",
+    "license": "Public domain"
+  }
+}

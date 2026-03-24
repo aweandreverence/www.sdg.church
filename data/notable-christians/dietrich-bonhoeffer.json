@@ -1,0 +1,33 @@
+{
+  "name": "Dietrich Bonhoeffer",
+  "years": "February 4, 1906 – April 9, 1945",
+  "title": "Theologian & Martyr",
+  "bio": "German Lutheran pastor, theologian, and anti-Nazi dissident. Author of 'The Cost of Discipleship' and 'Life Together.' Executed by the Nazis at Flossenbürg concentration camp.",
+  "faith": "Bonhoeffer's theology of 'costly grace' challenged cheap Christianity. He helped found the Confessing Church in opposition to Nazi influence and participated in a plot to assassinate Hitler. His final words were, 'This is the end — for me, the beginning of life.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Dietrich Bonhoeffer — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+      "note": "Biography of the theologian-martyr executed by the Nazis"
+    },
+    {
+      "type": "book",
+      "title": "The Cost of Discipleship",
+      "note": "By Dietrich Bonhoeffer. His influential work on 'costly grace' versus 'cheap grace'"
+    },
+    {
+      "type": "book",
+      "title": "Bonhoeffer: Pastor, Martyr, Prophet, Spy",
+      "note": "By Eric Metaxas. Bestselling biography of Bonhoeffer's life and faith"
+    }
+  ],
+  "slug": "dietrich-bonhoeffer",
+  "tagline": "Gave his life resisting tyranny for the sake of the gospel",
+  "image": "/images/bios/dietrich-bonhoeffer.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Albrecht Dürer",
+  "years": "May 21, 1471 – April 6, 1528",
+  "title": "Artist & Printmaker",
+  "bio": "German painter, printmaker, and theorist of the German Renaissance. Known for his woodcuts, engravings, and paintings including 'Praying Hands.'",
+  "faith": "A devout Christian who embraced the Protestant Reformation. His famous 'Praying Hands' drawing and numerous biblical engravings reflect his deep faith. He admired Martin Luther and incorporated Reformation theology into his later works.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Albrecht Dürer — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer",
+      "note": "Biography including his embrace of the Reformation"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Praying Hands (Dürer) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Praying_Hands_(D%C3%BCrer)",
+      "note": "His iconic drawing of hands in prayer"
+    }
+  ],
+  "slug": "albrecht-drer",
+  "tagline": "Engraved Praying Hands and brought Scripture to life through art",
+  "image": "/images/bios/albrecht-drer.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Albrecht_Dürer",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "John Wycliffe",
+  "years": "c. 1328 – December 31, 1384",
+  "title": "Theologian & Proto-Reformer",
+  "bio": "English theologian and professor at Oxford, known as the 'Morning Star of the Reformation.' He produced one of the first complete English translations of the Bible and challenged papal authority.",
+  "faith": "Wycliffe taught that Scripture alone is the supreme authority for Christian life and doctrine — anticipating sola scriptura by 150 years. He trained lay preachers (Lollards) to spread the gospel in common English. The church declared him a heretic posthumously and exhumed his bones to burn them.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Wycliffe — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Wycliffe",
+      "note": "Proto-Reformer and Bible translator"
+    }
+  ],
+  "slug": "john-wycliffe",
+  "tagline": "The Morning Star of the Reformation",
+  "image": "/images/bios/john-wycliffe.jpg",
+  "imageAttribution": {
+    "source": "Historical portrait",
+    "license": "Public domain"
+  }
+}

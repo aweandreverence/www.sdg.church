@@ -1,0 +1,29 @@
+{
+  "name": "Candace Cameron Bure",
+  "years": "June 22, 1976 – present",
+  "title": "Actress & Author",
+  "bio": "American actress, author, and producer best known for her role as D.J. Tanner on 'Full House' and 'Fuller House.' Former co-host of 'The View.'",
+  "faith": "An outspoken born-again Christian who has authored several books about faith. She has said, 'My faith affects every part of my life. I can't separate my faith from who I am.' She's been a prominent voice for Christian values in Hollywood.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Candace Cameron Bure — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Candace_Cameron_Bure",
+      "note": "Biography of the actress and Christian author"
+    },
+    {
+      "type": "youtube",
+      "title": "Candace Cameron Bure — I Am Second",
+      "url": "https://www.youtube.com/results?search_query=candace+cameron+bure+i+am+second+testimony",
+      "note": "Her I Am Second testimony video"
+    }
+  ],
+  "slug": "candace-cameron-bure",
+  "tagline": "Stood firm for faith and family in the spotlight",
+  "image": "/images/bios/candace-cameron-bure.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Candace_Cameron_Bure",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

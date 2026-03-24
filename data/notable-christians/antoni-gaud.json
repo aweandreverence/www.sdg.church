@@ -1,0 +1,29 @@
+{
+  "name": "Antoni Gaudí",
+  "years": "June 25, 1852 – June 10, 1926",
+  "title": "Architect",
+  "bio": "Spanish architect and the best-known practitioner of Catalan Modernism. His masterwork, the Sagrada Família basilica in Barcelona, remains under construction more than a century after his death.",
+  "faith": "A devout Catholic whose later years were entirely dedicated to building the Sagrada Família as an offering to God. He lived ascetically and attended Mass daily. He is currently a candidate for canonization in the Catholic Church.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Antoni Gaudí — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+      "note": "Biography including his devout faith and canonization cause"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Sagrada Família — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+      "note": "His life's masterwork dedicated to the Holy Family"
+    }
+  ],
+  "slug": "antoni-gaud",
+  "tagline": "Designed the Sagrada Família as a Bible in stone",
+  "image": "/images/bios/antoni-gaud.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "John Wesley",
+  "years": "June 28, 1703 – March 2, 1791",
+  "title": "Theologian & Evangelist",
+  "bio": "English cleric, theologian, and evangelist who co-founded the Methodist movement. His open-air preaching brought the gospel to millions across England.",
+  "faith": "After his famous 'Aldersgate experience' in 1738 where his heart was 'strangely warmed,' Wesley dedicated his life to evangelism. He traveled 250,000 miles on horseback, preached over 40,000 sermons, and sparked a revival that transformed England.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John Wesley — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Wesley",
+      "note": "Comprehensive biography of the founder of Methodism"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Aldersgate experience — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aldersgate_experience",
+      "note": "Wesley's famous heart-warming conversion experience"
+    }
+  ],
+  "slug": "john-wesley",
+  "tagline": "The world is my parish — founder of Methodism",
+  "image": "/images/bios/john-wesley.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/John_Wesley",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

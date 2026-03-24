@@ -1,5 +1,25 @@
+import fs from 'fs';
+import path from 'path';
 import contentData from '@data/content.json';
-import biographiesData from '@data/notable-christians.json';
+
+// Load biography data from split files at build time
+function loadBiographiesData() {
+  const dataDir = path.join(process.cwd(), 'data', 'notable-christians');
+  const index = JSON.parse(fs.readFileSync(path.join(dataDir, '_index.json'), 'utf-8'));
+
+  for (const cat of index.categories) {
+    for (const sub of cat.subcategories) {
+      sub.people = sub.people.map((ref: { $ref: string }) => {
+        const personPath = path.join(dataDir, ref.$ref);
+        return JSON.parse(fs.readFileSync(personPath, 'utf-8'));
+      });
+    }
+  }
+
+  return index;
+}
+
+const biographiesData = loadBiographiesData();
 
 export interface Testimony {
   id: string;
@@ -73,7 +93,7 @@ export interface BiographyCategory {
   subcategories: BiographySubcategory[];
 }
 
-const bioData = biographiesData as {
+const bioData = biographiesData as unknown as {
   lastUpdated: string;
   categories: Array<{
     id: string;

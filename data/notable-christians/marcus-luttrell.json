@@ -1,0 +1,34 @@
+{
+  "name": "Marcus Luttrell",
+  "years": "November 7, 1975 – present",
+  "title": "Former Navy SEAL & Author",
+  "bio": "American retired Navy SEAL who was the lone survivor of Operation Red Wings in Afghanistan in 2005. Author of 'Lone Survivor,' which was adapted into a major film.",
+  "faith": "Luttrell has spoken about his faith as sustaining him during the harrowing experience in Afghanistan where his entire team was killed. He has credited God with his survival and has shared his story at faith-based events.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Marcus Luttrell — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Luttrell",
+      "note": "Biography of the Lone Survivor"
+    },
+    {
+      "type": "book",
+      "title": "Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10",
+      "note": "By Marcus Luttrell. His account of survival through faith and determination"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Lone Survivor (film) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lone_Survivor_(film)",
+      "note": "The 2013 film adaptation starring Mark Wahlberg"
+    }
+  ],
+  "slug": "marcus-luttrell",
+  "tagline": "Lone Survivor who leaned on God through impossible odds",
+  "image": "/images/bios/marcus-luttrell.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Marcus_Luttrell",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

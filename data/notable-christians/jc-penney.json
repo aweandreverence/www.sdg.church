@@ -1,0 +1,23 @@
+{
+  "name": "J.C. Penney",
+  "years": "September 16, 1875 – February 12, 1971",
+  "title": "Retail Founder & Philanthropist",
+  "bio": "American businessman who founded the J.C. Penney retail chain, growing it from one small store in Wyoming to over 1,600 locations. Named his first store 'The Golden Rule.'",
+  "faith": "Penney was a lifelong tither and named his first store after the Golden Rule of Matthew 7:12. After losing his fortune in the Great Depression and nearly taking his own life, he rededicated his life to Christ and rebuilt. He said: 'My eyesight is growing dim, but my spiritual vision is clearer than ever.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Penney — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J._C._Penney",
+      "note": "Founder of J.C. Penney stores"
+    }
+  ],
+  "slug": "jc-penney",
+  "tagline": "The Golden Rule — his store's name and his life's principle",
+  "image": "/images/bios/jc-penney.jpg",
+  "imageAttribution": {
+    "source": "Historical photograph",
+    "license": "Public domain"
+  }
+}

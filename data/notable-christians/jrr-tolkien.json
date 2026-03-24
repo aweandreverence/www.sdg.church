@@ -1,0 +1,34 @@
+{
+  "name": "J.R.R. Tolkien",
+  "years": "January 3, 1892 – September 2, 1973",
+  "title": "Author & Philologist",
+  "bio": "English writer, philologist, and academic, best known for 'The Hobbit' and 'The Lord of the Rings.' Professor of Anglo-Saxon at Oxford University.",
+  "faith": "A devout Roman Catholic whose faith deeply influenced his literary works. He was instrumental in C.S. Lewis's conversion to Christianity. He described 'The Lord of the Rings' as 'a fundamentally religious and Catholic work.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "J. R. R. Tolkien — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+      "note": "Biography including his Catholic faith and its influence on his works"
+    },
+    {
+      "type": "book",
+      "title": "The Letters of J.R.R. Tolkien",
+      "note": "Edited by Humphrey Carpenter. Contains letters where Tolkien describes LOTR as 'a fundamentally religious and Catholic work'"
+    },
+    {
+      "type": "article",
+      "title": "Tolkien's faith and Middle-earth",
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Middle-earth",
+      "note": "Wikipedia article on Christian themes in Tolkien's works"
+    }
+  ],
+  "slug": "jrr-tolkien",
+  "tagline": "Created Middle-earth as a fundamentally religious and Catholic work",
+  "image": "/images/bios/jrr-tolkien.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/440px-J._R._R._Tolkien%2C_ca._1925.jpg",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

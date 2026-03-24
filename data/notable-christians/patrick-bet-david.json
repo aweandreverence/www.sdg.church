@@ -1,0 +1,47 @@
+{
+  "name": "Patrick Bet-David",
+  "years": "October 18, 1978 – present",
+  "title": "Entrepreneur, Author & Media Personality",
+  "bio": "Iranian-born American businessman, conservative media personality, author, and podcaster. He is the host of the PBD Podcast and Valuetainment, a YouTube channel with over 6 million subscribers. Born to an Assyrian father and Armenian mother in Tehran, his family fled Iran as refugees during the Iran-Iraq War, spending time in a German refugee camp before settling in the United States. He founded PHP Agency, a financial services company.",
+  "faith": "Raised in a Christian family (Assyrian and Armenian heritage), Bet-David is an outspoken Christian who frequently discusses faith, God, and biblical principles on his Valuetainment platform. He has spoken about how his refugee experience and faith in God shaped his entrepreneurial drive and worldview.",
+  "videos": [
+    {
+      "title": "Patrick Bet-David — Faith and Entrepreneurship",
+      "url": "https://www.youtube.com/results?search_query=patrick+bet+david+christian+faith+god+testimony",
+      "platform": "youtube",
+      "note": "PBD discussing faith and God on Valuetainment"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Patrick Bet-David — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Patrick_Bet-David",
+      "note": "Biography including his Assyrian Christian heritage and refugee background"
+    },
+    {
+      "type": "website",
+      "title": "Valuetainment",
+      "url": "https://valuetainment.com/",
+      "note": "Bet-David's media company and YouTube platform"
+    },
+    {
+      "type": "book",
+      "title": "Your Next Five Moves: Master the Art of Business Strategy",
+      "note": "By Patrick Bet-David. His bestselling business strategy book"
+    },
+    {
+      "type": "youtube",
+      "title": "Patrick Bet-David — Refugee to CEO Story",
+      "url": "https://www.youtube.com/results?search_query=patrick+bet+david+refugee+story+iran+testimony",
+      "note": "His journey from Iranian refugee to American entrepreneur"
+    }
+  ],
+  "slug": "patrick-bet-david",
+  "tagline": "Built Valuetainment and credits God for every entrepreneurial breakthrough",
+  "image": "/images/bios/patrick-bet-david.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Patrick_Bet-David",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

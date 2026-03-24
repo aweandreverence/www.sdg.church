@@ -1,0 +1,46 @@
+{
+  "name": "John MacArthur",
+  "years": "June 19, 1939 – March 5, 2025",
+  "title": "Pastor & Author",
+  "bio": "American pastor-teacher who served as pastor of Grace Community Church in Sun Valley, California, for over 55 years. He was also president of The Master's University and Seminary, a prolific author of over 150 books, and the voice behind the 'Grace to You' radio broadcast.",
+  "faith": "MacArthur was one of the most influential Bible expositors of his generation. His verse-by-verse preaching style and commitment to biblical inerrancy shaped Reformed evangelical Christianity. His MacArthur Study Bible has sold over 2 million copies.",
+  "videos": [
+    {
+      "title": "John MacArthur Sermons — Grace to You",
+      "url": "https://www.youtube.com/results?search_query=john+macarthur+sermon+grace+to+you",
+      "platform": "youtube",
+      "note": "Thousands of MacArthur's sermons are available through Grace to You"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John MacArthur (American pastor) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_MacArthur_(American_pastor)",
+      "note": "Biography of the influential pastor-teacher"
+    },
+    {
+      "type": "website",
+      "title": "Grace to You",
+      "url": "https://www.gty.org/",
+      "note": "MacArthur's Bible teaching ministry with thousands of free sermons"
+    },
+    {
+      "type": "book",
+      "title": "The MacArthur Study Bible",
+      "note": "By John MacArthur. Study Bible with over 2 million copies sold"
+    },
+    {
+      "type": "book",
+      "title": "The Gospel According to Jesus",
+      "note": "By John MacArthur. Influential book on lordship salvation"
+    }
+  ],
+  "slug": "john-macarthur",
+  "tagline": "Devoted over 50 years to expository preaching of Scripture",
+  "image": "/images/bios/john-macarthur.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "CC BY-SA"
+  }
+}

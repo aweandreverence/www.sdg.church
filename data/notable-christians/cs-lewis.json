@@ -1,0 +1,52 @@
+{
+  "name": "C.S. Lewis",
+  "years": "November 29, 1898 – November 22, 1963",
+  "title": "Author & Apologist",
+  "bio": "British writer and lay theologian, author of 'The Chronicles of Narnia,' 'Mere Christianity,' and 'The Screwtape Letters.' Fellow of Magdalen College, Oxford and later Professor at Cambridge.",
+  "faith": "A former atheist who converted to Christianity in 1931, Lewis became one of the most influential Christian apologists of the 20th century. He described his conversion in 'Surprised by Joy' and defended the faith in works like 'Mere Christianity.'",
+  "videos": [
+    {
+      "title": "C.S. Lewis - The Most Reluctant Convert",
+      "url": "https://www.youtube.com/results?search_query=cs+lewis+conversion+story+testimony",
+      "platform": "youtube",
+      "note": "Search for dramatizations and documentaries about Lewis's conversion"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "C. S. Lewis — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/C._S._Lewis",
+      "note": "Comprehensive biography including his conversion from atheism"
+    },
+    {
+      "type": "book",
+      "title": "Surprised by Joy",
+      "note": "By C.S. Lewis. His autobiographical account of his conversion to Christianity"
+    },
+    {
+      "type": "book",
+      "title": "Mere Christianity",
+      "note": "By C.S. Lewis. One of the most influential Christian apologetics books of the 20th century"
+    },
+    {
+      "type": "youtube",
+      "title": "C.S. Lewis — The Most Reluctant Convert (2021 Film)",
+      "url": "https://www.youtube.com/results?search_query=cs+lewis+most+reluctant+convert+film",
+      "note": "Feature film dramatizing Lewis's journey from atheism to faith"
+    },
+    {
+      "type": "website",
+      "title": "C.S. Lewis Foundation",
+      "url": "https://www.cslewis.org/",
+      "note": "Foundation preserving Lewis's legacy"
+    }
+  ],
+  "slug": "cs-lewis",
+  "tagline": "The most reluctant convert who became Christianity's greatest modern apologist",
+  "image": "/images/bios/cs-lewis.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/C._S._Lewis",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

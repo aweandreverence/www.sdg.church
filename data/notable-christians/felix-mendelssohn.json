@@ -1,0 +1,29 @@
+{
+  "name": "Felix Mendelssohn",
+  "years": "February 3, 1809 – November 4, 1847",
+  "title": "Composer",
+  "bio": "German composer, pianist, and conductor of the early Romantic period. Known for his symphonies, concertos, and oratorios including 'Elijah.'",
+  "faith": "Raised in a Jewish family that converted to Christianity, Mendelssohn was a devout Lutheran. His oratorio 'Elijah' and symphony 'Reformation' reflect his deep Christian faith. He also revived interest in Bach's sacred works.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Felix Mendelssohn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+      "note": "Biography including his Christian faith and sacred compositions"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Elijah (Mendelssohn) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Elijah_(mendelssohn)",
+      "note": "His major biblical oratorio"
+    }
+  ],
+  "slug": "felix-mendelssohn",
+  "tagline": "Revived Bach's sacred masterworks and composed the oratorio Elijah",
+  "image": "/images/bios/felix-mendelssohn.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

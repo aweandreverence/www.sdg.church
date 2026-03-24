@@ -1,0 +1,29 @@
+{
+  "name": "Stuart Townend",
+  "slug": "stuart-townend",
+  "years": "January 13, 1963 – present",
+  "title": "Hymn Writer & Worship Leader",
+  "tagline": "Penned some of the most beloved modern hymns in the English-speaking church",
+  "bio": "English Christian hymn writer and worship leader whose compositions are sung in churches worldwide. He co-wrote 'In Christ Alone' with Keith Getty, and is also known for 'How Deep the Father's Love for Us' and 'The Power of the Cross.' His hymns blend poetic craftsmanship with deep theological content.",
+  "faith": "Townend's hymns are marked by their doctrinal richness and scriptural fidelity, drawing deeply from the Reformed tradition. He has spoken of his desire to write songs that help congregations grasp the truths of Scripture in a way that moves both mind and heart. His work has helped bridge contemporary worship and traditional hymnody across denominations.",
+  "image": "/images/placeholder-saint.svg",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Stuart Townend — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stuart_Townend",
+      "note": "Biography of the English hymn writer"
+    },
+    {
+      "type": "website",
+      "title": "Stuart Townend Official Site",
+      "url": "https://www.stuarttownend.co.uk/",
+      "note": "Official website with songs and resources"
+    }
+  ],
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

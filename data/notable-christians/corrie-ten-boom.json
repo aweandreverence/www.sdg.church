@@ -1,0 +1,41 @@
+{
+  "name": "Corrie ten Boom",
+  "years": "April 15, 1892 – April 15, 1983",
+  "title": "Holocaust Survivor & Evangelist",
+  "bio": "Dutch Christian watchmaker who, along with her family, helped many Jews escape the Nazi Holocaust by hiding them in her home. She was eventually imprisoned in the Ravensbrück concentration camp, where her sister Betsie died.",
+  "faith": "After surviving the concentration camp, ten Boom traveled the world as a speaker, sharing her message of forgiveness and God's love. Her autobiography 'The Hiding Place' tells the story of her family's courageous faith. She famously forgave a former Ravensbrück guard face-to-face.",
+  "videos": [
+    {
+      "title": "Corrie ten Boom — The Hiding Place",
+      "url": "https://www.youtube.com/results?search_query=corrie+ten+boom+hiding+place+testimony",
+      "platform": "youtube",
+      "note": "Testimonies and the film adaptation of her story"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Corrie ten Boom — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Corrie_ten_Boom",
+      "note": "Biography of the Holocaust survivor and evangelist"
+    },
+    {
+      "type": "book",
+      "title": "The Hiding Place",
+      "note": "By Corrie ten Boom. Her autobiography about hiding Jews and surviving the concentration camp"
+    },
+    {
+      "type": "website",
+      "title": "Corrie ten Boom Museum",
+      "url": "https://www.corrietenboom.com/",
+      "note": "Museum in the ten Boom family home in Haarlem, Netherlands"
+    }
+  ],
+  "slug": "corrie-ten-boom",
+  "tagline": "Forgave her Nazi captors and taught the world about God's love",
+  "image": "/images/bios/corrie-ten-boom.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Corrie_ten_Boom",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

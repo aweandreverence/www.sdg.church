@@ -1,0 +1,41 @@
+{
+  "name": "Jim Cymbala",
+  "years": "1943 – present",
+  "title": "Pastor & Author",
+  "bio": "American pastor of the Brooklyn Tabernacle in New York City. Under his leadership, the church grew from fewer than 20 members to over 10,000. The Brooklyn Tabernacle Choir, directed by his wife Carol, has won multiple Grammy Awards.",
+  "faith": "Cymbala transformed a dying inner-city church through prayer. His Tuesday night prayer meetings became legendary, drawing thousands. His book 'Fresh Wind, Fresh Fire' recounts how God revived the Brooklyn Tabernacle through fervent prayer.",
+  "videos": [
+    {
+      "title": "Jim Cymbala — Fresh Wind, Fresh Fire",
+      "url": "https://www.youtube.com/results?search_query=jim+cymbala+fresh+wind+fresh+fire+brooklyn+tabernacle",
+      "platform": "youtube",
+      "note": "Cymbala's sermons and testimony about prayer"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Jim Cymbala — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jim_Cymbala",
+      "note": "Biography of the Brooklyn Tabernacle pastor"
+    },
+    {
+      "type": "book",
+      "title": "Fresh Wind, Fresh Fire",
+      "note": "By Jim Cymbala. His account of revival through prayer at Brooklyn Tabernacle"
+    },
+    {
+      "type": "website",
+      "title": "Brooklyn Tabernacle",
+      "url": "https://www.brooklyntabernacle.org/",
+      "note": "The church Cymbala pastors in downtown Brooklyn"
+    }
+  ],
+  "slug": "jim-cymbala",
+  "tagline": "Built the Brooklyn Tabernacle on the power of prayer",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

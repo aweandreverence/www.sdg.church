@@ -1,0 +1,23 @@
+{
+  "name": "Fred Smith",
+  "years": "August 11, 1944 – present",
+  "title": "Founder of FedEx",
+  "bio": "American businessman who founded Federal Express (FedEx) in 1971. He served as CEO until 2022 and executive chairman until 2024.",
+  "faith": "A practicing Christian who has been a member of various church communities. He has attributed his perseverance through FedEx's early financial crises to his faith and determination.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Fred Smith (businessman) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fred_Smith_(businessman)",
+      "note": "Biography of the FedEx founder"
+    }
+  ],
+  "slug": "fred-smith",
+  "tagline": "Founded FedEx and supported Christian causes worldwide",
+  "image": "/images/bios/fred-smith.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Frederick_W._Smith",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

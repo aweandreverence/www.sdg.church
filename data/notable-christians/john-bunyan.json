@@ -1,0 +1,29 @@
+{
+  "name": "John Bunyan",
+  "years": "November 28, 1628 – August 31, 1688",
+  "title": "Author & Preacher",
+  "bio": "English writer and Puritan preacher best known for 'The Pilgrim's Progress,' one of the most significant works of English literature and the most widely read Christian allegory ever written.",
+  "faith": "A Baptist preacher who was imprisoned for 12 years for preaching without a license. During his imprisonment he wrote 'The Pilgrim's Progress,' an allegory of the Christian journey from sin to salvation that has never been out of print.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John Bunyan — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Bunyan",
+      "note": "Biography of the imprisoned preacher who wrote Pilgrim's Progress"
+    },
+    {
+      "type": "wikipedia",
+      "title": "The Pilgrim's Progress — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress",
+      "note": "History of the most widely read Christian allegory"
+    }
+  ],
+  "slug": "john-bunyan",
+  "tagline": "Wrote the greatest Christian allegory from a prison cell",
+  "image": "/images/bios/john-bunyan.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/John_Bunyan",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

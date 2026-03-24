@@ -1,0 +1,47 @@
+{
+  "name": "Tim Tebow",
+  "years": "August 14, 1987 – present",
+  "title": "Former NFL Quarterback & Baseball Player",
+  "bio": "American former professional football and baseball player, Heisman Trophy winner, and two-time BCS National Champion with the University of Florida. Now a sports analyst, author, and philanthropist.",
+  "faith": "One of the most outspoken Christian athletes in modern sports. Famous for 'Tebowing' (kneeling in prayer on the field) and wearing Bible verses on his eye black. Founded the Tim Tebow Foundation, which hosts 'Night to Shine' proms for people with special needs worldwide.",
+  "videos": [
+    {
+      "title": "Tim Tebow Testimony & Faith Story",
+      "url": "https://www.youtube.com/results?search_query=tim+tebow+testimony+faith+story",
+      "platform": "youtube",
+      "note": "Tebow has shared his testimony in numerous interviews and conferences"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Tim Tebow — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tim_Tebow",
+      "note": "Biography including his Christian faith and philanthropy"
+    },
+    {
+      "type": "website",
+      "title": "Tim Tebow Foundation",
+      "url": "https://www.timtebowfoundation.org/",
+      "note": "His foundation, including Night to Shine for people with special needs"
+    },
+    {
+      "type": "book",
+      "title": "Through My Eyes",
+      "note": "By Tim Tebow. His autobiography discussing faith and football"
+    },
+    {
+      "type": "youtube",
+      "title": "Tim Tebow — I Am Second",
+      "url": "https://www.youtube.com/results?search_query=tim+tebow+i+am+second+testimony",
+      "note": "His I Am Second testimony video"
+    }
+  ],
+  "slug": "tim-tebow",
+  "tagline": "Wore John 3:16 on his eye black and lived it on every field",
+  "image": "/images/bios/tim-tebow.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Tim_Tebow",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Martin Luther",
+  "years": "November 10, 1483 – February 18, 1546",
+  "title": "Reformer & Theologian",
+  "bio": "German professor of theology, priest, and seminal figure in the Protestant Reformation. His Ninety-five Theses challenged the Catholic Church's practices and launched the Reformation.",
+  "faith": "Luther's rediscovery of justification by faith alone (sola fide) through Scripture alone (sola scriptura) transformed Christianity. His translation of the Bible into German made Scripture accessible to ordinary people.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Martin Luther — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+      "note": "Comprehensive biography of the father of the Reformation"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Ninety-five Theses — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+      "note": "The document that launched the Protestant Reformation"
+    },
+    {
+      "type": "youtube",
+      "title": "Martin Luther (2003 Film)",
+      "url": "https://www.youtube.com/results?search_query=martin+luther+2003+film+full",
+      "note": "Major biographical film starring Joseph Fiennes"
+    }
+  ],
+  "slug": "martin-luther",
+  "tagline": "Here I stand — I can do no other",
+  "image": "/images/bios/martin-luther.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Martin_Luther",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

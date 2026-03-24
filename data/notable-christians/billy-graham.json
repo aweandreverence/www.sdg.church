@@ -1,0 +1,47 @@
+{
+  "name": "Billy Graham",
+  "years": "November 7, 1918 – February 21, 2018",
+  "title": "Evangelist",
+  "bio": "American evangelist and ordained Southern Baptist minister whose broadcasts and world tours spanning over six decades made him one of the most influential Christian leaders of the 20th century. He preached to live audiences of nearly 215 million people in more than 185 countries.",
+  "faith": "Known as 'America's Pastor,' Graham preached a simple message of salvation through Jesus Christ. He served as spiritual advisor to multiple U.S. Presidents and founded the Billy Graham Evangelistic Association. His integrity and humility set a standard for public Christian ministry.",
+  "videos": [
+    {
+      "title": "Billy Graham Classic Crusade Sermons",
+      "url": "https://www.youtube.com/results?search_query=billy+graham+crusade+sermon+classic",
+      "platform": "youtube",
+      "note": "Hundreds of Graham's crusade sermons are available on YouTube"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Billy Graham — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Billy_Graham",
+      "note": "Comprehensive biography of the most prominent evangelist of the 20th century"
+    },
+    {
+      "type": "book",
+      "title": "Just As I Am: The Autobiography of Billy Graham",
+      "note": "By Billy Graham. His own account of his life and ministry"
+    },
+    {
+      "type": "website",
+      "title": "Billy Graham Evangelistic Association",
+      "url": "https://billygraham.org/",
+      "note": "The ministry organization Graham founded"
+    },
+    {
+      "type": "youtube",
+      "title": "Billy Graham's Life and Legacy",
+      "url": "https://www.youtube.com/results?search_query=billy+graham+life+legacy+documentary",
+      "note": "Numerous documentaries about Graham's extraordinary ministry"
+    }
+  ],
+  "slug": "billy-graham",
+  "tagline": "Preached the gospel to more people than anyone in history",
+  "image": "/images/bios/billy-graham.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Billy_Graham",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

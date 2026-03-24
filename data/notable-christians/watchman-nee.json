@@ -1,0 +1,28 @@
+{
+  "name": "Watchman Nee",
+  "years": "November 4, 1903 – May 30, 1972",
+  "title": "Church Leader & Author",
+  "bio": "Chinese church leader and Christian author who founded the Local Church movement in China. He authored influential works including 'The Normal Christian Life' and 'Sit, Walk, Stand.' He was imprisoned by the Communist government in 1952 and died in prison after 20 years.",
+  "faith": "Nee's emphasis on the inner spiritual life and the practical experience of Christ's indwelling has influenced millions of Christians worldwide. He endured two decades of imprisonment for his faith without renouncing Christ.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Watchman Nee — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watchman_Nee",
+      "note": "Biography of the Chinese church leader imprisoned for his faith"
+    },
+    {
+      "type": "book",
+      "title": "The Normal Christian Life",
+      "note": "By Watchman Nee. His most widely read work on the Christian walk"
+    }
+  ],
+  "slug": "watchman-nee",
+  "tagline": "Suffered 20 years in prison rather than deny his Lord",
+  "image": "/images/bios/watchman-nee.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Watchman_Nee",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "TobyMac",
+  "years": "October 22, 1964 – present",
+  "title": "Christian Rapper & Singer",
+  "bio": "American Christian hip hop and pop artist, former member of DC Talk. Multiple Grammy Award winner with hits like 'I just need U' and 'Speak Life.'",
+  "faith": "TobyMac has been in Christian music for over 30 years. After the tragic death of his son Truett in 2019, he has spoken powerfully about grieving with hope in Christ. His music consistently points listeners to Jesus.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "TobyMac — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TobyMac",
+      "note": "Biography of the Christian music artist"
+    },
+    {
+      "type": "youtube",
+      "title": "TobyMac — Grieving with Hope After Son's Death",
+      "url": "https://www.youtube.com/results?search_query=tobymac+son+truett+death+testimony+faith",
+      "note": "TobyMac sharing about grieving with hope after losing his son"
+    }
+  ],
+  "slug": "tobymac",
+  "tagline": "Brought Christ-centered music to millions through creative excellence",
+  "image": "/images/bios/tobymac.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/TobyMac",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

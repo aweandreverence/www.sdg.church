@@ -1,0 +1,33 @@
+{
+  "name": "Amy Carmichael",
+  "years": "December 16, 1867 – January 18, 1951",
+  "title": "Missionary to India",
+  "bio": "Irish Christian missionary who served in India for 55 years without furlough. She founded the Dohnavur Fellowship and devoted her life to rescuing children from temple prostitution. She wrote 35 books about her missionary work.",
+  "faith": "Carmichael gave her entire life to serving the most vulnerable in India. She rescued hundreds of children from abuse and exploitation, establishing a community that still operates today. Her writings on the cost of discipleship continue to inspire missionaries worldwide.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Amy Carmichael — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amy_Carmichael",
+      "note": "Biography of the missionary who served 55 years in India"
+    },
+    {
+      "type": "book",
+      "title": "Things As They Are: Mission Work in Southern India",
+      "note": "By Amy Carmichael. Her honest account of missionary life"
+    },
+    {
+      "type": "book",
+      "title": "If",
+      "note": "By Amy Carmichael. Her devotional classic on sacrificial love"
+    }
+  ],
+  "slug": "amy-carmichael",
+  "tagline": "Rescued hundreds of children in India and served without furlough for 55 years",
+  "image": "/images/bios/amy-carmichael.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Amy_Carmichael",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Pete Hegseth",
+  "years": "June 6, 1980 – present",
+  "title": "U.S. Secretary of Defense & Army Veteran",
+  "bio": "American government official and former Fox News host serving as the 29th United States Secretary of Defense. Army National Guard officer (Major) who served in Iraq and Afghanistan, earning two Bronze Stars and a Combat Infantryman Badge.",
+  "faith": "An outspoken evangelical Christian who has spoken extensively about the importance of faith in the military and American life. He has discussed his personal relationship with Christ in interviews and in his books.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Pete Hegseth — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+      "note": "Biography including his military service and faith"
+    },
+    {
+      "type": "book",
+      "title": "American Crusade: Our Fight to Stay Free",
+      "note": "By Pete Hegseth. His book discussing faith, freedom, and American values"
+    }
+  ],
+  "slug": "pete-hegseth",
+  "tagline": "Army veteran and Secretary of Defense who credits faith for his service",
+  "image": "/images/bios/pete-hegseth.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

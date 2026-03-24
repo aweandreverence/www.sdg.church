@@ -1,0 +1,34 @@
+{
+  "name": "Tamika Catchings",
+  "years": "July 21, 1979 –",
+  "title": "WNBA Champion & Humanitarian",
+  "bio": "Ten-time WNBA All-Star, four-time Olympic gold medalist, and one of the greatest basketball players in WNBA history. She founded the Catch the Stars Foundation to help disadvantaged youth.",
+  "faith": "Catchings has been vocal about her Christian faith throughout her career. She founded her Catch the Stars Foundation rooted in Christian principles, using basketball as a vehicle to minister to youth. She has shared how faith helped her overcome being born with a hearing disability and family challenges.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Catchings — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tamika_Catchings",
+      "note": "WNBA legend and Olympic champion"
+    },
+    {
+      "type": "book",
+      "title": "Catch a Star: Shining Through Adversity to Become a Champion",
+      "note": "By Tamika Catchings and Ken Petersen (Revell/Baker, 2016). Her autobiography detailing how faith helped her overcome a hearing disability and family challenges"
+    },
+    {
+      "type": "website",
+      "title": "Catch the Stars Foundation",
+      "url": "https://www.catchthestars.org/",
+      "note": "Catchings' faith-rooted foundation empowering youth through fitness, literacy, and mentoring"
+    }
+  ],
+  "slug": "tamika-catchings",
+  "tagline": "Using basketball to catch stars for God's kingdom",
+  "image": "/images/bios/tamika-catchings.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "CC BY-SA"
+  }
+}

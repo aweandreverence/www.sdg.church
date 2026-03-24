@@ -1,0 +1,29 @@
+{
+  "name": "Norm Miller",
+  "years": "1933 – present",
+  "title": "Chairman of Interstate Batteries",
+  "bio": "American businessman who has served as chairman of Interstate Batteries, the top-selling replacement battery brand in North America.",
+  "faith": "Miller is an outspoken Christian who credits his faith with saving him from alcoholism. Interstate Batteries' corporate mission includes honoring God, and the company has prominently featured Christian messaging, including placing 'I Am Second' on NASCAR cars.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Interstate Batteries — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Interstate_Batteries",
+      "note": "About the company and its faith-based corporate mission"
+    },
+    {
+      "type": "website",
+      "title": "I Am Second",
+      "url": "https://www.iamsecond.com/",
+      "note": "The testimony campaign Miller championed through NASCAR"
+    }
+  ],
+  "slug": "norm-miller",
+  "tagline": "Transformed Interstate Batteries into a platform for the gospel",
+  "image": "/images/placeholder-saint.svg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
+}

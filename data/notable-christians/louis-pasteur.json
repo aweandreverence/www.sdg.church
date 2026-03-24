@@ -1,0 +1,29 @@
+{
+  "name": "Louis Pasteur",
+  "years": "December 27, 1822 – September 28, 1895",
+  "title": "Chemist & Microbiologist",
+  "bio": "French chemist and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization. He is known as the 'Father of Microbiology.'",
+  "faith": "A devout Catholic who maintained his faith throughout his scientific career. He stated, 'The more I study nature, the more I stand amazed at the work of the Creator.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Louis Pasteur — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "note": "Biography including his Catholic faith"
+    },
+    {
+      "type": "wikipedia",
+      "title": "Religious views of Louis Pasteur — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Religious_views_of_Louis_Pasteur",
+      "note": "Discussion of Pasteur's Catholic beliefs"
+    }
+  ],
+  "slug": "louis-pasteur",
+  "tagline": "Stood amazed at the Creator while pioneering microbiology",
+  "image": "/images/bios/louis-pasteur.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

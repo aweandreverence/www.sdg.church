@@ -1,0 +1,34 @@
+{
+  "name": "Sydney McLaughlin-Levrone",
+  "years": "August 7, 1999 –",
+  "title": "Olympic Hurdler & Sprinter",
+  "bio": "Olympic gold medalist and world record holder in the 400m hurdles. Named to the U.S. Olympic team at age 16, she has shattered records multiple times and is considered one of the greatest hurdlers ever.",
+  "faith": "McLaughlin-Levrone is outspoken about her Christian faith and attends Grace Community Church in Los Angeles. After setting the world record in the 400m hurdles (50.37s), she said: \"Whenever I step on the track it's always the prayer of 'God, let me be the vessel in which you're glorified whatever the result is.'\" She authored Far Beyond Gold: Running from Fear to Faith about finding identity in Christ rather than athletic achievement. She regularly shares Scripture on social media, including Psalm 115:1 after her record-breaking Olympic victory.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "McLaughlin-Levrone — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sydney_McLaughlin-Levrone",
+      "note": "Olympic hurdler and vocal Christian"
+    },
+    {
+      "type": "article",
+      "title": "Record-breaking Olympian: I always pray God will be glorified",
+      "url": "https://www.christian.org.uk/news/record-breaking-olympian-i-always-pray-god-will-be-glorified-whatever-the-result/",
+      "note": "Interview about her faith and Olympic world record"
+    },
+    {
+      "type": "book",
+      "title": "Far Beyond Gold: Running from Fear to Faith",
+      "note": "By Sydney McLaughlin-Levrone (Zondervan, 2024). Her testimony of finding identity in Christ rather than athletic achievement"
+    }
+  ],
+  "slug": "sydney-mclaughlin-levrone",
+  "tagline": "Far beyond gold — identity in Christ, not medals",
+  "image": "/images/bios/sydney-mclaughlin-levrone.jpg",
+  "imageAttribution": {
+    "source": "Photograph",
+    "license": "CC BY-SA 4.0"
+  }
+}

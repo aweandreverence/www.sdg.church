@@ -1,0 +1,29 @@
+{
+  "name": "Kirk Cousins",
+  "years": "August 19, 1988 – present",
+  "title": "NFL Quarterback",
+  "bio": "American professional football quarterback who has played for the Washington Commanders, Minnesota Vikings, and Atlanta Falcons.",
+  "faith": "An outspoken Christian who has said, 'The gospel changes everything. It changes how I see football, how I see my marriage, how I see money.' He has spoken at churches and men's conferences about his faith.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Kirk Cousins — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kirk_Cousins",
+      "note": "Biography of the NFL quarterback"
+    },
+    {
+      "type": "youtube",
+      "title": "Kirk Cousins — Faith and Football",
+      "url": "https://www.youtube.com/results?search_query=kirk+cousins+christian+faith+testimony+church",
+      "note": "Cousins speaking about his faith at churches and events"
+    }
+  ],
+  "slug": "kirk-cousins",
+  "tagline": "An NFL quarterback who studies Scripture as diligently as game film",
+  "image": "/images/bios/kirk-cousins.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Kirk_Cousins",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

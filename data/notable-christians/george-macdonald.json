@@ -1,0 +1,28 @@
+{
+  "name": "George MacDonald",
+  "years": "December 10, 1824 – September 18, 1905",
+  "title": "Author & Minister",
+  "bio": "Scottish author, poet, and Christian minister. A pioneering figure in fantasy literature, writing works such as 'Phantastes,' 'The Princess and the Goblin,' and 'Lilith.'",
+  "faith": "A Congregationalist minister whose theology of God's love permeated all his writings. C.S. Lewis called MacDonald his 'master' and credited MacDonald's 'Phantastes' with 'baptizing his imagination.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "George MacDonald — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_MacDonald",
+      "note": "Biography of the minister and fantasy pioneer who influenced C.S. Lewis"
+    },
+    {
+      "type": "book",
+      "title": "Phantastes",
+      "note": "By George MacDonald. The fantasy novel C.S. Lewis credited with 'baptizing his imagination'"
+    }
+  ],
+  "slug": "george-macdonald",
+  "tagline": "The fantasy pioneer who baptized C.S. Lewis's imagination",
+  "image": "/images/bios/george-macdonald.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/George_MacDonald",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Herman Bavinck",
+  "years": "December 13, 1854 – July 29, 1921",
+  "title": "Dutch Reformed Theologian",
+  "bio": "Dutch Reformed theologian whose four-volume Reformed Dogmatics is considered one of the greatest systematic theologies ever written. Professor at Kampen and the Free University of Amsterdam.",
+  "faith": "Bavinck's vision was to engage modern thought without compromising Reformed orthodoxy. His Reformed Dogmatics masterfully integrates biblical theology with philosophy and culture. He wrote: 'The essence of the Christian religion consists in the reality that the creation of the Father, devastated by sin, is restored in the death of the Son.'",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Bavinck — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Herman_Bavinck",
+      "note": "Author of Reformed Dogmatics"
+    }
+  ],
+  "slug": "herman-bavinck",
+  "tagline": "Reformed Dogmatics — a masterwork of systematic theology",
+  "image": "/images/bios/herman-bavinck.jpg",
+  "imageAttribution": {
+    "source": "Historical photograph",
+    "license": "Public domain"
+  }
+}

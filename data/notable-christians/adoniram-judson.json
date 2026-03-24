@@ -1,0 +1,28 @@
+{
+  "name": "Adoniram Judson",
+  "years": "August 9, 1788 – April 12, 1850",
+  "title": "Missionary to Burma",
+  "bio": "American Congregationalist and later Baptist missionary who served in Burma (Myanmar) for nearly 40 years. He was the first American foreign missionary sent overseas and translated the entire Bible into Burmese.",
+  "faith": "Judson endured imprisonment, torture, the deaths of two wives and several children, and decades of hardship for the sake of the gospel. He completed the Burmese Bible translation and established churches that endure to this day.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Adoniram Judson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adoniram_Judson",
+      "note": "Biography of the first American foreign missionary"
+    },
+    {
+      "type": "book",
+      "title": "To the Golden Shore: The Life of Adoniram Judson",
+      "note": "By Courtney Anderson. Definitive biography of Judson"
+    }
+  ],
+  "slug": "adoniram-judson",
+  "tagline": "Endured imprisonment and loss to bring the gospel to Burma",
+  "image": "/images/bios/adoniram-judson.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Adoniram_Judson",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

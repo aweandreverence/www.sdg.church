@@ -1,0 +1,36 @@
+{
+  "name": "Pat Gelsinger",
+  "years": "July 5, 1961 – present",
+  "title": "Former CEO of Intel & VMware",
+  "bio": "American business executive and engineer who served as CEO of Intel (2021-2024) and previously as CEO of VMware. Was the chief architect of Intel's i486 microprocessor and the youngest person named VP at Intel at age 32.",
+  "faith": "Raised in an Amish/Mennonite community in Pennsylvania, Gelsinger is an outspoken Christian who has given his testimony at numerous churches and conferences. He has spoken about balancing career ambition with faith and family, tithing generously, and how his faith shapes his leadership.",
+  "videos": [
+    {
+      "title": "Pat Gelsinger Testimony - Technology and Faith",
+      "url": "https://www.youtube.com/results?search_query=pat+gelsinger+christian+testimony+faith",
+      "platform": "youtube",
+      "note": "Gelsinger has given extensive testimony talks at churches and conferences"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Pat Gelsinger — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pat_Gelsinger",
+      "note": "Biography including his faith background"
+    },
+    {
+      "type": "youtube",
+      "title": "Pat Gelsinger — From Farm Boy to Tech CEO",
+      "url": "https://www.youtube.com/results?search_query=pat+gelsinger+testimony+faith+farm+boy+tech+ceo",
+      "note": "His testimony about growing up Amish/Mennonite and leading in tech"
+    }
+  ],
+  "slug": "pat-gelsinger",
+  "tagline": "Led Intel and VMware while keeping Christ at the center",
+  "image": "/images/bios/pat-gelsinger.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/Pat_Gelsinger",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}

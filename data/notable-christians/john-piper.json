@@ -1,0 +1,41 @@
+{
+  "name": "John Piper",
+  "years": "January 11, 1946 – present",
+  "title": "Pastor & Theologian",
+  "bio": "American Reformed Baptist pastor, author, and theologian. He served as pastor of Bethlehem Baptist Church in Minneapolis for 33 years and founded Desiring God Ministries. He has authored over 50 books including 'Desiring God' and 'Don't Waste Your Life.'",
+  "faith": "Piper is known for his concept of 'Christian Hedonism' — the idea that 'God is most glorified in us when we are most satisfied in Him.' His expository preaching, passionate delivery, and emphasis on God's sovereignty have shaped a generation of Reformed evangelicals.",
+  "videos": [
+    {
+      "title": "John Piper — Don't Waste Your Life",
+      "url": "https://www.youtube.com/results?search_query=john+piper+dont+waste+your+life+sermon",
+      "platform": "youtube",
+      "note": "Piper's impassioned sermons and conference talks"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John Piper (theologian) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Piper_(theologian)",
+      "note": "Biography of the Reformed Baptist pastor and author"
+    },
+    {
+      "type": "website",
+      "title": "Desiring God",
+      "url": "https://www.desiringgod.org/",
+      "note": "Piper's ministry with thousands of free sermons and articles"
+    },
+    {
+      "type": "book",
+      "title": "Desiring God: Meditations of a Christian Hedonist",
+      "note": "By John Piper. His foundational work on finding joy in God"
+    }
+  ],
+  "slug": "john-piper",
+  "tagline": "Proclaimed that God is most glorified in us when we are most satisfied in Him",
+  "image": "/images/bios/john-piper.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/John_Piper_(theologian)",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
+}
