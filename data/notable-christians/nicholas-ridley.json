@@ -1,35 +1,36 @@
 {
-    "name": "Nicholas Ridley",
-    "years": "c. 1500 – October 16, 1555",
-    "title": "Bishop of London & Reformation Martyr",
-    "bio": "Bishop of London who helped shape the theological foundations of the Church of England. Burned at the stake alongside Hugh Latimer in Oxford.",
-    "faith": "Ridley's scholarly work helped define Anglican theology, particularly regarding the Lord's Supper. He chose death over recanting his Protestant convictions, demonstrating that his faith was no mere intellectual exercise but a matter of eternal truth.",
-    "videos": [],
-    "sources": [
-        {
-            "type": "wikipedia",
-            "title": "Ridley — Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Nicholas_Ridley_(martyr)",
-            "note": "Bishop of London, burned with Latimer"
-        },
-        {
-            "type": "book",
-            "title": "Foxe's Book of Martyrs — Latimer and Ridley",
-            "url": "https://www.ccel.org/ccel/foxe/martyrs.ix.html",
-            "note": "Foxe's account of Ridley and Latimer's burning at the stake in Oxford, October 16, 1555"
-        },
-        {
-            "type": "primary_text",
-            "title": "A Brief Declaration of the Lord's Supper",
-            "url": "https://www.ccel.org/ccel/ridley/supper.html",
-            "note": "Ridley's key theological work on the Lord's Supper, which helped shape Anglican eucharistic theology"
-        }
-    ],
-    "slug": "nicholas-ridley",
-    "tagline": "Chose the flames over denying the truth",
-    "image": "/images/bios/nicholas-ridley.jpg",
-    "imageAttribution": {
-        "source": "Wikimedia Commons",
-        "license": "Public domain"
+  "name": "Nicholas Ridley",
+  "years": "c. 1500 – October 16, 1555",
+  "title": "Bishop of London & Reformation Martyr",
+  "bio": "Bishop of London who helped shape the theological foundations of the Church of England. Burned at the stake alongside Hugh Latimer in Oxford.",
+  "faith": "Ridley's scholarly work helped define Anglican theology, particularly regarding the Lord's Supper. He chose death over recanting his Protestant convictions, demonstrating that his faith was no mere intellectual exercise but a matter of eternal truth.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Ridley — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Ridley_(martyr)",
+      "note": "Bishop of London, burned with Latimer"
+    },
+    {
+      "type": "book",
+      "title": "Foxe's Book of Martyrs — Latimer and Ridley",
+      "url": "https://www.ccel.org/ccel/foxe/martyrs.ix.html",
+      "note": "Foxe's account of Ridley and Latimer's burning at the stake in Oxford, October 16, 1555"
+    },
+    {
+      "type": "primary_text",
+      "title": "A Brief Declaration of the Lord's Supper",
+      "url": "https://www.ccel.org/ccel/ridley/supper.html",
+      "note": "Ridley's key theological work on the Lord's Supper, which helped shape Anglican eucharistic theology"
     }
+  ],
+  "slug": "nicholas-ridley",
+  "tagline": "Chose the flames over denying the truth",
+  "image": "/images/bios/nicholas-ridley.jpg",
+  "imageAttribution": {
+    "source": "National Portrait Gallery, London, via Wikimedia Commons",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Nicholas_Ridley_from_NPG.jpg"
+  }
 }
