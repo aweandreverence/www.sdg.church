@@ -608,3 +608,356 @@ $dark-card: #0f3460;
     padding: 1rem;
   }
 }
+
+/* ───────────────────────────────────────────
+   Biography Legend / Table of Contents
+   ─────────────────────────────────────────── */
+
+.legendContainer {
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(201, 168, 76, 0.15);
+  border-radius: 12px;
+}
+
+.legendHeader {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.legendTitle {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: $gold;
+  margin: 0;
+}
+
+.legendTotal {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-style: italic;
+}
+
+.legendGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.legendCategoryCard {
+  padding: 1.25rem;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(201, 168, 76, 0.1);
+  border-radius: 8px;
+}
+
+.legendCategoryName {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0 0 0.25rem;
+}
+
+.legendCategoryDesc {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.45);
+  margin: 0 0 0.75rem;
+  line-height: 1.4;
+}
+
+.legendSubcategories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.legendChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  background: rgba(201, 168, 76, 0.08);
+  border: 1px solid rgba(201, 168, 76, 0.15);
+  border-radius: 20px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+
+  &:hover {
+    background: rgba(201, 168, 76, 0.18);
+    border-color: $gold;
+    transform: translateY(-1px);
+  }
+}
+
+.legendChipIcon {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.legendChipName {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.8);
+  white-space: nowrap;
+}
+
+.legendChipCount {
+  font-size: 0.7rem;
+  color: $gold;
+  background: rgba(201, 168, 76, 0.15);
+  padding: 0.1rem 0.4rem;
+  border-radius: 10px;
+  min-width: 1.4rem;
+  text-align: center;
+}
+
+/* ───────────────────────────────────────────
+   Biography Cards (Index Page)
+   ─────────────────────────────────────────── */
+
+.bioCardLink {
+  text-decoration: none;
+  display: block;
+  height: 100%;
+}
+
+.bioCard {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(201, 168, 76, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
+  height: 100%;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+
+  &:hover {
+    border-color: $gold;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 32px rgba(201, 168, 76, 0.15);
+  }
+}
+
+.bioCardImageWrap {
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  background: $dark-surface;
+}
+
+.bioCardImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.bioCardPlaceholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, $dark-surface, $dark-card);
+
+  span {
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    font-size: 3rem;
+    font-weight: 300;
+    color: $gold;
+    opacity: 0.6;
+  }
+}
+
+.bioCardBody {
+  padding: 1.25rem;
+  flex: 1;
+}
+
+.bioCardName {
+  color: $gold;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+}
+
+.bioCardYears {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.85rem;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.bioCardTagline {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+/* ───────────────────────────────────────────
+   Biography Detail Page
+   ─────────────────────────────────────────── */
+
+.bioDetailHeader {
+  padding: 2rem 0;
+}
+
+.bioBackLink {
+  display: inline-block;
+  color: $gold;
+  text-decoration: none;
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $gold-light;
+  }
+}
+
+.bioDetailHero {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.bioDetailImage {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 10px;
+  border: 2px solid rgba(201, 168, 76, 0.3);
+  flex-shrink: 0;
+
+  @media (max-width: 768px) {
+    width: 200px;
+    height: 240px;
+  }
+}
+
+.bioDetailPlaceholder {
+  width: 250px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  border: 2px solid rgba(201, 168, 76, 0.3);
+  background: linear-gradient(135deg, $dark-surface, $dark-card);
+  flex-shrink: 0;
+
+  span {
+    font-family: 'Cormorant Garamond', 'Georgia', serif;
+    font-size: 4rem;
+    font-weight: 300;
+    color: $gold;
+    opacity: 0.5;
+  }
+
+  @media (max-width: 768px) {
+    width: 200px;
+    height: 240px;
+  }
+}
+
+.bioDetailTitleBlock {
+  padding-top: 0.5rem;
+}
+
+.bioDetailName {
+  color: $gold;
+  font-size: 2.5rem;
+  font-weight: 300;
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  margin-bottom: 0.25rem;
+  line-height: 1.2;
+
+  @media (max-width: 768px) {
+    font-size: 2rem;
+  }
+}
+
+.bioDetailYears {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-bottom: 0.25rem;
+}
+
+.bioDetailTitle {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+
+.bioDetailTagline {
+  color: $gold-light;
+  font-size: 1.1rem;
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.bioDetailSection {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.1);
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+}
+
+.bioDetailSectionTitle {
+  color: $gold;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  margin-bottom: 1rem;
+}
+
+.bioDetailText {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.bioPrevNext {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 0 3rem;
+  border-top: 1px solid rgba(201, 168, 76, 0.15);
+  margin-top: 1rem;
+}
+
+.bioPrevNextLink {
+  color: $gold;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $gold-light;
+  }
+}
