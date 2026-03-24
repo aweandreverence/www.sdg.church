@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#1a1a2e"/>
+  <circle cx="200" cy="150" r="60" fill="#2a2a3e" stroke="#c9a84c" stroke-width="2"/>
+  <path d="M200 110 L200 190 M170 150 L230 150" stroke="#c9a84c" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 350 Q120 250 200 220 Q280 250 280 350" fill="#2a2a3e" stroke="#c9a84c" stroke-width="2"/>
+  <text x="200" y="385" text-anchor="middle" fill="#c9a84c" font-family="serif" font-size="14" opacity="0.6">S.D.G.</text>
+</svg>
