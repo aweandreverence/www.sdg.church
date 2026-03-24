@@ -610,6 +610,119 @@ $dark-card: #0f3460;
 }
 
 /* ───────────────────────────────────────────
+   Biography Legend / Table of Contents
+   ─────────────────────────────────────────── */
+
+.legendContainer {
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(201, 168, 76, 0.15);
+  border-radius: 12px;
+}
+
+.legendHeader {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.legendTitle {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: $gold;
+  margin: 0;
+}
+
+.legendTotal {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.5);
+  font-style: italic;
+}
+
+.legendGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.legendCategoryCard {
+  padding: 1.25rem;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(201, 168, 76, 0.1);
+  border-radius: 8px;
+}
+
+.legendCategoryName {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0 0 0.25rem;
+}
+
+.legendCategoryDesc {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.45);
+  margin: 0 0 0.75rem;
+  line-height: 1.4;
+}
+
+.legendSubcategories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.legendChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  background: rgba(201, 168, 76, 0.08);
+  border: 1px solid rgba(201, 168, 76, 0.15);
+  border-radius: 20px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+
+  &:hover {
+    background: rgba(201, 168, 76, 0.18);
+    border-color: $gold;
+    transform: translateY(-1px);
+  }
+}
+
+.legendChipIcon {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.legendChipName {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.8);
+  white-space: nowrap;
+}
+
+.legendChipCount {
+  font-size: 0.7rem;
+  color: $gold;
+  background: rgba(201, 168, 76, 0.15);
+  padding: 0.1rem 0.4rem;
+  border-radius: 10px;
+  min-width: 1.4rem;
+  text-align: center;
+}
+
+/* ───────────────────────────────────────────
    Biography Cards (Index Page)
    ─────────────────────────────────────────── */
 

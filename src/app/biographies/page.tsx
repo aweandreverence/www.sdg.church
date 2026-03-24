@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { buildTitle } from '@/lib/seo';
 import { getBiographyCategories } from '@/lib/data';
+import BiographyLegend from '@/components/BiographyLegend';
 import styles from '@styles/common.module.scss';
 
 export const metadata: Metadata = {
@@ -45,13 +46,26 @@ export default function BiographiesPage() {
         </p>
       </div>
 
+      <BiographyLegend
+        categories={categories.map((cat) => ({
+          id: cat.id,
+          name: cat.name,
+          description: cat.description,
+          subcategories: cat.subcategories.map((sub) => ({
+            id: sub.id,
+            name: sub.name,
+            count: sub.people.length,
+          })),
+        }))}
+      />
+
       {categories.map((category) => (
         <section key={category.id} className={styles.movementSection}>
           <h2 className={styles.movementTitle}>{category.name}</h2>
           <p className={styles.commentary}>{category.description}</p>
 
           {category.subcategories.map((subcategory) => (
-            <div key={subcategory.id} className={styles.subcategorySection}>
+            <div key={subcategory.id} id={subcategory.id} className={styles.subcategorySection}>
               <h3 className={styles.subcategoryTitle}>{subcategory.name}</h3>
 
               <div className="row g-4">
