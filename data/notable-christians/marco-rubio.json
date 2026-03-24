@@ -1,23 +1,35 @@
 {
-  "name": "Marco Rubio",
-  "years": "May 28, 1971 – present",
-  "title": "U.S. Secretary of State",
-  "bio": "American politician and attorney serving as the 72nd United States Secretary of State. Previously served as a United States Senator from Florida.",
-  "faith": "Rubio has been open about his Christian faith journey, having been baptized as a Mormon, returned to Catholicism, attended a Southern Baptist church, and settled back in the Catholic Church. He frequently posts Bible verses on social media and has spoken about the importance of faith.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Marco Rubio — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Marco_Rubio",
-      "note": "Biography including his faith journey through multiple denominations"
+    "name": "Marco Rubio",
+    "years": "May 28, 1971 – present",
+    "title": "U.S. Secretary of State",
+    "bio": "American politician and attorney serving as the 72nd United States Secretary of State. Previously served as a United States Senator from Florida.",
+    "faith": "Rubio has been open about his Christian faith journey, having been baptized as a Mormon, returned to Catholicism, attended a Southern Baptist church, and settled back in the Catholic Church. He frequently posts Bible verses on social media and has spoken about the importance of faith.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Marco Rubio — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Marco_Rubio",
+            "note": "Biography including his faith journey through multiple denominations"
+        },
+        {
+            "type": "interview",
+            "title": "Marco Rubio's Faith Journey",
+            "url": "https://www.christianitytoday.com/ct/2016/january-february/marco-rubios-faith-journey.html",
+            "note": "Christianity Today profile of Rubio's unusual spiritual journey from Catholicism to Mormonism back to Catholicism and then to a Southern Baptist church"
+        },
+        {
+            "type": "article",
+            "title": "Marco Rubio on His Christian Faith and Its Role in Politics",
+            "url": "https://www.deseret.com/faith/2023/3/27/23658987/marco-rubio-faith-bible-twitter/",
+            "note": "Examination of how Rubio integrates faith into public life, including his practice of daily Bible reading and tweeting Scripture"
+        }
+    ],
+    "slug": "marco-rubio",
+    "tagline": "A senator and Secretary of State who shares Scripture daily",
+    "image": "/images/bios/marco-rubio.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/Marco_Rubio",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "marco-rubio",
-  "tagline": "A senator and Secretary of State who shares Scripture daily",
-  "image": "/images/bios/marco-rubio.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/Marco_Rubio",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

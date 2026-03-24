@@ -1,23 +1,35 @@
 {
-  "name": "Athanasius of Alexandria",
-  "years": "c. 296 – May 2, 373",
-  "title": "Church Father & Defender of Trinitarian Doctrine",
-  "bio": "Bishop of Alexandria who spent most of his life fighting Arianism — the heresy that Christ was a created being. Exiled five times by four different emperors for his unwavering defense of Christ's full divinity.",
-  "faith": "Athanasius stood virtually alone against the world (Athanasius contra mundum) in defending the Nicene Creed and the full deity of Christ. His work On the Incarnation remains a classic of Christian theology. C.S. Lewis wrote the introduction to a modern translation.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Athanasius — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria",
-      "note": "Defender of Trinitarian orthodoxy"
+    "name": "Athanasius of Alexandria",
+    "years": "c. 296 – May 2, 373",
+    "title": "Church Father & Defender of Trinitarian Doctrine",
+    "bio": "Bishop of Alexandria who spent most of his life fighting Arianism — the heresy that Christ was a created being. Exiled five times by four different emperors for his unwavering defense of Christ's full divinity.",
+    "faith": "Athanasius stood virtually alone against the world (Athanasius contra mundum) in defending the Nicene Creed and the full deity of Christ. His work On the Incarnation remains a classic of Christian theology. C.S. Lewis wrote the introduction to a modern translation.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Athanasius — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria",
+            "note": "Defender of Trinitarian orthodoxy"
+        },
+        {
+            "type": "primary_text",
+            "title": "On the Incarnation — CCEL",
+            "url": "https://www.ccel.org/ccel/athanasius/incarnation.html",
+            "note": "Athanasius's classic work on why God became man, with a famous introduction by C.S. Lewis"
+        },
+        {
+            "type": "primary_text",
+            "title": "Against the Arians (Orations) — New Advent",
+            "url": "https://www.newadvent.org/fathers/2816.htm",
+            "note": "Athanasius's defense of Christ's full divinity against the Arian heresy"
+        }
+    ],
+    "slug": "athanasius-of-alexandria",
+    "tagline": "Athanasius contra mundum — Athanasius against the world",
+    "image": "/images/bios/athanasius-of-alexandria.jpg",
+    "imageAttribution": {
+        "source": "Wikimedia Commons",
+        "license": "Public domain"
     }
-  ],
-  "slug": "athanasius-of-alexandria",
-  "tagline": "Athanasius contra mundum — Athanasius against the world",
-  "image": "/images/bios/athanasius-of-alexandria.jpg",
-  "imageAttribution": {
-    "source": "Wikimedia Commons",
-    "license": "Public domain"
-  }
 }

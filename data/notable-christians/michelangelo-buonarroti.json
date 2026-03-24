@@ -1,29 +1,41 @@
 {
-  "name": "Michelangelo Buonarroti",
-  "years": "March 6, 1475 – February 18, 1564",
-  "title": "Artist, Sculptor & Architect",
-  "bio": "Italian sculptor, painter, architect, and poet of the High Renaissance. Created the ceiling of the Sistine Chapel, the statue of David, and the Pietà.",
-  "faith": "A devout Catholic whose greatest works depicted biblical scenes and Christian themes. His Sistine Chapel ceiling telling the story of Genesis and his Pietà depicting Mary holding the body of Christ are among the most recognizable Christian artworks ever created.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Michelangelo — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Michelangelo",
-      "note": "Comprehensive biography including his faith-driven art"
-    },
-    {
-      "type": "wikipedia",
-      "title": "Sistine Chapel ceiling — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
-      "note": "His masterwork depicting the Genesis narrative"
+    "name": "Michelangelo Buonarroti",
+    "years": "March 6, 1475 – February 18, 1564",
+    "title": "Artist, Sculptor & Architect",
+    "bio": "Italian sculptor, painter, architect, and poet of the High Renaissance. Created the ceiling of the Sistine Chapel, the statue of David, and the Pietà.",
+    "faith": "A devout Catholic whose greatest works depicted biblical scenes and Christian themes. His Sistine Chapel ceiling telling the story of Genesis and his Pietà depicting Mary holding the body of Christ are among the most recognizable Christian artworks ever created.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Michelangelo — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Michelangelo",
+            "note": "Comprehensive biography including his faith-driven art"
+        },
+        {
+            "type": "wikipedia",
+            "title": "Sistine Chapel ceiling — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+            "note": "His masterwork depicting the Genesis narrative"
+        },
+        {
+            "type": "primary_text",
+            "title": "Michelangelo's Sonnets and Poems",
+            "url": "https://www.gutenberg.org/ebooks/35041",
+            "note": "Michelangelo's poetry reveals deep Christian faith — his later sonnets express penitence, longing for God, and meditation on Christ's sacrifice"
+        },
+        {
+            "type": "article",
+            "title": "The Sistine Chapel Ceiling — Vatican Museums",
+            "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina.html",
+            "note": "Michelangelo's supreme artistic achievement depicting Creation, the Fall, and God's covenant — a visual theology painted on the ceiling of Christendom's most sacred chapel"
+        }
+    ],
+    "slug": "michelangelo-buonarroti",
+    "tagline": "Painted the ceiling of the Sistine Chapel as an act of devotion",
+    "image": "/images/bios/michelangelo-buonarroti.jpg",
+    "imageAttribution": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/440px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "michelangelo-buonarroti",
-  "tagline": "Painted the ceiling of the Sistine Chapel as an act of devotion",
-  "image": "/images/bios/michelangelo-buonarroti.jpg",
-  "imageAttribution": {
-    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/440px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

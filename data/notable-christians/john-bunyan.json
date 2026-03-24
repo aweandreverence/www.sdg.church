@@ -1,29 +1,41 @@
 {
-  "name": "John Bunyan",
-  "years": "November 28, 1628 – August 31, 1688",
-  "title": "Author & Preacher",
-  "bio": "English writer and Puritan preacher best known for 'The Pilgrim's Progress,' one of the most significant works of English literature and the most widely read Christian allegory ever written.",
-  "faith": "A Baptist preacher who was imprisoned for 12 years for preaching without a license. During his imprisonment he wrote 'The Pilgrim's Progress,' an allegory of the Christian journey from sin to salvation that has never been out of print.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "John Bunyan — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Bunyan",
-      "note": "Biography of the imprisoned preacher who wrote Pilgrim's Progress"
-    },
-    {
-      "type": "wikipedia",
-      "title": "The Pilgrim's Progress — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress",
-      "note": "History of the most widely read Christian allegory"
+    "name": "John Bunyan",
+    "years": "November 28, 1628 – August 31, 1688",
+    "title": "Author & Preacher",
+    "bio": "English writer and Puritan preacher best known for 'The Pilgrim's Progress,' one of the most significant works of English literature and the most widely read Christian allegory ever written.",
+    "faith": "A Baptist preacher who was imprisoned for 12 years for preaching without a license. During his imprisonment he wrote 'The Pilgrim's Progress,' an allegory of the Christian journey from sin to salvation that has never been out of print.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "John Bunyan — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_Bunyan",
+            "note": "Biography of the imprisoned preacher who wrote Pilgrim's Progress"
+        },
+        {
+            "type": "wikipedia",
+            "title": "The Pilgrim's Progress — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress",
+            "note": "History of the most widely read Christian allegory"
+        },
+        {
+            "type": "primary_text",
+            "title": "The Pilgrim's Progress — John Bunyan",
+            "url": "https://www.ccel.org/ccel/bunyan/pilgrim.html",
+            "note": "The most famous Christian allegory ever written, composed while Bunyan was imprisoned for preaching without a license — second only to the Bible in copies printed"
+        },
+        {
+            "type": "primary_text",
+            "title": "Grace Abounding to the Chief of Sinners — John Bunyan",
+            "url": "https://www.ccel.org/ccel/bunyan/grace.html",
+            "note": "Bunyan's spiritual autobiography describing his conversion and inner struggles — a classic of Puritan devotional literature"
+        }
+    ],
+    "slug": "john-bunyan",
+    "tagline": "Wrote the greatest Christian allegory from a prison cell",
+    "image": "/images/bios/john-bunyan.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/John_Bunyan",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "john-bunyan",
-  "tagline": "Wrote the greatest Christian allegory from a prison cell",
-  "image": "/images/bios/john-bunyan.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/John_Bunyan",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

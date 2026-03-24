@@ -1,23 +1,35 @@
 {
-  "name": "B.B. Warfield",
-  "years": "November 5, 1851 – February 16, 1921",
-  "title": "Princeton Theologian",
-  "bio": "Professor of theology at Princeton Seminary for over 30 years. The last great Princeton theologian before the liberal reorganization, he was the foremost defender of biblical inerrancy in his era.",
-  "faith": "Warfield's defense of the inspiration and inerrancy of Scripture laid the theological foundation that continues to undergird evangelical and Reformed churches. He argued that Christianity is not merely a feeling but is grounded in historical facts and propositional truth. He also tenderly cared for his invalid wife for decades.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Warfield — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/B._B._Warfield",
-      "note": "Princeton theologian and champion of inerrancy"
+    "name": "B.B. Warfield",
+    "years": "November 5, 1851 – February 16, 1921",
+    "title": "Princeton Theologian",
+    "bio": "Professor of theology at Princeton Seminary for over 30 years. The last great Princeton theologian before the liberal reorganization, he was the foremost defender of biblical inerrancy in his era.",
+    "faith": "Warfield's defense of the inspiration and inerrancy of Scripture laid the theological foundation that continues to undergird evangelical and Reformed churches. He argued that Christianity is not merely a feeling but is grounded in historical facts and propositional truth. He also tenderly cared for his invalid wife for decades.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Warfield — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/B._B._Warfield",
+            "note": "Princeton theologian and champion of inerrancy"
+        },
+        {
+            "type": "primary_text",
+            "title": "The Inspiration and Authority of the Bible",
+            "url": "https://www.monergism.com/topics/authority-scripture/bb-warfield",
+            "note": "Warfield's definitive work on biblical inerrancy and the doctrine of inspiration"
+        },
+        {
+            "type": "article",
+            "title": "B.B. Warfield — Ligonier Ministries",
+            "url": "https://www.ligonier.org/learn/articles/bb-warfield",
+            "note": "Overview of Warfield's contributions to Reformed theology at Princeton Seminary"
+        }
+    ],
+    "slug": "bb-warfield",
+    "tagline": "The great defender of biblical inerrancy",
+    "image": "/images/bios/bb-warfield.jpg",
+    "imageAttribution": {
+        "source": "Historical photograph",
+        "license": "Public domain"
     }
-  ],
-  "slug": "bb-warfield",
-  "tagline": "The great defender of biblical inerrancy",
-  "image": "/images/bios/bb-warfield.jpg",
-  "imageAttribution": {
-    "source": "Historical photograph",
-    "license": "Public domain"
-  }
 }

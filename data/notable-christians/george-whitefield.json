@@ -1,23 +1,35 @@
 {
-  "name": "George Whitefield",
-  "years": "December 27, 1714 – September 30, 1770",
-  "title": "Evangelist & Preacher",
-  "bio": "Anglican cleric and evangelist who was one of the founders of Methodism and the evangelical movement. He preached to enormous crowds on both sides of the Atlantic and was a key figure in the Great Awakening.",
-  "faith": "Whitefield was one of the most powerful preachers in Christian history, known for his dramatic delivery and deep conviction. Benjamin Franklin estimated he could be heard by 30,000 people at once. He preached over 18,000 sermons in his lifetime.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "George Whitefield — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/George_Whitefield",
-      "note": "Biography of the Great Awakening evangelist"
+    "name": "George Whitefield",
+    "years": "December 27, 1714 – September 30, 1770",
+    "title": "Evangelist & Preacher",
+    "bio": "Anglican cleric and evangelist who was one of the founders of Methodism and the evangelical movement. He preached to enormous crowds on both sides of the Atlantic and was a key figure in the Great Awakening.",
+    "faith": "Whitefield was one of the most powerful preachers in Christian history, known for his dramatic delivery and deep conviction. Benjamin Franklin estimated he could be heard by 30,000 people at once. He preached over 18,000 sermons in his lifetime.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "George Whitefield — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/George_Whitefield",
+            "note": "Biography of the Great Awakening evangelist"
+        },
+        {
+            "type": "primary_text",
+            "title": "George Whitefield's Journals",
+            "url": "https://www.ccel.org/ccel/whitefield/journals.html",
+            "note": "Whitefield's personal journals documenting the Great Awakening revival"
+        },
+        {
+            "type": "sermon",
+            "title": "Selected Sermons of George Whitefield",
+            "url": "https://www.monergism.com/topics/sermons/george-whitefield",
+            "note": "Sermons from the most celebrated preacher of the First Great Awakening"
+        }
+    ],
+    "slug": "george-whitefield",
+    "tagline": "The thundering voice of the Great Awakening",
+    "image": "/images/bios/george-whitefield.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/George_Whitefield",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "george-whitefield",
-  "tagline": "The thundering voice of the Great Awakening",
-  "image": "/images/bios/george-whitefield.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/George_Whitefield",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

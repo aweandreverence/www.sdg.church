@@ -1,23 +1,34 @@
 {
-  "name": "R.G. LeTourneau",
-  "years": "November 30, 1888 – June 1, 1969",
-  "title": "Inventor, Industrialist & Philanthropist",
-  "bio": "American industrialist who invented nearly 300 earth-moving machines and held hundreds of patents. Founded LeTourneau Technologies and LeTourneau University. Known as 'God's Businessman.'",
-  "faith": "LeTourneau reversed the tithe — he gave 90% of his income to God and lived on 10%. He said: 'It's not how much of my money I give to God, but how much of God's money I keep for myself.' He traveled the world sharing his testimony and partnered with the Christian and Missionary Alliance.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "LeTourneau — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/R._G._LeTourneau",
-      "note": "God's Businessman — gave 90%, kept 10%"
+    "name": "R.G. LeTourneau",
+    "years": "November 30, 1888 – June 1, 1969",
+    "title": "Inventor, Industrialist & Philanthropist",
+    "bio": "American industrialist who invented nearly 300 earth-moving machines and held hundreds of patents. Founded LeTourneau Technologies and LeTourneau University. Known as 'God's Businessman.'",
+    "faith": "LeTourneau reversed the tithe — he gave 90% of his income to God and lived on 10%. He said: 'It's not how much of my money I give to God, but how much of God's money I keep for myself.' He traveled the world sharing his testimony and partnered with the Christian and Missionary Alliance.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "LeTourneau — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/R._G._LeTourneau",
+            "note": "God's Businessman — gave 90%, kept 10%"
+        },
+        {
+            "type": "book",
+            "title": "Mover of Men and Mountains by R.G. LeTourneau",
+            "note": "LeTourneau's autobiography detailing his conversion, his partnership with God in business, and his famous practice of giving 90% of his income to Christian causes"
+        },
+        {
+            "type": "article",
+            "title": "R.G. LeTourneau: God's Businessman",
+            "url": "https://www.christianitytoday.com/history/people/activists/rg-letourneau.html",
+            "note": "Christianity Today profile of the earth-moving equipment pioneer who reversed the tithe — living on 10% and giving God 90%"
+        }
+    ],
+    "slug": "rg-letourneau",
+    "tagline": "Not how much I give to God, but how much of God's money I keep",
+    "image": "/images/placeholder-saint.svg",
+    "imageAttribution": {
+        "source": "",
+        "license": ""
     }
-  ],
-  "slug": "rg-letourneau",
-  "tagline": "Not how much I give to God, but how much of God's money I keep",
-  "image": "/images/placeholder-saint.svg",
-  "imageAttribution": {
-    "source": "",
-    "license": ""
-  }
 }

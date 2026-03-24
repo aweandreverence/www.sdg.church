@@ -1,23 +1,34 @@
 {
-  "name": "Mike Huckabee",
-  "years": "August 24, 1955 –",
-  "title": "Pastor, Governor & Ambassador",
-  "bio": "Former Southern Baptist pastor who served as Governor of Arkansas (1996–2007) and U.S. Ambassador to Israel (2025–). Ran for president twice and hosted a TV show on Fox News.",
-  "faith": "Huckabee was ordained as a Southern Baptist minister before entering politics. He pastored churches in Arkansas and led a Christian television station. His political career has been marked by his outspoken Christian convictions. He has said: 'My faith does not just influence me — it really defines me.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Mike Huckabee — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mike_Huckabee",
-      "note": "Pastor turned governor turned ambassador"
+    "name": "Mike Huckabee",
+    "years": "August 24, 1955 –",
+    "title": "Pastor, Governor & Ambassador",
+    "bio": "Former Southern Baptist pastor who served as Governor of Arkansas (1996–2007) and U.S. Ambassador to Israel (2025–). Ran for president twice and hosted a TV show on Fox News.",
+    "faith": "Huckabee was ordained as a Southern Baptist minister before entering politics. He pastored churches in Arkansas and led a Christian television station. His political career has been marked by his outspoken Christian convictions. He has said: 'My faith does not just influence me — it really defines me.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Mike Huckabee — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mike_Huckabee",
+            "note": "Pastor turned governor turned ambassador"
+        },
+        {
+            "type": "book",
+            "title": "Character Is the Issue: How People with Integrity Can Revolutionize America by Mike Huckabee",
+            "note": "Huckabee's account of his journey from Baptist pastor to politician, arguing that Christian character should be the foundation of public service"
+        },
+        {
+            "type": "interview",
+            "title": "Mike Huckabee on Faith and Politics",
+            "url": "https://www1.cbn.com/cbnnews/politics/2015/may/mike-huckabee-my-faith-is-at-the-center-of-who-i-am",
+            "note": "CBN interview on Huckabee's pastoral background and how his Baptist faith is central to his political philosophy"
+        }
+    ],
+    "slug": "mike-huckabee",
+    "tagline": "My faith does not just influence me — it defines me",
+    "image": "/images/bios/mike-huckabee.jpg",
+    "imageAttribution": {
+        "source": "Photo by Gage Skidmore",
+        "license": "CC BY-SA 3.0"
     }
-  ],
-  "slug": "mike-huckabee",
-  "tagline": "My faith does not just influence me — it defines me",
-  "image": "/images/bios/mike-huckabee.jpg",
-  "imageAttribution": {
-    "source": "Photo by Gage Skidmore",
-    "license": "CC BY-SA 3.0"
-  }
 }

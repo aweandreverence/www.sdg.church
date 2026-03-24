@@ -1,23 +1,35 @@
 {
-  "name": "Sadhu Sundar Singh",
-  "years": "September 3, 1889 – c. 1929",
-  "title": "Indian Evangelist & Mystic",
-  "bio": "Known as the 'Apostle with Bleeding Feet,' Sundar Singh was a Sikh who converted to Christianity at age 15 after a vision of Christ. He wandered India barefoot in the saffron robes of a sadhu (holy man), preaching the gospel.",
-  "faith": "After his conversion, Sundar Singh was disowned by his family and poisoned by his uncle. He adopted the life of a wandering sadhu to present Christ in a way culturally accessible to Indians. He disappeared in 1929 while on a mission trip to Tibet. He said: 'Without Christ I was like a fish out of water; with Christ I am in the ocean of love.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Sundar Singh — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Sadhu_Sundar_Singh",
-      "note": "Sikh convert, the Apostle with Bleeding Feet"
+    "name": "Sadhu Sundar Singh",
+    "years": "September 3, 1889 – c. 1929",
+    "title": "Indian Evangelist & Mystic",
+    "bio": "Known as the 'Apostle with Bleeding Feet,' Sundar Singh was a Sikh who converted to Christianity at age 15 after a vision of Christ. He wandered India barefoot in the saffron robes of a sadhu (holy man), preaching the gospel.",
+    "faith": "After his conversion, Sundar Singh was disowned by his family and poisoned by his uncle. He adopted the life of a wandering sadhu to present Christ in a way culturally accessible to Indians. He disappeared in 1929 while on a mission trip to Tibet. He said: 'Without Christ I was like a fish out of water; with Christ I am in the ocean of love.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Sundar Singh — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sadhu_Sundar_Singh",
+            "note": "Sikh convert, the Apostle with Bleeding Feet"
+        },
+        {
+            "type": "book",
+            "title": "With and Without Christ — Sadhu Sundar Singh",
+            "url": "https://archive.org/details/withandwithoutch00sing",
+            "note": "Sundar Singh's own account comparing his life before and after his dramatic conversion vision of Christ — he had been burning Bibles before his encounter"
+        },
+        {
+            "type": "article",
+            "title": "Sadhu Sundar Singh: Apostle of the Bleeding Feet",
+            "url": "https://www.christianitytoday.com/history/people/missionaries/sadhu-sundar-singh.html",
+            "note": "Profile of the Sikh convert who became one of India's most famous Christian witnesses, traveling barefoot through the Himalayas preaching the gospel"
+        }
+    ],
+    "slug": "sadhu-sundar-singh",
+    "tagline": "Without Christ I was a fish out of water — with Christ, in the ocean of love",
+    "image": "/images/bios/sadhu-sundar-singh.jpg",
+    "imageAttribution": {
+        "source": "Historical photograph",
+        "license": "Public domain"
     }
-  ],
-  "slug": "sadhu-sundar-singh",
-  "tagline": "Without Christ I was a fish out of water — with Christ, in the ocean of love",
-  "image": "/images/bios/sadhu-sundar-singh.jpg",
-  "imageAttribution": {
-    "source": "Historical photograph",
-    "license": "Public domain"
-  }
 }

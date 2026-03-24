@@ -1,34 +1,45 @@
 {
-  "name": "William Wilberforce",
-  "years": "August 24, 1759 – July 29, 1833",
-  "title": "Politician & Reformer",
-  "bio": "British politician and philanthropist who led the movement to abolish the slave trade in the British Empire. Member of Parliament for 45 years.",
-  "faith": "After his evangelical conversion in 1785, Wilberforce devoted his life to two 'great objects': the abolition of the slave trade and the reformation of manners (moral reform). His Christian faith was the driving force behind his tireless campaign against slavery.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "William Wilberforce — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/William_Wilberforce",
-      "note": "Biography of the abolitionist driven by faith"
-    },
-    {
-      "type": "youtube",
-      "title": "Amazing Grace (2006 Film)",
-      "url": "https://www.youtube.com/results?search_query=amazing+grace+2006+film+wilberforce",
-      "note": "Biographical film about Wilberforce's fight to end slavery"
-    },
-    {
-      "type": "book",
-      "title": "Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery",
-      "note": "By Eric Metaxas. Biography of Wilberforce's faith-driven abolitionism"
+    "name": "William Wilberforce",
+    "years": "August 24, 1759 – July 29, 1833",
+    "title": "Politician & Reformer",
+    "bio": "British politician and philanthropist who led the movement to abolish the slave trade in the British Empire. Member of Parliament for 45 years.",
+    "faith": "After his evangelical conversion in 1785, Wilberforce devoted his life to two 'great objects': the abolition of the slave trade and the reformation of manners (moral reform). His Christian faith was the driving force behind his tireless campaign against slavery.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "William Wilberforce — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/William_Wilberforce",
+            "note": "Biography of the abolitionist driven by faith"
+        },
+        {
+            "type": "youtube",
+            "title": "Amazing Grace (2006 Film)",
+            "url": "https://www.youtube.com/results?search_query=amazing+grace+2006+film+wilberforce",
+            "note": "Biographical film about Wilberforce's fight to end slavery"
+        },
+        {
+            "type": "book",
+            "title": "Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery",
+            "note": "By Eric Metaxas. Biography of Wilberforce's faith-driven abolitionism"
+        },
+        {
+            "type": "primary_text",
+            "title": "A Practical View of the Prevailing Religious System of Professed Christians by William Wilberforce (1797)",
+            "url": "https://www.gutenberg.org/ebooks/25709",
+            "note": "Wilberforce's influential book on authentic Christianity vs. nominal faith — a bestseller that shaped evangelical thought and fueled the abolition movement"
+        },
+        {
+            "type": "book",
+            "title": "Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery by Eric Metaxas",
+            "note": "Biography detailing how Wilberforce's evangelical conversion drove his 46-year campaign to abolish the slave trade in the British Empire"
+        }
+    ],
+    "slug": "william-wilberforce",
+    "tagline": "Fought for decades to abolish the slave trade in the name of Christ",
+    "image": "/images/bios/william-wilberforce.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/William_Wilberforce",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "william-wilberforce",
-  "tagline": "Fought for decades to abolish the slave trade in the name of Christ",
-  "image": "/images/bios/william-wilberforce.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/William_Wilberforce",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

@@ -1,29 +1,40 @@
 {
-  "name": "Jimmy Carter",
-  "years": "October 1, 1924 – December 29, 2024",
-  "title": "39th President of the United States",
-  "bio": "American politician and humanitarian who served as the 39th President of the United States from 1977 to 1981. After leaving office, he became one of the most active former presidents in history, founding the Carter Center and dedicating decades to Habitat for Humanity, conflict resolution, and global health.",
-  "faith": "A lifelong Southern Baptist and born-again Christian whose faith was the defining force of his life. He taught Sunday school at Maranatha Baptist Church in Plains, Georgia for over 40 years — continuing well into his 90s. He once said, 'My faith demands that I do whatever I can, wherever I am, whenever I can, for as long as I can with whatever I have to try to make a difference.' His post-presidency of humble service became one of the most powerful Christian testimonies in American political history.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Jimmy Carter — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
-      "note": "Biography of the 39th President"
-    },
-    {
-      "type": "wikipedia",
-      "title": "Faith of Jimmy Carter — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Jimmy_Carter#Religious_beliefs",
-      "note": "His Christian faith and Sunday school teaching"
+    "name": "Jimmy Carter",
+    "years": "October 1, 1924 – December 29, 2024",
+    "title": "39th President of the United States",
+    "bio": "American politician and humanitarian who served as the 39th President of the United States from 1977 to 1981. After leaving office, he became one of the most active former presidents in history, founding the Carter Center and dedicating decades to Habitat for Humanity, conflict resolution, and global health.",
+    "faith": "A lifelong Southern Baptist and born-again Christian whose faith was the defining force of his life. He taught Sunday school at Maranatha Baptist Church in Plains, Georgia for over 40 years — continuing well into his 90s. He once said, 'My faith demands that I do whatever I can, wherever I am, whenever I can, for as long as I can with whatever I have to try to make a difference.' His post-presidency of humble service became one of the most powerful Christian testimonies in American political history.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Jimmy Carter — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+            "note": "Biography of the 39th President"
+        },
+        {
+            "type": "wikipedia",
+            "title": "Faith of Jimmy Carter — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jimmy_Carter#Religious_beliefs",
+            "note": "His Christian faith and Sunday school teaching"
+        },
+        {
+            "type": "book",
+            "title": "Living Faith by Jimmy Carter",
+            "note": "Carter's personal account of his Christian faith, from his born-again experience to teaching Sunday school for decades at Maranatha Baptist Church"
+        },
+        {
+            "type": "article",
+            "title": "Jimmy Carter: Sunday School Teacher-in-Chief",
+            "url": "https://www.christianitytoday.com/ct/2024/january-february/jimmy-carter-legacy-evangelical-faith-sunday-school.html",
+            "note": "Christianity Today profile of Carter's lifelong Baptist faith, his famous Sunday school teaching, and his Habitat for Humanity work as an expression of Christian service"
+        }
+    ],
+    "slug": "jimmy-carter",
+    "tagline": "Taught Sunday school for 40 years and served the world in Jesus' name",
+    "image": "/images/bios/jimmy-carter.jpg",
+    "imageAttribution": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/440px-JimmyCarterPortrait2.jpg",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "jimmy-carter",
-  "tagline": "Taught Sunday school for 40 years and served the world in Jesus' name",
-  "image": "/images/bios/jimmy-carter.jpg",
-  "imageAttribution": {
-    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/440px-JimmyCarterPortrait2.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

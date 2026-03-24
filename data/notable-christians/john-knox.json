@@ -1,23 +1,34 @@
 {
-  "name": "John Knox",
-  "years": "c. 1514 – November 24, 1572",
-  "title": "Scottish Reformer",
-  "bio": "Scottish clergyman who led the Protestant Reformation in Scotland and founded the Presbyterian Church. His fiery preaching transformed an entire nation's religious landscape.",
-  "faith": "Knox prayed, 'Give me Scotland, or I die!' His zeal for Reformed worship and church governance shaped Scottish Christianity for centuries. Mary Queen of Scots reportedly said she feared Knox's prayers more than all the armies of England.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Knox — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Knox",
-      "note": "Founder of Scottish Presbyterianism"
+    "name": "John Knox",
+    "years": "c. 1514 – November 24, 1572",
+    "title": "Scottish Reformer",
+    "bio": "Scottish clergyman who led the Protestant Reformation in Scotland and founded the Presbyterian Church. His fiery preaching transformed an entire nation's religious landscape.",
+    "faith": "Knox prayed, 'Give me Scotland, or I die!' His zeal for Reformed worship and church governance shaped Scottish Christianity for centuries. Mary Queen of Scots reportedly said she feared Knox's prayers more than all the armies of England.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Knox — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_Knox",
+            "note": "Founder of Scottish Presbyterianism"
+        },
+        {
+            "type": "primary_text",
+            "title": "The History of the Reformation in Scotland",
+            "url": "https://www.ccel.org/ccel/knox/scots_reformation.html",
+            "note": "Knox's firsthand account of the Scottish Reformation he led"
+        },
+        {
+            "type": "book",
+            "title": "The First Blast of the Trumpet Against the Monstrous Regiment of Women",
+            "note": "Knox's controversial 1558 political pamphlet; historically significant for the Reformation in Scotland"
+        }
+    ],
+    "slug": "john-knox",
+    "tagline": "Give me Scotland, or I die!",
+    "image": "/images/bios/john-knox.jpg",
+    "imageAttribution": {
+        "source": "Wikimedia Commons",
+        "license": "Public domain"
     }
-  ],
-  "slug": "john-knox",
-  "tagline": "Give me Scotland, or I die!",
-  "image": "/images/bios/john-knox.jpg",
-  "imageAttribution": {
-    "source": "Wikimedia Commons",
-    "license": "Public domain"
-  }
 }

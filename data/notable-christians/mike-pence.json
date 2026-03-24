@@ -1,23 +1,34 @@
 {
-  "name": "Mike Pence",
-  "years": "June 7, 1959 – present",
-  "title": "48th Vice President of the United States",
-  "bio": "American politician, lawyer, and former broadcaster who served as the 48th Vice President of the United States (2017-2021) and 50th Governor of Indiana (2013-2017).",
-  "faith": "Pence describes himself as 'a Christian, a conservative, and a Republican, in that order.' He became an evangelical Christian in college and has been vocal about how his faith guides his political decisions and personal life.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Mike Pence — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Mike_Pence",
-      "note": "Biography of the 48th Vice President"
+    "name": "Mike Pence",
+    "years": "June 7, 1959 – present",
+    "title": "48th Vice President of the United States",
+    "bio": "American politician, lawyer, and former broadcaster who served as the 48th Vice President of the United States (2017-2021) and 50th Governor of Indiana (2013-2017).",
+    "faith": "Pence describes himself as 'a Christian, a conservative, and a Republican, in that order.' He became an evangelical Christian in college and has been vocal about how his faith guides his political decisions and personal life.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Mike Pence — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mike_Pence",
+            "note": "Biography of the 48th Vice President"
+        },
+        {
+            "type": "interview",
+            "title": "Mike Pence: 'I'm a Christian, a Conservative, and a Republican — in That Order'",
+            "url": "https://www.theatlantic.com/magazine/archive/2018/01/gods-plan-for-mike-pence/546569/",
+            "note": "The Atlantic's in-depth profile of Pence's evangelical faith journey from Catholic upbringing to born-again Christian conversion"
+        },
+        {
+            "type": "book",
+            "title": "So Help Me God by Mike Pence",
+            "note": "Pence's autobiography detailing his faith journey, his evangelical conversion in college, and how Christian faith guided his political career"
+        }
+    ],
+    "slug": "mike-pence",
+    "tagline": "Described himself as a Christian, a conservative, and a Republican — in that order",
+    "image": "/images/bios/mike-pence.jpg",
+    "imageAttribution": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mike_Pence_official_Vice_Presidential_portrait.jpg/440px-Mike_Pence_official_Vice_Presidential_portrait.jpg",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "mike-pence",
-  "tagline": "Described himself as a Christian, a conservative, and a Republican — in that order",
-  "image": "/images/bios/mike-pence.jpg",
-  "imageAttribution": {
-    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mike_Pence_official_Vice_Presidential_portrait.jpg/440px-Mike_Pence_official_Vice_Presidential_portrait.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

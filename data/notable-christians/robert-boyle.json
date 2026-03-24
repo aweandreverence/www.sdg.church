@@ -1,29 +1,41 @@
 {
-  "name": "Robert Boyle",
-  "years": "January 25, 1627 – December 31, 1691",
-  "title": "Chemist & Physicist",
-  "bio": "Anglo-Irish natural philosopher, chemist, physicist, and inventor, regarded as the first modern chemist. Best known for Boyle's Law relating gas pressure and volume.",
-  "faith": "A deeply devout Christian who wrote extensively on theology and funded Bible translations. He established the Boyle Lectures for defending Christianity against atheism and viewed science as a way to understand God's creation.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Robert Boyle — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Robert_Boyle",
-      "note": "Biography including his extensive theological writings and Bible translations"
-    },
-    {
-      "type": "wikipedia",
-      "title": "Boyle Lectures — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Boyle_Lectures",
-      "note": "The lecture series Boyle established to defend Christianity"
+    "name": "Robert Boyle",
+    "years": "January 25, 1627 – December 31, 1691",
+    "title": "Chemist & Physicist",
+    "bio": "Anglo-Irish natural philosopher, chemist, physicist, and inventor, regarded as the first modern chemist. Best known for Boyle's Law relating gas pressure and volume.",
+    "faith": "A deeply devout Christian who wrote extensively on theology and funded Bible translations. He established the Boyle Lectures for defending Christianity against atheism and viewed science as a way to understand God's creation.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Robert Boyle — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robert_Boyle",
+            "note": "Biography including his extensive theological writings and Bible translations"
+        },
+        {
+            "type": "wikipedia",
+            "title": "Boyle Lectures — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Boyle_Lectures",
+            "note": "The lecture series Boyle established to defend Christianity"
+        },
+        {
+            "type": "primary_text",
+            "title": "The Christian Virtuoso — Robert Boyle",
+            "url": "https://archive.org/details/christianvirtuo00boylgoog",
+            "note": "Boyle's treatise arguing that experimental science and devout Christianity are not only compatible but mutually reinforcing"
+        },
+        {
+            "type": "article",
+            "title": "Robert Boyle and the Boyle Lectures",
+            "url": "https://www.giffordlectures.org/lecturers/robert-boyle",
+            "note": "Boyle endowed annual lectures 'proving the Christian Religion against notorious Infidels' — the famous Boyle Lectures that continued for centuries"
+        }
+    ],
+    "slug": "robert-boyle",
+    "tagline": "The first modern chemist who funded Bible translations worldwide",
+    "image": "/images/bios/robert-boyle.jpg",
+    "imageAttribution": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/440px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "robert-boyle",
-  "tagline": "The first modern chemist who funded Bible translations worldwide",
-  "image": "/images/bios/robert-boyle.jpg",
-  "imageAttribution": {
-    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/440px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

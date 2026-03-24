@@ -1,23 +1,34 @@
 {
-  "name": "John Wanamaker",
-  "years": "July 11, 1838 – December 12, 1922",
-  "title": "Merchant & Sunday School Superintendent",
-  "bio": "Pioneer of the modern department store and U.S. Postmaster General. Founded one of the first department stores in America and revolutionized retail with money-back guarantees and price tags.",
-  "faith": "Wanamaker served as superintendent of the Bethany Sunday School in Philadelphia for over 60 years, growing it to the largest in the world with over 5,000 students. He said: 'I have never been able to give one dollar to the Lord that I did not get back five.' He saw business success as a platform for Christian service.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Wanamaker — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Wanamaker",
-      "note": "Merchant prince and Sunday school leader"
+    "name": "John Wanamaker",
+    "years": "July 11, 1838 – December 12, 1922",
+    "title": "Merchant & Sunday School Superintendent",
+    "bio": "Pioneer of the modern department store and U.S. Postmaster General. Founded one of the first department stores in America and revolutionized retail with money-back guarantees and price tags.",
+    "faith": "Wanamaker served as superintendent of the Bethany Sunday School in Philadelphia for over 60 years, growing it to the largest in the world with over 5,000 students. He said: 'I have never been able to give one dollar to the Lord that I did not get back five.' He saw business success as a platform for Christian service.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Wanamaker — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_Wanamaker",
+            "note": "Merchant prince and Sunday school leader"
+        },
+        {
+            "type": "article",
+            "title": "John Wanamaker: Merchant Prince and Sunday School Superintendent",
+            "url": "https://www.christianitytoday.com/history/people/businesspeople/john-wanamaker.html",
+            "note": "Profile of Wanamaker's dual life as department store pioneer and devoted Christian leader who built Bethany Sunday School into the largest in America"
+        },
+        {
+            "type": "book",
+            "title": "John Wanamaker: King of Merchants by William Allen Zulker",
+            "note": "Biography covering Wanamaker's lifelong Christian faith, his Bethany Mission work, and how he integrated faith with business innovation"
+        }
+    ],
+    "slug": "john-wanamaker",
+    "tagline": "Built department stores — ran the largest Sunday school for 60 years",
+    "image": "/images/bios/john-wanamaker.jpg",
+    "imageAttribution": {
+        "source": "Historical photograph",
+        "license": "Public domain"
     }
-  ],
-  "slug": "john-wanamaker",
-  "tagline": "Built department stores — ran the largest Sunday school for 60 years",
-  "image": "/images/bios/john-wanamaker.jpg",
-  "imageAttribution": {
-    "source": "Historical photograph",
-    "license": "Public domain"
-  }
 }

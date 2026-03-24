@@ -1,23 +1,35 @@
 {
-  "name": "Abraham Kuyper",
-  "years": "October 29, 1837 – November 8, 1920",
-  "title": "Theologian, Statesman & Prime Minister",
-  "bio": "Dutch Reformed theologian who served as Prime Minister of the Netherlands (1901–1905). Founded the Free University of Amsterdam and a new Reformed denomination. A towering intellectual who applied Calvinist worldview to every sphere of life.",
-  "faith": "Kuyper declared: 'There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry, Mine!' His vision of Christ's lordship over all of life continues to shape Reformed thought worldwide.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Kuyper — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Abraham_Kuyper",
-      "note": "Dutch Reformed theologian and PM"
+    "name": "Abraham Kuyper",
+    "years": "October 29, 1837 – November 8, 1920",
+    "title": "Theologian, Statesman & Prime Minister",
+    "bio": "Dutch Reformed theologian who served as Prime Minister of the Netherlands (1901–1905). Founded the Free University of Amsterdam and a new Reformed denomination. A towering intellectual who applied Calvinist worldview to every sphere of life.",
+    "faith": "Kuyper declared: 'There is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry, Mine!' His vision of Christ's lordship over all of life continues to shape Reformed thought worldwide.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Kuyper — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Abraham_Kuyper",
+            "note": "Dutch Reformed theologian and PM"
+        },
+        {
+            "type": "primary_text",
+            "title": "Lectures on Calvinism (Stone Lectures at Princeton)",
+            "url": "https://www.ccel.org/ccel/kuyper/calvinism.html",
+            "note": "Kuyper's influential 1898 Stone Lectures at Princeton Seminary on Calvinism as a comprehensive worldview"
+        },
+        {
+            "type": "article",
+            "title": "Abraham Kuyper — Ligonier Ministries",
+            "url": "https://www.ligonier.org/learn/articles/abraham-kuyper",
+            "note": "Overview of Kuyper's legacy as theologian, statesman, and advocate of sphere sovereignty"
+        }
+    ],
+    "slug": "abraham-kuyper",
+    "tagline": "There is not a square inch over which Christ does not cry: Mine!",
+    "image": "/images/bios/abraham-kuyper.jpg",
+    "imageAttribution": {
+        "source": "Historical photograph",
+        "license": "Public domain"
     }
-  ],
-  "slug": "abraham-kuyper",
-  "tagline": "There is not a square inch over which Christ does not cry: Mine!",
-  "image": "/images/bios/abraham-kuyper.jpg",
-  "imageAttribution": {
-    "source": "Historical photograph",
-    "license": "Public domain"
-  }
 }

@@ -1,23 +1,35 @@
 {
-  "name": "John Flavel",
-  "years": "c. 1627 – June 26, 1691",
-  "title": "Puritan Pastor & Author",
-  "bio": "English Puritan clergyman known for his devotional writing and pastoral warmth. He ministered in Dartmouth, England, and his works were widely read for their deep piety and practical application.",
-  "faith": "Flavel's Keeping the Heart is considered one of the finest Puritan devotional works. He wrote: 'The soul of religion is the practical part.' Ejected from his pulpit by the Act of Uniformity, he continued preaching in secret — sometimes in the woods, sometimes at sea — risking imprisonment for the gospel.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Flavel — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/John_Flavel",
-      "note": "Puritan pastor and devotional writer"
+    "name": "John Flavel",
+    "years": "c. 1627 – June 26, 1691",
+    "title": "Puritan Pastor & Author",
+    "bio": "English Puritan clergyman known for his devotional writing and pastoral warmth. He ministered in Dartmouth, England, and his works were widely read for their deep piety and practical application.",
+    "faith": "Flavel's Keeping the Heart is considered one of the finest Puritan devotional works. He wrote: 'The soul of religion is the practical part.' Ejected from his pulpit by the Act of Uniformity, he continued preaching in secret — sometimes in the woods, sometimes at sea — risking imprisonment for the gospel.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Flavel — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_Flavel",
+            "note": "Puritan pastor and devotional writer"
+        },
+        {
+            "type": "book",
+            "title": "The Mystery of Providence",
+            "url": "https://www.monergism.com/mystery-providence",
+            "note": "Flavel's reflection on God's providential care, a treasured Puritan devotional classic"
+        },
+        {
+            "type": "primary_text",
+            "title": "Works of John Flavel — Monergism",
+            "url": "https://www.monergism.com/topics/john-flavel",
+            "note": "Collection of Flavel's Puritan writings on practical Christian living"
+        }
+    ],
+    "slug": "john-flavel",
+    "tagline": "The soul of religion is the practical part",
+    "image": "/images/bios/john-flavel.jpg",
+    "imageAttribution": {
+        "source": "Historical portrait",
+        "license": "Public domain"
     }
-  ],
-  "slug": "john-flavel",
-  "tagline": "The soul of religion is the practical part",
-  "image": "/images/bios/john-flavel.jpg",
-  "imageAttribution": {
-    "source": "Historical portrait",
-    "license": "Public domain"
-  }
 }

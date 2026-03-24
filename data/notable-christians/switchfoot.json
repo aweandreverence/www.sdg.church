@@ -1,23 +1,29 @@
 {
-  "name": "Switchfoot",
-  "years": "1996 – present",
-  "title": "Rock Band",
-  "bio": "American rock band from San Diego fronted by Jon Foreman. Known for hits like 'Meant to Live' and 'Dare You to Move.' Grammy Award winners.",
-  "faith": "While they resist the 'Christian band' label, the members of Switchfoot are open about their Christian faith. Jon Foreman has said, 'I've always been interested in the questions that are bigger than genres. But yes, I am a Christian.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Switchfoot — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Switchfoot",
-      "note": "Biography of the Christian rock band"
+    "name": "Switchfoot",
+    "years": "1996 – present",
+    "title": "Rock Band",
+    "bio": "American rock band from San Diego fronted by Jon Foreman. Known for hits like 'Meant to Live' and 'Dare You to Move.' Grammy Award winners.",
+    "faith": "While they resist the 'Christian band' label, the members of Switchfoot are open about their Christian faith. Jon Foreman has said, 'I've always been interested in the questions that are bigger than genres. But yes, I am a Christian.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Switchfoot — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Switchfoot",
+            "note": "Biography of the Christian rock band"
+        },
+        {
+            "type": "interview",
+            "title": "Jon Foreman: 'We're Christian by Faith, Not Genre'",
+            "url": "https://www.cbn.com/entertainment/music/700club_switchfoot060106.aspx",
+            "note": "CBN interview about faith and being labeled a Christian band"
+        }
+    ],
+    "slug": "switchfoot",
+    "tagline": "Asked the world 'Dare You to Move' — a rock band built on faith",
+    "image": "/images/bios/switchfoot.jpg",
+    "imageAttribution": {
+        "source": "https://en.wikipedia.org/wiki/Switchfoot",
+        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
     }
-  ],
-  "slug": "switchfoot",
-  "tagline": "Asked the world 'Dare You to Move' — a rock band built on faith",
-  "image": "/images/bios/switchfoot.jpg",
-  "imageAttribution": {
-    "source": "https://en.wikipedia.org/wiki/Switchfoot",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  }
 }

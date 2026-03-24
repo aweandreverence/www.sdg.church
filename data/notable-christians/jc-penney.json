@@ -1,23 +1,34 @@
 {
-  "name": "J.C. Penney",
-  "years": "September 16, 1875 – February 12, 1971",
-  "title": "Retail Founder & Philanthropist",
-  "bio": "American businessman who founded the J.C. Penney retail chain, growing it from one small store in Wyoming to over 1,600 locations. Named his first store 'The Golden Rule.'",
-  "faith": "Penney was a lifelong tither and named his first store after the Golden Rule of Matthew 7:12. After losing his fortune in the Great Depression and nearly taking his own life, he rededicated his life to Christ and rebuilt. He said: 'My eyesight is growing dim, but my spiritual vision is clearer than ever.'",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Penney — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/J._C._Penney",
-      "note": "Founder of J.C. Penney stores"
+    "name": "J.C. Penney",
+    "years": "September 16, 1875 – February 12, 1971",
+    "title": "Retail Founder & Philanthropist",
+    "bio": "American businessman who founded the J.C. Penney retail chain, growing it from one small store in Wyoming to over 1,600 locations. Named his first store 'The Golden Rule.'",
+    "faith": "Penney was a lifelong tither and named his first store after the Golden Rule of Matthew 7:12. After losing his fortune in the Great Depression and nearly taking his own life, he rededicated his life to Christ and rebuilt. He said: 'My eyesight is growing dim, but my spiritual vision is clearer than ever.'",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Penney — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J._C._Penney",
+            "note": "Founder of J.C. Penney stores"
+        },
+        {
+            "type": "book",
+            "title": "Fifty Years with the Golden Rule by J.C. Penney",
+            "note": "Penney's autobiography describing how his Christian faith and the Golden Rule shaped his business philosophy, and his spiritual renewal after financial ruin in the Great Depression"
+        },
+        {
+            "type": "article",
+            "title": "J.C. Penney: From Ruin to Renewal Through Faith",
+            "url": "https://billygraham.org/story/j-c-penney-the-man-with-a-thousand-partners/",
+            "note": "Billy Graham Evangelistic Association article on Penney's dramatic spiritual crisis and renewal after losing his fortune"
+        }
+    ],
+    "slug": "jc-penney",
+    "tagline": "The Golden Rule — his store's name and his life's principle",
+    "image": "/images/bios/jc-penney.jpg",
+    "imageAttribution": {
+        "source": "Historical photograph",
+        "license": "Public domain"
     }
-  ],
-  "slug": "jc-penney",
-  "tagline": "The Golden Rule — his store's name and his life's principle",
-  "image": "/images/bios/jc-penney.jpg",
-  "imageAttribution": {
-    "source": "Historical photograph",
-    "license": "Public domain"
-  }
 }

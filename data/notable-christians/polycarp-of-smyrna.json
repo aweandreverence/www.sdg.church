@@ -1,23 +1,41 @@
 {
-  "name": "Polycarp of Smyrna",
-  "years": "c. 69 – February 23, 155",
-  "title": "Bishop of Smyrna & Martyr",
-  "bio": "Bishop of Smyrna and a direct disciple of the Apostle John. One of the earliest post-apostolic church fathers, he was burned at the stake at age 86 for refusing to worship the Roman emperor.",
-  "faith": "When commanded to curse Christ, Polycarp declared: '86 years I have served Him, and He has done me no wrong. How can I blaspheme my King who saved me?' His martyrdom account is one of the earliest outside Scripture.",
-  "videos": [],
-  "sources": [
-    {
-      "type": "wikipedia",
-      "title": "Polycarp — Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Polycarp",
-      "note": "Disciple of Apostle John, Bishop of Smyrna"
+    "name": "Polycarp of Smyrna",
+    "years": "c. 69 – February 23, 155",
+    "title": "Bishop of Smyrna & Martyr",
+    "bio": "Bishop of Smyrna and a direct disciple of the Apostle John. One of the earliest post-apostolic church fathers, he was burned at the stake at age 86 for refusing to worship the Roman emperor.",
+    "faith": "When commanded to curse Christ, Polycarp declared: '86 years I have served Him, and He has done me no wrong. How can I blaspheme my King who saved me?' His martyrdom account is one of the earliest outside Scripture.",
+    "videos": [],
+    "sources": [
+        {
+            "type": "wikipedia",
+            "title": "Polycarp — Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polycarp",
+            "note": "Disciple of Apostle John, Bishop of Smyrna"
+        },
+        {
+            "type": "primary_text",
+            "title": "The Martyrdom of Polycarp",
+            "url": "https://www.ccel.org/ccel/richardson/fathers.x.ii.html",
+            "note": "Earliest known account of Christian martyrdom outside the New Testament, written as a letter from the church at Smyrna"
+        },
+        {
+            "type": "primary_text",
+            "title": "The Epistle of Polycarp to the Philippians",
+            "url": "https://www.ccel.org/ccel/schaff/anf01.iv.ii.html",
+            "note": "Polycarp's letter to the Philippians, showing his pastoral care and theological convictions"
+        },
+        {
+            "type": "website",
+            "title": "Early Church Fathers: Polycarp",
+            "url": "https://www.ccel.org/ccel/schaff/anf01.iv.html",
+            "note": "Complete works of Polycarp in the Ante-Nicene Fathers collection (CCEL)"
+        }
+    ],
+    "slug": "polycarp-of-smyrna",
+    "tagline": "86 years I have served Him, and He has done me no wrong",
+    "image": "/images/bios/polycarp-of-smyrna.jpg",
+    "imageAttribution": {
+        "source": "Historical artwork",
+        "license": "Public domain"
     }
-  ],
-  "slug": "polycarp-of-smyrna",
-  "tagline": "86 years I have served Him, and He has done me no wrong",
-  "image": "/images/bios/polycarp-of-smyrna.jpg",
-  "imageAttribution": {
-    "source": "Historical artwork",
-    "license": "Public domain"
-  }
 }
