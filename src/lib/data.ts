@@ -66,6 +66,7 @@ export interface PersonVideo {
   title: string;
   url: string;
   platform: string;
+  videoId?: string;
   note?: string;
 }
 

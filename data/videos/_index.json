@@ -53,6 +53,9 @@
     },
     {
       "$ref": "ryan-ries-testimony.json"
+    },
+    {
+      "$ref": "patrick-bet-david-message-about-god.json"
     }
   ]
 }
