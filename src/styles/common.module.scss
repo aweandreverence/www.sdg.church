@@ -979,3 +979,53 @@ $dark-card: #0f3460;
     color: $gold-light;
   }
 }
+
+/* Bio page video embeds */
+.bioVideoGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.bioVideoCard {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    border-color: $gold;
+    transform: translateY(-2px);
+  }
+}
+
+.bioVideoThumbnail {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+}
+
+.bioVideoInfo {
+  padding: 0.75rem 1rem;
+}
+
+.bioVideoTitle {
+  color: $gold;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  display: block;
+
+  &:hover {
+    color: $gold-light;
+  }
+}
+
+.bioVideoNote {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}

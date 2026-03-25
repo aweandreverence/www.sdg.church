@@ -3,12 +3,14 @@ import path from 'path';
 import testimoniesData from '@data/testimonies.json';
 import scriptureData from '@data/scripture.json';
 import gospelData from '@data/gospel.json';
-// Load video data from split files at build time
+// Load video data from split files at build time (auto-discover, sorted by filename)
 function loadVideosData(): Video[] {
   const dataDir = path.join(process.cwd(), 'data', 'videos');
-  const index = JSON.parse(fs.readFileSync(path.join(dataDir, '_index.json'), 'utf-8'));
-  return index.videos.map((ref: { $ref: string }) => {
-    const videoPath = path.join(dataDir, ref.$ref);
+  const files = fs.readdirSync(dataDir)
+    .filter((f) => f.endsWith('.json'))
+    .sort();
+  return files.map((f) => {
+    const videoPath = path.join(dataDir, f);
     return JSON.parse(fs.readFileSync(videoPath, 'utf-8'));
   });
 }
@@ -66,6 +68,7 @@ export interface PersonVideo {
   title: string;
   url: string;
   platform: string;
+  videoId?: string;
   note?: string;
 }
 
