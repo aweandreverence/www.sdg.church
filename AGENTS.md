@@ -1,55 +1,86 @@
-# AGENTS.md — AI Agent Instructions for www.sdg.church
+# AGENTS.md — www.sdg.church
 
-## Build
+Instructions for AI agents and LLMs working on this codebase.
 
-**Always use `make build`** — never run `next build`, `cp`, or `mv` manually.
+## Architecture
+
+- **Framework:** Next.js (static export via `output: 'export'`)
+- **Hosting:** GitHub Pages (deploy = commit `docs/` to `main`, push)
+- **Styling:** SCSS modules (`src/styles/common.module.scss`)
+- **Data:** JSON files in `data/` — loaded at build time (SSG)
+
+## Build & Deploy
 
 ```bash
-make build     # Production build (cleans, builds, copies CNAME/.nojekyll)
-make dev       # Development server
-make lint      # Lint
-make typecheck # Type check
+make build          # Clean build → outputs to docs/
+make deploy         # Build + commit docs/ + push (deploys to GitHub Pages)
+make dev            # Dev server on port 3000
+make lint           # ESLint
+make typecheck      # TypeScript check
 ```
 
-`make build` is the single source of truth for producing `docs/`. It handles cleaning, building, and preserving GitHub Pages files (`CNAME`, `.nojekyll`).
+## ⚠️ Critical Rules
 
-## Git Workflow
+### 1. Think before renaming slugs
+- Renaming slugs breaks existing bookmarks and external links.
+- Avoid renaming unless there's a strong reason. If you must rename, be aware of the impact.
+- When the site has more SEO presence, we'll need a redirect system — for now, keep it simple.
 
-- **Never commit directly to `main`** — always use feature branches
-- **Use worktrees:** `gwt-mk feat/my-feature`, not `git checkout -b`
-- **Bot pushes:** Use `selah` remote via `scripts/selah-push.sh`
-- **After merge:** Clean up worktrees with `gwt-rm`
+### 2. Always build before deploying
+```bash
+make build    # Must succeed with 0 errors
+```
+- Check the route summary at the end of the build output.
+- Verify the page count hasn't unexpectedly dropped.
+- Spot-check a few URLs from the old site to confirm they still work.
 
-## Key Files
+### 3. Video data structure
+- **Directory:** `data/videos/`
+- **Naming:** `{person-slug}--{short-descriptor}.json` (double-dash separates person from content)
+- **Auto-discovered:** The loader reads all `*.json` files (excluding files starting with `_`), sorted alphabetically. No index file to maintain.
+- **Adding a video:** Drop a JSON file. Done.
+- **Schema:**
+  ```json
+  {
+    "id": "person-slug--descriptor",
+    "videoId": "YouTubeVideoId",
+    "title": "Display Title",
+    "description": "Short description.",
+    "tags": ["conversion", "faith"],
+    "type": "testimony"
+  }
+  ```
+- The `id` MUST match the filename (without `.json`).
 
-| File | Purpose |
-|------|---------|
-| `data/notable-christians.json` | All biography data (121+ people) |
-| `data/content.json` | Testimonies, scripture, gospel sections |
-| `src/lib/data.ts` | Data loading and type definitions |
-| `src/app/biographies/page.tsx` | Biography index with legend + card grid |
-| `src/app/biographies/[slug]/page.tsx` | Individual biography pages |
-| `src/components/BiographyLegend.tsx` | Fields & Disciplines legend component |
-| `src/styles/common.module.scss` | Main stylesheet (dark theme + gold) |
-| `Makefile` | All build/dev/deploy commands |
-| `docs/` | Built output — **never edit directly** |
+### 4. Biography data structure
+- **Directory:** `data/notable-christians/`
+- **One file per person:** `{slug}.json`
+- **Index:** `_index.json` organizes people into categories/subcategories via `$ref`
+- **Videos in bios:** Use `videoId` field to enable YouTube thumbnail embeds and cross-linking to video detail pages.
 
-## Content Changes
+### 5. Git workflow
+- **Never commit directly to `main`** — use branches + PRs
+- **Bot pushes:** Use `selah` remote (GitHub App token via `scripts/selah-push.sh`)
+- **Deploy commits:** Only via `make deploy` on `main` after PR merge
 
-- **Biographies:** Edit `data/notable-christians.json` — index page and legend auto-generate
-- **Other content:** Edit `data/content.json`
-- After data changes: `make build`, commit both data file and `docs/`
+## Data Conventions
 
-## Deploy Pipeline
+### Person slugs
+- Lowercase, hyphenated: `patrick-bet-david`, `rosaria-butterfield`
+- Used as directory/filename prefix across `data/notable-christians/` and `data/videos/`
 
-1. Make changes on feature branch
-2. `make build` to verify
-3. PR → review → merge to `main`
-4. GitHub Pages auto-deploys from `docs/` on `main`
+### Video tags
+Common tags: `conversion`, `atheism`, `faith`, `deliverance`, `addiction`, `music`, `sports`, `hollywood`, `science`, `apologetics`, `preaching`, `academic`, `entrepreneurship`, `encouragement`
 
-## Important
+### Video types
+- `testimony` — personal faith story or public declaration
 
-- `docs/` is the deploy target — always regenerate with `make build`, never hand-edit
-- `public/CNAME` and `public/.nojekyll` ensure GitHub Pages works after builds
-- The site is a static export (`output: 'export'`) — no server-side features
-- Biographies legend component is data-driven — no hardcoded discipline lists
+## Testing Checklist (before deploy)
+
+- [ ] `make build` succeeds
+- [ ] Page count in build output matches expected (currently ~210)
+- [ ] Spot-check `/testimonies` page — all video thumbnails load
+- [ ] Spot-check at least 2 video detail pages
+- [ ] Spot-check at least 2 biography pages with videos
+- [ ] If slugs were renamed: verify old URLs redirect properly
+- [ ] No broken images (YouTube thumbnail URLs use videoId — verify IDs are correct)

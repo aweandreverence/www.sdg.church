@@ -1,98 +1,64 @@
-# Contributing to www.sdg.church
+# Contributing to sdg.church
 
-Thank you for your interest in contributing to SDG Church — *Soli Deo Gloria*.
-
-## Getting Started
+## Quick Start
 
 ```bash
-make install   # Install dependencies
-make dev       # Start dev server at http://localhost:3000
+make install    # Install dependencies
+make dev        # Start dev server at http://localhost:3000
 ```
 
-## Development Workflow
+## Adding a Testimony Video
 
-1. **Never commit directly to `main`** — use worktrees and feature branches
-2. Create a worktree: `gwt-mk feat/my-feature` or `gwt-mk fix/my-bug`
-3. Make your changes and verify the build passes: `make build`
-4. Open a PR against `main`
+1. Create `data/videos/{person}--{descriptor}.json`:
+   ```json
+   {
+     "id": "{person}--{descriptor}",
+     "videoId": "YouTubeVideoId",
+     "title": "Person Name — Video Title",
+     "description": "Brief description of the video.",
+     "tags": ["conversion", "faith"],
+     "type": "testimony"
+   }
+   ```
+2. That's it. The video will appear on `/testimonies` and get its own page at `/videos/{person}--{descriptor}`.
 
-## Build
+### Finding the YouTube Video ID
+- Full URL: `https://www.youtube.com/watch?v=VIDEO_ID` → `VIDEO_ID`
+- Short URL: `https://youtu.be/VIDEO_ID` → `VIDEO_ID`
+- Shorts: `https://www.youtube.com/shorts/VIDEO_ID` → `VIDEO_ID`
 
-**Always use `make build`** — never run `next build` or copy files manually.
+## Adding a Biography
 
-`make build` handles:
-- Cleaning previous output
-- Installing dependencies
-- Running the Next.js static export
-- Moving output to `docs/`
-- Preserving `CNAME` and `.nojekyll` for GitHub Pages
+1. Create `data/notable-christians/{slug}.json` with the person's info
+2. Add a `$ref` entry in `data/notable-christians/_index.json` under the appropriate category/subcategory
+3. To link videos: add `videoId` field to entries in the person's `videos` array
+
+## Building & Deploying
 
 ```bash
-make build     # Build for production
-make dev       # Development server
-make lint      # Lint code
-make typecheck # Type checking
-make format    # Format with Prettier
+make build      # Build static site to docs/
+make deploy     # Build + commit + push (GitHub Pages)
 ```
 
-## Adding Content
+### Pre-deploy checks
+- Build must succeed
+- Page count should match expected (~210+)
+- Spot-check thumbnails on `/testimonies`
+- Verify old URLs still work (redirects)
 
-### Biographies
+## Branch Workflow
 
-Edit `data/notable-christians.json`. Each person needs:
-- `name`, `years`, `title`, `bio`, `faith` — biographical content
-- `slug` — URL-safe identifier (must be unique)
-- `tagline` — one-line summary for the card grid
-- `image` — Wikimedia Commons URL (historical) or empty string (living/copyright)
-- `videos` — array of `{title, url, platform, note?}`
-- `sources` — array of `{type, title, url?, note?}`
+1. Create a branch (or worktree): `git worktree add ~/.worktrees/www.sdg.church/feat/my-feature -b feat/my-feature main`
+2. Make changes, commit
+3. Push and open a PR against `main`
+4. After merge: `make deploy` from `main`
 
-The legend component and index page auto-generate from this data.
+## File Naming Conventions
 
-### Other Content
+| Directory | Pattern | Example |
+|-----------|---------|---------|
+| `data/videos/` | `{person}--{descriptor}.json` | `nabeel-qureshi--seeking-allah-finding-jesus.json` |
+| `data/notable-christians/` | `{slug}.json` | `patrick-bet-david.json` |
 
-Edit `data/content.json` for testimonies, scripture passages, and gospel sections.
-
-## Project Structure
-
-```
-├── data/                   # Static JSON content data
-│   ├── content.json        # Testimonies, scripture, gospel sections
-│   └── notable-christians.json  # Biographies data
-├── public/                 # Static assets (CNAME, .nojekyll)
-├── src/
-│   ├── app/                # Next.js App Router pages
-│   │   ├── biographies/    # Card grid index + [slug] detail pages
-│   │   ├── gospel/         # Gospel presentation
-│   │   ├── repentance/     # Call to repentance
-│   │   ├── scripture/      # Scripture passages
-│   │   ├── testimonies/    # Video testimonies
-│   │   └── videos/         # Individual video pages
-│   ├── components/         # React components
-│   ├── constants/          # Nav links, config
-│   ├── lib/                # Data loading, SEO utils
-│   └── styles/             # SCSS modules
-├── docs/                   # Built static output (GitHub Pages)
-├── Makefile                # All build/dev/deploy commands
-└── CNAME                   # Custom domain
-```
-
-## Style Guide
-
-- **TypeScript** — strict mode, no `any`
-- **SCSS Modules** — component-scoped styles in `src/styles/`
-- **Semantic HTML** — accessible, meaningful markup
-- **Design system** — dark theme with gold (`#c9a84c`) accents, Cormorant Garamond headings
-
-## Theology
-
-This is a Reformed Christian evangelism site. Content should be:
-- Theologically grounded and biblically faithful
-- Accessible but not shallow
-- Reverent but not stuffy
-
-See the [Catholic inclusion policy](https://github.com/aweandreverence/www.sdg.church/wiki) for biography curation guidelines.
-
-## License
-
-© Awe and Reverence
+- Double-dash `--` separates person from content descriptor
+- Files starting with `_` are metadata, not content entries

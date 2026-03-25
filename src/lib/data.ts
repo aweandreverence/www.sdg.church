@@ -7,7 +7,7 @@ import gospelData from '@data/gospel.json';
 function loadVideosData(): Video[] {
   const dataDir = path.join(process.cwd(), 'data', 'videos');
   const files = fs.readdirSync(dataDir)
-    .filter((f) => f.endsWith('.json'))
+    .filter((f) => f.endsWith('.json') && !f.startsWith('_'))
     .sort();
   return files.map((f) => {
     const videoPath = path.join(dataDir, f);
