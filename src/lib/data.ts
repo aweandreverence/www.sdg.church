@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import testimoniesData from '@data/testimonies.json';
+// testimonies are now loaded from data/videos/ (auto-discovered)
 import scriptureData from '@data/scripture.json';
 import gospelData from '@data/gospel.json';
 // Load video data from split files at build time (auto-discover, sorted by filename)
@@ -188,13 +188,13 @@ export function getBiographyCategories(): BiographyCategory[] {
   }));
 }
 
-const testimonies = testimoniesData as Testimony[];
+// testimonies are now served from videos data
 const scripture = scriptureData as Scripture[];
 const gospel = gospelData as { sections: GospelSection[] };
 const videos = loadVideosData();
 
 export function getTestimonies(): Testimony[] {
-  return testimonies;
+  return videos;
 }
 
 export function getScriptures(): Scripture[] {
