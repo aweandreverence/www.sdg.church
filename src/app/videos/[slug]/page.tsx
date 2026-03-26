@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { getVideos, getVideoById } from '@/lib/data';
+import { getVideos, getVideoById, getPersonForVideo } from '@/lib/data';
 import { youTubeEmbedUrl } from '@/lib/youtube';
 import { buildTitle } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
@@ -67,9 +67,22 @@ export default async function VideoPage({ params }: VideoPageProps) {
                 </span>
               ))}
             </div>
-            <Link href="/testimonies" className={styles.ctaButton}>
-              &larr; All Testimonies
-            </Link>
+            <div className="d-flex flex-wrap gap-3">
+              <Link href="/testimonies" className={styles.ctaButton}>
+                &larr; All Testimonies
+              </Link>
+              {(() => {
+                const person = getPersonForVideo(video.id);
+                return person ? (
+                  <Link
+                    href={`/biographies/${person.slug}`}
+                    className={styles.ctaButton}
+                  >
+                    Read {person.name}&apos;s Biography &rarr;
+                  </Link>
+                ) : null;
+              })()}
+            </div>
           </div>
         </div>
       </div>

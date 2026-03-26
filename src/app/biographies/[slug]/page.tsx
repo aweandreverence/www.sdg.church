@@ -6,9 +6,9 @@ import {
   getAllPeopleSlugs,
   getPersonBySlug,
   getPrevNextPerson,
+  getVideosForPerson,
 } from '@/lib/data';
-import { youTubeEmbedUrl, youTubeThumbnailUrl } from '@/lib/youtube';
-import { getVideoByVideoId } from '@/lib/data';
+import { youTubeThumbnailUrl } from '@/lib/youtube';
 import styles from '@styles/common.module.scss';
 
 interface PageProps {
@@ -122,83 +122,76 @@ export default async function BiographyDetailPage({ params }: PageProps) {
             </section>
           )}
 
-          {person.videos && person.videos.length > 0 && (
-            <section className={styles.bioDetailSection}>
-              <h2 className={styles.bioDetailSectionTitle}>Videos</h2>
-              <div className={styles.bioVideoGrid}>
-                {person.videos.map((video, i) => {
-                  const videoId = video.videoId;
-                  const testimonyEntry = videoId ? getVideoByVideoId(videoId) : undefined;
+          {(() => {
+            // Auto-discover videos from data/videos/ by person slug
+            const autoVideos = getVideosForPerson(slug);
+            const hasAutoVideos = autoVideos.length > 0;
+            const hasManualVideos = person.videos && person.videos.length > 0;
 
-                  if (videoId) {
-                    return (
-                      <div key={i} className={styles.bioVideoCard}>
-                        {testimonyEntry ? (
-                          <Link href={`/videos/${testimonyEntry.id}`}>
+            if (!hasAutoVideos && !hasManualVideos) return null;
+
+            return (
+              <section className={styles.bioDetailSection}>
+                <h2 className={styles.bioDetailSectionTitle}>Videos</h2>
+                <div className={styles.bioVideoGrid}>
+                  {/* Auto-discovered videos from the testimony/videos system */}
+                  {autoVideos.map((video) => (
+                    <div key={video.id} className={styles.bioVideoCard}>
+                      <Link href={`/videos/${video.id}`}>
+                        <img
+                          src={youTubeThumbnailUrl(video.videoId, 'sddefault')}
+                          alt={video.title}
+                          className={styles.bioVideoThumbnail}
+                        />
+                      </Link>
+                      <div className={styles.bioVideoInfo}>
+                        <Link
+                          href={`/videos/${video.id}`}
+                          className={styles.bioVideoTitle}
+                        >
+                          {video.title}
+                        </Link>
+                        <p className={styles.bioVideoNote}>{video.description}</p>
+                      </div>
+                    </div>
+                  ))}
+                  {/* Manual videos from bio JSON (ones not already in the videos system) */}
+                  {hasManualVideos && person.videos
+                    .filter((v) => {
+                      // Skip if this video is already shown via auto-discovery
+                      if (!v.videoId) return true;
+                      return !autoVideos.some((av) => av.videoId === v.videoId);
+                    })
+                    .map((video, i) => (
+                      <div key={`manual-${i}`} className={styles.bioVideoCard}>
+                        {video.videoId ? (
+                          <a href={video.url} target="_blank" rel="noopener noreferrer">
                             <img
-                              src={youTubeThumbnailUrl(videoId, 'sddefault')}
-                              alt={video.title}
-                              className={styles.bioVideoThumbnail}
-                            />
-                          </Link>
-                        ) : (
-                          <a
-                            href={video.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            <img
-                              src={youTubeThumbnailUrl(videoId, 'sddefault')}
+                              src={youTubeThumbnailUrl(video.videoId, 'sddefault')}
                               alt={video.title}
                               className={styles.bioVideoThumbnail}
                             />
                           </a>
-                        )}
+                        ) : null}
                         <div className={styles.bioVideoInfo}>
-                          {testimonyEntry ? (
-                            <Link
-                              href={`/videos/${testimonyEntry.id}`}
-                              className={styles.bioVideoTitle}
-                            >
-                              {video.title}
-                            </Link>
-                          ) : (
-                            <a
-                              href={video.url}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className={styles.bioVideoTitle}
-                            >
-                              {video.title}
-                            </a>
-                          )}
+                          <a
+                            href={video.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className={styles.bioVideoTitle}
+                          >
+                            {video.title}
+                          </a>
                           {video.note && (
                             <p className={styles.bioVideoNote}>{video.note}</p>
                           )}
                         </div>
                       </div>
-                    );
-                  }
-
-                  return (
-                    <div key={i} className={styles.bioVideoCard}>
-                      <a
-                        href={video.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className={styles.bioVideoTitle}
-                      >
-                        {video.title}
-                      </a>
-                      {video.note && (
-                        <p className={styles.bioVideoNote}>{video.note}</p>
-                      )}
-                    </div>
-                  );
-                })}
-              </div>
-            </section>
-          )}
+                    ))}
+                </div>
+              </section>
+            );
+          })()}
 
           <nav className={styles.bioPrevNext}>
             {prev ? (

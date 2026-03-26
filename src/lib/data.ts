@@ -226,3 +226,28 @@ export function getVideoById(id: string): Video | undefined {
 export function getVideoByVideoId(videoId: string): Video | undefined {
   return videos.find((v) => v.videoId === videoId);
 }
+
+/**
+ * Extract the person slug from a video id.
+ * Video ids follow the pattern: {person-slug}--{descriptor}
+ */
+export function getPersonSlugFromVideoId(videoId: string): string | null {
+  const idx = videoId.indexOf('--');
+  return idx > 0 ? videoId.substring(0, idx) : null;
+}
+
+/**
+ * Get all videos for a person by their bio slug.
+ * Matches on the person prefix of video ids ({person-slug}--{descriptor}).
+ */
+export function getVideosForPerson(personSlug: string): Video[] {
+  return videos.filter((v) => v.id.startsWith(personSlug + '--'));
+}
+
+/**
+ * Get the bio for a person featured in a video (if one exists).
+ */
+export function getPersonForVideo(videoId: string): Person | undefined {
+  const personSlug = getPersonSlugFromVideoId(videoId);
+  return personSlug ? getPersonBySlug(personSlug) : undefined;
+}
