@@ -421,9 +421,6 @@
               "$ref": "simone-biles.json"
             },
             {
-              "$ref": "sadie-robertson-huff.json"
-            },
-            {
               "$ref": "gabby-douglas.json"
             },
             {
@@ -521,6 +518,9 @@
             },
             {
               "$ref": "kirk-cameron.json"
+            },
+            {
+              "$ref": "sadie-robertson-huff.json"
             }
           ]
         },
