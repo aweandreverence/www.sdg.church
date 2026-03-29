@@ -5,11 +5,13 @@ export type YouTubeThumbnailSize =
   | 'sddefault'
   | 'maxresdefault';
 
-export function youTubeThumbnailUrl(
-  videoId: string,
-  size: YouTubeThumbnailSize = 'sddefault'
-): string {
-  return `https://img.youtube.com/vi/${videoId}/${size}.jpg`;
+/**
+ * Returns the URL for a locally cached YouTube thumbnail.
+ * Images are downloaded by scripts/resolve-thumbnails.mjs
+ * and committed under public/thumbnails/.
+ */
+export function youTubeThumbnailUrl(videoId: string): string {
+  return `/thumbnails/${videoId}.jpg`;
 }
 
 export function youTubeEmbedUrl(videoId: string): string {

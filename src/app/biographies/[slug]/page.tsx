@@ -139,7 +139,7 @@ export default async function BiographyDetailPage({ params }: PageProps) {
                     <div key={video.id} className={styles.bioVideoCard}>
                       <Link href={`/videos/${video.id}`}>
                         <img
-                          src={youTubeThumbnailUrl(video.videoId, 'sddefault')}
+                          src={youTubeThumbnailUrl(video.videoId)}
                           alt={video.title}
                           className={styles.bioVideoThumbnail}
                         />
@@ -167,7 +167,7 @@ export default async function BiographyDetailPage({ params }: PageProps) {
                         {video.videoId ? (
                           <a href={video.url} target="_blank" rel="noopener noreferrer">
                             <img
-                              src={youTubeThumbnailUrl(video.videoId, 'sddefault')}
+                              src={youTubeThumbnailUrl(video.videoId)}
                               alt={video.title}
                               className={styles.bioVideoThumbnail}
                             />
