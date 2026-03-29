@@ -22,7 +22,7 @@ export function VideoCard({
       <Link href={`/videos/${id}`}>
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src={youTubeThumbnailUrl(videoId, 'sddefault')}
+          src={youTubeThumbnailUrl(videoId)}
           alt={title}
           className="card-img-top"
         />
