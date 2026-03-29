@@ -1,5 +1,7 @@
 # Contributing to sdg.church
 
+> **New to content curation?** Start with the [Editorial & Theological Guidelines](EDITORIAL_GUIDELINES.md) — they cover who we feature and why.
+
 ## Quick Start
 
 ```bash
@@ -62,3 +64,14 @@ make deploy     # Build + commit + push (GitHub Pages)
 
 - Double-dash `--` separates person from content descriptor
 - Files starting with `_` are metadata, not content entries
+
+## Editorial Standards
+
+Before adding a biography or testimony, review the [Editorial & Theological Guidelines](EDITORIAL_GUIDELINES.md). Key points:
+
+- **Inclusion requires evidence of saving faith** — not just cultural Christianity
+- **Living figures need 2+ years** of sustained public profession
+- **Denominational label alone** doesn't include or exclude anyone
+- **Borderline cases** should be documented and escalated to the project lead
+
+The editorial guidelines also cover the theological framework, denominational considerations, writing standards, and case studies.
