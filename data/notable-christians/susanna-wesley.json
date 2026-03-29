@@ -1,0 +1,27 @@
+{
+  "name": "Susanna Wesley",
+  "years": "January 20, 1669 – July 23, 1742",
+  "title": "Mother of Methodism",
+  "bio": "English mother of John and Charles Wesley, often called the 'Mother of Methodism.' She raised 19 children (10 survived infancy) and is famous for her disciplined approach to education and spiritual formation. Despite poverty and a difficult marriage, she devoted herself to educating her children in Scripture and theology.",
+  "faith": "Susanna set aside time daily to pray and teach each of her children individually from Scripture. Her methodical spiritual discipline directly shaped the character and theology of John and Charles Wesley. She held her own theological views strongly — she once held church services in her own home when she disagreed with the curate's preaching. Her letters on theology and spiritual practice remain influential.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Susanna Wesley — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Susanna_Wesley"
+    },
+    {
+      "type": "book",
+      "title": "Susanna Wesley: The Complete Writings",
+      "note": "Edited by Charles Wallace Jr."
+    }
+  ],
+  "slug": "susanna-wesley",
+  "tagline": "Mother of Methodism — raised John and Charles Wesley in faith",
+  "image": "/images/bios/susanna-wesley.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/Susanna_Wesley.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}

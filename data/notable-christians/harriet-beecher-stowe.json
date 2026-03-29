@@ -1,0 +1,22 @@
+{
+  "name": "Harriet Beecher Stowe",
+  "years": "June 14, 1811 – July 1, 1896",
+  "title": "Author & Abolitionist",
+  "bio": "American author and abolitionist best known for 'Uncle Tom's Cabin' (1852), which depicted the harsh realities of slavery and galvanized the abolitionist movement. Daughter of prominent Calvinist preacher Lyman Beecher and sister of Henry Ward Beecher, she came from one of the most influential Christian families in 19th-century America.",
+  "faith": "Stowe's Christian faith was the engine of her abolitionist passion. She wrote 'Uncle Tom's Cabin' as an explicitly Christian argument against slavery, with the Christ-like suffering of Tom as its moral center. She said the book was inspired by a vision during communion. Her father Lyman Beecher was a leading Calvinist theologian, and the entire Beecher family was deeply evangelical.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Harriet Beecher Stowe — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
+    }
+  ],
+  "slug": "harriet-beecher-stowe",
+  "tagline": "Her faith-driven novel ignited the abolitionist movement",
+  "image": "/images/bios/harriet-beecher-stowe.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Harriet_Beecher_Stowe_by_Francis_Holl.jpg/440px-Harriet_Beecher_Stowe_by_Francis_Holl.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}

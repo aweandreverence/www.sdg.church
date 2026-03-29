@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24",
+  "lastUpdated": "2026-03-29",
   "categories": [
     {
       "id": "martyrs-witnesses",
@@ -64,6 +64,12 @@
             },
             {
               "$ref": "fanny-crosby.json"
+            },
+            {
+              "$ref": "john-newton.json"
+            },
+            {
+              "$ref": "charles-wesley.json"
             }
           ]
         },
@@ -97,6 +103,9 @@
             },
             {
               "$ref": "george-macdonald.json"
+            },
+            {
+              "$ref": "harriet-beecher-stowe.json"
             }
           ]
         },
@@ -316,6 +325,24 @@
             },
             {
               "$ref": "tim-keller.json"
+            },
+            {
+              "$ref": "elisabeth-elliot.json"
+            },
+            {
+              "$ref": "saint-patrick.json"
+            },
+            {
+              "$ref": "francis-of-assisi.json"
+            },
+            {
+              "$ref": "john-perkins.json"
+            },
+            {
+              "$ref": "lemuel-haynes.json"
+            },
+            {
+              "$ref": "susanna-wesley.json"
             }
           ]
         },
@@ -367,6 +394,18 @@
             },
             {
               "$ref": "sadhu-sundar-singh.json"
+            }
+          ]
+        },
+        {
+          "id": "abolitionists-reformers",
+          "name": "Abolitionists & Social Reformers",
+          "people": [
+            {
+              "$ref": "harriet-tubman.json"
+            },
+            {
+              "$ref": "sojourner-truth.json"
             }
           ]
         },
@@ -527,6 +566,18 @@
           "people": [
             {
               "$ref": "nabeel-qureshi.json"
+            }
+          ]
+        },
+        {
+          "id": "authors-speakers",
+          "name": "Authors & Speakers",
+          "people": [
+            {
+              "$ref": "joni-eareckson-tada.json"
+            },
+            {
+              "$ref": "charles-colson.json"
             }
           ]
         }

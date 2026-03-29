@@ -1,0 +1,27 @@
+{
+  "name": "Harriet Tubman",
+  "years": "c. 1822 – March 10, 1913",
+  "title": "Abolitionist & Freedom Fighter",
+  "bio": "American abolitionist and political activist who escaped slavery and subsequently made approximately 13 missions to rescue over 70 enslaved people using the Underground Railroad. Known as 'Moses,' she later served as a spy for the Union Army during the Civil War and was active in the women's suffrage movement.",
+  "faith": "Tubman's Christian faith was the driving force of her life. She reported vivid dreams and visions she attributed to God, which guided her rescue missions. She prayed constantly during her dangerous journeys and credited God entirely for her success. In her later years she founded the Harriet Tubman Home for the Aged, affiliated with the AME Zion Church.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Harriet Tubman — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
+    },
+    {
+      "type": "book",
+      "title": "Bound for the Promised Land",
+      "note": "By Kate Clifford Larson. Definitive biography exploring her faith"
+    }
+  ],
+  "slug": "harriet-tubman",
+  "tagline": "Called 'Moses' — her faith drove the Underground Railroad",
+  "image": "/images/bios/harriet-tubman.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Harriet_Tubman_c1868-69.jpg/440px-Harriet_Tubman_c1868-69.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}

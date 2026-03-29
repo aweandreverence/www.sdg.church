@@ -1,0 +1,27 @@
+{
+  "name": "Joni Eareckson Tada",
+  "years": "October 15, 1949 – present",
+  "title": "Author & Disability Advocate",
+  "bio": "American author, speaker, and disability rights advocate. A diving accident at age 17 left her a quadriplegic. Rather than succumbing to despair, she founded Joni and Friends International Disability Center and became one of the most recognized Christian voices on suffering and God's sovereignty.",
+  "faith": "Joni is solidly Reformed in her theology, a close friend of John MacArthur and R.C. Sproul. She has spoken and written extensively about how God uses suffering for His glory. Her life is a living testimony to the sufficiency of Christ in the midst of profound physical limitation. She has also battled cancer multiple times with public, unwavering faith.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Joni Eareckson Tada — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joni_Eareckson_Tada"
+    },
+    {
+      "type": "book",
+      "title": "Joni: An Unforgettable Story",
+      "note": "Her autobiography, first published 1976"
+    }
+  ],
+  "slug": "joni-eareckson-tada",
+  "tagline": "Quadriplegic since 17, a towering voice on suffering and God's sovereignty",
+  "image": "/images/bios/joni-eareckson-tada.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/Joni_Eareckson_Tada.jpg",
+    "license": "Fair Use"
+  }
+}

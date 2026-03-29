@@ -1,0 +1,27 @@
+{
+  "name": "Lemuel Haynes",
+  "years": "July 18, 1753 – September 28, 1833",
+  "title": "Pastor & Theologian",
+  "bio": "The first African American ordained by a mainstream Protestant denomination in the United States (Congregationalist, 1785). Born to a biracial couple, he was indentured as a servant, fought in the American Revolution at Ticonderoga, and went on to pastor predominantly white congregations in New England for over 30 years.",
+  "faith": "Haynes was a committed Calvinist and gifted preacher. His sermon 'Universal Salvation: A Very Ancient Doctrine' (1805) was a masterful theological refutation of universalism that became one of the most reprinted sermons in American history. He pastored in Rutland, Vermont for 30 years and was deeply respected for his theological acumen.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Lemuel Haynes — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lemuel_Haynes"
+    },
+    {
+      "type": "book",
+      "title": "Black Puritan, Black Republican",
+      "note": "By John Saillant. Biography of Haynes's life and theology"
+    }
+  ],
+  "slug": "lemuel-haynes",
+  "tagline": "First Black ordained minister in America — a Calvinist pastor for 30 years",
+  "image": "/images/bios/lemuel-haynes.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/Lemuel_Haynes.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}

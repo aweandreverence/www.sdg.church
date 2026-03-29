@@ -1,0 +1,27 @@
+{
+  "name": "John Newton",
+  "years": "August 4, 1725 – December 21, 1807",
+  "title": "Hymn Writer & Pastor",
+  "bio": "English Anglican clergyman and former slave ship captain who became one of the most beloved hymn writers in history. After a dramatic conversion at sea during a violent storm, he eventually left the slave trade and was ordained. He became a leading supporter of abolition and mentored William Wilberforce.",
+  "faith": "Newton's conversion from slave trader to devoted pastor is one of the most famous transformation stories in Christian history. He wrote 'Amazing Grace' from deep personal experience of God's mercy. His autobiography and letters reveal a man profoundly aware of his own sinfulness and God's undeserved kindness.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "John Newton — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Newton"
+    },
+    {
+      "type": "book",
+      "title": "Out of the Depths",
+      "note": "Newton's autobiography, first published 1764"
+    }
+  ],
+  "slug": "john-newton",
+  "tagline": "Wrote 'Amazing Grace' — from slave trader to abolitionist pastor",
+  "image": "/images/bios/john-newton.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/John_Newton.jpg/440px-John_Newton.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}

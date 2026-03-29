@@ -1,0 +1,22 @@
+{
+  "name": "Charles Wesley",
+  "years": "December 18, 1707 – March 29, 1788",
+  "title": "Hymn Writer & Evangelist",
+  "bio": "English Methodist leader and hymn writer who composed over 6,500 hymns, making him one of the most prolific hymn writers in history. Brother of John Wesley, he was a co-founder of Methodism and a tireless evangelist who preached throughout England.",
+  "faith": "Charles experienced a definitive conversion on Pentecost Sunday 1738, three days before his brother John's famous Aldersgate experience. His hymns — including 'And Can It Be,' 'Hark! The Herald Angels Sing,' and 'O for a Thousand Tongues to Sing' — are masterful expressions of evangelical theology set to music.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Charles Wesley — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Wesley"
+    }
+  ],
+  "slug": "charles-wesley",
+  "tagline": "Wrote over 6,500 hymns — the poet of Methodism",
+  "image": "/images/bios/charles-wesley.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Charles_Wesley.jpg/440px-Charles_Wesley.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}
