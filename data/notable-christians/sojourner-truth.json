@@ -1,0 +1,27 @@
+{
+  "name": "Sojourner Truth",
+  "years": "c. 1797 – November 26, 1883",
+  "title": "Abolitionist & Preacher",
+  "bio": "African American abolitionist and women's rights activist born into slavery in New York. After gaining freedom in 1826, she became a powerful itinerant preacher and one of the most compelling voices against slavery and for women's rights in American history. Her famous 'Ain't I a Woman?' speech remains iconic.",
+  "faith": "Sojourner Truth had a dramatic conversion experience and took her name to reflect her calling — she believed God called her to 'sojourn' the land and speak His 'truth.' She was explicitly Christian in her public preaching, regularly quoting Scripture and framing her abolitionist work as obedience to God. Her faith was the foundation of everything she did.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Sojourner Truth — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sojourner_Truth"
+    },
+    {
+      "type": "book",
+      "title": "Narrative of Sojourner Truth",
+      "note": "Her autobiography, dictated to Olive Gilbert (1850)"
+    }
+  ],
+  "slug": "sojourner-truth",
+  "tagline": "Born enslaved, called by God to sojourn the land and speak His truth",
+  "image": "/images/bios/sojourner-truth.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sojourner_Truth_c1870.jpg/440px-Sojourner_Truth_c1870.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}

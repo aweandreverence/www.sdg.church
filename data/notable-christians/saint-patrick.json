@@ -1,0 +1,27 @@
+{
+  "name": "Saint Patrick",
+  "years": "c. 385 – c. 461",
+  "title": "Missionary to Ireland",
+  "bio": "Romano-British Christian missionary and bishop, the foremost patron saint of Ireland. Kidnapped by Irish raiders at age 16, he spent six years in captivity as a shepherd. After escaping and returning to Britain, he felt called by God to return to Ireland as a missionary, where he spent decades evangelizing the pagan Irish.",
+  "faith": "Patrick's own writings — his 'Confession' and 'Letter to Coroticus' — reveal a man of deep, simple faith who attributed everything to God's grace. He wrote: 'I am greatly God's debtor, because he granted me so much grace, that through me many people would be reborn in God.' Pre-Reformation, his theology was essentially orthodox Christian.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Saint Patrick — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saint_Patrick"
+    },
+    {
+      "type": "primary",
+      "title": "Confessio (Patrick's Confession)",
+      "note": "Patrick's own autobiographical account of his faith and mission"
+    }
+  ],
+  "slug": "saint-patrick",
+  "tagline": "Kidnapped, enslaved, then returned to Ireland as a missionary",
+  "image": "/images/bios/saint-patrick.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Saint_Patrick_-_stained_glass.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}

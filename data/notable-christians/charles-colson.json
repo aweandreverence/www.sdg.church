@@ -1,0 +1,27 @@
+{
+  "name": "Charles Colson",
+  "years": "October 16, 1931 – April 21, 2012",
+  "title": "Author & Prison Ministry Founder",
+  "bio": "American political figure who served as Special Counsel to President Richard Nixon. After involvement in the Watergate scandal and a prison sentence, Colson experienced a dramatic born-again conversion. He founded Prison Fellowship in 1976, which became the world's largest outreach to prisoners, ex-prisoners, and their families.",
+  "faith": "Colson's conversion story — from White House power broker to convicted felon to Christian minister — is one of the most striking in modern American history. He wrote 'Born Again' about his conversion and went on to author over 30 books on Christian worldview. He received the Templeton Prize for Progress in Religion in 1993.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Charles Colson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Colson"
+    },
+    {
+      "type": "book",
+      "title": "Born Again",
+      "note": "His conversion autobiography, published 1976"
+    }
+  ],
+  "slug": "charles-colson",
+  "tagline": "From Watergate to born again — founded Prison Fellowship",
+  "image": "/images/bios/charles-colson.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/Charles_Colson.jpg",
+    "license": "Public Domain / Fair Use"
+  }
+}

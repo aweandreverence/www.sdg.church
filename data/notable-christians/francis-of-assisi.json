@@ -1,0 +1,22 @@
+{
+  "name": "Francis of Assisi",
+  "years": "c. 1181 – October 3, 1226",
+  "title": "Friar & Missionary",
+  "bio": "Italian Catholic friar who founded the Franciscan Order. Born to a wealthy merchant family, he renounced his inheritance to embrace radical poverty and devote his life to following Christ. He preached throughout Italy and even traveled to Egypt during the Fifth Crusade to preach to the Sultan.",
+  "faith": "Francis's devotion to Christ was total — he sought to imitate Jesus's poverty, humility, and love for the poor as literally as possible. His 'Canticle of the Sun' is one of the earliest works of Italian literature and a beautiful expression of praise to God through creation. Pre-Reformation figure, universally recognized across Christian traditions.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Francis of Assisi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
+    }
+  ],
+  "slug": "francis-of-assisi",
+  "tagline": "Renounced wealth to follow Christ in radical poverty",
+  "image": "/images/bios/francis-of-assisi.jpg",
+  "imageAttribution": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg",
+    "license": "Public Domain (Wikimedia Commons)"
+  }
+}
