@@ -343,6 +343,9 @@
             },
             {
               "$ref": "susanna-wesley.json"
+            },
+            {
+              "$ref": "richard-wurmbrand.json"
             }
           ]
         },
