@@ -796,14 +796,6 @@
     "local_path": "/images/bios/william-wilberforce-politicians.jpg"
   },
   {
-    "slug": "marco-rubio",
-    "name": "Marco Rubio",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg/500px-Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Marco_Rubio",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/marco-rubio.jpg"
-  },
-  {
     "slug": "charlie-kirk",
     "name": "Charlie Kirk",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg/500px-Charlie_Kirk_%2853952923573%29_%28headshot_cropped%29.jpg",

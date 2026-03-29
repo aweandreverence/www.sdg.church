@@ -696,9 +696,6 @@
               "$ref": "george-washington.json"
             },
             {
-              "$ref": "marco-rubio.json"
-            },
-            {
               "$ref": "charlie-kirk.json"
             },
             {
