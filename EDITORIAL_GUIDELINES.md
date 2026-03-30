@@ -137,6 +137,8 @@ These examples illustrate how the criteria apply in practice:
 | **Jimmy Carter** | ⚠️ Borderline | Genuinely born-again Southern Baptist, but progressive theological drift later in life. Review periodically. |
 | **Russell Brand** | ⏳ Wait | Baptized April 2024 during sexual assault allegations. Need 2+ years of sustained fruit before considering. |
 | **Denzel Washington** | ✅ Include | Decades of consistent faith, studied at seminary, explicit testimony, fruit over 30+ years. |
+| **Stonewall Jackson** | ❌ Exclude | Devoutly Presbyterian, but his public legacy is inseparable from the Confederate cause. Applying Piper's 3-question framework (see [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md)): his faith is real (Q1 ✅, Q2 ✅), but he is too compromised by his Confederate generalship (Q3 ❌). The site has many figures with equally strong Reformed faith who don't carry this baggage. |
+| **Florence Nightingale** | ❌ Exclude | Denied miracles, rejected hell, stopped attending church in her 30s, influenced by positivism (Premier Christianity, Wikipedia). Her Unitarian family background shaped heterodox views. Fails our §2 non-negotiables: denying miracles = cannot affirm the resurrection; denying hell = undermines the need for a substitute (Titus 3:5; Galatians 3:13). |
 
 ## 9. Process for New Additions
 
@@ -164,6 +166,16 @@ These examples illustrate how the criteria apply in practice:
 - **Annual audit:** Review living figures for any changes in public witness
 - **Removal process:** If someone publicly renounces faith or persistent scandal emerges, discuss removal rather than leaving misleading content
 - **Gap analysis:** Regularly check for underrepresented categories (women, non-Western Christians, etc.)
+
+---
+
+## 11. Resources & Bibliography
+
+See [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) for the full list of resources that inform our editorial decisions, including:
+
+- **Theological frameworks** used for evaluating candidates (e.g., Piper's 3-question memorial framework)
+- **Candidate sourcing** — which podcasts, books, and databases we've reviewed, and what they yielded
+- **Reference works** for research and fact-checking
 
 ---
 
