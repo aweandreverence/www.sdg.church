@@ -1,0 +1,65 @@
+{
+  "name": "Phil Robertson",
+  "years": "April 24, 1946 – May 28, 2025",
+  "title": "Duck Commander & Evangelist",
+  "bio": "American professional hunter, businessman, and reality television star who founded Duck Commander, a duck call company. Robertson was the star of A&E's Duck Dynasty, one of the most-watched reality shows in cable television history. A former college quarterback at Louisiana Tech (where he started ahead of Terry Bradshaw), he chose the outdoors over a potential NFL career. After years of hard drinking and a wild lifestyle that nearly destroyed his marriage, Robertson experienced a radical conversion to Christianity that transformed his life.",
+  "faith": "Phil Robertson's conversion story is one of the most dramatic modern testimonies. After years of alcohol abuse, bar fights, and infidelity that led his wife Miss Kay to leave him, he was confronted by a local pastor and surrendered his life to Christ. He became an elder at White's Ferry Road Church of Christ in West Monroe, Louisiana, and dedicated the rest of his life to evangelism. He was famously suspended from Duck Dynasty in 2013 for unapologetically stating his biblical convictions in a GQ interview — and refused to back down. His testimony was depicted in the 2023 biographical film The Blind. He fathered a daughter from an affair in the 1970s (before his conversion), which he publicly acknowledged in 2020 — a fact that only underscores the depth of his transformation. Robertson spent his final years focused on his 'Unashamed' podcast and calling people to repentance and faith in Jesus Christ.",
+  "videos": [
+    {
+      "title": "Phil Robertson's Testimony - How God Saved a Wicked Man",
+      "url": "https://www.youtube.com/watch?v=f0NjU5LsDms",
+      "platform": "youtube",
+      "note": "Phil shares his full conversion testimony"
+    },
+    {
+      "title": "Phil Robertson: My Story of Finding Jesus",
+      "url": "https://www.youtube.com/watch?v=YRj3z8V9OdA",
+      "platform": "youtube",
+      "note": "Detailed account of his transformation from a life of sin to faith"
+    },
+    {
+      "title": "The Blind - Official Trailer",
+      "url": "https://www.youtube.com/watch?v=KoXv-RReJpg",
+      "platform": "youtube",
+      "note": "2023 biographical film depicting Phil Robertson's conversion story"
+    },
+    {
+      "title": "Phil Robertson's Final Message to America",
+      "url": "https://www.youtube.com/watch?v=M3qB3zPC6JA",
+      "platform": "youtube",
+      "note": "One of his last public messages calling people to Christ"
+    }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Phil Robertson — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phil_Robertson",
+      "note": "Overview of his life, career, and faith"
+    },
+    {
+      "type": "book",
+      "title": "Happy, Happy, Happy: My Life and Legacy as the Duck Commander",
+      "note": "By Phil Robertson. His autobiography covering his wild past and conversion"
+    },
+    {
+      "type": "book",
+      "title": "The Theft of America's Soul",
+      "note": "By Phil Robertson. His case for returning to biblical values"
+    },
+    {
+      "type": "website",
+      "title": "Unashamed with Phil Robertson Podcast",
+      "url": "https://www.blazetv.com/series/in-the-woods-with-phil",
+      "note": "His podcast dedicated to sharing the gospel"
+    }
+  ],
+  "slug": "phil-robertson",
+  "tagline": "From a life of sin to unashamed evangelist — the Duck Commander's radical conversion",
+  "image": "/images/bios/phil-robertson.jpg",
+  "imageAttribution": {
+    "source": "https://commons.wikimedia.org/wiki/File:Phil_Robertson_by_Gage_Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+  }
+}
