@@ -1,0 +1,15 @@
+{
+  "name": "Philip Schaff",
+  "years": "January 1, 1819 – October 20, 1893",
+  "title": "Church Historian",
+  "bio": "Swiss-born American theologian and church historian who produced the monumental 8-volume 'History of the Christian Church,' still one of the most comprehensive church histories ever written. He also edited the 'Nicene and Post-Nicene Fathers' series, making patristic writings accessible to English readers.",
+  "faith": "Schaff believed that understanding church history was essential to faithful Christianity. His ecumenical spirit — unusual for his time — led him to appreciate the riches of all Christian traditions while remaining firmly evangelical. His editorial work on the church fathers has been an indispensable resource for over a century.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Philip Schaff — Wikipedia", "url": "https://en.wikipedia.org/wiki/Philip_Schaff"}
+  ],
+  "slug": "philip-schaff",
+  "tagline": "His 8-volume church history remains indispensable after 130 years",
+  "image": "/images/bios/philip-schaff.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Martin Bucer",
+  "years": "November 11, 1491 – February 28, 1551",
+  "title": "Reformer",
+  "bio": "German-born Reformer based in Strasbourg who played a mediating role among the diverse strands of the Protestant Reformation. He influenced both John Calvin (who lived in Strasbourg under Bucer's mentorship) and Thomas Cranmer (the architect of the English Reformation). He is sometimes called the 'forgotten Reformer.'",
+  "faith": "Bucer combined deep theological conviction with a passion for church unity. His emphasis on pastoral care, church discipline, and the role of the Holy Spirit in sanctification deeply shaped Calvin's theology and Geneva's church order. His work 'De Regno Christi' envisioned a comprehensive Christian society.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Martin Bucer — Wikipedia", "url": "https://en.wikipedia.org/wiki/Martin_Bucer"}
+  ],
+  "slug": "martin-bucer",
+  "tagline": "The 'forgotten Reformer' who mentored Calvin in Strasbourg",
+  "image": "/images/bios/martin-bucer.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

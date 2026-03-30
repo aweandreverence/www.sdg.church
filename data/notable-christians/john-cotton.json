@@ -1,0 +1,15 @@
+{
+  "name": "John Cotton",
+  "years": "December 4, 1585 – December 23, 1652",
+  "title": "Puritan Minister",
+  "bio": "English Puritan minister who became one of the most influential leaders of the Massachusetts Bay Colony. Known as the 'Patriarch of New England,' he shaped the theology and church polity of early American Congregationalism from his pulpit at First Church in Boston.",
+  "faith": "Cotton was a brilliant scholar at Cambridge before his Puritan convictions forced him to emigrate to New England. He became the leading theologian of the Massachusetts colony, influencing everything from church governance to civil law. His grandson was Cotton Mather.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "John Cotton — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Cotton_(minister)"}
+  ],
+  "slug": "john-cotton",
+  "tagline": "Patriarch of New England Puritanism",
+  "image": "/images/bios/john-cotton.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

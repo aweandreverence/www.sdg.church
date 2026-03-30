@@ -1,0 +1,15 @@
+{
+  "name": "Louis Berkhof",
+  "years": "October 13, 1873 – May 18, 1957",
+  "title": "Theologian",
+  "bio": "Dutch-American Reformed theologian whose 'Systematic Theology' became the standard textbook in Reformed seminaries for decades. Born in the Netherlands, he emigrated to Michigan as a child and spent his career teaching at Calvin Theological Seminary.",
+  "faith": "Berkhof's 'Systematic Theology' has trained generations of Reformed pastors. He wrote with precision and clarity, making complex Reformed doctrine accessible without oversimplifying it. His work represents the best of the Dutch Reformed theological tradition in America.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Louis Berkhof — Wikipedia", "url": "https://en.wikipedia.org/wiki/Louis_Berkhof"}
+  ],
+  "slug": "louis-berkhof",
+  "tagline": "His Systematic Theology trained generations of Reformed pastors",
+  "image": "/images/bios/louis-berkhof.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

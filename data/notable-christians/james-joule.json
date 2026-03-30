@@ -1,0 +1,15 @@
+{
+  "name": "James Joule",
+  "years": "December 24, 1818 – October 11, 1889",
+  "title": "Physicist",
+  "bio": "English physicist who discovered the relationship between heat and mechanical work, establishing the first law of thermodynamics. The unit of energy (the joule) is named after him. His experiments on the mechanical equivalent of heat were foundational to modern physics.",
+  "faith": "Joule was a devout Christian who saw his scientific work as revealing God's creation. He wrote: 'After the knowledge of, and obedience to, the will of God, the next aim must be to know something of His attributes of wisdom, power, and goodness as evidenced by His handiwork.' He believed that the conservation of energy reflected the faithfulness of the Creator.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "James Prescott Joule — Wikipedia", "url": "https://en.wikipedia.org/wiki/James_Prescott_Joule"}
+  ],
+  "slug": "james-joule",
+  "tagline": "The unit of energy bears his name — saw science as revealing God's handiwork",
+  "image": "/images/bios/james-joule.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

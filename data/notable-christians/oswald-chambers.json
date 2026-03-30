@@ -1,0 +1,15 @@
+{
+  "name": "Oswald Chambers",
+  "years": "July 24, 1874 – November 15, 1917",
+  "title": "Pastor & Author",
+  "bio": "Scottish Baptist evangelist and teacher best known for the devotional 'My Utmost for His Highest,' one of the bestselling Christian books of all time. He served as a YMCA chaplain to British troops in Egypt during World War I, where he died following an emergency appendectomy at age 43.",
+  "faith": "Chambers experienced a profound 'baptism of the Holy Spirit' that transformed his ministry. His teaching emphasized total surrender to God and the indwelling life of Christ. 'My Utmost for His Highest,' compiled posthumously by his wife from her shorthand notes of his talks, has been in continuous print since 1927 and has sold tens of millions of copies.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Oswald Chambers — Wikipedia", "url": "https://en.wikipedia.org/wiki/Oswald_Chambers"}
+  ],
+  "slug": "oswald-chambers",
+  "tagline": "Author of 'My Utmost for His Highest' — died serving troops in Egypt",
+  "image": "/images/bios/oswald-chambers.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

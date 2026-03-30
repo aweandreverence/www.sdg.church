@@ -1,0 +1,15 @@
+{
+  "name": "Christina Rossetti",
+  "years": "December 5, 1830 – December 29, 1894",
+  "title": "Poet",
+  "bio": "English poet of the Victorian era and one of the foremost female poets in the English language. A devout High Anglican, her poetry is suffused with themes of faith, devotion, and longing for heaven. She wrote 'In the Bleak Midwinter,' which has become one of the most beloved Christmas hymns.",
+  "faith": "Rossetti's faith shaped every aspect of her life — she twice broke off engagements because of religious differences. She wrote devotional commentaries on the Psalms and Revelation, and her poetry consistently returns to themes of sacrifice, redemption, and the hope of resurrection. She spent her later years in charitable work with fallen women.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Christina Rossetti — Wikipedia", "url": "https://en.wikipedia.org/wiki/Christina_Rossetti"}
+  ],
+  "slug": "christina-rossetti",
+  "tagline": "Victorian poet who wrote 'In the Bleak Midwinter'",
+  "image": "/images/bios/christina-rossetti.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

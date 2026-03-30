@@ -1,0 +1,15 @@
+{
+  "name": "Philip Melanchthon",
+  "years": "February 16, 1497 – April 19, 1560",
+  "title": "Reformer & Theologian",
+  "bio": "German Reformer, theologian, and educator who was Martin Luther's closest collaborator. He authored the Augsburg Confession (1530), the primary confession of the Lutheran church, and systematized Reformation theology in his 'Loci Communes' — the first Protestant systematic theology.",
+  "faith": "Known as the 'Teacher of Germany,' Melanchthon combined humanist learning with evangelical conviction. While Luther was the fiery preacher, Melanchthon was the careful theologian who gave the Reformation its intellectual structure. His Augsburg Confession remains the foundational Lutheran confession to this day.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Philip Melanchthon — Wikipedia", "url": "https://en.wikipedia.org/wiki/Philip_Melanchthon"}
+  ],
+  "slug": "philip-melanchthon",
+  "tagline": "Luther's right hand — authored the Augsburg Confession",
+  "image": "/images/bios/philip-melanchthon.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}
