@@ -4,7 +4,26 @@
   "title": "Olympic Gymnast",
   "bio": "American artistic gymnast with 37 Olympic and World Championship medals combined, the most decorated gymnast in history.",
   "faith": "Biles has shared her Christian faith on social media and in interviews. She has posted scripture on social media and has said her faith helps her through difficult times, including her courageous decision to prioritize mental health at the 2020 Olympics.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "God is Powerful - Simone Biles Religion Revealed",
+      "url": "https://www.youtube.com/watch?v=w8QUTgdwNLU",
+      "platform": "youtube",
+      "note": "Explores Biles faith in God and how it shapes her life. 759K views"
+    },
+    {
+      "title": "In Gods Hands: Simone Biles on the Great Advice that Changed Her Life",
+      "url": "https://www.youtube.com/watch?v=6DI50l8oah0",
+      "platform": "youtube",
+      "note": "CBN News interview about the role of faith in her life and career"
+    },
+    {
+      "title": "Simone Biles attributes Olympic success to her faith",
+      "url": "https://www.youtube.com/watch?v=EBKGHc_0jJU",
+      "platform": "youtube",
+      "note": "Fox News — Biles credits God for her Olympic success"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

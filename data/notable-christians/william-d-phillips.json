@@ -1,35 +1,54 @@
 {
-    "name": "William D. Phillips",
-    "years": "November 5, 1948 – present",
-    "title": "Physicist & Nobel Laureate",
-    "bio": "American physicist who was awarded the Nobel Prize in Physics in 1997 for development of methods to cool and trap atoms with laser light.",
-    "faith": "A practicing Methodist who has spoken about the compatibility of science and faith. He has said, 'I believe in God. In fact, I believe in a personal God who acts in and interacts with the creation.'",
-    "videos": [],
-    "sources": [
-        {
-            "type": "wikipedia",
-            "title": "William Daniel Phillips — Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
-            "note": "Biography of the Nobel laureate physicist"
-        },
-        {
-            "type": "article",
-            "title": "William D. Phillips: Nobel Laureate on Faith and Science",
-            "url": "https://www.templeton.org/news/william-d-phillips-on-being-a-physicist-and-a-christian",
-            "note": "Templeton Foundation profile on Phillips as a Methodist who sees no conflict between physics and faith"
-        },
-        {
-            "type": "speech",
-            "title": "Nobel Prize Lecture: Laser Cooling and Trapping of Neutral Atoms (1997)",
-            "url": "https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/",
-            "note": "Phillips' Nobel Prize lecture; he has spoken publicly about his Christian faith complementing his scientific work"
-        }
-    ],
-    "slug": "william-d-phillips",
-    "tagline": "Won the Nobel Prize in Physics and testifies to God's design",
-    "image": "/images/bios/william-d-phillips.jpg",
-    "imageAttribution": {
-        "source": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
-        "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  "name": "William D. Phillips",
+  "years": "November 5, 1948 – present",
+  "title": "Physicist & Nobel Laureate",
+  "bio": "American physicist who was awarded the Nobel Prize in Physics in 1997 for development of methods to cool and trap atoms with laser light.",
+  "faith": "A practicing Methodist who has spoken about the compatibility of science and faith. He has said, 'I believe in God. In fact, I believe in a personal God who acts in and interacts with the creation.'",
+  "videos": [
+    {
+      "title": "Conversation about science and religion with Nobel physicist William Phillips",
+      "url": "https://www.youtube.com/watch?v=BdJjYYJhbbs",
+      "platform": "youtube",
+      "note": "Phillips and Rev. Miller discuss how Christian faith and scientific work interact"
+    },
+    {
+      "title": "William D. Phillips | Science and Religion: Is There a Conflict?",
+      "url": "https://www.youtube.com/watch?v=Pos0wWLRAqo",
+      "platform": "youtube",
+      "note": "Nobel laureate presents on science and religion at Morgan State University (2022)"
+    },
+    {
+      "title": "Prof. William D. Phillips | Science and Spirituality",
+      "url": "https://www.youtube.com/watch?v=iPCH3XmuOKE",
+      "platform": "youtube",
+      "note": "Nobel laureate discusses intersection of science and spirituality as a Christian"
     }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "William Daniel Phillips — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
+      "note": "Biography of the Nobel laureate physicist"
+    },
+    {
+      "type": "article",
+      "title": "William D. Phillips: Nobel Laureate on Faith and Science",
+      "url": "https://www.templeton.org/news/william-d-phillips-on-being-a-physicist-and-a-christian",
+      "note": "Templeton Foundation profile on Phillips as a Methodist who sees no conflict between physics and faith"
+    },
+    {
+      "type": "speech",
+      "title": "Nobel Prize Lecture: Laser Cooling and Trapping of Neutral Atoms (1997)",
+      "url": "https://www.nobelprize.org/prizes/physics/1997/phillips/lecture/",
+      "note": "Phillips' Nobel Prize lecture; he has spoken publicly about his Christian faith complementing his scientific work"
+    }
+  ],
+  "slug": "william-d-phillips",
+  "tagline": "Won the Nobel Prize in Physics and testifies to God's design",
+  "image": "/images/bios/william-d-phillips.jpg",
+  "imageAttribution": {
+    "source": "https://en.wikipedia.org/wiki/William_Daniel_Phillips",
+    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
+  }
 }

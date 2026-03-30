@@ -4,7 +4,26 @@
   "title": "U.S. Secretary of Defense & Army Veteran",
   "bio": "American government official and former Fox News host serving as the 29th United States Secretary of Defense. Army National Guard officer (Major) who served in Iraq and Afghanistan, earning two Bronze Stars and a Combat Infantryman Badge.",
   "faith": "An outspoken evangelical Christian who has spoken extensively about the importance of faith in the military and American life. He has discussed his personal relationship with Christ in interviews and in his books.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Pete Hegseth Opens Up About How He Became a Changed Man Through His Wife and Jesus Christ",
+      "url": "https://www.youtube.com/watch?v=eIzSW_p9bgY",
+      "platform": "youtube",
+      "note": "Personal testimony of transformation through faith and marriage"
+    },
+    {
+      "title": "All Glory to Our Lord and Savior Jesus Christ: Hegseth Opens Hearing with Praise to God",
+      "url": "https://www.youtube.com/watch?v=evsbuT-doVY",
+      "platform": "youtube",
+      "note": "Hegseth publicly praises Jesus Christ at a hearing"
+    },
+    {
+      "title": "Defense Secretary Pete Hegseth Reads Scripture At Prayer Breakfast",
+      "url": "https://www.youtube.com/watch?v=xTsDyaXoCO0",
+      "platform": "youtube",
+      "note": "Hegseth reads Scripture at Pentagon prayer breakfast"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

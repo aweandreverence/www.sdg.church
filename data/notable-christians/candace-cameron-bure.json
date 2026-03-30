@@ -4,7 +4,32 @@
   "title": "Actress & Author",
   "bio": "American actress, author, and producer best known for her role as D.J. Tanner on 'Full House' and 'Fuller House.' Former co-host of 'The View.'",
   "faith": "An outspoken born-again Christian who has authored several books about faith. She has said, 'My faith affects every part of my life. I can't separate my faith from who I am.' She's been a prominent voice for Christian values in Hollywood.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Candace Cameron Bure Testimony: God Changed My Life | TBN",
+      "url": "https://www.youtube.com/watch?v=uxEDYxEOCqY",
+      "platform": "youtube",
+      "note": "Full testimony of how God changed her life. 551K views"
+    },
+    {
+      "title": "Candace Cameron Bure on Battling Backlash as a Christian in Hollywood",
+      "url": "https://www.youtube.com/watch?v=uG4XRsNye6Q",
+      "platform": "youtube",
+      "note": "Standing firm in faith despite Hollywood pressure"
+    },
+    {
+      "title": "I Wasnt Always a Believer - Candace Cameron Bures Testimony",
+      "url": "https://www.youtube.com/watch?v=l2MCPR00FHs",
+      "platform": "youtube",
+      "note": "Shares that she wasnt always a Christian and her journey to faith"
+    },
+    {
+      "title": "Candace Cameron Bure: I Didnt Know Why I Needed Him | Women of Faith on TBN",
+      "url": "https://www.youtube.com/watch?v=68QSzyrx0ig",
+      "platform": "youtube",
+      "note": "Conversion story on Women of Faith"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

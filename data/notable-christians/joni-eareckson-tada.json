@@ -4,7 +4,38 @@
   "title": "Author & Disability Advocate",
   "bio": "American author, speaker, and disability rights advocate. A diving accident at age 17 left her a quadriplegic. Rather than succumbing to despair, she founded Joni and Friends International Disability Center and became one of the most recognized Christian voices on suffering and God's sovereignty.",
   "faith": "Joni is solidly Reformed in her theology, a close friend of John MacArthur and R.C. Sproul. She has spoken and written extensively about how God uses suffering for His glory. Her life is a living testimony to the sufficiency of Christ in the midst of profound physical limitation. She has also battled cancer multiple times with public, unwavering faith.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Joni Eareckson Tada Shares Her Story",
+      "url": "https://www.youtube.com/watch?v=VVXJ8GyLgt0",
+      "platform": "youtube",
+      "note": "Full story of becoming quadriplegic and finding faith"
+    },
+    {
+      "title": "Jonis Incredible Testimony | Champions for the Disabled",
+      "url": "https://www.youtube.com/watch?v=iG_V2cuTSds",
+      "platform": "youtube",
+      "note": "Testimony on NickV Ministries about disability and faith"
+    },
+    {
+      "title": "A Deeper Healing (Joni Eareckson Tada)",
+      "url": "https://www.youtube.com/watch?v=NI22o5u32z0",
+      "platform": "youtube",
+      "note": "Message about deeper spiritual healing beyond physical healing"
+    },
+    {
+      "title": "Joni Eareckson Tada Shares Her Story | Kirk Cameron on TBN",
+      "url": "https://www.youtube.com/watch?v=_uxx-baPqtA",
+      "platform": "youtube",
+      "note": "Interview with Kirk Cameron sharing her testimony"
+    },
+    {
+      "title": "Joni Eareckson Tada: From Life-Altering Hardship to Gods Strength",
+      "url": "https://www.youtube.com/watch?v=0IwEYxE6g2I",
+      "platform": "youtube",
+      "note": "In-depth interview about hardship and Gods strength"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

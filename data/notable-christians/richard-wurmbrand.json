@@ -4,7 +4,38 @@
   "title": "Pastor & Founder of Voice of the Martyrs",
   "bio": "Romanian evangelical pastor of Jewish descent who endured 14 years of imprisonment and torture under the Communist regime for his faith in Christ. After his release and emigration to the West, he founded Voice of the Martyrs, a ministry dedicated to serving persecuted Christians worldwide. His book 'Tortured for Christ' has been translated into over 65 languages.",
   "faith": "Born into a Jewish family, Wurmbrand converted to Christianity in his twenties and became a Lutheran pastor in Bucharest. When the Communists seized Romania, he began an underground ministry to his persecuted countrymen and to Russian soldiers. Arrested in 1948, he spent three years in solitary confinement and eleven more years in prison, enduring beatings, brainwashing, and torture — never renouncing Christ. His testimony before the U.S. Senate in 1966, where he stripped to show his torture scars, shocked the world.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Tortured for Christ | Reverend Richard Wurmbrand",
+      "url": "https://www.youtube.com/watch?v=4ytiuVBqxHQ",
+      "platform": "youtube",
+      "note": "His account of being tortured for faith in Communist Romania"
+    },
+    {
+      "title": "The story of The Voice of the Martyrs founder Richard Wurmbrand",
+      "url": "https://www.youtube.com/watch?v=YQ4iYxOEnZs",
+      "platform": "youtube",
+      "note": "Story of the VOM founder and his persecuted faith"
+    },
+    {
+      "title": "14 Years with God in Communist Prison - Richard Wurmbrand",
+      "url": "https://www.youtube.com/watch?v=4GUC5HyxTDw",
+      "platform": "youtube",
+      "note": "Testimony of 14 years imprisoned for his Christian faith"
+    },
+    {
+      "title": "Richard Wurmbrand: How He Survived 14 Years of Torture And Forgave His Enemies",
+      "url": "https://www.youtube.com/watch?v=ydcZwXQAakU",
+      "platform": "youtube",
+      "note": "Story of survival and radical forgiveness"
+    },
+    {
+      "title": "Tortured For Christ - Richard Wurmbrand",
+      "url": "https://www.youtube.com/watch?v=v7LrqZJ0RWw",
+      "platform": "youtube",
+      "note": "Documentary/film adaptation of his famous book"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

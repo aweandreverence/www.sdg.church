@@ -4,7 +4,38 @@
   "title": "Missionary & Author",
   "bio": "American Christian author, speaker, and missionary. After her husband Jim Elliot was martyred by the Auca (Waorani) people in Ecuador in 1956, she returned to live among the same tribe that killed him, sharing the gospel with them. She wrote over 20 books and became one of the most influential Christian women of the 20th century.",
   "faith": "Elisabeth's faith was tested by extraordinary suffering — widowed twice, she modeled trust in God's sovereignty through loss. Her books 'Through Gates of Splendor' and 'Shadow of the Almighty' inspired generations. A complementarian and Reformed-leaning thinker, she was deeply respected across evangelical traditions.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Elisabeth Elliots Testimony",
+      "url": "https://www.youtube.com/watch?v=6qjcJGrmHhI",
+      "platform": "youtube",
+      "note": "Elisabeth Elliot shares her personal testimony"
+    },
+    {
+      "title": "The Elisabeth Elliot Story",
+      "url": "https://www.youtube.com/watch?v=_NXhKKTeKcE",
+      "platform": "youtube",
+      "note": "Documentary-style telling of her life story"
+    },
+    {
+      "title": "An Interview with Elisabeth Elliot",
+      "url": "https://www.youtube.com/watch?v=ufBVUlcncnk",
+      "platform": "youtube",
+      "note": "In-depth interview about her faith and life"
+    },
+    {
+      "title": "Jim and Elizabeth Elliots Story",
+      "url": "https://www.youtube.com/watch?v=LFn5sdqzhJ8",
+      "platform": "youtube",
+      "note": "The story of Jim and Elisabeth, including Jims martyrdom"
+    },
+    {
+      "title": "Suffering Is Not For Nothing with Elisabeth Elliot",
+      "url": "https://www.youtube.com/watch?v=CgfmKg642J0",
+      "platform": "youtube",
+      "note": "Elisabeth on suffering and faith"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

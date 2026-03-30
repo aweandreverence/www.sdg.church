@@ -1,35 +1,66 @@
 {
-    "name": "Dan Cathy",
-    "years": "March 1, 1953 – present",
-    "title": "Chairman of Chick-fil-A",
-    "bio": "American businessman who served as CEO (2013-2021) and now chairman of Chick-fil-A. Son of founder S. Truett Cathy.",
-    "faith": "Like his father, Dan Cathy is an outspoken Christian who has publicly affirmed the company's biblical values. He has spoken about operating the business according to biblical principles and continues the tradition of closing on Sundays.",
-    "videos": [],
-    "sources": [
-        {
-            "type": "wikipedia",
-            "title": "Dan Cathy — Wikipedia",
-            "url": "https://en.wikipedia.org/wiki/Dan_Cathy",
-            "note": "Biography of the Chick-fil-A chairman"
-        },
-        {
-            "type": "interview",
-            "title": "Dan Cathy on Faith, Family, and Chick-fil-A",
-            "url": "https://www.faithandleadership.com/dan-cathy-faith-family-and-chick-fil",
-            "note": "Interview about how Christian faith shapes Chick-fil-A's corporate culture, including the famous Sunday closing policy"
-        },
-        {
-            "type": "article",
-            "title": "How Truett Cathy's Faith Built Chick-fil-A",
-            "url": "https://www.christianitytoday.com/ct/2014/september-web-only/truett-cathy-chick-fil-a-faith.html",
-            "note": "Christianity Today article on the Cathy family's faith legacy and business principles rooted in Christian values"
-        }
-    ],
-    "slug": "dan-cathy",
-    "tagline": "Continued his father's legacy of faith-driven business at Chick-fil-A",
-    "image": "/images/bios/dan-cathy.jpg",
-    "imageAttribution": {
-        "source": "",
-        "license": ""
+  "name": "Dan Cathy",
+  "years": "March 1, 1953 – present",
+  "title": "Chairman of Chick-fil-A",
+  "bio": "American businessman who served as CEO (2013-2021) and now chairman of Chick-fil-A. Son of founder S. Truett Cathy.",
+  "faith": "Like his father, Dan Cathy is an outspoken Christian who has publicly affirmed the company's biblical values. He has spoken about operating the business according to biblical principles and continues the tradition of closing on Sundays.",
+  "videos": [
+    {
+      "title": "The Chick-fil-A Family Story - Dan Cathy",
+      "url": "https://www.youtube.com/watch?v=_0RcKFcHPek",
+      "platform": "youtube",
+      "note": "Dan Cathy shares the Chick-fil-A family story and faith roots"
+    },
+    {
+      "title": "Truett Cathys Legacy: The Difference Faith Makes",
+      "url": "https://www.youtube.com/watch?v=7z1zX3OTF-Y",
+      "platform": "youtube",
+      "note": "The legacy of faith in the Cathy family and Chick-fil-A"
+    },
+    {
+      "title": "Pandemic Purpose | Dan Cathy",
+      "url": "https://www.youtube.com/watch?v=kvu5S2EpvdM",
+      "platform": "youtube",
+      "note": "Finding purpose through faith during the pandemic"
+    },
+    {
+      "title": "Use Your Conviction To Motivate You - Dan Cathy",
+      "url": "https://www.youtube.com/watch?v=7aMmgYh-BwA",
+      "platform": "youtube",
+      "note": "Talk on conviction and faith-motivated leadership"
+    },
+    {
+      "title": "Chick-fil-A Chairman Dan Cathy Shares What His Father Mailed Him",
+      "url": "https://www.youtube.com/watch?v=Uh4K7iYOoPI",
+      "platform": "youtube",
+      "note": "Personal story about his father Truett Cathys influence"
     }
+  ],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Dan Cathy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dan_Cathy",
+      "note": "Biography of the Chick-fil-A chairman"
+    },
+    {
+      "type": "interview",
+      "title": "Dan Cathy on Faith, Family, and Chick-fil-A",
+      "url": "https://www.faithandleadership.com/dan-cathy-faith-family-and-chick-fil",
+      "note": "Interview about how Christian faith shapes Chick-fil-A's corporate culture, including the famous Sunday closing policy"
+    },
+    {
+      "type": "article",
+      "title": "How Truett Cathy's Faith Built Chick-fil-A",
+      "url": "https://www.christianitytoday.com/ct/2014/september-web-only/truett-cathy-chick-fil-a-faith.html",
+      "note": "Christianity Today article on the Cathy family's faith legacy and business principles rooted in Christian values"
+    }
+  ],
+  "slug": "dan-cathy",
+  "tagline": "Continued his father's legacy of faith-driven business at Chick-fil-A",
+  "image": "/images/bios/dan-cathy.jpg",
+  "imageAttribution": {
+    "source": "",
+    "license": ""
+  }
 }

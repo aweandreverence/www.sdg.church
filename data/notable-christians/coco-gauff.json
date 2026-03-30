@@ -4,7 +4,14 @@
   "title": "Professional Tennis Player",
   "bio": "American professional tennis player who won the 2023 US Open and 2025 French Open. Achieved a career-high ranking of world No. 2 in singles.",
   "faith": "Gauff has spoken about her Christian faith in press conferences and social media. After winning the US Open at age 19, she said she thanked God for the opportunity. She has quoted Scripture and referenced her faith in victory speeches.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Coco Gauff On-Court Interview | 2023 US Open Final",
+      "url": "https://www.youtube.com/watch?v=nCo3Y6DfrVU",
+      "platform": "youtube",
+      "note": "Emotional victory speech thanking God after first Grand Slam. Writes Thank God on camera after every match. 713K views"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

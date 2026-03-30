@@ -4,7 +4,38 @@
   "title": "Former CEO of Popeyes Louisiana Kitchen",
   "bio": "American businesswoman who served as CEO of Popeyes Louisiana Kitchen from 2007 to 2017, overseeing a dramatic turnaround that tripled the company's value.",
   "faith": "A devoted Christian who wrote 'Dare to Serve: How to Drive Superior Results by Serving Others,' a book about servant leadership grounded in her faith. She has spoken at faith-based leadership conferences about following Christ in the corporate world.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "The Power of Serving Others | Cheryl Bachelder",
+      "url": "https://www.youtube.com/watch?v=8bjwULVIqgs",
+      "platform": "youtube",
+      "note": "Talk on servant leadership principles rooted in faith"
+    },
+    {
+      "title": "Defining Your Leadership with Cheryl Bachelder",
+      "url": "https://www.youtube.com/watch?v=YCh1qC_iZ3Q",
+      "platform": "youtube",
+      "note": "Leadership talk discussing faith-driven leadership philosophy"
+    },
+    {
+      "title": "Cheryl Bachelder CEO Popeyes Louisiana Kitchen",
+      "url": "https://www.youtube.com/watch?v=r8BgEmVDyU8",
+      "platform": "youtube",
+      "note": "Interview as Popeyes CEO on leadership and values"
+    },
+    {
+      "title": "The 3 Essentials for Effective Leadership - Cheryl Bachelder",
+      "url": "https://www.youtube.com/watch?v=f-SSL0jz7fY",
+      "platform": "youtube",
+      "note": "Talk on essential leadership principles"
+    },
+    {
+      "title": "How to Drive Superior Results by Serving Others",
+      "url": "https://www.youtube.com/watch?v=hBZ--WU1VMc",
+      "platform": "youtube",
+      "note": "Podcast on servant leadership and driving results through service"
+    }
+  ],
   "sources": [
     {
       "type": "book",

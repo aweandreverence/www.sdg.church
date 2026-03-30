@@ -4,7 +4,32 @@
   "title": "Olympic Hurdler & Sprinter",
   "bio": "Olympic gold medalist and world record holder in the 400m hurdles. Named to the U.S. Olympic team at age 16, she has shattered records multiple times and is considered one of the greatest hurdlers ever.",
   "faith": "McLaughlin-Levrone is outspoken about her Christian faith and attends Grace Community Church in Los Angeles. After setting the world record in the 400m hurdles (50.37s), she said: \"Whenever I step on the track it's always the prayer of 'God, let me be the vessel in which you're glorified whatever the result is.'\" She authored Far Beyond Gold: Running from Fear to Faith about finding identity in Christ rather than athletic achievement. She regularly shares Scripture on social media, including Psalm 115:1 after her record-breaking Olympic victory.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Sydney McLaughlin-Levrone on Olympic Records, Winning Gold | Jinger and Jeremy Vuolo",
+      "url": "https://www.youtube.com/watch?v=bUIswzLzpuk",
+      "platform": "youtube",
+      "note": "In-depth interview about faith, marriage, and Olympic career. 69K views"
+    },
+    {
+      "title": "Sydney McLaughlin - Running From Fear to Faith",
+      "url": "https://www.youtube.com/watch?v=HbsNPiTRSKw",
+      "platform": "youtube",
+      "note": "Documentary-style video on her faith journey"
+    },
+    {
+      "title": "Courage and Faith to Do What No One Else Has Done Before | Sadie Robertson Huff and Sydney McLaughlin",
+      "url": "https://www.youtube.com/watch?v=cahTiivSld8",
+      "platform": "youtube",
+      "note": "Interview about faith, courage, and breaking world records"
+    },
+    {
+      "title": "Testimony Stephen Curry and Sydney McLaughlin Faith in Jesus Christ",
+      "url": "https://www.youtube.com/watch?v=fzdr7geblis",
+      "platform": "youtube",
+      "note": "Faith testimony compilation"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

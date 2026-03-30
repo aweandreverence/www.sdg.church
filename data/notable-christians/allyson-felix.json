@@ -4,7 +4,26 @@
   "title": "Olympic Track & Field Sprinter",
   "bio": "American former track and field sprinter, the most decorated American track and field athlete in Olympic history with 11 Olympic medals (7 gold).",
   "faith": "A devout Christian who has spoken openly about her faith. She has said, 'My faith is everything to me. It's the foundation of who I am.' She credits God for her athletic achievements and has been vocal about trusting God through challenges.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "By Gods Grace: Allyson Felix Uses a Foundation of Faith to Build Her Career",
+      "url": "https://www.youtube.com/watch?v=AKHf9ytiq3w",
+      "platform": "youtube",
+      "note": "CBN News interview about her faith foundation and running career"
+    },
+    {
+      "title": "Allyson Felix about her faith in Christ",
+      "url": "https://www.youtube.com/watch?v=UHrIBlVsrJI",
+      "platform": "youtube",
+      "note": "Compilation of Felix speaking about her Christian faith"
+    },
+    {
+      "title": "Inspire a Generation: Olympic athletes of faith",
+      "url": "https://www.youtube.com/watch?v=ye_fjQyHisw",
+      "platform": "youtube",
+      "note": "Features Felix among Olympic athletes of faith"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

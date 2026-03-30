@@ -6,10 +6,28 @@
   "faith": "A devout Lutheran who has been outspoken about his faith throughout his career. Knuth authored 3:16 Bible Texts Illuminated, a book analyzing the '3:16' verse from every book of the Bible with calligraphic art. He delivered a series of lectures at MIT titled 'Things a Computer Scientist Rarely Talks About,' exploring the relationship between faith and computer science. He has said, 'God is real, unless declared integer.'",
   "videos": [
     {
-      "title": "Donald Knuth — Things a Computer Scientist Rarely Talks About",
-      "url": "https://www.youtube.com/results?search_query=donald+knuth+things+computer+scientist+rarely+talks+about",
+      "title": "The Art of Computer Programming | Donald Knuth (Authors@Google)",
+      "url": "https://www.youtube.com/watch?v=JPpk-1btGZk",
       "platform": "youtube",
-      "note": "Lectures on the intersection of faith and computer science"
+      "note": "Knuth visits Google to discuss interactions between faith and science"
+    },
+    {
+      "title": "Things a Computer Scientist Rarely Talks About - Lecture 6",
+      "url": "https://www.youtube.com/watch?v=VoKye2hFcb0",
+      "platform": "youtube",
+      "note": "Audio from Knuth MIT lecture series on interactions between faith and computer science"
+    },
+    {
+      "title": "Computer Science, the Bible, and Music - 2018 Lectures",
+      "url": "https://www.youtube.com/watch?v=-JvdanSygfg",
+      "platform": "youtube",
+      "note": "Knuth on the kinship of computer programming, the Bible, and musical composition"
+    },
+    {
+      "title": "Donald Knuth - Giving a lecture series on science and religion",
+      "url": "https://www.youtube.com/watch?v=35ElGBFqjAc",
+      "platform": "youtube",
+      "note": "Knuth discusses his motivation for his faith and science lecture series"
     }
   ],
   "sources": [

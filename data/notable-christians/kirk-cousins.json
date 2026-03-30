@@ -4,7 +4,26 @@
   "title": "NFL Quarterback",
   "bio": "American professional football quarterback who has played for the Washington Commanders, Minnesota Vikings, and Atlanta Falcons.",
   "faith": "An outspoken Christian who has said, 'The gospel changes everything. It changes how I see football, how I see my marriage, how I see money.' He has spoken at churches and men's conferences about his faith.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Kirk Cousins Story - Football Sunday 2019",
+      "url": "https://www.youtube.com/watch?v=mbDEJBMkZLQ",
+      "platform": "youtube",
+      "note": "Full faith story feature. 144K views"
+    },
+    {
+      "title": "Kirk Cousins: Living as an Ambassador for Christ",
+      "url": "https://www.youtube.com/watch?v=wCReELwqz5Q",
+      "platform": "youtube",
+      "note": "Focus on the Family — living as an ambassador for Christ. 95K views"
+    },
+    {
+      "title": "Kirk Cousins Sits Down for an Honest Conversation About Faith, Family, and Football",
+      "url": "https://www.youtube.com/watch?v=TBQL0yZ24mI",
+      "platform": "youtube",
+      "note": "Full church interview about faith"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

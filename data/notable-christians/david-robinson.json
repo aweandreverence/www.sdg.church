@@ -4,7 +4,32 @@
   "title": "Former NBA Center",
   "bio": "American former professional basketball player who spent his entire career with the San Antonio Spurs. Two-time NBA champion, NBA MVP, and Naval Academy graduate known as 'The Admiral.'",
   "faith": "Robinson became a born-again Christian during his NBA career and has devoted his post-basketball life to ministry and philanthropy. He founded the Carver Academy, a private Christian school in San Antonio, and is active in various faith-based organizations.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Testimony - The Admiral David Robinson NBA Basketball",
+      "url": "https://www.youtube.com/watch?v=1Nynx6LbZvA",
+      "platform": "youtube",
+      "note": "Full Christian testimony of NBA legend. 84K views"
+    },
+    {
+      "title": "David Robinson - Faith",
+      "url": "https://www.youtube.com/watch?v=1oNZUg70iPU",
+      "platform": "youtube",
+      "note": "Robinson discusses his faith journey"
+    },
+    {
+      "title": "Lets Talk Interview Session with NBA Hall of Fame David Robinson",
+      "url": "https://www.youtube.com/watch?v=rjNaoXz0fl0",
+      "platform": "youtube",
+      "note": "Church interview about faith, family, and legacy"
+    },
+    {
+      "title": "The Best Deal - Guest Speaker David Robinson NBA Hall of Famer",
+      "url": "https://www.youtube.com/watch?v=ekr696DtkHM",
+      "platform": "youtube",
+      "note": "Robinson speaks at church about faith in Christ"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

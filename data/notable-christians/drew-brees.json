@@ -4,7 +4,32 @@
   "title": "Former NFL Quarterback",
   "bio": "American former professional football quarterback who spent the majority of his career with the New Orleans Saints. Super Bowl XLIV champion and one of the most prolific passers in NFL history.",
   "faith": "A committed Christian who has been vocal about his faith. He has appeared in Christian media, participated in 'Focus on the Family' events, and credited God with his recovery from a career-threatening shoulder injury.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Saints QB Drew Brees shares his journey to faith in Christ",
+      "url": "https://www.youtube.com/watch?v=EjUOaiAYItE",
+      "platform": "youtube",
+      "note": "Full testimony of Drew Brees faith journey. 331K views"
+    },
+    {
+      "title": "Saints QB Drew Brees talks about Jesus",
+      "url": "https://www.youtube.com/watch?v=dJR5ig26RTA",
+      "platform": "youtube",
+      "note": "Brees speaks openly about his relationship with Jesus"
+    },
+    {
+      "title": "Rock Church - Drew Brees Interview",
+      "url": "https://www.youtube.com/watch?v=0yXv49Wysl4",
+      "platform": "youtube",
+      "note": "Church interview about faith and football"
+    },
+    {
+      "title": "Mental Health Awareness and Faith with Drew Brees | Pray.com",
+      "url": "https://www.youtube.com/watch?v=R6R01jLK0T8",
+      "platform": "youtube",
+      "note": "Brees discusses faith and mental health"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",
