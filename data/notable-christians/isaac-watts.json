@@ -1,0 +1,15 @@
+{
+  "name": "Isaac Watts",
+  "years": "July 17, 1674 – November 25, 1748",
+  "title": "Hymn Writer & Theologian",
+  "bio": "English Congregationalist minister known as the 'Father of English Hymnody.' He transformed congregational singing by writing hymns that expressed personal devotion rather than simply paraphrasing psalms. He wrote over 750 hymns including 'When I Survey the Wondrous Cross,' 'Joy to the World,' and 'O God, Our Help in Ages Past.'",
+  "faith": "Watts was a committed Nonconformist who suffered for his dissenting beliefs, being barred from attending Oxford or Cambridge. His hymns are saturated with Reformed theology — 'When I Survey the Wondrous Cross' is considered one of the greatest hymns ever written. He also wrote catechisms for children and theological works on logic that were used at universities for over a century.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Isaac Watts — Wikipedia", "url": "https://en.wikipedia.org/wiki/Isaac_Watts"}
+  ],
+  "slug": "isaac-watts",
+  "tagline": "Father of English Hymnody — 'When I Survey the Wondrous Cross'",
+  "image": "/images/bios/isaac-watts.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

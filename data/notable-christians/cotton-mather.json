@@ -1,0 +1,15 @@
+{
+  "name": "Cotton Mather",
+  "years": "February 12, 1663 – February 13, 1728",
+  "title": "Puritan Minister & Writer",
+  "bio": "American Puritan minister and one of the most prolific writers in colonial America, authoring over 450 books and pamphlets. Grandson of John Cotton and son of Increase Mather, he served at Boston's North Church for nearly 40 years. His 'Magnalia Christi Americana' is a monumental history of Christianity in New England.",
+  "faith": "Mather was deeply devout, spending entire days in prayer and fasting. He championed smallpox inoculation on theological grounds (God gives us means to preserve life), pioneered charitable work, and wrote extensively on practical godliness. Despite controversy around the Salem witch trials, his overall legacy is of a man passionately devoted to Christ and learning.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Cotton Mather — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cotton_Mather"}
+  ],
+  "slug": "cotton-mather",
+  "tagline": "Prolific Puritan writer — over 450 works for God's glory",
+  "image": "/images/bios/cotton-mather.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

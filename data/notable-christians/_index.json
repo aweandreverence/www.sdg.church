@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29",
+  "lastUpdated": "2026-03-30",
   "categories": [
     {
       "id": "martyrs-witnesses",
@@ -21,6 +21,9 @@
             },
             {
               "$ref": "ignatius-of-antioch.json"
+            },
+            {
+              "$ref": "cyprian-of-carthage.json"
             }
           ]
         },
@@ -70,6 +73,15 @@
             },
             {
               "$ref": "charles-wesley.json"
+            },
+            {
+              "$ref": "isaac-watts.json"
+            },
+            {
+              "$ref": "augustus-toplady.json"
+            },
+            {
+              "$ref": "william-cowper.json"
             }
           ]
         },
@@ -106,6 +118,12 @@
             },
             {
               "$ref": "harriet-beecher-stowe.json"
+            },
+            {
+              "$ref": "christina-rossetti.json"
+            },
+            {
+              "$ref": "phillis-wheatley.json"
             }
           ]
         },
@@ -142,6 +160,9 @@
             },
             {
               "$ref": "francis-collins.json"
+            },
+            {
+              "$ref": "james-joule.json"
             }
           ]
         },
@@ -238,6 +259,27 @@
             },
             {
               "$ref": "al-mohler.json"
+            },
+            {
+              "$ref": "philip-melanchthon.json"
+            },
+            {
+              "$ref": "william-farel.json"
+            },
+            {
+              "$ref": "jc-ryle.json"
+            },
+            {
+              "$ref": "louis-berkhof.json"
+            },
+            {
+              "$ref": "martin-bucer.json"
+            },
+            {
+              "$ref": "samuel-rutherford.json"
+            },
+            {
+              "$ref": "peter-martyr-vermigli.json"
             }
           ]
         },
@@ -346,6 +388,27 @@
             },
             {
               "$ref": "richard-wurmbrand.json"
+            },
+            {
+              "$ref": "david-brainerd.json"
+            },
+            {
+              "$ref": "oswald-chambers.json"
+            },
+            {
+              "$ref": "william-borden.json"
+            },
+            {
+              "$ref": "james-montgomery-boice.json"
+            },
+            {
+              "$ref": "samuel-davies.json"
+            },
+            {
+              "$ref": "asahel-nettleton.json"
+            },
+            {
+              "$ref": "charles-simeon.json"
             }
           ]
         },
@@ -367,6 +430,18 @@
             },
             {
               "$ref": "matthew-henry.json"
+            },
+            {
+              "$ref": "william-perkins.json"
+            },
+            {
+              "$ref": "john-cotton.json"
+            },
+            {
+              "$ref": "cotton-mather.json"
+            },
+            {
+              "$ref": "william-gouge.json"
             }
           ]
         },
@@ -385,6 +460,24 @@
             },
             {
               "$ref": "soong-mei-ling.json"
+            }
+          ]
+        },
+        {
+          "id": "church-fathers",
+          "name": "Church Fathers",
+          "people": [
+            {
+              "$ref": "jerome.json"
+            },
+            {
+              "$ref": "ambrose-of-milan.json"
+            },
+            {
+              "$ref": "john-of-damascus.json"
+            },
+            {
+              "$ref": "maximus-the-confessor.json"
             }
           ]
         },
@@ -409,6 +502,12 @@
             },
             {
               "$ref": "sojourner-truth.json"
+            },
+            {
+              "$ref": "francis-grimke.json"
+            },
+            {
+              "$ref": "daniel-payne.json"
             }
           ]
         },
@@ -421,6 +520,21 @@
             },
             {
               "$ref": "cyrus-mccormick.json"
+            },
+            {
+              "$ref": "noah-webster.json"
+            }
+          ]
+        },
+        {
+          "id": "scholars-historians",
+          "name": "Scholars & Historians",
+          "people": [
+            {
+              "$ref": "ff-bruce.json"
+            },
+            {
+              "$ref": "philip-schaff.json"
             }
           ]
         }

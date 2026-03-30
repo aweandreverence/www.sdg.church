@@ -1,0 +1,15 @@
+{
+  "name": "Jerome",
+  "years": "c. 342 – September 30, 420",
+  "title": "Biblical Scholar & Translator",
+  "bio": "Early church father and biblical scholar who translated the Bible into Latin (the Vulgate), which became the standard Bible of Western Christianity for over a thousand years. A prolific writer, he produced commentaries, letters, and theological works from his monastery in Bethlehem.",
+  "faith": "Jerome was consumed by a passion for Scripture — he learned Hebrew specifically to translate the Old Testament from the original language rather than relying on the Greek Septuagint. His Vulgate shaped Western Christianity for a millennium. Despite a famously sharp temper and bitter controversies with other church fathers, his devotion to God's Word was unquestionable.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Jerome — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jerome"}
+  ],
+  "slug": "jerome",
+  "tagline": "Translated the Bible into Latin — the Vulgate shaped Western Christianity",
+  "image": "/images/bios/jerome.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

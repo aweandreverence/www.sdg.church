@@ -1,0 +1,15 @@
+{
+  "name": "William Cowper",
+  "years": "November 26, 1731 – April 25, 1800",
+  "title": "Poet & Hymn Writer",
+  "bio": "English poet and hymn writer who collaborated with John Newton on the Olney Hymns collection. Despite battling severe depression throughout his life, he wrote some of the most enduring hymns in the English language, including 'God Moves in a Mysterious Way' and 'There Is a Fountain Filled with Blood.'",
+  "faith": "Cowper's faith was forged through profound suffering — he struggled with depression and doubt yet clung to Christ. His hymns are remarkable for their honesty about spiritual darkness while affirming God's sovereignty. His collaboration with John Newton at Olney produced one of the most influential hymn collections in history.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "William Cowper — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_Cowper"}
+  ],
+  "slug": "william-cowper",
+  "tagline": "Wrote 'God Moves in a Mysterious Way' through the darkness of depression",
+  "image": "/images/bios/william-cowper.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Maximus the Confessor",
+  "years": "c. 580 – August 13, 662",
+  "title": "Theologian & Confessor",
+  "bio": "Byzantine monk and theologian who suffered mutilation — his tongue was cut out and his right hand cut off — for defending orthodox Christology against the Monothelite heresy (which claimed Christ had only one will). He is venerated as a saint in both Eastern and Western churches.",
+  "faith": "Maximus insisted that Christ had both a divine and human will — because if He lacked a human will, He could not fully redeem human nature. For this conviction he was tortured and exiled. He died shortly after his mutilation. The Third Council of Constantinople (681) vindicated his position and condemned Monothelitism as heresy.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Maximus the Confessor — Wikipedia", "url": "https://en.wikipedia.org/wiki/Maximus_the_Confessor"}
+  ],
+  "slug": "maximus-the-confessor",
+  "tagline": "Tongue cut out for defending that Christ has a human will",
+  "image": "/images/bios/maximus-the-confessor.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

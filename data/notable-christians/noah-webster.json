@@ -1,0 +1,15 @@
+{
+  "name": "Noah Webster",
+  "years": "October 16, 1758 – May 28, 1843",
+  "title": "Lexicographer & Educator",
+  "bio": "American lexicographer known as the 'Father of American Scholarship and Education.' His 'American Dictionary of the English Language' (1828) defined American English and remains the foundation of Merriam-Webster dictionaries today. He also produced an influential American spelling book that taught five generations of American children.",
+  "faith": "Webster experienced a born-again conversion in 1808 at age 50, which transformed his life and work. His dictionary included Scripture references in definitions, and he produced his own translation of the Bible (1833). He wrote: 'Education is useless without the Bible.' His later life was devoted to promoting Christian education.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Noah Webster — Wikipedia", "url": "https://en.wikipedia.org/wiki/Noah_Webster"}
+  ],
+  "slug": "noah-webster",
+  "tagline": "Father of the American dictionary — converted at 50, devoted his work to God",
+  "image": "/images/bios/noah-webster.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Ambrose of Milan",
+  "years": "c. 339 – April 4, 397",
+  "title": "Bishop & Church Father",
+  "bio": "Bishop of Milan and one of the four original Doctors of the Church. A Roman governor who was elected bishop by popular acclaim before he was even baptized, he became one of the most influential church leaders of the 4th century. He baptized Augustine of Hippo and famously stood up to Emperor Theodosius, demanding public repentance for a massacre.",
+  "faith": "Ambrose demonstrated that the church must hold even emperors accountable to God's moral law. His preaching was instrumental in Augustine's conversion — Augustine came to Milan to hear Ambrose's oratory and left a Christian. Ambrose also championed congregational hymn singing, writing hymns that are still sung today.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "Ambrose — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ambrose"}
+  ],
+  "slug": "ambrose-of-milan",
+  "tagline": "Baptized Augustine and stood up to emperors",
+  "image": "/images/bios/ambrose-of-milan.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

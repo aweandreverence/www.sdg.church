@@ -1,0 +1,15 @@
+{
+  "name": "William Perkins",
+  "years": "1558 – October 22, 1602",
+  "title": "Theologian & Pastor",
+  "bio": "English clergyman and theologian at Cambridge University, widely considered the 'Father of Puritanism.' His practical theology and preaching method shaped the entire Puritan movement. His works were more widely read than those of Calvin in Elizabethan England.",
+  "faith": "Perkins transformed from a dissolute youth to one of the most influential theologians in English history. His 'The Art of Prophesying' became the standard manual for Puritan preaching, and his 'Golden Chain' made Reformed soteriology accessible to ordinary believers. He mentored William Ames and indirectly shaped the theology of New England.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "William Perkins — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_Perkins_(theologian)"}
+  ],
+  "slug": "william-perkins",
+  "tagline": "Father of Puritanism — shaped a movement from Cambridge",
+  "image": "/images/bios/william-perkins.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}

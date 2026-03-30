@@ -1,0 +1,15 @@
+{
+  "name": "David Brainerd",
+  "years": "April 20, 1718 – October 9, 1747",
+  "title": "Missionary",
+  "bio": "American missionary to the Native Americans who died of tuberculosis at age 29. Despite a short life filled with illness, loneliness, and hardship, his diary — edited and published by Jonathan Edwards — became one of the most influential missionary biographies ever written, inspiring William Carey, Henry Martyn, Jim Elliot, and countless others.",
+  "faith": "Brainerd's diary reveals a man who wrestled deeply with God in prayer, often spending entire days fasting and interceding for the Native Americans he served. His willingness to suffer for Christ in the wilderness became a model of missionary devotion. He died in Jonathan Edwards' home, cared for by Edwards' daughter Jerusha.",
+  "videos": [],
+  "sources": [
+    {"type": "wikipedia", "title": "David Brainerd — Wikipedia", "url": "https://en.wikipedia.org/wiki/David_Brainerd"}
+  ],
+  "slug": "david-brainerd",
+  "tagline": "His missionary diary inspired generations — dead at 29",
+  "image": "/images/bios/david-brainerd.jpg",
+  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+}
