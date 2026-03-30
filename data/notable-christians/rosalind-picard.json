@@ -4,7 +4,32 @@
   "title": "Computer Scientist & Engineer",
   "bio": "American scholar and inventor who is founder and director of the Affective Computing Research Group at MIT Media Lab. Pioneer in affective computing and wearable technology.",
   "faith": "Picard became a Christian as an adult after being challenged to read the Bible. She has spoken about how her scientific career and faith journey intertwine, and has given talks about being a Christian in the scientific academy.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "My Journey from Atheism to Christianity | Dr. Rosalind Picard (MIT)",
+      "url": "https://www.youtube.com/watch?v=zwoTASkifwE",
+      "platform": "youtube",
+      "note": "Full testimony — her journey from atheism to faith at MIT"
+    },
+    {
+      "title": "Atheist MIT Professor Converts to Christianity After Discovering THIS",
+      "url": "https://www.youtube.com/watch?v=zXsdGVawa0o",
+      "platform": "youtube",
+      "note": "Popular retelling of her conversion story"
+    },
+    {
+      "title": "Top Scientist Rosalind Picard — From Atheist to Christian (3 min story)",
+      "url": "https://www.youtube.com/watch?v=c-z-sHBbK88",
+      "platform": "youtube",
+      "note": "Short-form testimony, great for sharing"
+    },
+    {
+      "title": "Interest In Immortality | Dr. Rosalind Picard, MIT",
+      "url": "https://www.youtube.com/watch?v=rWEZWclfnZE",
+      "platform": "youtube",
+      "note": "Picard discusses faith, science, and the question of immortality"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

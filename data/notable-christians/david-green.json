@@ -4,7 +4,38 @@
   "title": "Founder & CEO of Hobby Lobby",
   "bio": "American billionaire businessman, founder of Hobby Lobby, the largest privately-owned arts and crafts retailer in the world with over 1,000 stores.",
   "faith": "Green's Christian faith is the foundation of Hobby Lobby's business practices. The company closes on Sundays, plays Christian music in stores, and pays above minimum wage. Green also founded the Museum of the Bible in Washington, D.C., and has committed to giving away 90% of his wealth.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "How Hobby Lobby Started And the Moment God Took Over | David Green Testimony",
+      "url": "https://www.youtube.com/watch?v=OYwBrEdeCYE",
+      "platform": "youtube",
+      "note": "David Greens personal testimony of how God took over Hobby Lobby"
+    },
+    {
+      "title": "David Green: Faith Influences Hobby Lobby | Kirk Cameron on TBN",
+      "url": "https://www.youtube.com/watch?v=XMfHo1-H0No",
+      "platform": "youtube",
+      "note": "Interview about how faith shapes Hobby Lobby"
+    },
+    {
+      "title": "Hobby Lobby Founder David Green REVEALS His 12 Biblical Principles For SUCCESS",
+      "url": "https://www.youtube.com/watch?v=aL3vuTQyKP4",
+      "platform": "youtube",
+      "note": "12 biblical principles for business success"
+    },
+    {
+      "title": "Hobby Lobbys Founder on Faith, Family, and Eternal Purpose | Eric Metaxas Show",
+      "url": "https://www.youtube.com/watch?v=MDTL9HZxNKk",
+      "platform": "youtube",
+      "note": "In-depth interview on faith, family, and purpose"
+    },
+    {
+      "title": "How faith influences the Green family businesses",
+      "url": "https://www.youtube.com/watch?v=CuU3xUtMoyw",
+      "platform": "youtube",
+      "note": "Overview of how faith drives the Green family business empire"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

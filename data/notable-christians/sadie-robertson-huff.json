@@ -4,7 +4,38 @@
   "title": "Author, Speaker & Media Personality",
   "bio": "American author, speaker, and media personality best known for the reality TV show 'Duck Dynasty.' Founder of Live Original, a faith-based organization for young people.",
   "faith": "Robertson is one of the most prominent young Christian voices in America. She hosts the 'Whoa That's Good' podcast, speaks at conferences, and has authored multiple bestselling books about faith. She openly shares about following Jesus in every area of life.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Sadie Robertson Huffs Testimony",
+      "url": "https://www.youtube.com/watch?v=QtfMByf4fBQ",
+      "platform": "youtube",
+      "note": "Full personal testimony. 1.3M views"
+    },
+    {
+      "title": "How Do You Know God Is Real? | Sadie Robertson Huff | Passion 2024",
+      "url": "https://www.youtube.com/watch?v=mexwJQhyack",
+      "platform": "youtube",
+      "note": "Preaching at Passion Conference 2024 on knowing God is real. 564K views"
+    },
+    {
+      "title": "ABUNDANT LIFE | Sadie Robertson Huff at Southeastern University",
+      "url": "https://www.youtube.com/watch?v=N_GytxlfefQ",
+      "platform": "youtube",
+      "note": "Preaching on abundant life in Christ at university"
+    },
+    {
+      "title": "We Must Let Go of the Old to Fully Step Into the New! | Life Surge 2024",
+      "url": "https://www.youtube.com/watch?v=YnPo6I8Ka2E",
+      "platform": "youtube",
+      "note": "Speaking about faith and new seasons"
+    },
+    {
+      "title": "My Mirror Testimony | Sadie Robertson Huff",
+      "url": "https://www.youtube.com/watch?v=57BfTe_HUgs",
+      "platform": "youtube",
+      "note": "Personal mirror testimony about identity in Christ"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

@@ -4,7 +4,38 @@
   "title": "Actor & Evangelist",
   "bio": "American actor best known for his role as Mike Seaver on 'Growing Pains.' After his conversion to Christianity at age 17, he became a prominent evangelist, co-founding The Way of the Master ministry with Ray Comfort and starring in the 'Fireproof' and 'Left Behind' films.",
   "faith": "Kirk Cameron's conversion at 17 transformed his life and career. He has said, 'I was doing all the things that Hollywood says you should do to be happy... and I wasn't.' He became a bold evangelist, co-founding The Way of the Master with Ray Comfort and producing faith-based films like 'Fireproof,' which grossed $33 million on a $500,000 budget. He has been an outspoken advocate for biblical marriage, homeschooling, and the authority of Scripture.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Kirk Cameron: Hollywood Icon and a Child of God | TBN",
+      "url": "https://www.youtube.com/watch?v=k24uM-oJ3AA",
+      "platform": "youtube",
+      "note": "Full story from Hollywood fame to Christian ministry. 484K views"
+    },
+    {
+      "title": "Kirk Cameron and Candace Cameron Bure: Personal Testimony and Faith Journey | TBN",
+      "url": "https://www.youtube.com/watch?v=svsb1f54Hr4",
+      "platform": "youtube",
+      "note": "Kirk and Candace share their personal faith journeys together"
+    },
+    {
+      "title": "Kirk Cameron Shares His Testimony | TBN",
+      "url": "https://www.youtube.com/watch?v=Wj-los0mc2A",
+      "platform": "youtube",
+      "note": "Kirks direct testimony of his conversion to Christianity"
+    },
+    {
+      "title": "Kirk Cameron: My Conversion (A Moment of Insight)",
+      "url": "https://www.youtube.com/watch?v=O6O1zHQKNVw",
+      "platform": "youtube",
+      "note": "Focused account of Kirks conversion moment"
+    },
+    {
+      "title": "Kirk Cameron shares the Gospel with a Reincarnationist",
+      "url": "https://www.youtube.com/watch?v=WAjzYgp5AO8",
+      "platform": "youtube",
+      "note": "Kirk sharing the Gospel in an evangelistic conversation. 274K views"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

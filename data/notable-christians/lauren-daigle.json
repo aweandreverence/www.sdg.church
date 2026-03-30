@@ -4,7 +4,14 @@
   "title": "Christian & Pop Singer",
   "bio": "American contemporary Christian music and pop singer-songwriter. Known for hit songs 'You Say' and 'How Can It Be.' Multiple Grammy Award winner.",
   "faith": "Daigle grew up in a Christian family in Lafayette, Louisiana, and her music reflects her deep faith. She has spoken about writing music as an act of worship and using her platform to point people to Jesus.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Lauren Daigle: Trusting God in the Midst of Grief",
+      "url": "https://www.youtube.com/watch?v=3t2Tf1Dqf7w",
+      "platform": "youtube",
+      "note": "Trusting God through grief and difficult seasons. 3.1M views"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

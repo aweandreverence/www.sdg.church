@@ -4,7 +4,38 @@
   "title": "CEO, Barnhart Crane & Rigging",
   "bio": "CEO of Barnhart Crane & Rigging, one of the largest heavy lift and transport companies in North America with over 70 locations. Alan and his brother Eric grew up working in the steel-erecting business their father founded in Memphis, Tennessee in 1969. Alan studied civil engineering and joined the business full-time in the early 1980s.",
   "faith": "Alan and his brother Eric made the extraordinary decision to give 100% of their highly successful company to the National Christian Foundation in 2007 to keep wealth from taking over their lives. Though they still run daily operations, the brothers will never reap the company's accrued value — they kept none of it. About 50% of all company earnings are donated immediately to charity, with the remaining 50% reinvested to grow the business. Alan has said the decision was driven by a conviction that everything belongs to God. He and his wife Katherine have six children and reside in Tennessee.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Alan and Katherine Barnhart Story",
+      "url": "https://www.youtube.com/watch?v=bdsVlALG9no",
+      "platform": "youtube",
+      "note": "How they gave away their company to honor God"
+    },
+    {
+      "title": "Stewardship vs. Ownership | Alan and Katherine Barnhart",
+      "url": "https://www.youtube.com/watch?v=kKxDMfoBizQ",
+      "platform": "youtube",
+      "note": "Talk on stewardship vs ownership and building a culture of generosity"
+    },
+    {
+      "title": "How and Why I Gave My Business To God with Alan Barnhart",
+      "url": "https://www.youtube.com/watch?v=MXtlfTpERzI",
+      "platform": "youtube",
+      "note": "Podcast interview about giving his business to God"
+    },
+    {
+      "title": "Leading with Radical Generosity ft. Alan Barnhart",
+      "url": "https://www.youtube.com/watch?v=gIVjgbGNFJk",
+      "platform": "youtube",
+      "note": "Interview on radical generosity as CEO of Barnhart Crane"
+    },
+    {
+      "title": "2013 C12 Leaders Conference Keynote - Alan Barnhart",
+      "url": "https://www.youtube.com/watch?v=iWcyW6BAa4c",
+      "platform": "youtube",
+      "note": "Keynote at C12 Christian business leaders conference"
+    }
+  ],
   "sources": [
     {
       "type": "web",

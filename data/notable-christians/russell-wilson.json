@@ -4,7 +4,32 @@
   "title": "NFL Quarterback",
   "bio": "American professional football quarterback. Super Bowl XLVIII champion with the Seattle Seahawks. Multiple Pro Bowl selection.",
   "faith": "A vocal Christian who credits God for his success and has spoken about practicing abstinence before marriage with his wife Ciara as an act of faith. He has said, 'My relationship with Jesus Christ is the most important thing in my life.'",
-  "videos": [],
+  "videos": [
+    {
+      "title": "RUSSELL WILSON: The Climb To Winning | I AM ATHLETE",
+      "url": "https://www.youtube.com/watch?v=KxvcglIWjVY",
+      "platform": "youtube",
+      "note": "Full interview on faith, perseverance, and career. 327K views"
+    },
+    {
+      "title": "Faith beyond the game",
+      "url": "https://www.youtube.com/watch?v=8wQH-u9ShXk",
+      "platform": "youtube",
+      "note": "Wilsons faith journey beyond football"
+    },
+    {
+      "title": "Russell Wilson: God Got Me Here... Not Shying Away From It",
+      "url": "https://www.youtube.com/watch?v=XcBbguk05D0",
+      "platform": "youtube",
+      "note": "Wilson speaks about Gods role in his career and life"
+    },
+    {
+      "title": "Rock Church - Russell Wilson Q&A w/ Pastor Miles",
+      "url": "https://www.youtube.com/watch?v=-rrsg3Js_tQ",
+      "platform": "youtube",
+      "note": "Full Q&A at Rock Church about faith, relationships, and football"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

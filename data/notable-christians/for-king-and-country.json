@@ -4,7 +4,32 @@
   "title": "Christian Pop Duo",
   "bio": "Australian Christian pop duo consisting of brothers Joel and Luke Smallbone. Multiple Grammy Award winners known for 'God Only Knows,' 'joy.,' and 'Burn the Ships.'",
   "faith": "The Smallbone brothers grew up in a Christian family that moved from Australia to America with nothing. They have shared their family's testimony of God's provision and faithfulness extensively in interviews and their music.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Skip Connects You with For King and Country | Connect with Skip Heitzig",
+      "url": "https://www.youtube.com/watch?v=WnDDqEOREUg",
+      "platform": "youtube",
+      "note": "Joel and Luke Smallbone discuss their faith journey"
+    },
+    {
+      "title": "Joel and Luke Smallbone Talk Unsung Hero and Family | for KING + COUNTRY Interview",
+      "url": "https://www.youtube.com/watch?v=_CPpYttyZcs",
+      "platform": "youtube",
+      "note": "Familys faith story behind the Unsung Hero film"
+    },
+    {
+      "title": "Luke Smallbone on Celebrating Forgiveness",
+      "url": "https://www.youtube.com/watch?v=6kPC0XFV_bc",
+      "platform": "youtube",
+      "note": "Luke Smallbone shares about forgiveness and faith"
+    },
+    {
+      "title": "for KING and COUNTRY on surrendering to God",
+      "url": "https://www.youtube.com/watch?v=fQypayjWu-s",
+      "platform": "youtube",
+      "note": "Discussing surrendering to Gods plan"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

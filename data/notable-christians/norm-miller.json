@@ -4,7 +4,38 @@
   "title": "Chairman of Interstate Batteries",
   "bio": "American businessman who has served as chairman of Interstate Batteries, the top-selling replacement battery brand in North America.",
   "faith": "Miller is an outspoken Christian who credits his faith with saving him from alcoholism. Interstate Batteries' corporate mission includes honoring God, and the company has prominently featured Christian messaging, including placing 'I Am Second' on NASCAR cars.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "Norm Miller - Chairman, Interstate Batteries",
+      "url": "https://www.youtube.com/watch?v=ktsCQ1_S9yU",
+      "platform": "youtube",
+      "note": "Norm Millers story as Chairman of Interstate Batteries"
+    },
+    {
+      "title": "Norm Miller Interstate Batteries",
+      "url": "https://www.youtube.com/watch?v=llUZ7TU2meg",
+      "platform": "youtube",
+      "note": "Norm Miller discusses Interstate Batteries and faith"
+    },
+    {
+      "title": "Norm Miller | Average Joe",
+      "url": "https://www.youtube.com/watch?v=3M95t9c7-OU",
+      "platform": "youtube",
+      "note": "Testimony as an average guy transformed by God"
+    },
+    {
+      "title": "Nascar, NFL and Jesus / Joe Gibbs and Norm Miller",
+      "url": "https://www.youtube.com/watch?v=L12T-eU6UgQ",
+      "platform": "youtube",
+      "note": "Norm Miller and Joe Gibbs discuss faith in sports and business"
+    },
+    {
+      "title": "Norm Miller featured on Think About It podcast from HBU",
+      "url": "https://www.youtube.com/watch?v=HWr81My7wDo",
+      "platform": "youtube",
+      "note": "Podcast interview at Houston Baptist University about faith and business"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",

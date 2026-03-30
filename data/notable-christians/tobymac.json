@@ -4,7 +4,38 @@
   "title": "Christian Rapper & Singer",
   "bio": "American Christian hip hop and pop artist, former member of DC Talk. Multiple Grammy Award winner with hits like 'I just need U' and 'Speak Life.'",
   "faith": "TobyMac has been in Christian music for over 30 years. After the tragic death of his son Truett in 2019, he has spoken powerfully about grieving with hope in Christ. His music consistently points listeners to Jesus.",
-  "videos": [],
+  "videos": [
+    {
+      "title": "TobyMac talks about the loss of his son to an overdose | GMA",
+      "url": "https://www.youtube.com/watch?v=lFwrsv0bdrI",
+      "platform": "youtube",
+      "note": "Emotional GMA interview about losing son Truett and holding onto faith. 1.6M views"
+    },
+    {
+      "title": "Vulnerable conversation with TobyMac about grief and loss",
+      "url": "https://www.youtube.com/watch?v=R5G78KgYg6I",
+      "platform": "youtube",
+      "note": "Deep conversation about grief, loss, and faith after Truetts death"
+    },
+    {
+      "title": "Trusting God that Hope is on the Way - TobyMac",
+      "url": "https://www.youtube.com/watch?v=Fp4CgP6S14U",
+      "platform": "youtube",
+      "note": "Trusting God through tragedy and holding onto hope"
+    },
+    {
+      "title": "The Conversation Wally Never Wanted to Have With TobyMac",
+      "url": "https://www.youtube.com/watch?v=XN75D4X0uo0",
+      "platform": "youtube",
+      "note": "Emotional conversation about faith, loss, and perseverance"
+    },
+    {
+      "title": "TobyMac On Becoming a Christian At Youth Camp",
+      "url": "https://www.youtube.com/watch?v=HvgGhzPUa80",
+      "platform": "youtube",
+      "note": "Shares his conversion story at youth camp"
+    }
+  ],
   "sources": [
     {
       "type": "wikipedia",
