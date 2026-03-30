@@ -6,10 +6,17 @@
   "faith": "Nettleton represented the Calvinist wing of the Second Great Awakening — he preached for genuine conversion rather than emotional decisions. His hymn collection 'Village Hymns' was widely used. He stood firmly against theological liberalism while maintaining evangelistic passion, proving that Calvinism and evangelism are not contradictory.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Asahel Nettleton — Wikipedia", "url": "https://en.wikipedia.org/wiki/Asahel_Nettleton"}
+    {
+      "type": "wikipedia",
+      "title": "Asahel Nettleton — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asahel_Nettleton"
+    }
   ],
   "slug": "asahel-nettleton",
   "tagline": "Calvinist evangelist — 25,000 conversions without 'new measures'",
   "image": "/images/bios/asahel-nettleton.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

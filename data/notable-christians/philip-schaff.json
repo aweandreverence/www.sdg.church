@@ -6,10 +6,17 @@
   "faith": "Schaff believed that understanding church history was essential to faithful Christianity. His ecumenical spirit — unusual for his time — led him to appreciate the riches of all Christian traditions while remaining firmly evangelical. His editorial work on the church fathers has been an indispensable resource for over a century.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Philip Schaff — Wikipedia", "url": "https://en.wikipedia.org/wiki/Philip_Schaff"}
+    {
+      "type": "wikipedia",
+      "title": "Philip Schaff — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philip_Schaff"
+    }
   ],
   "slug": "philip-schaff",
   "tagline": "His 8-volume church history remains indispensable after 130 years",
   "image": "/images/bios/philip-schaff.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

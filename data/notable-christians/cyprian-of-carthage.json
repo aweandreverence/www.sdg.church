@@ -6,10 +6,17 @@
   "faith": "Cyprian's writings on church unity, the lapsed (Christians who denied the faith under persecution), and the role of bishops shaped ecclesiology for centuries. During the plague of Carthage, when pagans fled, Cyprian organized Christians to care for the sick and dying — both Christian and pagan. At his execution, he tipped his executioner and knelt calmly.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Cyprian — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cyprian"}
+    {
+      "type": "wikipedia",
+      "title": "Cyprian — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cyprian"
+    }
   ],
   "slug": "cyprian-of-carthage",
   "tagline": "Led the church through persecution and plague — then died a martyr",
   "image": "/images/bios/cyprian-of-carthage.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

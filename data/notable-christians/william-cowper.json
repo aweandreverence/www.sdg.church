@@ -6,10 +6,17 @@
   "faith": "Cowper's faith was forged through profound suffering — he struggled with depression and doubt yet clung to Christ. His hymns are remarkable for their honesty about spiritual darkness while affirming God's sovereignty. His collaboration with John Newton at Olney produced one of the most influential hymn collections in history.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "William Cowper — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_Cowper"}
+    {
+      "type": "wikipedia",
+      "title": "William Cowper — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Cowper"
+    }
   ],
   "slug": "william-cowper",
   "tagline": "Wrote 'God Moves in a Mysterious Way' through the darkness of depression",
   "image": "/images/bios/william-cowper.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

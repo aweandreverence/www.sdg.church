@@ -6,10 +6,17 @@
   "faith": "Mather was deeply devout, spending entire days in prayer and fasting. He championed smallpox inoculation on theological grounds (God gives us means to preserve life), pioneered charitable work, and wrote extensively on practical godliness. Despite controversy around the Salem witch trials, his overall legacy is of a man passionately devoted to Christ and learning.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Cotton Mather — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cotton_Mather"}
+    {
+      "type": "wikipedia",
+      "title": "Cotton Mather — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cotton_Mather"
+    }
   ],
   "slug": "cotton-mather",
   "tagline": "Prolific Puritan writer — over 450 works for God's glory",
   "image": "/images/bios/cotton-mather.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

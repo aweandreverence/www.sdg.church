@@ -6,10 +6,17 @@
   "faith": "Simeon endured years of opposition from his own congregation before winning them over through faithful ministry. His 'Horae Homileticae' (sermon outlines covering the entire Bible) trained thousands of preachers. He also used his position to influence the appointment of evangelical clergy across England, shaping the church for generations.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Charles Simeon — Wikipedia", "url": "https://en.wikipedia.org/wiki/Charles_Simeon"}
+    {
+      "type": "wikipedia",
+      "title": "Charles Simeon — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Simeon"
+    }
   ],
   "slug": "charles-simeon",
   "tagline": "54 years at Cambridge — trained a generation of evangelical ministers",
   "image": "/images/bios/charles-simeon.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }
