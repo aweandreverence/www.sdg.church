@@ -23,7 +23,6 @@ All biography images are used under public domain or Creative Commons licenses f
 | Charles Finney | [Wikimedia Commons](https://en.wikipedia.org/wiki/Charles_Grandison_Finney) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Charles Haddon Spurgeon | [Wikimedia Commons](https://en.wikipedia.org/wiki/Charles_Spurgeon) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Charlie Kirk | [Wikimedia Commons](https://en.wikipedia.org/wiki/Charlie_Kirk_(activist)) | Public Domain / CC BY-SA (Wikimedia Commons) |
-| Chris Pratt | [Wikimedia Commons](https://en.wikipedia.org/wiki/Chris_Pratt) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Chuck Norris | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/440px-Chuck_Norris_May_2015.jpg) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Coco Gauff | [Wikimedia Commons](https://en.wikipedia.org/wiki/Coco_Gauff) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Corrie ten Boom | [Wikimedia Commons](https://en.wikipedia.org/wiki/Corrie_ten_Boom) | Public Domain / CC BY-SA (Wikimedia Commons) |

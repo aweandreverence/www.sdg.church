@@ -620,14 +620,6 @@
     "local_path": "/images/bios/switchfoot.jpg"
   },
   {
-    "slug": "chris-pratt",
-    "name": "Chris Pratt",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg/500px-Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_%283x4_cropped%29.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Chris_Pratt",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/chris-pratt.jpg"
-  },
-  {
     "slug": "mark-wahlberg",
     "name": "Mark Wahlberg",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mark_Wahlberg_2021.jpg/500px-Mark_Wahlberg_2021.jpg",
