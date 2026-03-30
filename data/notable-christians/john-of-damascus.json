@@ -6,10 +6,17 @@
   "faith": "John of Damascus synthesized the theological achievements of the Greek church fathers into a coherent system. His defense of religious images was based on the Incarnation — because God became visible in Christ, he can be depicted in art. His hymns and theological writings remain central to Eastern Orthodox worship and theology.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "John of Damascus — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_of_Damascus"}
+    {
+      "type": "wikipedia",
+      "title": "John of Damascus — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_of_Damascus"
+    }
   ],
   "slug": "john-of-damascus",
   "tagline": "Last of the Church Fathers — systematized a millennium of theology",
   "image": "/images/bios/john-of-damascus.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

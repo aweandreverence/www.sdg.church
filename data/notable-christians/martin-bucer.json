@@ -6,10 +6,17 @@
   "faith": "Bucer combined deep theological conviction with a passion for church unity. His emphasis on pastoral care, church discipline, and the role of the Holy Spirit in sanctification deeply shaped Calvin's theology and Geneva's church order. His work 'De Regno Christi' envisioned a comprehensive Christian society.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Martin Bucer — Wikipedia", "url": "https://en.wikipedia.org/wiki/Martin_Bucer"}
+    {
+      "type": "wikipedia",
+      "title": "Martin Bucer — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Martin_Bucer"
+    }
   ],
   "slug": "martin-bucer",
   "tagline": "The 'forgotten Reformer' who mentored Calvin in Strasbourg",
   "image": "/images/bios/martin-bucer.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

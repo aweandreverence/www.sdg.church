@@ -6,10 +6,17 @@
   "faith": "Borden wrote in his Bible three phrases that summarized his life: 'No reserves. No retreats. No regrets.' He gave away hundreds of thousands of dollars to Christian causes while at Yale. His short life became a rallying cry for missionary sacrifice. His biography 'Borden of Yale' inspired thousands of young people to consider missions.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "William Whiting Borden — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_Whiting_Borden"}
+    {
+      "type": "wikipedia",
+      "title": "William Whiting Borden — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Whiting_Borden"
+    }
   ],
   "slug": "william-borden",
   "tagline": "No reserves. No retreats. No regrets. — died at 25 pursuing missions",
   "image": "/images/bios/william-borden.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

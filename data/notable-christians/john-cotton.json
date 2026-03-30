@@ -6,10 +6,17 @@
   "faith": "Cotton was a brilliant scholar at Cambridge before his Puritan convictions forced him to emigrate to New England. He became the leading theologian of the Massachusetts colony, influencing everything from church governance to civil law. His grandson was Cotton Mather.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "John Cotton — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Cotton_(minister)"}
+    {
+      "type": "wikipedia",
+      "title": "John Cotton — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Cotton_(minister)"
+    }
   ],
   "slug": "john-cotton",
   "tagline": "Patriarch of New England Puritanism",
   "image": "/images/bios/john-cotton.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

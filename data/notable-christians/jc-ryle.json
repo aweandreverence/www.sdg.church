@@ -6,10 +6,17 @@
   "faith": "Ryle was a robust, plain-speaking Calvinist who made deep theology accessible to ordinary people. Ruined financially early in life, he entered the ministry and never looked back. His writing style — direct, clear, and saturated with Scripture — has made his works enduring classics of Protestant devotional literature.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "J. C. Ryle — Wikipedia", "url": "https://en.wikipedia.org/wiki/J._C._Ryle"}
+    {
+      "type": "wikipedia",
+      "title": "J. C. Ryle — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J._C._Ryle"
+    }
   ],
   "slug": "jc-ryle",
   "tagline": "Bishop of Liverpool — plain-speaking champion of evangelical faith",
   "image": "/images/bios/jc-ryle.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

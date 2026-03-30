@@ -6,10 +6,17 @@
   "faith": "Banished from his pastorate for his Reformed convictions, Rutherford wrote letters from exile that burn with love for Christ. His 'Letters' have been called 'the nearest thing to inspiration in all the literature of Christendom.' On his deathbed he said, 'Glory, glory dwelleth in Immanuel's land.'",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Samuel Rutherford — Wikipedia", "url": "https://en.wikipedia.org/wiki/Samuel_Rutherford"}
+    {
+      "type": "wikipedia",
+      "title": "Samuel Rutherford — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Rutherford"
+    }
   ],
   "slug": "samuel-rutherford",
   "tagline": "Scottish theologian whose Letters burn with love for Christ",
   "image": "/images/bios/samuel-rutherford.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }

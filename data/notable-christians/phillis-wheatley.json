@@ -6,10 +6,17 @@
   "faith": "Wheatley's poetry is saturated with Christian themes — redemption, grace, heaven, and the sovereignty of God. Her most famous poem 'On Being Brought from Africa to America' frames her enslavement within God's providence: 'Twas mercy brought me from my Pagan land / Taught my benighted soul to understand / That there's a God, that there's a Saviour too.' Her faith was genuine and central to her identity.",
   "videos": [],
   "sources": [
-    {"type": "wikipedia", "title": "Phillis Wheatley — Wikipedia", "url": "https://en.wikipedia.org/wiki/Phillis_Wheatley"}
+    {
+      "type": "wikipedia",
+      "title": "Phillis Wheatley — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phillis_Wheatley"
+    }
   ],
   "slug": "phillis-wheatley",
   "tagline": "First published African American poet — her verse overflows with faith",
   "image": "/images/bios/phillis-wheatley.jpg",
-  "imageAttribution": {"source": "Wikimedia Commons", "license": "Public Domain"}
+  "imageAttribution": {
+    "source": "Wikimedia Commons",
+    "license": "Public Domain / CC (Wikimedia Commons)"
+  }
 }
