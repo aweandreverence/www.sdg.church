@@ -167,4 +167,46 @@ These examples illustrate how the criteria apply in practice:
 
 ---
 
+## 11. Resources & Bibliography
+
+The following resources inform our editorial decisions — theological frameworks, historical research, and candidate sourcing.
+
+### Theological & Editorial Frameworks
+
+| Resource | Author | Why It Matters |
+|----------|--------|----------------|
+| [Charlottesville, Confederate Memorials, and Southern Culture](https://www.desiringgod.org/articles/charlottesville-confederate-memorials-and-southern-culture) | John Piper (Desiring God, 2017) | Provides a 3-question framework for evaluating whether to memorialize historical figures: (1) What reality is being memorialized? (2) Is it worthy of admiration? (3) Is the person too compromised with evil? Applied in our evaluation of Confederate-era figures. |
+| *The Civil War as a Theological Crisis* | Mark Noll | Essential context for evaluating Civil War-era Christians. Demonstrates how slavery was defended on theological grounds — relevant to our inclusion criteria for figures from that period. |
+
+### Candidate Sourcing
+
+These resources have been systematically reviewed to identify potential additions to the biographies page.
+
+| Resource | Description | Status |
+|----------|-------------|--------|
+| [5 Minutes in Church History](https://podcasts.apple.com/us/podcast/5-minutes-in-church-history-with-stephen-nichols/id684370851) | Stephen Nichols (Ligonier Ministries). Weekly podcast, 675+ episodes covering church history figures and events. | ✅ Fully reviewed (March 2026). Cross-referenced all episodes against existing biographies. Yielded 34 high-confidence additions and 8 "worth considering" candidates tracked in Linear. |
+| [I Am Second](https://www.iamsecond.com/) | Personal testimony videos from athletes, musicians, and celebrities. | Partially reviewed. Some entries sourced from here. |
+| [Desiring God Biographies](https://www.desiringgod.org/books?type=biographies) | John Piper's biographical conference messages on historical Christians. | Not yet systematically reviewed. Strong potential source — Piper's subjects tend to align well with our theological framework. |
+| [Ligonier Ministries — Church History](https://www.ligonier.org/learn/topics/church-history) | R.C. Sproul and Ligonier's teaching library on church history. | Not yet systematically reviewed. |
+| [Christian History Magazine](https://www.christianitytoday.com/history/) | Christianity Today's church history publication. | Not yet systematically reviewed. |
+| [Foxe's Book of Martyrs](https://en.wikipedia.org/wiki/Foxe%27s_Book_of_Martyrs) | John Foxe (1563). Classic compilation of Christian martyrs, especially Reformation-era. | Not yet systematically reviewed. Strong potential source for martyrs and Reformation figures. |
+
+### Reference Works
+
+These are not sourcing tools but general references useful for research and fact-checking.
+
+- **[Wikipedia](https://en.wikipedia.org/)** — Starting point for biographical facts, dates, and sourcing. Always verify against primary sources.
+- **[CCEL (Christian Classics Ethereal Library)](https://www.ccel.org/)** — Free access to primary writings of historical Christians.
+- **[Theopedia](https://www.theopedia.com/)** — Reformed-leaning theological encyclopedia.
+- **[Wikimedia Commons](https://commons.wikimedia.org/)** — Source for public domain portrait images.
+
+### How to Add Resources
+
+When a new source is reviewed for candidate sourcing:
+1. Add it to the table above with a description and review status
+2. Note what it yielded (number of additions, Linear task IDs for pending candidates)
+3. Update the status as the review progresses
+
+---
+
 *"Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us." — Hebrews 12:1 (ESV)*
