@@ -1,0 +1,24 @@
+{
+  "name": "CityAlight",
+  "slug": "cityalight",
+  "years": "2014 – present",
+  "title": "Congregational Worship Collective",
+  "tagline": "Modern hymn-writing collective known for doctrinally rich, church-singable songs",
+  "bio": "CityAlight is a contemporary Christian music collective based out of St Paul’s Castle Hill in Sydney, Australia, known for writing modern congregational songs marked by theological clarity, accessible melodies, and direct usefulness for local-church worship. Their songs have become widely used in biblically conservative evangelical churches and are often grouped with the modern hymn movement rather than performance-oriented CCM. As a collective, CityAlight represents a ministry model centered on equipping congregations to sing truth together.",
+  "faith": "CityAlight’s identity and public output are explicitly church-based, congregational, and Christian. Their songs are written for worship in the gathered church and consistently reflect evangelical doctrinal commitments. That makes them a strong fit for SDG, even as a group entry, because the ministry itself is plainly oriented toward Christian worship rather than generic inspirational music.",
+  "image": "/images/bios/cityalight.jpg",
+  "videos": [],
+  "sources": [
+    {
+      "type": "website",
+      "title": "CityAlight",
+      "url": "https://cityalight.com/",
+      "note": "Official ministry site for the congregational worship collective"
+    }
+  ],
+  "imageAttribution": {
+    "source": "CityAlight / ministry materials",
+    "license": "TBD",
+    "url": "https://cityalight.com/"
+  }
+}
