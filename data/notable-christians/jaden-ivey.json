@@ -41,5 +41,9 @@
   ],
   "slug": "jaden-ivey",
   "tagline": "An NBA guard who says his true identity is in Christ, not the game",
-  "image": ""
+  "image": "/images/bios/jaden-ivey.jpg",
+  "imageAttribution": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ivey_Pistons.jpg",
+    "license": "CC BY-SA 2.0 (Wikimedia Commons, photo by All-Pro Reels)"
+  }
 }
