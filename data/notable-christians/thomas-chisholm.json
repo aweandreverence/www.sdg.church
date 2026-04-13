@@ -1,0 +1,30 @@
+{
+  "name": "Thomas O. Chisholm",
+  "slug": "thomas-chisholm",
+  "years": "1866–1960",
+  "title": "Methodist Minister & Hymn Writer",
+  "tagline": "Author of ‘Great Is Thy Faithfulness’ and hundreds of devotional hymn texts",
+  "bio": "Thomas Obediah Chisholm was an American hymn writer, editor, and Methodist minister best known for writing ‘Great Is Thy Faithfulness.’ Converted through the ministry of Henry Clay Morrison, he was later ordained in the Methodist church and wrote hundreds of poems and hymns marked by biblical language, devotional warmth, and trust in God’s constancy. His best-known hymn remains one of the church’s most enduring songs about the steadfast faithfulness of God.",
+  "faith": "Chisholm’s Christian profession is well attested: he was converted through evangelical ministry, ordained as a Methodist minister, and spent decades writing explicitly Christian hymn texts and devotional poetry. His work is not merely adjacent to Christianity; it is directly grounded in Christian confession and ministry. That makes him a strong fit for SDG as a historical hymn writer whose life and output plainly reflect Christian belief.",
+  "image": "/images/bios/thomas-chisholm.jpg",
+  "videos": [],
+  "sources": [
+    {
+      "type": "website",
+      "title": "United Methodist Discipleship — History of Hymns: Great Is Thy Faithfulness",
+      "url": "https://www.umcdiscipleship.org/resources/history-of-hymns-great-is-thy-faithfulness",
+      "note": "Documents Chisholm’s conversion, Methodist ordination, and authorship of ‘Great Is Thy Faithfulness’"
+    },
+    {
+      "type": "website",
+      "title": "Maskil — Great Is Thy Faithfulness",
+      "url": "https://maskil.church/songs/55-Great-Is-Thy-Faithfulness",
+      "note": "Confirms Thomas Obediah Chisholm appears in actual Maskil song metadata"
+    }
+  ],
+  "imageAttribution": {
+    "source": "Portrait / historical image needed",
+    "license": "TBD",
+    "url": "https://hymnary.org/person/Chisholm_Thomas"
+  }
+}
