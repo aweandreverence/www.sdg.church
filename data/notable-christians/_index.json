@@ -82,6 +82,30 @@
             },
             {
               "$ref": "william-cowper.json"
+            },
+            {
+              "$ref": "edward-mote.json"
+            },
+            {
+              "$ref": "frances-ridley-havergal.json"
+            },
+            {
+              "$ref": "horatio-spafford.json"
+            },
+            {
+              "$ref": "horatius-bonar.json"
+            },
+            {
+              "$ref": "philip-bliss.json"
+            },
+            {
+              "$ref": "thomas-chisholm.json"
+            },
+            {
+              "$ref": "william-batchelder-bradbury.json"
+            },
+            {
+              "$ref": "rich-mullins.json"
             }
           ]
         },
@@ -653,6 +677,15 @@
             },
             {
               "$ref": "matt-boswell.json"
+            },
+            {
+              "$ref": "matt-merker.json"
+            },
+            {
+              "$ref": "jordan-kauflin.json"
+            },
+            {
+              "$ref": "cityalight.json"
             }
           ]
         },
