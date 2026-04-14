@@ -1,0 +1,30 @@
+{
+  "name": "Edward Mote",
+  "slug": "edward-mote",
+  "years": "1797–1874",
+  "title": "Baptist Pastor & Hymn Writer",
+  "tagline": "Pastor and author of ‘My Hope Is Built on Nothing Less’",
+  "bio": "Edward Mote was an English Baptist pastor and hymn writer best known for writing ‘My Hope Is Built on Nothing Less’ (‘The Solid Rock’). Though raised with little Christian instruction, he later came to faith, was baptized as a young man, and eventually served for decades as pastor of Rehoboth Baptist Church in Horsham. His best-known hymn has become a lasting confession of confidence in Christ alone.",
+  "faith": "Mote’s own testimony, baptism, pastoral ministry, and explicitly Christ-centered hymnody all make his Christian profession unusually clear. He was not simply a cultural religious figure but a Baptist pastor whose best-known work is a direct declaration of hope in Christ. That makes him a strong fit for SDG under the historical hymn-writer standard.",
+  "image": "/images/bios/edward-mote.jpg",
+  "videos": [],
+  "sources": [
+    {
+      "type": "website",
+      "title": "Wikipedia — Edward Mote",
+      "url": "https://en.wikipedia.org/wiki/Edward_Mote",
+      "note": "Describes Mote as a pastor and hymn writer, notes his conversion, baptism, and pastoral ministry"
+    },
+    {
+      "type": "website",
+      "title": "Maskil — My Hope Is Built (The Solid Rock)",
+      "url": "https://maskil.church/songs/89-My-Hope-Is-Built-The-Solid-Rock",
+      "note": "Confirms Edward Mote appears in actual Maskil song metadata"
+    }
+  ],
+  "imageAttribution": {
+    "source": "Portrait / historical image needed",
+    "license": "TBD",
+    "url": "https://en.wikipedia.org/wiki/Edward_Mote"
+  }
+}
