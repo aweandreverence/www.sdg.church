@@ -381,9 +381,6 @@
               "$ref": "watchman-nee.json"
             },
             {
-              "$ref": "charles-finney.json"
-            },
-            {
               "$ref": "william-booth.json"
             },
             {

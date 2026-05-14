@@ -20,7 +20,6 @@ All biography images are used under public domain or Creative Commons licenses f
 | Candace Cameron Bure | [Wikimedia Commons](https://en.wikipedia.org/wiki/Candace_Cameron_Bure) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Carrie Underwood | [Wikimedia Commons](https://en.wikipedia.org/wiki/Carrie_Underwood) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Chance the Rapper | [Wikimedia Commons](https://en.wikipedia.org/wiki/Chance_the_Rapper) | Public Domain / CC BY-SA (Wikimedia Commons) |
-| Charles Finney | [Wikimedia Commons](https://en.wikipedia.org/wiki/Charles_Grandison_Finney) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Charles Haddon Spurgeon | [Wikimedia Commons](https://en.wikipedia.org/wiki/Charles_Spurgeon) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Charlie Kirk | [Wikimedia Commons](https://en.wikipedia.org/wiki/Charlie_Kirk_(activist)) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Chuck Norris | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chuck_Norris_May_2015.jpg/440px-Chuck_Norris_May_2015.jpg) | Public Domain / CC BY-SA (Wikimedia Commons) |
