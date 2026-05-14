@@ -318,6 +318,12 @@
               "$ref": "adoniram-judson.json"
             },
             {
+              "$ref": "henry-martyn.json"
+            },
+            {
+              "$ref": "john-g-paton.json"
+            },
+            {
               "$ref": "david-livingstone.json"
             },
             {
@@ -469,6 +475,9 @@
           "people": [
             {
               "$ref": "jerome.json"
+            },
+            {
+              "$ref": "tertullian.json"
             },
             {
               "$ref": "ambrose-of-milan.json"
