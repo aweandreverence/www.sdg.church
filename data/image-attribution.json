@@ -452,14 +452,6 @@
     "local_path": "/images/bios/watchman-nee.jpg"
   },
   {
-    "slug": "charles-finney",
-    "name": "Charles Finney",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Charles_g_finney.jpg/500px-Charles_g_finney.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Charles_Grandison_Finney",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/charles-finney.jpg"
-  },
-  {
     "slug": "william-booth",
     "name": "William Booth",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/William_Booth.jpg/500px-William_Booth.jpg",
