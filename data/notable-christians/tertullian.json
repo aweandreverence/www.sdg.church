@@ -1,0 +1,31 @@
+{
+  "name": "Tertullian",
+  "years": "c. 155 – c. 220",
+  "title": "Apologist & Church Father",
+  "bio": "Early Christian author from Carthage and one of the first major theologians to write extensively in Latin. A fierce apologist and polemicist, he defended Christianity before pagan critics, opposed heresy, and helped shape the theological vocabulary of the Western church.",
+  "faith": "Tertullian's writings gave the church durable language for core doctrines, including early formulations of Trinitarian vocabulary. His famous insistence that 'the blood of the martyrs is seed' captured the paradox of Christian witness under persecution. Though his later association with Montanism requires care, his apologetic and theological influence on Latin Christianity remains immense.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Tertullian — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tertullian",
+      "note": "Biography of the early Christian apologist from Carthage"
+    },
+    {
+      "type": "article",
+      "title": "Tertullian — Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Tertullian",
+      "note": "Overview of Tertullian's role in shaping Latin Christian theology"
+    },
+    {
+      "type": "primary",
+      "title": "Tertullian's Writings — CCEL",
+      "url": "https://www.ccel.org/ccel/schaff/anf03.html",
+      "note": "Collected English translations in the Ante-Nicene Fathers"
+    }
+  ],
+  "slug": "tertullian",
+  "tagline": "Gave Latin Christianity a theological vocabulary for defending the faith",
+  "image": ""
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Henry Martyn",
+  "years": "February 18, 1781 – October 16, 1812",
+  "title": "Missionary to India & Persia",
+  "bio": "English Anglican priest, Cambridge scholar, and missionary who served as a chaplain in India before traveling into Persia. A brilliant mathematician and linguist, he translated the New Testament into Hindustani, Persian, and Arabic and labored especially to bring the gospel to Muslims.",
+  "faith": "Martyn left academic honors and comfort for difficult missionary service, writing, 'Let me burn out for God.' His short life became one of the great examples of evangelical missionary zeal: disciplined scholarship placed under Christ, language learning pressed into gospel service, and costly witness among peoples with little access to Scripture.",
+  "videos": [],
+  "sources": [
+    {
+      "type": "wikipedia",
+      "title": "Henry Martyn — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Martyn",
+      "note": "Biography of the Anglican missionary and Bible translator"
+    },
+    {
+      "type": "article",
+      "title": "Martyn, Henry (1781–1812) — Boston University History of Missiology",
+      "url": "https://www.bu.edu/missiology/missionary-biography/l-m/martyn-henry-1781-1812/",
+      "note": "Missionary biography emphasizing his work in India and among Muslims"
+    },
+    {
+      "type": "book",
+      "title": "The Life and Letters of Henry Martyn",
+      "note": "Classic account of Martyn's life, journals, letters, and missionary labors"
+    }
+  ],
+  "slug": "henry-martyn",
+  "tagline": "Brilliant Cambridge scholar who burned out for God in India and Persia",
+  "image": ""
+}
