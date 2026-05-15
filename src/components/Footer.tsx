@@ -31,6 +31,9 @@ export function Footer() {
             </span>
           </div>
           <div className="d-flex align-items-center gap-3">
+            <a href="/selection-guidelines" className="link-light">
+              Selection Guidelines
+            </a>
             <a
               href="https://awesome.bible"
               title="Awesome.Bible"

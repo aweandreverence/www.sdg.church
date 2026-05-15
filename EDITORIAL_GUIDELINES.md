@@ -1,182 +1,130 @@
-# Editorial & Theological Guidelines
+# Theological & Editorial Guidelines
 
-These guidelines govern **who** we feature on sdg.church and **how** we write about them. For technical instructions (file formats, branching, deployment), see [CONTRIBUTING.md](CONTRIBUTING.md).
+These guidelines govern **why** sdg.church features particular people, **how** we evaluate candidates, and **what inclusion or non-inclusion means**. For technical instructions, file formats, branching, and deployment, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
 ## 1. Mission
 
-sdg.church ("Soli Deo Gloria") exists to glorify God by showcasing faithful saints throughout history who point people to Jesus Christ. The biographies page is a curated *cloud of witnesses* (Hebrews 12:1) — not an encyclopedia, but an evangelistic tool that demonstrates the power of the gospel across every field of human endeavor.
+sdg.church (*Soli Deo Gloria*) exists to glorify God by pointing people to Jesus Christ. The biographies and testimonies are not a celebrity hall of fame, an encyclopedia of every admirable religious figure, or a final verdict on anyone's soul. They are a curated evangelistic witness: examples of sinners saved by grace whose lives, words, and work help readers see the beauty, truth, and power of the gospel.
 
-## 2. Theological Framework
+Our hope is that a reader would not stop at admiring a featured person, but would ask: **Who is this Christ they trusted, loved, proclaimed, and served?**
 
-### Confessional Position
-- **Conservative, Reformed Protestant** — the site's name ("Soli Deo Gloria") places it squarely within the Reformation tradition
-- The Five Solas are our baseline: *Sola Scriptura, Sola Fide, Sola Gratia, Solus Christus, Soli Deo Gloria*
-- Not narrowly one denomination — we include Baptists, Presbyterians, Anglicans, Methodists, non-denominational evangelicals, and more
+## 2. Theological Frame
 
-### Core Doctrinal Non-Negotiables
-A person featured must, at minimum, affirm (explicitly or evidentially through life and writings):
+The site is written from a conservative, Reformed Protestant perspective. The name *Soli Deo Gloria* places the project deliberately within the Reformation tradition, with the Five Solas as our baseline:
 
-1. **The authority of Scripture** as God's Word
-2. **The deity of Christ** — fully God and fully man
-3. **Salvation by grace through faith** — not by works
-4. **The bodily resurrection of Jesus**
-5. **The reality of sin** and human need for a Savior
+- **Sola Scriptura** — Scripture is God's authoritative Word.
+- **Sola Fide** — sinners are justified by faith alone.
+- **Sola Gratia** — salvation is by grace alone, not human merit.
+- **Solus Christus** — Christ alone is mediator, Savior, and Lord.
+- **Soli Deo Gloria** — all glory belongs to God alone.
 
-These aren't a creedal quiz — many historical figures didn't write systematic theology. But their life and words should be *consistent with* these truths, not contradictory to them.
+We are not narrowly denominational. We may include Baptists, Presbyterians, Anglicans, Methodists, Pentecostals, non-denominational evangelicals, and others where there is credible gospel clarity. But we do make theological judgments because the site has an evangelistic purpose. Clarity about the gospel matters.
 
-## 3. Inclusion Criteria
+## 3. Core Convictions We Look For
 
-### The Central Question
+A featured person should have credible evidence, explicit or strongly demonstrated, of faith consistent with historic biblical Christianity:
 
-> "Does this person's life, words, and testimony point others to the saving work of Jesus Christ?"
+1. **The authority of Scripture** as God's Word.
+2. **The deity and humanity of Jesus Christ.**
+3. **The reality of sin** and the need for a Savior.
+4. **The saving work of Christ** in his death and resurrection.
+5. **Salvation by grace through faith**, not by personal merit or religious achievement.
+6. **Repentance and visible fruit**, while recognizing that every saint remains a sinner saved by grace.
 
-### Required Evidence (at least one):
-- ✅ **Public profession of faith** in Jesus Christ as Lord and Savior
-- ✅ **Testimony of conversion** — a turning from sin to Christ
-- ✅ **Fruit consistent with saving faith** (Galatians 5:22-23) over a sustained period
-- ✅ **Written/recorded statements** articulating trust in Christ
-- ✅ **Martyrdom for the faith** — dying rather than denying Christ
+These guidelines are not a demand that every person sound like a modern systematic theologian. Historical context matters. But the person's known testimony, writings, and public witness should point toward the biblical gospel rather than obscure or contradict it.
 
-### Disqualifying Factors:
-- ❌ Explicit **denial of core doctrines** (deity of Christ, bodily resurrection, etc.) in personal writings or public statements
-- ❌ Faith as **mere cultural identity** with no evidence of personal trust in Christ
-- ❌ **Conversion appears strategic** — timed to scandal, with no sustained fruit (apply a waiting period of 2+ years)
-- ❌ **Endorsement of teachings** directly opposed to biblical Christianity
+## 4. Inclusion Criteria
 
-### Not Disqualifying (but note carefully):
-- ⚠️ Personal moral failures — *all* saints are sinners; the question is repentance, not perfection
-- ⚠️ Theological disagreements on secondary issues (baptism mode, eschatology, spiritual gifts)
-- ⚠️ Denominational affiliation alone — being Catholic, Orthodox, or non-denominational doesn't auto-include or auto-exclude
+The central editorial question is:
 
-## 4. The Denominational Question
+> Does this person's life, words, and testimony help point readers to the saving work of Jesus Christ?
 
-### Pre-Reformation (before ~1517)
-**Include freely.** There was no Catholic/Protestant distinction. Augustine, Athanasius, Aquinas, the early martyrs — these are the shared heritage of all Christians.
+Strong evidence may include:
 
-### Post-Reformation Catholics
-**Evaluate individually on personal testimony**, not denominational label.
+- a public profession of faith in Jesus Christ as Lord and Savior;
+- a clear testimony of conversion, repentance, or trust in Christ;
+- writings, sermons, hymns, interviews, letters, or recorded statements that articulate gospel faith;
+- sustained fruit over time;
+- martyrdom or costly faithfulness under persecution;
+- faithful Christian work that explicitly aims to glorify God and serve Christ.
 
-| Criterion | Include? |
-|-----------|----------|
-| Clear personal testimony of faith in Christ alone | ✅ Yes |
-| Life fruit consistent with genuine saving faith | ✅ Yes |
-| Only evidence is "practicing Catholic" | ❌ No |
-| Endorses salvation by works/sacraments without grace | ❌ No |
-| Rich devotional writings focused on Christ | ✅ Yes |
+We prefer primary sources where possible: the person's own words, writings, hymns, sermons, interviews, or letters. Secondary biographies and reputable historical sources are useful, but they should not replace actual evidence of faith.
 
-**Examples:**
-- **Blaise Pascal** ✅ — His _Mémorial_ is an undeniable conversion testimony; Jansenist (Augustinian tradition within Catholicism, emphasizing grace)
-- **J.R.R. Tolkien** ✅ — His "true myth" argument converted C.S. Lewis; deep faith woven into his work. If Lewis is in, Tolkien must be considered.
-- **Mel Gibson** ❌ — Traditionalist Catholic, personal scandals, no clear personal testimony of saving faith
+## 5. What Non-Inclusion Means
 
-### Eastern Orthodox
-Same framework as post-Reformation Catholics — evaluate on personal testimony, not denominational label.
+Non-inclusion is **not** a declaration that a person is not saved. It is not a final judgment on their soul, their sincerity, or everything God may have done in their life.
 
-## 5. Living vs. Historical Figures
+Non-inclusion simply means:
 
-### Historical Figures (deceased)
-- We have their full life record — evaluate the whole trajectory
-- Weight their *own* writings and statements most heavily
-- Allow for the context of their era (e.g., figures who lived within sinful systems but were genuinely converted)
+- we do not believe they fit this site's editorial purpose;
+- we do not have enough clear evidence to present them as an evangelistic example;
+- their public witness may create more confusion than clarity;
+- or their theology, affiliation, public legacy, or unresolved scandal makes them unwise to feature.
 
-### Living Figures
-- **Higher bar** — their story is still being written
-- Must have sustained (2+ years minimum) public profession of faith
-- Look for consistency between public statements and private conduct (as knowable)
-- Be willing to *remove* someone if they later recant or their life contradicts their profession
-- **Avoid anyone currently embroiled in scandal** — wait for resolution. Not as a verdict of guilt, but because featuring them becomes the story rather than the gospel.
+God knows his own. We are making editorial decisions for a public evangelistic project, not pretending to sit on the throne of final judgment.
 
-## 6. Categories & Diversity
+## 6. Denominations, Traditions, and Rome
 
-We aim for representation across:
-- **Time periods** — early church, medieval, Reformation, modern, contemporary
-- **Fields** — theology, arts, science, sports, business, military, politics
-- **Geography** — the global church, not just Western/American Christianity
-- **Gender** — actively seek faithful women (historically underrepresented)
-- **Ethnicity** — reflect the diversity of the body of Christ
+### Pre-Reformation figures
 
-### Current Categories
-1. Martyrs & Witnesses
-2. Historical Biographies (composers, authors, scientists, mathematicians, artists, reformers, pastors, Puritans, Chinese Christians, converts, inventors)
-3. Living Testimonies (athletes, musicians, actors, apologists)
-4. Entrepreneurs, CEOs & Scientists
-5. Military Leaders & Politicians
+Pre-Reformation Christians are evaluated differently. Augustine, Athanasius, early martyrs, medieval theologians, and other pre-Reformation figures lived before the later Protestant/Roman Catholic divide. We treat them as part of the broad historical Christian inheritance while still evaluating their doctrine, life, and witness honestly.
 
-## 7. Writing Standards
+### Post-Reformation Roman Catholics
 
-### Tone
-- **Reverent but not hagiographic.** Honest about failures, centered on God's grace.
-- We're pointing to Jesus through these lives, not building a hall of fame.
+For post-Reformation Roman Catholics, we use a stricter public-site standard.
 
-### The "Faith" Field
-The most important field in any biography. It must articulate *how* this person trusted Christ — not just that they were "religious" or "devout." Specific quotes, conversion stories, and life evidence belong here.
+Because sdg.church has an evangelistic purpose, we do not want to confuse unbelievers or immature believers about the Roman Catholic Church or the gospel. Official Roman Catholic teaching, especially as articulated at Trent, contradicts the Reformation doctrine of justification by grace alone through faith alone in Christ alone. Therefore, when a post-Reformation public figure is a practicing Roman Catholic, publicly endorses the Roman Catholic Church, or is publicly identified with Rome in a way that would confuse the site's witness, we ordinarily do **not** include them.
 
-### Tagline
-A memorable quote or phrase that captures their witness. Prefer their own words when possible.
+This does **not** mean we are declaring that no Roman Catholic can be saved, or that every excluded Catholic figure lacked genuine faith in Christ. It means the site's editorial witness must remain clear. The cost of confusing readers about the gospel is greater than the cost of omitting a debatable figure.
 
-### Sources
-- Always cite sources (biographies, their own writings, reputable articles)
-- Prefer primary sources (their own words) over secondary accounts
-- Video content: curated YouTube links showing testimony, not random clips
+### Other traditions
 
-### Images
-- Public domain or properly attributed images only
-- Track attribution in `image-attribution.json`
+Eastern Orthodox and other traditions are evaluated with similar concern for gospel clarity, though the specific historical and theological issues may differ. We do not include or exclude by label alone in every case; we ask whether featuring the person will faithfully serve the gospel purpose of the site.
 
-## 8. Case Studies
+## 7. Living and Recently Active Figures
 
-These examples illustrate how the criteria apply in practice:
+Living figures require a higher bar because their story is still being written. We look for sustained public faithfulness over time and avoid using a fresh profession, baptism, or crisis conversion as immediate public validation.
 
-| Person | Decision | Reasoning |
-|--------|----------|-----------|
-| **C.S. Lewis** | ✅ Include | Atheist → Christian convert. _Surprised by Joy_, _Mere Christianity_. Anglican, not Reformed, but clearly articulated saving faith. |
-| **Martin Luther King Jr.** | ❌ Exclude | Seminary papers explicitly denied virgin birth, bodily resurrection, and deity of Christ. Moral courage ≠ orthodox faith. |
-| **Blaise Pascal** | ✅ Include | _Mémorial_ is a powerful conversion testimony. Jansenist (Augustinian). Catholic label, Protestant soteriology. |
-| **Jimmy Carter** | ⚠️ Borderline | Genuinely born-again Southern Baptist, but progressive theological drift later in life. Review periodically. |
-| **Russell Brand** | ⏳ Wait | Baptized April 2024 during sexual assault allegations. Need 2+ years of sustained fruit before considering. |
-| **Denzel Washington** | ✅ Include | Decades of consistent faith, studied at seminary, explicit testimony, fruit over 30+ years. |
-| **Stonewall Jackson** | ❌ Exclude | Devoutly Presbyterian, but his public legacy is inseparable from the Confederate cause. Applying Piper's 3-question framework (see [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md)): his faith is real (Q1 ✅, Q2 ✅), but he is too compromised by his Confederate generalship (Q3 ❌). The site has many figures with equally strong Reformed faith who don't carry this baggage. |
-| **Florence Nightingale** | ❌ Exclude | Denied miracles, rejected hell, stopped attending church in her 30s, influenced by positivism (Premier Christianity, Wikipedia). Her Unitarian family background shaped heterodox views. Fails our §2 non-negotiables: denying miracles = cannot affirm the resurrection; denying hell = undermines the need for a substitute (Titus 3:5; Galatians 3:13). |
+For living or recently active figures, we are especially cautious when:
 
-## 9. Process for New Additions
+- the profession of faith is very recent;
+- the person is currently involved in unresolved scandal;
+- the public story would draw attention away from Christ and onto controversy;
+- the person is mainly known for celebrity, politics, culture war activity, or platform rather than Christian witness.
 
-### Step 1: Research
-- Gather primary source evidence of faith (their own words, writings, interviews)
-- Check for any disqualifying theological positions
-- Identify at least one strong source/video
+This caution is not cynicism. It is pastoral prudence.
 
-### Step 2: Draft
-- Create JSON file following the established schema (see [CONTRIBUTING.md](CONTRIBUTING.md))
-- Write the faith summary focusing on evidence of saving faith
-- Include sources and video links
+## 8. Removal and Review
 
-### Step 3: Review
-- Another team member reviews the theological assessment
-- For borderline cases, document the arguments for/against and escalate to the project lead
+The list is curated and revisable. We may remove or reclassify a person when new information emerges, when our standards become clearer, or when we conclude that an inclusion creates more confusion than clarity.
 
-### Step 4: Publish
-- Add to appropriate category
-- Ensure image attribution is tracked
-- Open a PR and deploy after merge
+When removing someone, we should explain the decision as an editorial judgment, not as a condemnation of the person's soul. Web archives and Git history may preserve earlier versions; we should be willing to explain changes plainly, calmly, and consistently.
 
-## 10. Periodic Review
+We should not be embarrassed to revise. Better a humble correction than a confusing witness.
 
-- **Annual audit:** Review living figures for any changes in public witness
-- **Removal process:** If someone publicly renounces faith or persistent scandal emerges, discuss removal rather than leaving misleading content
-- **Gap analysis:** Regularly check for underrepresented categories (women, non-Western Christians, etc.)
+## 9. Editorial Posture
+
+We aim to be:
+
+- **charitable**, refusing to write people off casually;
+- **clear**, refusing to blur the gospel for the sake of a larger roster;
+- **honest**, acknowledging complexity, weakness, sin, and historical context;
+- **courageous**, standing by editorial decisions once they are made carefully;
+- **Christ-centered**, ensuring every story ultimately points beyond the person to Jesus.
+
+The goal is not to maximize the number of names on the site. The goal is to serve readers with a faithful, reverent, and gospel-clear witness.
+
+## 10. Research and Publication Process
+
+1. **Research** — gather primary-source evidence, credible secondary sources, and any material theological or public-witness concerns.
+2. **Assess** — ask whether the person's public witness clearly serves the site's evangelistic purpose.
+3. **Draft** — write with reverence, honesty, and specificity. The faith section should explain actual evidence of trust in Christ, not merely religious affiliation.
+4. **Review** — have another team member review borderline or sensitive cases.
+5. **Publish** — cite sources, track image attribution, and open a pull request.
+6. **Revisit** — review living figures and contested cases periodically.
 
 ---
 
-## 11. Resources & Bibliography
-
-See [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) for the full list of resources that inform our editorial decisions, including:
-
-- **Theological frameworks** used for evaluating candidates (e.g., Piper's 3-question memorial framework)
-- **Candidate sourcing** — which podcasts, books, and databases we've reviewed, and what they yielded
-- **Reference works** for research and fact-checking
-
----
-
-*"Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us." — Hebrews 12:1 (ESV)*
+> "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us." — Hebrews 12:1 (ESV)
