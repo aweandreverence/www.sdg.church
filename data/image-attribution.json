@@ -444,14 +444,6 @@
     "local_path": "/images/bios/lottie-moon.jpg"
   },
   {
-    "slug": "watchman-nee",
-    "name": "Watchman Nee",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/WatchmanNee.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Watchman_Nee",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/watchman-nee.jpg"
-  },
-  {
     "slug": "william-booth",
     "name": "William Booth",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/William_Booth.jpg/500px-William_Booth.jpg",

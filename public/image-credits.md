@@ -101,7 +101,6 @@ All biography images are used under public domain or Creative Commons licenses f
 | Tim Scott | [Wikimedia Commons](https://en.wikipedia.org/wiki/Tim_Scott) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Tim Tebow | [Wikimedia Commons](https://en.wikipedia.org/wiki/Tim_Tebow) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | TobyMac | [Wikimedia Commons](https://en.wikipedia.org/wiki/TobyMac) | Public Domain / CC BY-SA (Wikimedia Commons) |
-| Watchman Nee | [Wikimedia Commons](https://en.wikipedia.org/wiki/Watchman_Nee) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | William Booth | [Wikimedia Commons](https://en.wikipedia.org/wiki/William_Booth) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | William Carey | [Wikimedia Commons](https://en.wikipedia.org/wiki/William_Carey_(missionary)) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | William D. Phillips | [Wikimedia Commons](https://en.wikipedia.org/wiki/William_Daniel_Phillips) | Public Domain / CC BY-SA (Wikimedia Commons) |
