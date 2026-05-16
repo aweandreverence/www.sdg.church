@@ -6,9 +6,9 @@ These guidelines govern **why** sdg.church features particular people, **how** w
 
 ## 1. Mission
 
-sdg.church (*Soli Deo Gloria*) exists to glorify God by pointing people to Jesus Christ. The biographies and testimonies are not a celebrity hall of fame, an encyclopedia of every admirable religious figure, or a final verdict on anyone's soul. They are a curated evangelistic witness: examples of sinners saved by grace whose lives, words, and work help readers see the beauty, truth, and power of the gospel.
+sdg.church (*Soli Deo Gloria*) exists to glorify God by pointing people to Jesus Christ. The biographies and testimonies are not a celebrity hall of fame, an encyclopedia of every admirable religious figure, or a final verdict on anyone's soul. They are a curated evangelistic witness: signposts to Christ through stories of grace, repentance, weakness, suffering, courage, failure, forgiveness, and changed lives.
 
-Our hope is that a reader would not stop at admiring a featured person, but would ask: **Who is this Christ they trusted, loved, proclaimed, and served?**
+Our hope is that a reader would not stop at admiring a featured person, but would ask: **Who is this Christ who receives, forgives, changes, sustains, and uses sinners like this?**
 
 ## 2. Theological Frame
 
@@ -35,7 +35,21 @@ A featured person should have credible evidence, explicit or strongly demonstrat
 
 These guidelines are not a demand that every person sound like a modern systematic theologian. Historical context matters. But the person's known testimony, writings, and public witness should point toward the biblical gospel rather than obscure or contradict it.
 
-## 4. Inclusion Criteria
+## 4. Not a Museum of Polished Lives
+
+The site should not imply that Christianity is only for people whose lives are already tidy, successful, respectable, or put together. Evangelistically, that would be both false and discouraging. The gospel is not good news for impressive people who need a religious finish; it is good news for sinners who need mercy, new birth, forgiveness, and grace.
+
+We therefore want biographies and testimonies that show:
+
+- conversion, not polish;
+- repentance, not perfection;
+- weakness sustained by grace;
+- costly obedience amid suffering, confusion, failure, or obscurity;
+- visible fruit over time without pretending saints are sinless heroes.
+
+A strong biography should make Christ look sufficient, not make the featured person look self-sufficient. We should be honest about sin and weakness where appropriate, while avoiding gossip, sensationalism, or voyeuristic treatment of failure.
+
+## 5. Inclusion Criteria
 
 The central editorial question is:
 
@@ -52,7 +66,7 @@ Strong evidence may include:
 
 We prefer primary sources where possible: the person's own words, writings, hymns, sermons, interviews, or letters. Secondary biographies and reputable historical sources are useful, but they should not replace actual evidence of faith.
 
-## 5. What Non-Inclusion Means
+## 6. What Non-Inclusion Means
 
 Non-inclusion is **not** a declaration that a person is not saved. It is not a final judgment on their soul, their sincerity, or everything God may have done in their life.
 
@@ -65,7 +79,7 @@ Non-inclusion simply means:
 
 God knows his own. We are making editorial decisions for a public evangelistic project, not pretending to sit on the throne of final judgment.
 
-## 6. Denominations, Traditions, and Rome
+## 7. Denominations, Traditions, and Rome
 
 ### Pre-Reformation figures
 
@@ -79,11 +93,13 @@ Because sdg.church has an evangelistic purpose, we do not want to confuse unbeli
 
 This does **not** mean we are declaring that no Roman Catholic can be saved, or that every excluded Catholic figure lacked genuine faith in Christ. It means the site's editorial witness must remain clear. The cost of confusing readers about the gospel is greater than the cost of omitting a debatable figure.
 
+This posture should also shape how we evangelize Catholics. We should speak with warmth, patience, and love toward Catholic neighbors, family members, coworkers, and friends — many of whom may sincerely revere Jesus and carry deep family, cultural, and communal loyalties. We should not begin by treating them as enemies or caricatures. But love requires clarity: assurance before God must rest in Christ's finished work, not in Christ plus sacramental merit, penance, Marian intercession, or the authority of Rome. The invitation is not merely to leave a label, but to come directly to Christ and receive the free grace promised in the gospel.
+
 ### Other traditions
 
 Eastern Orthodox and other traditions are evaluated with similar concern for gospel clarity, though the specific historical and theological issues may differ. We do not include or exclude by label alone in every case; we ask whether featuring the person will faithfully serve the gospel purpose of the site.
 
-## 7. Living and Recently Active Figures
+## 8. Living and Recently Active Figures
 
 Living figures require a higher bar because their story is still being written. We look for sustained public faithfulness over time and avoid using a fresh profession, baptism, or crisis conversion as immediate public validation.
 
@@ -96,7 +112,7 @@ For living or recently active figures, we are especially cautious when:
 
 This caution is not cynicism. It is pastoral prudence.
 
-## 8. Removal and Review
+## 9. Removal and Review
 
 The list is curated and revisable. We may remove or reclassify a person when new information emerges, when our standards become clearer, or when we conclude that an inclusion creates more confusion than clarity.
 
@@ -104,7 +120,7 @@ When removing someone, we should explain the decision as an editorial judgment, 
 
 We should not be embarrassed to revise. Better a humble correction than a confusing witness.
 
-## 9. Editorial Posture
+## 10. Editorial Posture
 
 We aim to be:
 
@@ -116,7 +132,7 @@ We aim to be:
 
 The goal is not to maximize the number of names on the site. The goal is to serve readers with a faithful, reverent, and gospel-clear witness.
 
-## 10. Research and Publication Process
+## 11. Research and Publication Process
 
 1. **Research** — gather primary-source evidence, credible secondary sources, and any material theological or public-witness concerns.
 2. **Assess** — ask whether the person's public witness clearly serves the site's evangelistic purpose.

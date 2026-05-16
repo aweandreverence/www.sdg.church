@@ -48,14 +48,14 @@ export default function SelectionGuidelinesPage() {
               sdg.church exists to glorify God by pointing people to Jesus
               Christ. The biographies are not a celebrity hall of fame or an
               encyclopedia of every admirable religious person. They are a
-              curated cloud of witnesses: examples of sinners saved by grace
-              whose lives, words, and work help readers see the beauty, truth,
-              and power of the gospel.
+              curated cloud of witnesses: signposts to Christ through stories of
+              grace, repentance, weakness, suffering, courage, failure,
+              forgiveness, and changed lives.
             </p>
             <p>
               Our hope is that readers would not stop at admiring a featured
-              person, but would ask: <em>Who is this Christ they trusted, loved,
-              proclaimed, and served?</em>
+              person, but would ask: <em>Who is this Christ who receives,
+              forgives, changes, sustains, and uses sinners like this?</em>
             </p>
           </Section>
 
@@ -74,6 +74,25 @@ export default function SelectionGuidelinesPage() {
               credible gospel clarity. But because this site has an evangelistic
               purpose, we do make theological and editorial judgments. Clarity
               about the gospel matters.
+            </p>
+          </Section>
+
+          <Section title="Not polished lives, but grace">
+            <p>
+              The site should not imply that Christianity is only for people
+              whose lives are already tidy, successful, respectable, or put
+              together. That would be false to the gospel and discouraging to
+              readers who know their own weakness.
+            </p>
+            <p>
+              We want stories that show conversion, not polish; repentance, not
+              perfection; weakness sustained by grace; costly obedience amid
+              suffering or failure; and visible fruit over time without
+              pretending saints are sinless heroes.
+            </p>
+            <p>
+              A strong biography should make Christ look sufficient, not make
+              the featured person look self-sufficient.
             </p>
           </Section>
 
@@ -153,6 +172,17 @@ export default function SelectionGuidelinesPage() {
               This is not a claim that no Roman Catholic can be saved. It is an
               editorial decision about clarity, witness, and the purpose of this
               site.
+            </p>
+            <p>
+              That clarity should make us more loving, not less. We want to
+              speak warmly and patiently to Catholic readers, family members,
+              coworkers, and friends. Many sincerely revere Jesus and carry deep
+              family, cultural, and communal loyalties. But love requires
+              clarity: assurance before God must rest in Christ&apos;s finished
+              work, not in Christ plus sacramental merit, penance, Marian
+              intercession, or the authority of Rome. The invitation is to come
+              directly to Christ and receive the free grace promised in the
+              gospel.
             </p>
           </Section>
 
