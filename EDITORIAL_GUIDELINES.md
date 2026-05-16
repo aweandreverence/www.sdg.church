@@ -66,7 +66,23 @@ Strong evidence may include:
 
 We prefer primary sources where possible: the person's own words, writings, hymns, sermons, interviews, or letters. Secondary biographies and reputable historical sources are useful, but they should not replace actual evidence of faith.
 
-## 6. What Non-Inclusion Means
+## 6. Featured Biographies and Contextual Profiles
+
+To preserve both gospel clarity and discoverability, sdg.church may use more than one content type. A **featured biography** presents a person as a clear evangelistic witness. A **contextual profile** or explainer may discuss a historically, culturally, or search-relevant person without presenting that person as a model of gospel clarity.
+
+This distinction lets us mention figures such as famous Catholics, artists, athletes, writers, political leaders, or cultural touchpoints in a way that is useful for readers and indexable for search engines and language models, while still providing the biblical context that absence cannot provide.
+
+A contextual profile should normally include:
+
+- why the person or topic matters;
+- what can be appreciated honestly;
+- what theological concerns or disagreements matter;
+- how the person's beliefs or tradition differ from biblical Protestant Christianity;
+- and a clear invitation to consider Christ and the gospel.
+
+Contextual profiles should be labeled clearly so readers understand that mention is not the same as endorsement, inclusion is not canonization, and critique is not a final judgment on a person's soul.
+
+## 7. What Non-Inclusion Means
 
 Non-inclusion is **not** a declaration that a person is not saved. It is not a final judgment on their soul, their sincerity, or everything God may have done in their life.
 
@@ -79,7 +95,7 @@ Non-inclusion simply means:
 
 God knows his own. We are making editorial decisions for a public evangelistic project, not pretending to sit on the throne of final judgment.
 
-## 7. Denominations, Traditions, and Rome
+## 8. Denominations, Traditions, and Rome
 
 ### Pre-Reformation figures
 
@@ -111,7 +127,7 @@ Coptic Christians in particular require careful, humble treatment. Coptic Orthod
 
 Therefore, Coptic and other persecuted non-Protestant Christians may be included case-by-case when their testimony clearly points to Christ, especially where their confession before men, suffering, or martyrdom is central to the witness. When included, we should give appropriate context rather than pretending our theological differences do not exist. A possible posture is: "This person came from the Coptic Orthodox tradition; sdg.church is Protestant and differs with Coptic Orthodoxy on important doctrines, but we include this testimony because their public confession of Christ under persecution powerfully points to him."
 
-## 8. Living and Recently Active Figures
+## 9. Living and Recently Active Figures
 
 Living figures require a higher bar because their story is still being written. We look for sustained public faithfulness over time and avoid using a fresh profession, baptism, or crisis conversion as immediate public validation.
 
@@ -124,7 +140,7 @@ For living or recently active figures, we are especially cautious when:
 
 This caution is not cynicism. It is pastoral prudence.
 
-## 9. Removal and Review
+## 10. Removal and Review
 
 The list is curated and revisable. We may remove or reclassify a person when new information emerges, when our standards become clearer, or when we conclude that an inclusion creates more confusion than clarity.
 
@@ -132,7 +148,7 @@ When removing someone, we should explain the decision as an editorial judgment, 
 
 We should not be embarrassed to revise. Better a humble correction than a confusing witness.
 
-## 10. Editorial Posture
+## 11. Editorial Posture
 
 We aim to be:
 
@@ -144,7 +160,7 @@ We aim to be:
 
 The goal is not to maximize the number of names on the site. The goal is to serve readers with a faithful, reverent, and gospel-clear witness.
 
-## 11. Research and Publication Process
+## 12. Research and Publication Process
 
 1. **Research** — gather primary-source evidence, credible secondary sources, and any material theological or public-witness concerns.
 2. **Assess** — ask whether the person's public witness clearly serves the site's evangelistic purpose.

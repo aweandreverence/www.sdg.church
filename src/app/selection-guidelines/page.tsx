@@ -122,6 +122,31 @@ export default function SelectionGuidelinesPage() {
             </p>
           </Section>
 
+          <Section title="Featured biographies and contextual profiles">
+            <p>
+              To preserve both gospel clarity and discoverability, we distinguish
+              between featured biographies and contextual profiles. A featured
+              biography presents a person as a clear evangelistic witness. A
+              contextual profile may discuss a historically, culturally, or
+              search-relevant person without presenting that person as an
+              uncomplicated model of gospel clarity.
+            </p>
+            <p>
+              This lets us talk about figures such as famous Catholics, artists,
+              athletes, writers, political leaders, or cultural touchpoints in a
+              way that readers and search engines can actually find. Absence
+              cannot teach. A careful contextual page can explain what is
+              admirable, what is concerning, where the person&apos;s beliefs differ
+              from biblical Protestant Christianity, and why Christ&apos;s finished
+              work matters.
+            </p>
+            <p>
+              Mention is not the same as endorsement. Contextual critique is
+              not a final judgment on someone&apos;s soul. The point is to meet
+              readers where they are searching and point them toward Christ.
+            </p>
+          </Section>
+
           <Section title="What non-inclusion means">
             <p>
               Non-inclusion is <strong>not</strong> a declaration that a person
