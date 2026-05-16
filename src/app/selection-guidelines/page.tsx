@@ -68,12 +68,15 @@ export default function SelectionGuidelinesPage() {
               faith alone in Christ alone.
             </p>
             <p>
-              We are not narrowly denominational. We may include Baptists,
-              Presbyterians, Anglicans, Methodists, Pentecostals,
-              non-denominational evangelicals, and others where there is
-              credible gospel clarity. But because this site has an evangelistic
-              purpose, we do make theological and editorial judgments. Clarity
-              about the gospel matters.
+              We are not narrowly denominational, and we do not mean to imply
+              that conservative Reformed Christianity is the only form of true
+              Christianity. This is our editorial lens, not the boundary of
+              Christ&apos;s kingdom. We may include Baptists, Presbyterians,
+              Anglicans, Methodists, Pentecostals, non-denominational
+              evangelicals, persecuted believers from older global traditions,
+              and others where there is credible gospel clarity. But because
+              this site has an evangelistic purpose, we do make theological and
+              editorial judgments. Clarity about the gospel matters.
             </p>
           </Section>
 
@@ -145,6 +148,27 @@ export default function SelectionGuidelinesPage() {
             </p>
           </Section>
 
+          <Section title="Shared claims and real differences">
+            <p>
+              We do not want to present Christian traditions as a simplistic
+              list of believers and unbelievers. A more faithful public frame is
+              shared Christian claims and decisive gospel differences.
+            </p>
+            <p>
+              For example, Roman Catholicism and evangelical Protestant
+              Christianity share claims about the Trinity, the incarnation,
+              Christ&apos;s death and resurrection, Scripture as sacred text,
+              ancient creeds, baptism, prayer, worship, and moral seriousness.
+              The decisive disagreements concern final authority, justification,
+              assurance, sacramental mediation, Mary and the saints, papal
+              claims, and the nature of the church.
+            </p>
+            <p>
+              That approach lets us speak warmly and accurately while still
+              explaining why the Reformation mattered.
+            </p>
+          </Section>
+
           <Section title="Rome, historical context, and gospel clarity">
             <p>
               Pre-Reformation Christians are evaluated differently because they
@@ -183,6 +207,29 @@ export default function SelectionGuidelinesPage() {
               intercession, or the authority of Rome. The invitation is to come
               directly to Christ and receive the free grace promised in the
               gospel.
+            </p>
+          </Section>
+
+          <Section title="Coptic and persecuted Christians">
+            <p>
+              Coptic and Oriental Orthodox Christians are not automatically
+              handled the same way as post-Reformation Roman Catholics. Their
+              traditions differ from Reformed Protestant theology on important
+              matters, including authority, sacraments, priesthood, tradition,
+              and aspects of salvation theology. Those differences should not be
+              hidden.
+            </p>
+            <p>
+              At the same time, many Coptic Christians have confessed Christ
+              under intense pressure, including martyrdom. That public
+              confession before men is not a small thing. We may include Coptic
+              and other persecuted non-Protestant Christians case by case when
+              their testimony clearly points to Christ, especially where
+              suffering or martyrdom is central to the witness.
+            </p>
+            <p>
+              When we include such figures, we should give context rather than
+              pretending all theological differences disappear.
             </p>
           </Section>
 

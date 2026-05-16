@@ -20,7 +20,7 @@ The site is written from a conservative, Reformed Protestant perspective. The na
 - **Solus Christus** — Christ alone is mediator, Savior, and Lord.
 - **Soli Deo Gloria** — all glory belongs to God alone.
 
-We are not narrowly denominational. We may include Baptists, Presbyterians, Anglicans, Methodists, Pentecostals, non-denominational evangelicals, and others where there is credible gospel clarity. But we do make theological judgments because the site has an evangelistic purpose. Clarity about the gospel matters.
+We are not narrowly denominational, and we should not imply that conservative Reformed Christianity is the only form of true Christianity. This is our editorial lens, not the boundary of Christ's kingdom. We may include Baptists, Presbyterians, Anglicans, Methodists, Pentecostals, non-denominational evangelicals, persecuted believers from older global traditions, and others where there is credible gospel clarity. But we do make theological judgments because the site has an evangelistic purpose. Clarity about the gospel matters.
 
 ## 3. Core Convictions We Look For
 
@@ -85,6 +85,14 @@ God knows his own. We are making editorial decisions for a public evangelistic p
 
 Pre-Reformation Christians are evaluated differently. Augustine, Athanasius, early martyrs, medieval theologians, and other pre-Reformation figures lived before the later Protestant/Roman Catholic divide. We treat them as part of the broad historical Christian inheritance while still evaluating their doctrine, life, and witness honestly.
 
+### A scholarly, non-combative comparison
+
+When explaining differences with Rome or other traditions, we should avoid framing the issue as a simplistic list of "Christians vs. non-Christians." A better public frame is: **shared Christian claims and decisive gospel differences**.
+
+For Roman Catholicism and evangelical Protestant Christianity, we can acknowledge real shared ground: the Trinity, the incarnation, Christ's death and resurrection, Scripture as sacred text, ancient creeds, baptism, prayer, worship, and many people who sincerely confess Christ. Then we can explain the decisive disagreements: final authority, justification, assurance, sacramental mediation, the role of Mary and the saints, papal claims, and the nature of the church.
+
+This approach is more scholarly, more charitable, and more evangelistically useful than treating every comparison as a tribal boundary marker. It lets us be warm toward Catholic neighbors while remaining clear about why the Reformation mattered.
+
 ### Post-Reformation Roman Catholics
 
 For post-Reformation Roman Catholics, we use a stricter public-site standard.
@@ -95,9 +103,13 @@ This does **not** mean we are declaring that no Roman Catholic can be saved, or 
 
 This posture should also shape how we evangelize Catholics. We should speak with warmth, patience, and love toward Catholic neighbors, family members, coworkers, and friends — many of whom may sincerely revere Jesus and carry deep family, cultural, and communal loyalties. We should not begin by treating them as enemies or caricatures. But love requires clarity: assurance before God must rest in Christ's finished work, not in Christ plus sacramental merit, penance, Marian intercession, or the authority of Rome. The invitation is not merely to leave a label, but to come directly to Christ and receive the free grace promised in the gospel.
 
-### Other traditions
+### Other traditions, including Coptic and Oriental Orthodox Christians
 
-Eastern Orthodox and other traditions are evaluated with similar concern for gospel clarity, though the specific historical and theological issues may differ. We do not include or exclude by label alone in every case; we ask whether featuring the person will faithfully serve the gospel purpose of the site.
+Eastern Orthodox, Coptic/Oriental Orthodox, and other traditions are evaluated with similar concern for gospel clarity, though the specific historical, theological, and pastoral issues differ from Rome. We do not include or exclude by label alone in every case; we ask whether featuring the person will faithfully serve the gospel purpose of the site.
+
+Coptic Christians in particular require careful, humble treatment. Coptic Orthodoxy differs from Reformed Protestant theology on important matters, including ecclesial authority, sacraments, priesthood, tradition, and aspects of salvation theology. Yet Coptic Christians have also confessed Christ under intense pressure, including martyrdom at the hands of hostile neighbors, extremists, or persecuting powers. Such public confession of Christ is not a small thing.
+
+Therefore, Coptic and other persecuted non-Protestant Christians may be included case-by-case when their testimony clearly points to Christ, especially where their confession before men, suffering, or martyrdom is central to the witness. When included, we should give appropriate context rather than pretending our theological differences do not exist. A possible posture is: "This person came from the Coptic Orthodox tradition; sdg.church is Protestant and differs with Coptic Orthodoxy on important doctrines, but we include this testimony because their public confession of Christ under persecution powerfully points to him."
 
 ## 8. Living and Recently Active Figures
 
