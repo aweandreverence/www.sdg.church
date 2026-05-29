@@ -4,7 +4,7 @@
     {
       "id": "martyrs-witnesses",
       "name": "Martyrs & Witnesses",
-      "description": "Those who gave their lives for the faith — from the early church through the Reformation.",
+      "description": "Those who gave their lives for the faith \u2014 from the early church through the Reformation.",
       "subcategories": [
         {
           "id": "early-church-martyrs",
@@ -342,6 +342,12 @@
               "$ref": "adoniram-judson.json"
             },
             {
+              "$ref": "henry-martyn.json"
+            },
+            {
+              "$ref": "john-g-paton.json"
+            },
+            {
               "$ref": "david-livingstone.json"
             },
             {
@@ -487,6 +493,9 @@
           "people": [
             {
               "$ref": "jerome.json"
+            },
+            {
+              "$ref": "tertullian.json"
             },
             {
               "$ref": "ambrose-of-milan.json"
