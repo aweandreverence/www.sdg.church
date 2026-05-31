@@ -117,16 +117,10 @@
               "$ref": "cs-lewis.json"
             },
             {
-              "$ref": "jrr-tolkien.json"
-            },
-            {
               "$ref": "john-milton.json"
             },
             {
               "$ref": "fyodor-dostoevsky.json"
-            },
-            {
-              "$ref": "gk-chesterton.json"
             },
             {
               "$ref": "john-bunyan.json"
@@ -159,19 +153,10 @@
               "$ref": "isaac-newton.json"
             },
             {
-              "$ref": "blaise-pascal.json"
-            },
-            {
               "$ref": "michael-faraday.json"
             },
             {
-              "$ref": "gregor-mendel.json"
-            },
-            {
               "$ref": "george-washington-carver.json"
-            },
-            {
-              "$ref": "louis-pasteur.json"
             },
             {
               "$ref": "johannes-kepler.json"
@@ -202,9 +187,6 @@
             },
             {
               "$ref": "georg-cantor.json"
-            },
-            {
-              "$ref": "augustin-louis-cauchy.json"
             }
           ]
         },
@@ -213,16 +195,10 @@
           "name": "Artists & Architects",
           "people": [
             {
-              "$ref": "michelangelo-buonarroti.json"
-            },
-            {
               "$ref": "rembrandt-van-rijn.json"
             },
             {
               "$ref": "albrecht-drer.json"
-            },
-            {
-              "$ref": "antoni-gaud.json"
             }
           ]
         },
@@ -601,9 +577,6 @@
               "$ref": "david-robinson.json"
             },
             {
-              "$ref": "simone-biles.json"
-            },
-            {
               "$ref": "gabby-douglas.json"
             },
             {
@@ -701,9 +674,6 @@
             },
             {
               "$ref": "candace-cameron-bure.json"
-            },
-            {
-              "$ref": "jim-caviezel.json"
             },
             {
               "$ref": "chuck-norris.json"

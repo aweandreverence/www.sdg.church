@@ -44,6 +44,14 @@ export default function BiographiesPage() {
           their lives for the gospel to reformers who stood for truth — these
           are their stories.
         </p>
+        <p>
+          This list is curated for gospel clarity, not as a final judgment on
+          anyone&apos;s soul. Read our{' '}
+          <Link href="/selection-guidelines" className={styles.refLink}>
+            selection guidelines
+          </Link>{' '}
+          to understand how inclusion decisions are made.
+        </p>
       </div>
 
       <BiographyLegend

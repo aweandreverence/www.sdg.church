@@ -12,21 +12,9 @@
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
   },
   {
-    "slug": "jrr-tolkien",
-    "name": "J.R.R. Tolkien",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/440px-J._R._R._Tolkien%2C_ca._1925.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  },
-  {
     "slug": "fyodor-dostoevsky",
     "name": "Fyodor Dostoevsky",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dostoevsky_1872.jpg/440px-Dostoevsky_1872.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
-  },
-  {
-    "slug": "gk-chesterton",
-    "name": "G.K. Chesterton",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gilbert_Chesterton.jpg/440px-Gilbert_Chesterton.jpg",
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)"
   },
   {
@@ -49,20 +37,6 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/440px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg",
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
     "local_path": "/images/bios/isaac-newton.jpg"
-  },
-  {
-    "slug": "blaise-pascal",
-    "name": "Blaise Pascal",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/440px-Blaise_Pascal_Versailles.JPG",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/blaise-pascal.jpg"
-  },
-  {
-    "slug": "gregor-mendel",
-    "name": "Gregor Mendel",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/440px-Gregor_Mendel_2.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/gregor-mendel.jpg"
   },
   {
     "slug": "robert-boyle",
@@ -91,13 +65,6 @@
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Georg_Cantor2.jpg/440px-Georg_Cantor2.jpg",
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
     "local_path": "/images/bios/georg-cantor.jpg"
-  },
-  {
-    "slug": "michelangelo-buonarroti",
-    "name": "Michelangelo Buonarroti",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/440px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/michelangelo-buonarroti.jpg"
   },
   {
     "slug": "rembrandt-van-rijn",
@@ -220,14 +187,6 @@
     "local_path": "/images/bios/george-washington-carver.jpg"
   },
   {
-    "slug": "louis-pasteur",
-    "name": "Louis Pasteur",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/500px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Louis_Pasteur",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/louis-pasteur.jpg"
-  },
-  {
     "slug": "johannes-kepler",
     "name": "Johannes Kepler",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
@@ -253,19 +212,11 @@
   },
   {
     "slug": "albrecht-drer",
-    "name": "Albrecht Dürer",
+    "name": "Albrecht D\u00fcrer",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/500px-D%C3%BCrer_Alte_Pinakothek.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Albrecht_Dürer",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Albrecht_D\u00fcrer",
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
     "local_path": "/images/bios/albrecht-drer.jpg"
-  },
-  {
-    "slug": "antoni-gaud",
-    "name": "Antoni Gaudí",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Antoni_Gaudi_1878.jpg/500px-Antoni_Gaudi_1878.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/antoni-gaud.jpg"
   },
   {
     "slug": "martin-luther",
@@ -381,9 +332,9 @@
   },
   {
     "slug": "george-mller",
-    "name": "George Müller",
+    "name": "George M\u00fcller",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/George_Muller.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/George_Müller",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/George_M\u00fcller",
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
     "local_path": "/images/bios/george-mller.jpg"
   },
@@ -516,14 +467,6 @@
     "local_path": "/images/bios/david-robinson.jpg"
   },
   {
-    "slug": "simone-biles",
-    "name": "Simone Biles",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Simone_Biles_National_Team_2024.jpg/500px-Simone_Biles_National_Team_2024.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Simone_Biles",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/simone-biles.jpg"
-  },
-  {
     "slug": "gabby-douglas",
     "name": "Gabby Douglas",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gabby_Douglas_2016_Summer_Olympics_Gold_Medal.jpg/500px-Gabby_Douglas_2016_Summer_Olympics_Gold_Medal.jpg",
@@ -618,14 +561,6 @@
     "wikipedia_article": "https://en.wikipedia.org/wiki/Candace_Cameron_Bure",
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
     "local_path": "/images/bios/candace-cameron-bure.jpg"
-  },
-  {
-    "slug": "jim-caviezel",
-    "name": "Jim Caviezel",
-    "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jim_Caviezel_at_the_2013_SDCC.jpg/500px-Jim_Caviezel_at_the_2013_SDCC.jpg",
-    "wikipedia_article": "https://en.wikipedia.org/wiki/Jim_Caviezel",
-    "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
-    "local_path": "/images/bios/jim-caviezel.jpg"
   },
   {
     "slug": "kirk-cameron",
