@@ -1,5 +1,7 @@
 # www.sdg.church
 
+[![Deploy GitHub Pages](https://github.com/aweandreverence/www.sdg.church/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/aweandreverence/www.sdg.church/actions/workflows/deploy-pages.yml)
+
 https://www.sdg.church — *Soli Deo Gloria* — A gospel evangelism site with testimonies, Scripture, and the good news of Jesus Christ.
 
 ## Tech Stack
@@ -8,7 +10,7 @@ https://www.sdg.church — *Soli Deo Gloria* — A gospel evangelism site with t
 - **Language:** TypeScript
 - **Styling:** Bootstrap 5 + SCSS
 - **Icons:** FontAwesome 6
-- **Deployment:** Static export to GitHub Pages
+- **Deployment:** Static export committed to `docs/`, deployed to GitHub Pages via GitHub Actions
 
 ## Installation
 
@@ -60,6 +62,12 @@ To add content, edit `data/content.json` and rebuild.
 1. Run the dev server: `make dev`
 2. Open http://localhost:3000
 3. Before committing, verify the build: `make build`
+
+## Deployment
+
+The production site is a committed static export in `docs/`. Merging changes to `main` triggers the `Deploy GitHub Pages` workflow, which uploads `docs/` to GitHub Pages without checking out private submodules.
+
+After this migration PR is merged, update the repository settings once: **Settings → Pages → Build and deployment → Source → GitHub Actions**, then verify the first workflow run succeeds and publishes https://www.sdg.church.
 
 ## License
 

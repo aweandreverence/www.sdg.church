@@ -5,7 +5,7 @@ Instructions for AI agents and LLMs working on this codebase.
 ## Architecture
 
 - **Framework:** Next.js (static export via `output: 'export'`)
-- **Hosting:** GitHub Pages (deploy = commit `docs/` to `main`, push)
+- **Hosting:** GitHub Pages (commit `docs/` to `main`; Actions deploys the committed artifact)
 - **Styling:** SCSS modules (`src/styles/common.module.scss`)
 - **Data:** JSON files in `data/` — loaded at build time (SSG)
 
@@ -13,7 +13,7 @@ Instructions for AI agents and LLMs working on this codebase.
 
 ```bash
 make build          # Clean build → outputs to docs/
-make deploy         # Build + commit docs/ + push (deploys to GitHub Pages)
+make deploy         # Legacy build + commit docs/ + push flow; prefer PR merge to main + Actions
 make dev            # Dev server on port 3000
 make lint           # ESLint
 make typecheck      # TypeScript check
@@ -61,7 +61,7 @@ make build    # Must succeed with 0 errors
 ### 5. Git workflow
 - **Never commit directly to `main`** — use branches + PRs
 - **Bot pushes:** Use `selah` remote (GitHub App token via `scripts/selah-push.sh`)
-- **Deploy commits:** Only via `make deploy` on `main` after PR merge
+- **Deploy commits:** Merge PRs to `main`; the `Deploy GitHub Pages` Actions workflow publishes committed `docs/`
 
 ## Data Conventions
 
@@ -78,9 +78,14 @@ Common tags: `conversion`, `atheism`, `faith`, `deliverance`, `addiction`, `musi
 ## Testing Checklist (before deploy)
 
 - [ ] `make build` succeeds
+- [ ] For deployment workflow changes, confirm `.github/workflows/deploy-pages.yml` still uploads `docs/` and targets the default branch
 - [ ] Page count in build output matches expected (currently ~210)
 - [ ] Spot-check `/testimonies` page — all video thumbnails load
 - [ ] Spot-check at least 2 video detail pages
 - [ ] Spot-check at least 2 biography pages with videos
 - [ ] If slugs were renamed: verify old URLs redirect properly
 - [ ] No broken images (YouTube thumbnail URLs use videoId — verify IDs are correct)
+
+## GitHub Pages Actions migration note
+
+After the deployment workflow PR is merged, switch the repository setting at **Settings → Pages → Build and deployment → Source** from branch-based Pages to **GitHub Actions**, then verify the first `Deploy GitHub Pages` workflow run completes successfully.
