@@ -72,6 +72,7 @@ All biography images are used under public domain or Creative Commons licenses f
 | Manny Pacquiao | [Wikimedia Commons](https://en.wikipedia.org/wiki/Manny_Pacquiao) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Marco Rubio | [Wikimedia Commons](https://en.wikipedia.org/wiki/Marco_Rubio) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Marcus Luttrell | [Wikimedia Commons](https://en.wikipedia.org/wiki/Marcus_Luttrell) | Public Domain / CC BY-SA (Wikimedia Commons) |
+| Mauricio Ruffy | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Maurício_Ruffy_2025.jpg) | CC BY 3.0 (Wikimedia Commons, photo by Sexto Round) |
 | Mark Wahlberg | [Wikimedia Commons](https://en.wikipedia.org/wiki/Mark_Wahlberg) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Martin Luther | [Wikimedia Commons](https://en.wikipedia.org/wiki/Martin_Luther) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | Michael Faraday | [Wikimedia Commons](https://en.wikipedia.org/wiki/Michael_Faraday) | Public Domain / CC BY-SA (Wikimedia Commons) |
@@ -98,4 +99,4 @@ All biography images are used under public domain or Creative Commons licenses f
 | William Wilberforce | [Wikimedia Commons](https://en.wikipedia.org/wiki/William_Wilberforce) | Public Domain / CC BY-SA (Wikimedia Commons) |
 | William Wilberforce | [Wikimedia Commons](https://en.wikipedia.org/wiki/William_Wilberforce) | Public Domain / CC BY-SA (Wikimedia Commons) |
 
-*Last updated: 2026-03-24*
+*Last updated: 2026-06-24*
