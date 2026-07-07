@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: buildTitle('A Call to Repentance'),
   description:
     'The urgency of the gospel — why today is the day of salvation. From the free gift of grace to the cost of discipleship.',
+  alternates: { canonical: '/repentance' },
 };
 
 export default function RepentancePage() {

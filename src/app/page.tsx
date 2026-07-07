@@ -1,8 +1,16 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getTestimonies } from '@/lib/data';
 import { VideoCard } from '@/components/VideoCard';
 import { FadeInSection } from '@/components/FadeInSection';
+import { SITE_DESCRIPTION, SITE_TITLE } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
+
+export const metadata: Metadata = {
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  alternates: { canonical: '/' },
+};
 
 export default function HomePage() {
   const testimonies = getTestimonies().slice(0, 3);

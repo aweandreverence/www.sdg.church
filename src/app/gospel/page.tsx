@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   title: buildTitle('The Gospel'),
   description:
     'The gospel of Jesus Christ explained clearly — God is holy, we are sinful, Christ is the Savior, repent and believe.',
+  alternates: { canonical: '/gospel' },
 };
 
 export default function GospelPage() {

@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: buildTitle('Scripture'),
   description:
     'Bible passages about the gospel, salvation, repentance, and the grace of God. Let the Word of God speak to your heart.',
+  alternates: { canonical: '/scripture' },
 };
 
 export default function ScripturePage() {

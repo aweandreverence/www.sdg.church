@@ -27,6 +27,7 @@ export async function generateMetadata({
   return {
     title: buildTitle(video.title),
     description: video.description,
+    alternates: { canonical: `/videos/${slug}` },
   };
 }
 

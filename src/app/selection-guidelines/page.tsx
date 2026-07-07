@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: buildTitle('Selection Guidelines'),
   description:
     'How sdg.church selects biographies and testimonies, and what inclusion or non-inclusion means.',
+  alternates: { canonical: '/selection-guidelines' },
 };
 
 function Section({

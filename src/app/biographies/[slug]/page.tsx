@@ -28,6 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title: buildTitle(`${person.name} — ${person.title}`),
     description: `${person.name} (${person.years}) — ${person.tagline}. ${person.bio.slice(0, 150)}…`,
+    alternates: { canonical: `/biographies/${slug}` },
   };
 }
 

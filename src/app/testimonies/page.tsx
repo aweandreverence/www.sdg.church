@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: buildTitle('Testimonies'),
   description:
     'Real stories of lives transformed by the gospel of Jesus Christ. Watch testimonies of conversion, deliverance, and new life.',
+  alternates: { canonical: '/testimonies' },
 };
 
 export default function TestimoniesPage() {

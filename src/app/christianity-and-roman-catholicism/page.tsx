@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: buildTitle('Roman Catholicism and the Gospel'),
   description:
     'A scholarly, non-combative Protestant explanation of shared Christian claims and decisive differences with Roman Catholicism.',
+  alternates: { canonical: '/christianity-and-roman-catholicism' },
 };
 
 function Section({

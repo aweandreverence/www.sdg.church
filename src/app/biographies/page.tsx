@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   title: buildTitle('Biographies of Faithful Saints'),
   description:
     'Biographies of faithful Christians throughout history who glorified God through extraordinary works — from composers and scientists to missionaries and reformers.',
+  alternates: { canonical: '/biographies' },
 };
 
 function getInitials(name: string): string {
