@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { buildTitle } from '@/lib/seo';
+import { buildTitle, siteMetadata } from '@/lib/seo';
 import {
   getAllPeopleSlugs,
   getPersonBySlug,
@@ -25,10 +25,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!person) {
     return { title: buildTitle('Not Found') };
   }
-  return {
-    title: buildTitle(`${person.name} — ${person.title}`),
+  return siteMetadata({
+    title: `${person.name} — ${person.title}`,
     description: `${person.name} (${person.years}) — ${person.tagline}. ${person.bio.slice(0, 150)}…`,
-  };
+    path: `/biographies/${person.slug}`,
+    images: person.image ? [person.image] : undefined,
+  });
 }
 
 function getInitials(name: string): string {

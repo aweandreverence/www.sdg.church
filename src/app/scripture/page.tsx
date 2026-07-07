@@ -1,14 +1,15 @@
 import type { Metadata } from 'next';
 import { getScriptures, getScriptureThemes } from '@/lib/data';
 import { ScriptureCard } from '@/components/ScriptureCard';
-import { buildTitle } from '@/lib/seo';
+import { siteMetadata } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
 
-export const metadata: Metadata = {
-  title: buildTitle('Scripture'),
+export const metadata: Metadata = siteMetadata({
+  title: 'Scripture',
   description:
     'Bible passages about the gospel, salvation, repentance, and the grace of God. Let the Word of God speak to your heart.',
-};
+  path: '/scripture',
+});
 
 export default function ScripturePage() {
   const scriptures = getScriptures();

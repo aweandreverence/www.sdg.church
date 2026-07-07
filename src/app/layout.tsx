@@ -8,18 +8,13 @@ import '@styles/globals.scss';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { BootstrapClient } from '@/components/BootstrapClient';
-import {
-  SITE_TITLE,
-  SITE_DESCRIPTION,
-  GOOGLE_ANALYTICS_TRACKING_ID,
-} from '@/lib/seo';
+import { GOOGLE_ANALYTICS_TRACKING_ID, siteMetadata } from '@/lib/seo';
 
 // Prevent FontAwesome from adding CSS automatically (we import it above)
 config.autoAddCss = false;
 
 export const metadata: Metadata = {
-  title: SITE_TITLE,
-  description: SITE_DESCRIPTION,
+  ...siteMetadata(),
   icons: {
     icon: '/favicon.ico',
   },

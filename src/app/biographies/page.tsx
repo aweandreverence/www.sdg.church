@@ -1,15 +1,16 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
-import { buildTitle } from '@/lib/seo';
+import { siteMetadata } from '@/lib/seo';
 import { getBiographyCategories } from '@/lib/data';
 import BiographyLegend from '@/components/BiographyLegend';
 import styles from '@styles/common.module.scss';
 
-export const metadata: Metadata = {
-  title: buildTitle('Biographies of Faithful Saints'),
+export const metadata: Metadata = siteMetadata({
+  title: 'Biographies of Faithful Saints',
   description:
     'Biographies of faithful Christians throughout history who glorified God through extraordinary works — from composers and scientists to missionaries and reformers.',
-};
+  path: '/biographies',
+});
 
 function getInitials(name: string): string {
   return name

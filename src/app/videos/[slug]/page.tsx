@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getVideos, getVideoById, getPersonForVideo } from '@/lib/data';
 import { youTubeEmbedUrl } from '@/lib/youtube';
-import { buildTitle } from '@/lib/seo';
+import { buildTitle, siteMetadata } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
 
 interface VideoPageProps {
@@ -24,10 +24,12 @@ export async function generateMetadata({
   if (!video) {
     return { title: buildTitle('Video Not Found') };
   }
-  return {
-    title: buildTitle(video.title),
+  return siteMetadata({
+    title: video.title,
     description: video.description,
-  };
+    path: `/videos/${video.id}`,
+    images: [`https://img.youtube.com/vi/${video.videoId}/hqdefault.jpg`],
+  });
 }
 
 export default async function VideoPage({ params }: VideoPageProps) {

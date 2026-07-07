@@ -1,12 +1,13 @@
 import type { Metadata } from 'next';
-import { buildTitle } from '@/lib/seo';
+import { siteMetadata } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
 
-export const metadata: Metadata = {
-  title: buildTitle('Selection Guidelines'),
+export const metadata: Metadata = siteMetadata({
+  title: 'Selection Guidelines',
   description:
     'How sdg.church selects biographies and testimonies, and what inclusion or non-inclusion means.',
-};
+  path: '/selection-guidelines',
+});
 
 function Section({
   title,

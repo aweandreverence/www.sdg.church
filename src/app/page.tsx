@@ -1,8 +1,12 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
+import { siteMetadata } from '@/lib/seo';
 import { getTestimonies } from '@/lib/data';
 import { VideoCard } from '@/components/VideoCard';
 import { FadeInSection } from '@/components/FadeInSection';
 import styles from '@styles/common.module.scss';
+
+export const metadata: Metadata = siteMetadata();
 
 export default function HomePage() {
   const testimonies = getTestimonies().slice(0, 3);
