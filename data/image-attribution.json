@@ -713,5 +713,13 @@
     "wikipedia_article": "https://en.wikipedia.org/wiki/Charlie_Kirk_(activist)",
     "license": "Public Domain / CC BY-SA (Wikimedia Commons)",
     "local_path": "/images/bios/charlie-kirk.jpg"
+  },
+  {
+    "slug": "mauricio-ruffy",
+    "name": "Mauricio Ruffy",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Maurício_Ruffy_2025.jpg",
+    "wikipedia_article": "https://en.wikipedia.org/wiki/Mauricio_Ruffy",
+    "license": "CC BY 3.0 (Wikimedia Commons, photo by Sexto Round)",
+    "local_path": "/images/bios/mauricio-ruffy.jpg"
   }
 ]

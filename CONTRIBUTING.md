@@ -39,8 +39,10 @@ make dev        # Start dev server at http://localhost:3000
 
 ```bash
 make build      # Build static site to docs/
-make deploy     # Build + commit + push (GitHub Pages)
+make deploy     # Legacy build + commit + push flow; prefer PR merge to main + Actions
 ```
+
+Production deploys from the committed `docs/` directory via the `Deploy GitHub Pages` workflow after changes land on `main`. After this workflow migration is merged, update **Settings → Pages → Build and deployment → Source** to **GitHub Actions** and verify the first workflow run succeeds.
 
 ### Pre-deploy checks
 - Build must succeed
@@ -53,7 +55,7 @@ make deploy     # Build + commit + push (GitHub Pages)
 1. Create a branch (or worktree): `git worktree add ~/.worktrees/www.sdg.church/feat/my-feature -b feat/my-feature main`
 2. Make changes, commit
 3. Push and open a PR against `main`
-4. After merge: `make deploy` from `main`
+4. After merge: verify the `Deploy GitHub Pages` workflow publishes the committed `docs/` site from `main`
 
 ## File Naming Conventions
 

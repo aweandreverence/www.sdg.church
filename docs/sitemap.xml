@@ -846,6 +846,11 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://www.sdg.church/biographies/mauricio-ruffy/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://www.sdg.church/biographies/lecrae/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -1252,6 +1257,11 @@
 </url>
 <url>
 <loc>https://www.sdg.church/videos/lee-strobel--case-for-christ/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://www.sdg.church/videos/mauricio-ruffy--jesus-saved-my-life/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>

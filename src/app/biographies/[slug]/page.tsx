@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { buildTitle } from '@/lib/seo';
+import { buildSeoMetadata, buildTitle } from '@/lib/seo';
 import {
   getAllPeopleSlugs,
   getPersonBySlug,
@@ -25,11 +25,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!person) {
     return { title: buildTitle('Not Found') };
   }
-  return {
-    title: buildTitle(`${person.name} — ${person.title}`),
+  return buildSeoMetadata({
+    title: `${person.name} — ${person.title}`,
     description: `${person.name} (${person.years}) — ${person.tagline}. ${person.bio.slice(0, 150)}…`,
-    alternates: { canonical: `/biographies/${slug}` },
-  };
+    path: `/biographies/${slug}`,
+  });
 }
 
 function getInitials(name: string): string {

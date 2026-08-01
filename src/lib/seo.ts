@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import slugify from 'slugify';
 
 export const GOOGLE_ANALYTICS_TRACKING_ID = 'G-H3170C5SMW';
@@ -21,4 +22,41 @@ export function toSlug(name: string): string {
  */
 export function buildTitle(title: string): string {
   return `${title} | ${SITE_TITLE}`;
+}
+
+interface SeoMetadataOptions {
+  title?: string;
+  description?: string;
+  path: string;
+  appendSiteTitle?: boolean;
+}
+
+/**
+ * Build consistent canonical, Open Graph, and Twitter metadata for a page.
+ */
+export function buildSeoMetadata({
+  title = SITE_TITLE,
+  description = SITE_DESCRIPTION,
+  path,
+  appendSiteTitle = true,
+}: SeoMetadataOptions): Metadata {
+  const metadataTitle = appendSiteTitle ? buildTitle(title) : title;
+
+  return {
+    title: metadataTitle,
+    description,
+    alternates: { canonical: path },
+    openGraph: {
+      type: 'website',
+      url: path,
+      siteName: SITE_TITLE,
+      title: metadataTitle,
+      description,
+    },
+    twitter: {
+      card: 'summary',
+      title: metadataTitle,
+      description,
+    },
+  };
 }

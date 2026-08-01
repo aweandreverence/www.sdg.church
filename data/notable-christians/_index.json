@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12",
+  "lastUpdated": "2026-06-24",
   "categories": [
     {
       "id": "martyrs-witnesses",
@@ -602,6 +602,9 @@
             },
             {
               "$ref": "treveyon-henderson.json"
+            },
+            {
+              "$ref": "mauricio-ruffy.json"
             }
           ]
         },
