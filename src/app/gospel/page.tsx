@@ -1,4 +1,3 @@
-import type { Metadata } from 'next';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import {
   faCrown,
@@ -7,17 +6,18 @@ import {
   faRotateLeft,
 } from '@fortawesome/free-solid-svg-icons';
 import { getGospelSections } from '@/lib/data';
-import { buildTitle } from '@/lib/seo';
+import { buildSeoMetadata } from '@/lib/seo';
 import { GospelSectionCard } from '@/components/GospelSectionCard';
 import styles from '@styles/common.module.scss';
 
 library.add(faCrown, faHeartCrack, faCross, faRotateLeft);
 
-export const metadata: Metadata = {
-  title: buildTitle('The Gospel'),
+export const metadata = buildSeoMetadata({
+  title: 'The Gospel',
   description:
     'The gospel of Jesus Christ explained clearly — God is holy, we are sinful, Christ is the Savior, repent and believe.',
-};
+  path: '/gospel',
+});
 
 export default function GospelPage() {
   const sections = getGospelSections();

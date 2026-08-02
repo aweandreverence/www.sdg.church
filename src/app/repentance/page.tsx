@@ -1,12 +1,12 @@
-import type { Metadata } from 'next';
-import { buildTitle } from '@/lib/seo';
+import { buildSeoMetadata } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
 
-export const metadata: Metadata = {
-  title: buildTitle('A Call to Repentance'),
+export const metadata = buildSeoMetadata({
+  title: 'A Call to Repentance',
   description:
     'The urgency of the gospel — why today is the day of salvation. From the free gift of grace to the cost of discipleship.',
-};
+  path: '/repentance',
+});
 
 export default function RepentancePage() {
   return (

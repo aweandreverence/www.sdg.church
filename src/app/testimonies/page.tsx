@@ -1,14 +1,14 @@
-import type { Metadata } from 'next';
 import { getTestimonies } from '@/lib/data';
 import { VideoCard } from '@/components/VideoCard';
-import { buildTitle } from '@/lib/seo';
+import { buildSeoMetadata } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
 
-export const metadata: Metadata = {
-  title: buildTitle('Testimonies'),
+export const metadata = buildSeoMetadata({
+  title: 'Testimonies',
   description:
     'Real stories of lives transformed by the gospel of Jesus Christ. Watch testimonies of conversion, deliverance, and new life.',
-};
+  path: '/testimonies',
+});
 
 export default function TestimoniesPage() {
   const testimonies = getTestimonies();

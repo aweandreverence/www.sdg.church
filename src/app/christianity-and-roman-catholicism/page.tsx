@@ -1,13 +1,13 @@
-import type { Metadata } from 'next';
 import Link from 'next/link';
-import { buildTitle } from '@/lib/seo';
+import { buildSeoMetadata } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
 
-export const metadata: Metadata = {
-  title: buildTitle('Roman Catholicism and the Gospel'),
+export const metadata = buildSeoMetadata({
+  title: 'Roman Catholicism and the Gospel',
   description:
     'A scholarly, non-combative Protestant explanation of shared Christian claims and decisive differences with Roman Catholicism.',
-};
+  path: '/christianity-and-roman-catholicism',
+});
 
 function Section({
   title,

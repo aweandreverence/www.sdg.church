@@ -2,7 +2,15 @@ import Link from 'next/link';
 import { getTestimonies } from '@/lib/data';
 import { VideoCard } from '@/components/VideoCard';
 import { FadeInSection } from '@/components/FadeInSection';
+import { buildSeoMetadata, SITE_DESCRIPTION, SITE_TITLE } from '@/lib/seo';
 import styles from '@styles/common.module.scss';
+
+export const metadata = buildSeoMetadata({
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  path: '/',
+  appendSiteTitle: false,
+});
 
 export default function HomePage() {
   const testimonies = getTestimonies().slice(0, 3);

@@ -9,6 +9,7 @@ import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { BootstrapClient } from '@/components/BootstrapClient';
 import {
+  SITE_URL,
   SITE_TITLE,
   SITE_DESCRIPTION,
   GOOGLE_ANALYTICS_TRACKING_ID,
@@ -18,8 +19,21 @@ import {
 config.autoAddCss = false;
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
+  openGraph: {
+    type: 'website',
+    url: '/',
+    siteName: SITE_TITLE,
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
+  twitter: {
+    card: 'summary',
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
   icons: {
     icon: '/favicon.ico',
   },
