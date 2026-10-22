@@ -1,0 +1,52 @@
+{
+  "name": "Brock Purdy",
+  "years": "December 27, 1999 – present",
+  "title": "Professional Football Quarterback",
+  "bio": "Brock Purdy is an American football quarterback who played for Iowa State before the San Francisco 49ers selected him with the final pick of the 2022 NFL draft. He became the team’s starting quarterback during his rookie season and later played in Super Bowl LVIII. His public interviews also describe a source of identity that does not depend on football: faith in Jesus Christ.",
+  "faith": "Purdy’s public witness predates his NFL career: a 2021 Sports Spectrum interview discussed the importance of Christ in his life and his desire to live set apart from the world. In a 2023 interview, quoted by Sports Spectrum in January 2024, he affirmed that Jesus died for his sins and rose again, and said his identity must be in Christ rather than football. In February 2024, he explained that his prayers during games were not requests to win, but for peace, steadfastness, and the Holy Spirit’s guidance. Describing his daily reading of Psalm 23, he said, “I already have what I need from the Good Shepherd in Jesus.” That is Purdy’s reflection on the psalm, not a quotation of its text. He also described fellowship and Bible studies with fellow believers on the team as important support amid the pressures of professional sport. His testimony points to contentment in Christ, not athletic achievement as proof of God’s favor.",
+  "slug": "brock-purdy",
+  "tagline": "Finding identity and contentment in Christ, not the scoreboard",
+  "image": "",
+  "videos": [
+    {
+      "title": "Brock Purdy on prayer, peace, and Psalm 23",
+      "url": "https://www.youtube.com/watch?v=Nnu9hSNpYe8",
+      "platform": "youtube",
+      "videoId": "Nnu9hSNpYe8",
+      "note": "Sports Spectrum interview linked and quoted in its February 7, 2024 article."
+    },
+    {
+      "title": "Brock Purdy on faith, identity, and fellowship",
+      "url": "https://www.youtube.com/watch?v=6Wb3g6Yl3Gw",
+      "platform": "youtube",
+      "videoId": "6Wb3g6Yl3Gw",
+      "note": "2023 Sports Spectrum interview, quoted in its January 29 and February 7, 2024 articles."
+    }
+  ],
+  "sources": [
+    {
+      "type": "website",
+      "title": "Sports Spectrum — Peace and steadfastness in Christ (February 7, 2024)",
+      "url": "https://sportsspectrum.com/sport/football/2024/02/07/49ers-qb-brock-purdy-peace-steadfastness-christ/",
+      "note": "Direct interview quotations about prayer, Psalm 23, fellowship, and Bible study; links both original videos."
+    },
+    {
+      "type": "website",
+      "title": "Sports Spectrum — Glorifying God, win or lose (January 29, 2024)",
+      "url": "https://sportsspectrum.com/sport/football/2024/01/29/brock-purdy-49ers-super-bowl-glorify-god/",
+      "note": "Quotes his 2023 confession of Christ’s death for his sins and resurrection, and his identity in Christ rather than football."
+    },
+    {
+      "type": "website",
+      "title": "Sports Spectrum — Playing for Christ at Iowa State (August 6, 2021)",
+      "url": "https://sportsspectrum.com/podcast/2021/08/06/podcast-iowa-state-brock-purdy-christ/",
+      "note": "Dated interview page establishes a public Christian witness before his NFL career."
+    },
+    {
+      "type": "wikipedia",
+      "title": "Brock Purdy — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brock_Purdy",
+      "note": "Biographical reference only: birth date, college, draft, and football career; not the basis for the faith assessment."
+    }
+  ]
+}

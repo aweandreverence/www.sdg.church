@@ -52,3 +52,27 @@ When a new source is reviewed for candidate sourcing:
 When a theological resource informs an editorial decision:
 1. Add it to the **Theological & Editorial Frameworks** table
 2. Reference it in the relevant Case Study in EDITORIAL_GUIDELINES.md
+
+## Brock Purdy — source and editorial review
+
+Reviewed October 22, 2026. The entry at `/biographies/brock-purdy/` belongs in
+Athletes because of his documented public Christian profession, not his sporting
+success. Sports Spectrum's [August 6, 2021 interview page](https://sportsspectrum.com/podcast/2021/08/06/podcast-iowa-state-brock-purdy-christ/)
+and [January 29, 2024 article](https://sportsspectrum.com/sport/football/2024/01/29/brock-purdy-49ers-super-bowl-glorify-god/)
+document public witness across more than two years. The latter quotes his 2023
+profession of Jesus' death for his sins and resurrection. Its
+[February 7, 2024 interview report](https://sportsspectrum.com/sport/football/2024/02/07/49ers-qb-brock-purdy-peace-steadfastness-christ/)
+supplies the prayer, Psalm 23, fellowship, and Bible-study material and links the
+two original interviews included in the biography. Quotations were checked against
+the published reports, not independently transcribed from the videos.
+
+The Psalm 23 sentence is explicitly identified as Purdy's reflection, not Bible
+translation text. No conversion date or denominational affiliation is inferred.
+Wikipedia supplies biographical facts only. Inclusion is an editorial judgment,
+not a final verdict on a living person's faith; revisit under the living-person
+review standard if material new information emerges.
+
+**Images and rights:** no portrait is copied or redistributed. The entry uses the
+existing initials fallback until a portrait with verified reuse rights and any
+required displayed credit is available. The interview links use the site's existing
+YouTube thumbnail/link behavior; no interview footage is copied into this repo.

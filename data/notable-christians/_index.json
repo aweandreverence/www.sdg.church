@@ -553,6 +553,9 @@
           "name": "Athletes",
           "people": [
             {
+              "$ref": "brock-purdy.json"
+            },
+            {
               "$ref": "tim-tebow.json"
             },
             {
